@@ -38,11 +38,37 @@ static host.
 ```
 index.html            page shell, nav, footer
 css/styles.css        all styling, light + dark tokens
+css/fonts.css         generated — Google Fonts inlined as data URIs
 js/categories.js      the 14 categories and their descriptions
 js/data/*.js          the skills, one file per category
 js/store.js           localStorage persistence (fails soft if storage is blocked)
 js/app.js             hash router and views
+build-fonts.js        regenerates css/fonts.css (only when the font list changes)
+build-artifact.js     bundles everything into one self-contained HTML file
 ```
+
+## Design
+
+Instrument Serif for titles, Instrument Sans for the interface, IBM Plex Mono for
+counts, labels and step numbers. Cool grey-green paper with a deep teal accent that
+carries every completion signal — ticks, meters, progress — and a single warm ochre
+reserved for wishlist stars: cool means done, warm means wanted. Both themes are
+defined at token level, so the page follows the system setting and the manual toggle.
+
+Fonts are inlined as data URIs rather than linked, so the site renders identically
+offline and inside a sandboxed viewer. Re-run `node build-fonts.js` only if the
+typefaces change.
+
+## Publishing as a single file
+
+```sh
+node build-artifact.js out.html
+```
+
+Inlines the stylesheet, fonts and all 17 scripts into one self-contained page with no
+`<!doctype>`/`<html>`/`<body>` wrapper, for hosting as a Claude Artifact. The page
+detects that environment: inside it, exporting your progress goes through the viewer's
+`downloads` capability, since a framed page cannot start a download itself.
 
 ### Adding a skill
 

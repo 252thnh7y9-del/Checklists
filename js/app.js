@@ -10,7 +10,6 @@
     (byCat[s.cat] || (byCat[s.cat] = [])).push(s);
   });
   function catName(id) { var c = CATS.filter(function (x) { return x.id === id; })[0]; return c ? c.name : id; }
-  function catIcon(id) { var c = CATS.filter(function (x) { return x.id === id; })[0]; return c ? c.icon : '•'; }
 
   var main    = document.getElementById('main');
   var search  = document.getElementById('search');
@@ -46,14 +45,11 @@
   }
 
   /* ---------- shared fragments ---------- */
-  function rowHTML(s, q) {
+  function rowHTML(s, q, hideCat) {
     var done = Store.isDone(s.id), wish = Store.isWish(s.id);
     var steps = Store.stepCount(s.id);
-    var sub = [
-      '<b>' + esc(s.level) + '</b>',
-      esc(s.time),
-      esc(catIcon(s.cat) + ' ' + catName(s.cat))
-    ];
+    var sub = ['<b>' + esc(s.level) + '</b>', esc(s.time)];
+    if (!hideCat) sub.push(esc(catName(s.cat)));
     if (!done && steps) sub.push(steps + '/' + s.steps.length + ' steps done');
     if (done && Store.doneAt(s.id)) sub.push('✓ ' + niceDate(Store.doneAt(s.id)));
     return '' +
@@ -69,8 +65,9 @@
         '<span class="chev" aria-hidden="true">›</span>' +
       '</div>';
   }
-  function rowsHTML(list, q) {
-    return '<div class="rows">' + list.map(function (s) { return rowHTML(s, q); }).join('') + '</div>';
+  function rowsHTML(list, q, hideCat) {
+    return '<div class="rows">' +
+      list.map(function (s) { return rowHTML(s, q, hideCat); }).join('') + '</div>';
   }
   function chipsHTML(active) {
     var items = [
@@ -116,10 +113,10 @@
       '<div class="grid">' + CATS.map(function (cat) {
         var list = byCat[cat.id] || [], d = doneIn(list);
         return '<a class="cat-card" href="#/c/' + cat.id + '">' +
-            '<div class="cat-top"><span class="cat-ico">' + cat.icon + '</span>' +
-              '<div><h3>' + esc(cat.name) + '</h3><p>' + esc(cat.blurb) + '</p></div></div>' +
+            '<span class="cat-count">' + list.length + ' skills</span>' +
+            '<h3>' + esc(cat.name) + '</h3><p>' + esc(cat.blurb) + '</p>' +
             '<div class="meter"><i style="width:' + pct(d, list.length) + '%"></i></div>' +
-            '<div class="cat-foot"><span>' + list.length + ' skills</span><span>' + d + ' learned</span></div>' +
+            '<div class="cat-foot"><span>' + d + ' learned</span><span>' + pct(d, list.length) + '%</span></div>' +
           '</a>';
       }).join('') + '</div>';
 
@@ -133,12 +130,12 @@
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(cat.name) + '</p>' +
       '<div class="page-head">' +
-        '<h1>' + cat.icon + ' ' + esc(cat.name) + '</h1>' +
+        '<h1>' + esc(cat.name) + '</h1>' +
         '<p>' + esc(cat.blurb) + '</p>' +
         '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
           '<div class="stat done"><b>' + d + '</b><span>Learned</span></div>' +
           '<div class="stat"><b>' + pct(d, list.length) + '%</b><span>Complete</span></div></div>' +
-      '</div>' + rowsHTML(list);
+      '</div>' + rowsHTML(list, null, true);
   }
 
   function viewList(kind) {
@@ -151,7 +148,7 @@
       list = SKILLS.filter(function (s) { return Store.isDone(s.id); })
                    .sort(function (a, b) { return (Store.doneAt(b.id) || '').localeCompare(Store.doneAt(a.id) || ''); });
       title = 'Learned'; blurb = 'Everything you have ticked off, newest first.';
-      empty = emptyHTML('Nothing ticked off yet', 'Tick the circle on any skill once you can do it on demand, cold.');
+      empty = emptyHTML('Nothing ticked off yet', 'Tick the box on any skill once you can do it on demand, cold.');
     } else if (kind === 'challenge') {
       list = SKILLS.filter(function (s) { return s.challenge; })
                    .sort(function (a, b) { return a.challenge - b.challenge; });
@@ -194,10 +191,10 @@
     if (s.challenge) facts.push(['30-day shortlist', '#' + s.challenge]);
 
     main.innerHTML = '' +
-      '<p class="crumbs"><a href="#/">All categories</a> › <a href="#/c/' + esc(s.cat) + '">' + esc(catName(s.cat)) + '</a></p>' +
+      '<p class="crumbs"><a href="#/">All categories</a></p>' +
       '<div class="detail">' +
         '<article>' +
-          '<p class="kicker">' + catIcon(s.cat) + ' ' + esc(catName(s.cat)) + '</p>' +
+          '<a class="kicker" href="#/c/' + esc(s.cat) + '">' + esc(catName(s.cat)) + '</a>' +
           '<h1>' + esc(s.name) + '</h1>' +
           '<p class="lede">' + esc(s.blurb) + '</p>' +
           '<div class="facts">' + facts.map(function (f) {
@@ -326,16 +323,38 @@
   /* theme */
   var root = document.documentElement;
   function applyTheme(t) { root.setAttribute('data-theme', t); }
-  var saved = Store.theme();
-  applyTheme(saved || (window.matchMedia && window.matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
+  var stamped = root.getAttribute('data-theme');
+  var osDark = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
+  applyTheme(Store.theme() || stamped || (osDark ? 'dark' : 'light'));
   document.getElementById('theme-toggle').addEventListener('click', function () {
     var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
     applyTheme(next); Store.theme(next);
   });
 
-  /* backup controls */
-  document.getElementById('export-btn').addEventListener('click', function () {
-    var blob = new Blob([Store.exportJSON()], { type: 'application/json' });
+  /* Backup controls. A page framed by the claude.ai artifact viewer cannot
+     start its own download, so route saves through the downloads capability
+     when the viewer grants it, and hide the control when it does not. Served
+     as an ordinary web page, the anchor below still works. */
+  var exportBtn = document.getElementById('export-btn');
+  var downloads = null;
+  if (window.claude && typeof window.claude.use === 'function') {
+    exportBtn.hidden = true;
+    window.claude.use('downloads').then(function (d) {
+      if (d) { downloads = d; exportBtn.hidden = false; }
+    }, function () {});
+  }
+  exportBtn.addEventListener('click', function () {
+    var json = Store.exportJSON();
+    if (downloads) {
+      downloads.save({ filename: 'skillquest-progress.json', data: json })
+        .then(function () { toast('Progress saved'); })
+        .catch(function (err) {
+          if (err && err.code === 'declined') return;
+          toast('That file could not be saved');
+        });
+      return;
+    }
+    var blob = new Blob([json], { type: 'application/json' });
     var a = document.createElement('a');
     a.href = URL.createObjectURL(blob);
     a.download = 'skillquest-progress.json';
