@@ -33,6 +33,20 @@ python3 -m http.server 8000   # then visit http://localhost:8000
 It is a plain static site, so it can be hosted as-is on GitHub Pages, Netlify or any
 static host.
 
+## Publishing on GitHub Pages
+
+Settings → Pages → Source **Deploy from a branch** → pick this branch and the `/ (root)`
+folder → Save. The site appears at `https://<user>.github.io/Checklists/` within a minute
+or two.
+
+Nothing needs configuring for the subdirectory: every asset path is relative and routing
+is hash-based, so deep links like `#/s/bow-drill` resolve client-side with no 404 rewrite
+rules. The empty `.nojekyll` file tells Pages to publish the files as they are instead of
+running them through Jekyll.
+
+Note that a Pages deployment and a published Artifact are separate origins, so ticks made
+on one do not appear on the other — use Export and Import to move progress between them.
+
 ## Layout
 
 ```
