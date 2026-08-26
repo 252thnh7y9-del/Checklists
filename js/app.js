@@ -248,7 +248,9 @@
   }
 
   /* ---------- routing ---------- */
-  function route() {
+  /* Draw the view for the current hash. Deliberately does not touch scroll:
+     only navigation moves the reader, and that is navigate()'s job. */
+  function render() {
     var h = location.hash.replace(/^#\/?/, '');
     var parts = h.split('/');
     if (parts[0] !== 'search' && search.value) search.value = '';
@@ -264,7 +266,33 @@
       a.classList.toggle('on', a.getAttribute('data-nav') === parts[0]);
     });
     syncCounters();
+  }
+
+  /* Arriving at a new page: start the reader at the top. */
+  function navigate() {
+    render();
     window.scrollTo(0, 0);
+  }
+
+  /* Redrawing after a tick or a star: the reader has not gone anywhere, so
+     hold their scroll position and hand focus back to the control they used —
+     otherwise the row they were looking at jumps away underneath them. */
+  function rerender() {
+    var el = document.activeElement;
+    var attr = el && el.hasAttribute
+      ? (el.hasAttribute('data-toggle-done') ? 'data-toggle-done'
+        : el.hasAttribute('data-toggle-wish') ? 'data-toggle-wish' : null)
+      : null;
+    var id = attr && el.getAttribute(attr);
+    var x = window.scrollX, y = window.scrollY;
+
+    render();
+    window.scrollTo(x, y);
+
+    if (id) {
+      var again = main.querySelector('[' + attr + '="' + id + '"]');
+      if (again) again.focus({ preventScroll: true });
+    }
   }
 
   function syncCounters() {
@@ -281,7 +309,7 @@
       var id = d.getAttribute('data-toggle-done');
       var now = Store.toggleDone(id);
       toast(now ? '✓ ' + byId[id].name + ' — learned' : 'Un-ticked ' + byId[id].name);
-      route();
+      rerender();
       return;
     }
     var w = e.target.closest('[data-toggle-wish]');
@@ -289,7 +317,7 @@
       var wid = w.getAttribute('data-toggle-wish');
       var on = Store.toggleWish(wid);
       toast(on ? '★ Added to wishlist' : 'Removed from wishlist');
-      route();
+      rerender();
       return;
     }
     var st = e.target.closest('[data-step]');
@@ -367,7 +395,7 @@
     var f = file.files[0]; if (!f) return;
     var r = new FileReader();
     r.onload = function () {
-      try { Store.importJSON(r.result); toast('Backup merged in'); route(); }
+      try { Store.importJSON(r.result); toast('Backup merged in'); rerender(); }
       catch (err) { toast('That file could not be read'); }
       file.value = '';
     };
@@ -375,13 +403,13 @@
   });
   document.getElementById('reset-btn').addEventListener('click', function () {
     if (confirm('Clear every tick, star and note stored in this browser? This cannot be undone.')) {
-      Store.reset(); toast('Everything cleared'); route();
+      Store.reset(); toast('Everything cleared'); rerender();
     }
   });
 
-  window.addEventListener('hashchange', route);
+  window.addEventListener('hashchange', navigate);
   if (!Store.available()) {
     setTimeout(function () { toast('Local storage is blocked — progress will not survive a reload'); }, 800);
   }
-  route();
+  render();
 })();
