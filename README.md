@@ -73,16 +73,16 @@ Fonts are inlined as data URIs rather than linked, so the site renders identical
 offline and inside a sandboxed viewer. Re-run `node build-fonts.js` only if the
 typefaces change.
 
-## Publishing as a single file
+## Bundling into a single file
 
 ```sh
 node build-artifact.js out.html
 ```
 
-Inlines the stylesheet, fonts and all 17 scripts into one self-contained page with no
-`<!doctype>`/`<html>`/`<body>` wrapper, for hosting as a Claude Artifact. The page
-detects that environment: inside it, exporting your progress goes through the viewer's
-`downloads` capability, since a framed page cannot start a download itself.
+Inlines the stylesheet, fonts and all 17 scripts into one self-contained page — useful
+for sending the whole site as one file or opening it offline. The page adapts if it is
+ever served inside a sandboxed frame that forbids downloads: there, exporting your
+progress routes through the host's download capability instead of a plain link.
 
 ### Adding a skill
 
