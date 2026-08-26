@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'touch-typing', cat:'technology', name:'Touch type at 50+ words per minute', time:'3–6 weeks', level:'Moderate', challenge:9,
+  id:'touch-typing', cat:'technology', name:'Touch type at 50+ words per minute', time:'3–6 weeks', level:'Moderate',
   blurb:'The highest-return technology skill on this list if you use a computer daily. The hard part is the fortnight where you are deliberately slower than your old hunt-and-peck.',
   gear:['A typing tutor site with lessons and tests','A decent keyboard','Optionally a cloth to cover your hands'],
   steps:[

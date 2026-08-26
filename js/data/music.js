@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'ukulele', cat:'music', name:'Play 5–10 songs on ukulele', time:'2–4 weeks', level:'Easy', challenge:12,
+  id:'ukulele', cat:'music', name:'Play 5–10 songs on ukulele', time:'2–4 weeks', level:'Easy',
   blurb:'Four nylon strings, short scale, forgiving action — the ukulele gets you playing real songs faster than any other instrument. Four chords cover an enormous amount of popular music.',
   gear:['A soprano or concert ukulele','A clip-on tuner','A chord chart'],
   steps:[
@@ -128,7 +128,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'A continuous 60-second beat with a steady tempo, breathing without breaking the pattern.'
 },
 {
-  id:'whistle-loud', cat:'music', name:'Whistle loudly', time:'1–3 weeks', level:'Moderate', challenge:29,
+  id:'whistle-loud', cat:'music', name:'Whistle loudly', time:'1–3 weeks', level:'Moderate',
   blurb:'The two-finger taxi whistle. Genuinely useful for calling dogs, children and attention across a field, and it is a technique problem rather than a talent.',
   gear:['Clean hands'],
   steps:[

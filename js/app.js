@@ -37,6 +37,10 @@
   }
   function pct(done, total) { return total ? Math.round(done / total * 100) : 0; }
   function doneIn(list) { return list.filter(function (s) { return Store.isDone(s.id); }).length; }
+  /* Every list except the Passed tab hides what you have passed on: that is the
+     whole point of passing. Counts and progress follow the same rule, so the
+     percentage reflects what you actually intend to learn. */
+  function inPlay(list) { return list.filter(function (s) { return !Store.isPass(s.id); }); }
   function niceDate(iso) {
     if (!iso) return '';
     var d = new Date(iso);
@@ -45,23 +49,29 @@
   }
 
   /* ---------- shared fragments ---------- */
+  var BIN = '<svg class="bin-ico" viewBox="0 0 24 24" aria-hidden="true">' +
+    '<path d="M4 7h16M10 4.5h4M6.5 7l.9 12.5h9.2L17.5 7M10 10.5v6M14 10.5v6"/></svg>';
+
   function rowHTML(s, q, hideCat) {
-    var done = Store.isDone(s.id), wish = Store.isWish(s.id);
+    var done = Store.isDone(s.id), wish = Store.isWish(s.id), passed = Store.isPass(s.id);
     var steps = Store.stepCount(s.id);
     var sub = ['<b>' + esc(s.level) + '</b>', esc(s.time)];
     if (!hideCat) sub.push(esc(catName(s.cat)));
     if (!done && steps) sub.push(steps + '/' + s.steps.length + ' steps done');
     if (done && Store.doneAt(s.id)) sub.push('✓ ' + niceDate(Store.doneAt(s.id)));
     return '' +
-      '<div class="row' + (done ? ' is-done' : '') + '">' +
+      '<div class="row' + (done ? ' is-done' : '') + (passed ? ' is-passed' : '') + '">' +
         '<button class="tick" data-toggle-done="' + esc(s.id) + '" aria-pressed="' + done + '" ' +
           'aria-label="' + (done ? 'Mark not learned' : 'Mark as learned') + ': ' + esc(s.name) + '">✓</button>' +
         '<a class="row-main" href="#/s/' + esc(s.id) + '">' +
-          '<span class="row-name">' + hl(s.name, q) + (s.challenge ? ' <span class="badge">30-day #' + s.challenge + '</span>' : '') + '</span>' +
+          '<span class="row-name">' + hl(s.name, q) + '</span>' +
           '<span class="row-sub">' + sub.map(function (x) { return '<span>' + x + '</span>'; }).join('') + '</span>' +
         '</a>' +
         '<button class="star" data-toggle-wish="' + esc(s.id) + '" aria-pressed="' + wish + '" ' +
           'aria-label="' + (wish ? 'Remove from wishlist' : 'Add to wishlist') + ': ' + esc(s.name) + '">' + (wish ? '★' : '☆') + '</button>' +
+        '<button class="bin" data-toggle-pass="' + esc(s.id) + '" aria-pressed="' + passed + '" ' +
+          'title="' + (passed ? 'Put back' : 'Pass on this skill') + '" ' +
+          'aria-label="' + (passed ? 'Put back' : 'Pass on') + ': ' + esc(s.name) + '">' + BIN + '</button>' +
         '<span class="chev" aria-hidden="true">›</span>' +
       '</div>';
   }
@@ -75,7 +85,7 @@
       ['#/list', 'list', 'Every skill'],
       ['#/wishlist', 'wishlist', 'Wishlist'],
       ['#/learned', 'learned', 'Learned'],
-      ['#/challenge', 'challenge', '30-day challenge']
+      ['#/passed', 'passed', 'Passed']
     ];
     return '<div class="toolbar"><div class="chips">' + items.map(function (i) {
       return '<a class="chip' + (i[1] === active ? ' on' : '') + '" href="' + i[0] + '">' + i[2] + '</a>';
@@ -87,19 +97,20 @@
 
   /* ---------- views ---------- */
   function viewHome() {
-    var total = SKILLS.length, done = doneIn(SKILLS), c = Store.counts();
-    var wishList = SKILLS.filter(function (s) { return Store.isWish(s.id); }).slice(0, 3);
+    var active = inPlay(SKILLS), done = doneIn(active), c = Store.counts();
+    var wishList = active.filter(function (s) { return Store.isWish(s.id); }).slice(0, 3);
 
     var html = '' +
       '<section class="hero">' +
-        '<h1>' + total + ' skills you can actually <em>finish</em>.</h1>' +
+        '<h1>' + SKILLS.length + ' skills you can actually <em>finish</em>.</h1>' +
         '<p>Every skill here is reachable in anywhere from a few focused sessions to a few weeks of practice. ' +
           'Open one for a plain description, the kit you need, the steps to work through, and the moment you get to call it learned.</p>' +
         '<div class="stats">' +
-          '<div class="stat"><b>' + total + '</b><span>Skills</span></div>' +
+          '<div class="stat"><b>' + active.length + '</b><span>' + (c.pass ? 'In play' : 'Skills') + '</span></div>' +
           '<div class="stat done"><b>' + done + '</b><span>Learned</span></div>' +
           '<div class="stat wish"><b>' + c.wish + '</b><span>Wishlist</span></div>' +
-          '<div class="stat"><b>' + pct(done, total) + '%</b><span>Complete</span></div>' +
+          '<div class="stat"><b>' + pct(done, active.length) + '%</b><span>Complete</span></div>' +
+          (c.pass ? '<div class="stat passed"><b>' + c.pass + '</b><span>Passed</span></div>' : '') +
         '</div>' +
       '</section>' +
       chipsHTML('all');
@@ -111,7 +122,7 @@
 
     html += '<div class="sec-head"><h2>Browse by category</h2><span class="muted">' + CATS.length + ' categories</span></div>' +
       '<div class="grid">' + CATS.map(function (cat) {
-        var list = byCat[cat.id] || [], d = doneIn(list);
+        var list = inPlay(byCat[cat.id] || []), d = doneIn(list);
         return '<a class="cat-card" href="#/c/' + cat.id + '">' +
             '<span class="cat-count">' + list.length + ' skills</span>' +
             '<h3>' + esc(cat.name) + '</h3><p>' + esc(cat.blurb) + '</p>' +
@@ -126,7 +137,7 @@
   function viewCategory(id) {
     var cat = CATS.filter(function (c) { return c.id === id; })[0];
     if (!cat) return viewMissing();
-    var list = byCat[id] || [], d = doneIn(list);
+    var list = inPlay(byCat[id] || []), d = doneIn(list);
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(cat.name) + '</p>' +
       '<div class="page-head">' +
@@ -135,42 +146,52 @@
         '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
           '<div class="stat done"><b>' + d + '</b><span>Learned</span></div>' +
           '<div class="stat"><b>' + pct(d, list.length) + '%</b><span>Complete</span></div></div>' +
-      '</div>' + rowsHTML(list, null, true);
+      '</div>' +
+      (list.length ? rowsHTML(list, null, true)
+                   : emptyHTML('Nothing left here',
+                       'You have passed on every skill in this category. They are on the ' +
+                       '<a href="#/passed">Passed</a> tab if you change your mind.'));
   }
 
   function viewList(kind) {
     var list, title, blurb, empty;
     if (kind === 'wishlist') {
-      list = SKILLS.filter(function (s) { return Store.isWish(s.id); });
+      list = inPlay(SKILLS).filter(function (s) { return Store.isWish(s.id); });
       title = 'Your wishlist'; blurb = 'Skills you have starred to come back to. Starring is just a bookmark — nothing here counts as learned until you tick it off.';
       empty = emptyHTML('Nothing starred yet', 'Tap the ☆ next to any skill to park it here for later.');
     } else if (kind === 'learned') {
-      list = SKILLS.filter(function (s) { return Store.isDone(s.id); })
+      list = inPlay(SKILLS).filter(function (s) { return Store.isDone(s.id); })
                    .sort(function (a, b) { return (Store.doneAt(b.id) || '').localeCompare(Store.doneAt(a.id) || ''); });
       title = 'Learned'; blurb = 'Everything you have ticked off, newest first.';
       empty = emptyHTML('Nothing ticked off yet', 'Tick the box on any skill once you can do it on demand, cold.');
-    } else if (kind === 'challenge') {
-      list = SKILLS.filter(function (s) { return s.challenge; })
-                   .sort(function (a, b) { return a.challenge - b.challenge; });
-      title = 'The 30-day challenge shortlist';
-      blurb = 'Thirty skills with a clear finish line and something worth demonstrating at the end of it. Pick one, give it a month, and you will have the whole thing rather than a taste of it.';
+    } else if (kind === 'passed') {
+      list = SKILLS.filter(function (s) { return Store.isPass(s.id); });
+      title = 'Passed';
+      blurb = 'Skills you have set aside as not for you. They are hidden everywhere else — put one back with the same bin button.';
+      empty = emptyHTML('Nothing passed on yet',
+        'Use the bin button on any skill you have no intention of learning, and it will step out of the way.');
     } else {
-      list = SKILLS.slice().sort(function (a, b) { return a.name.localeCompare(b.name); });
-      title = 'Every skill'; blurb = 'All ' + SKILLS.length + ' skills in one alphabetical list.';
+      list = inPlay(SKILLS).sort(function (a, b) { return a.name.localeCompare(b.name); });
+      title = 'Every skill';
+      blurb = list.length === SKILLS.length
+        ? 'All ' + SKILLS.length + ' skills in one alphabetical list.'
+        : list.length + ' skills in one alphabetical list, with the ones you have passed on left out.';
     }
     var d = doneIn(list);
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(title) + '</p>' +
       '<div class="page-head"><h1>' + esc(title) + '</h1><p>' + esc(blurb) + '</p>' +
-        (list.length ? '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
-          '<div class="stat done"><b>' + d + '</b><span>Learned</span></div></div>' : '') +
+        (list.length && kind !== 'passed'
+          ? '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
+            '<div class="stat done"><b>' + d + '</b><span>Learned</span></div></div>'
+          : '') +
       '</div>' + chipsHTML(kind) +
       (list.length ? rowsHTML(list) : empty);
   }
 
   function viewSearch(q) {
     var needle = q.toLowerCase();
-    var list = SKILLS.filter(function (s) {
+    var list = inPlay(SKILLS).filter(function (s) {
       return (s.name + ' ' + s.blurb + ' ' + catName(s.cat) + ' ' + (s.tags || '')).toLowerCase().indexOf(needle) > -1;
     });
     main.innerHTML = '' +
@@ -183,12 +204,13 @@
   function viewSkill(id) {
     var s = byId[id];
     if (!s) return viewMissing();
-    var list = byCat[s.cat] || [], i = list.indexOf(s);
-    var prev = list[i - 1], next = list[i + 1];
-    var done = Store.isDone(s.id), wish = Store.isWish(s.id);
+    var siblings = inPlay(byCat[s.cat] || []);
+    var i = siblings.indexOf(s);
+    var prev = i > -1 ? siblings[i - 1] : null;
+    var next = i > -1 ? siblings[i + 1] : null;
+    var done = Store.isDone(s.id), wish = Store.isWish(s.id), passed = Store.isPass(s.id);
 
     var facts = [['Time to competence', s.time], ['Level', s.level]];
-    if (s.challenge) facts.push(['30-day shortlist', '#' + s.challenge]);
 
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a></p>' +
@@ -225,7 +247,10 @@
               (done ? '✓ Learned' : 'Mark as learned') + '</button>' +
             '<button class="btn ' + (wish ? 'wished' : '') + '" data-toggle-wish="' + esc(s.id) + '">' +
               (wish ? '★ On your wishlist' : '☆ Add to wishlist') + '</button>' +
-            (done && Store.doneAt(s.id) ? '<small>Ticked off ' + esc(niceDate(Store.doneAt(s.id))) + '</small>' : '') +
+            '<button class="btn ' + (passed ? 'passed-state' : '') + '" data-toggle-pass="' + esc(s.id) + '">' +
+              BIN + (passed ? 'Passed — put it back' : 'Pass on this') + '</button>' +
+            (passed ? '<small>Hidden from your lists</small>'
+              : done && Store.doneAt(s.id) ? '<small>Ticked off ' + esc(niceDate(Store.doneAt(s.id))) + '</small>' : '') +
           '</div>' +
           (s.gear && s.gear.length ? '<div class="panel"><h3>What you need</h3><ul class="gearlist">' +
             s.gear.map(function (g) { return '<li>' + esc(g) + '</li>'; }).join('') + '</ul></div>' : '') +
@@ -259,7 +284,7 @@
     else if (parts[0] === 'c' && parts[1]) viewCategory(parts[1]);
     else if (parts[0] === 's' && parts[1]) viewSkill(parts[1]);
     else if (parts[0] === 'search')        viewSearch(decodeURIComponent(parts.slice(1).join('/')));
-    else if (['wishlist', 'learned', 'challenge', 'list'].indexOf(parts[0]) > -1) viewList(parts[0]);
+    else if (['wishlist', 'learned', 'passed', 'list'].indexOf(parts[0]) > -1) viewList(parts[0]);
     else viewMissing();
 
     document.querySelectorAll('[data-nav]').forEach(function (a) {
@@ -281,7 +306,8 @@
     var el = document.activeElement;
     var attr = el && el.hasAttribute
       ? (el.hasAttribute('data-toggle-done') ? 'data-toggle-done'
-        : el.hasAttribute('data-toggle-wish') ? 'data-toggle-wish' : null)
+        : el.hasAttribute('data-toggle-wish') ? 'data-toggle-wish'
+        : el.hasAttribute('data-toggle-pass') ? 'data-toggle-pass' : null)
       : null;
     var id = attr && el.getAttribute(attr);
     var x = window.scrollX, y = window.scrollY;
@@ -299,7 +325,9 @@
     var c = Store.counts();
     document.getElementById('nav-wish').textContent = c.wish;
     document.getElementById('nav-done').textContent = c.done;
-    document.getElementById('topprogress-bar').style.width = pct(c.done, SKILLS.length) + '%';
+    document.getElementById('nav-pass').textContent = c.pass;
+    document.getElementById('topprogress-bar').style.width =
+      pct(c.done, SKILLS.length - c.pass) + '%';
   }
 
   /* ---------- events ---------- */
@@ -317,6 +345,14 @@
       var wid = w.getAttribute('data-toggle-wish');
       var on = Store.toggleWish(wid);
       toast(on ? '★ Added to wishlist' : 'Removed from wishlist');
+      rerender();
+      return;
+    }
+    var pz = e.target.closest('[data-toggle-pass]');
+    if (pz) {
+      var pid = pz.getAttribute('data-toggle-pass');
+      var passedNow = Store.togglePass(pid);
+      toast(passedNow ? 'Passed on ' + byId[pid].name : 'Put ' + byId[pid].name + ' back');
       rerender();
       return;
     }

@@ -14,7 +14,8 @@ tells you when you can call it learned.
 - **Wishlist** — star anything to come back to later.
 - **Per-step progress** — tick individual steps on a skill page as you work through them.
 - **Notes** — a private practice log on every skill page.
-- **The 30-day challenge shortlist** — the 30 skills with the clearest finish line, ranked.
+- **Pass on a skill** — the bin button sets it aside; it then disappears from every
+  list until you open the Passed tab, where the same button puts it back.
 - **Search** — over names, descriptions and categories (press `/` to focus).
 - **Light and dark themes** — follows your system setting, with a manual toggle.
 - **Export / import / reset** — your data as a JSON file, so it survives a new browser.
@@ -96,8 +97,7 @@ Append an object to the relevant file in `js/data/`:
   gear:['What you need'],
   steps:['Step one.', 'Step two.'],
   tips:['A common mistake.'],
-  proof:'The milestone that means you have it.',
-  challenge:7                                 // optional: rank on the 30-day shortlist
+  proof:'The milestone that means you have it.'
 }
 ```
 
@@ -110,5 +110,5 @@ The category `id` must match one in `js/categories.js`. No rebuild is needed —
 | `#/` | home, categories and overall progress |
 | `#/c/<category>` | one category |
 | `#/s/<skill>` | one skill |
-| `#/list` `#/learned` `#/wishlist` `#/challenge` | filtered lists |
+| `#/list` `#/learned` `#/wishlist` `#/passed` | filtered lists |
 | `#/search/<query>` | search results |

@@ -91,8 +91,8 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You lead a 10-minute discussion with a group, without notes, and can take questions comfortably.'
 },
 {
-  id:'five-min-speech', cat:'social', name:'Give a five-minute speech without notes', time:'3–4 weeks', level:'Moderate', challenge:30,
-  blurb:'A properly structured, well-rehearsed five minutes delivered from memory. This is the classic 30-day challenge with a real finish line and a real audience.',
+  id:'five-min-speech', cat:'social', name:'Give a five-minute speech without notes', time:'3–4 weeks', level:'Moderate',
+  blurb:'A properly structured, well-rehearsed five minutes delivered from memory. It has a real finish line and a real audience, which is what makes it worth doing.',
   gear:['A phone camera','An audience, even one person','A memory palace helps'],
   steps:[
     'Choose a subject you genuinely care about and can speak on with authority.',
@@ -238,7 +238,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You dance a full waltz and a full foxtrot with an unfamiliar partner, in time, without collisions.'
 },
 {
-  id:'salsa', cat:'social', name:'Learn a simple salsa routine', time:'3–4 weeks', level:'Moderate', challenge:13,
+  id:'salsa', cat:'social', name:'Learn a simple salsa routine', time:'3–4 weeks', level:'Moderate',
   blurb:'The basic step, a right turn, a cross-body lead and a couple of combinations — enough to dance a whole song socially and enjoy it.',
   gear:['Shoes that pivot','A class or a partner','Salsa music at 180–200 bpm'],
   steps:[

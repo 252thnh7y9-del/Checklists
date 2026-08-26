@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'bow-drill', cat:'outdoors', name:'Start a fire with a bow drill', time:'2–4 weeks', level:'Hard', challenge:3,
+  id:'bow-drill', cat:'outdoors', name:'Start a fire with a bow drill', time:'2–4 weeks', level:'Hard',
   blurb:'The hardest fire skill worth learning and the most satisfying. Success depends almost entirely on materials and geometry — when it fails it is nearly always dry-enough wood, not weak arms.',
   gear:['Dry softwood for spindle and hearth board: willow, cedar, cottonwood, lime','A curved green branch and a bootlace for the bow','A hardwood or stone bearing block','A tinder bundle of dry grass, bark fibre or cattail fluff'],
   steps:[
@@ -38,7 +38,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'An ember from hand-drill alone, blown to flame, with no bow involved.'
 },
 {
-  id:'flint-steel', cat:'outdoors', name:'Start a fire with flint and steel', time:'2–4 days', level:'Easy', challenge:26,
+  id:'flint-steel', cat:'outdoors', name:'Start a fire with flint and steel', time:'2–4 days', level:'Easy',
   blurb:'The traditional pre-match method: a hard stone edge shaves burning particles off high-carbon steel into char cloth. Far easier than friction fire and beautifully reliable once the char is right.',
   gear:['A high-carbon steel striker','A sharp-edged flint, chert, quartz or agate','Char cloth (make your own from 100% cotton in a tin)','A tinder bundle: jute, dry grass, birch bark'],
   steps:[
@@ -93,7 +93,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You build three different lays for three different purposes and can say why you chose each.'
 },
 {
-  id:'knots', cat:'outdoors', name:'Learn 10–15 useful knots', time:'1–3 weeks', level:'Easy', challenge:4,
+  id:'knots', cat:'outdoors', name:'Learn 10–15 useful knots', time:'1–3 weeks', level:'Easy',
   blurb:'A well-chosen dozen covers a lifetime: a loop, a hitch, a bend, a friction knot and a couple of specialists. The skill is in choosing the right one and tying it under pressure.',
   gear:['Two lengths of 6–8 mm rope, different colours, about two metres each','A rail or post to tie to'],
   steps:[
@@ -185,7 +185,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You can explain what each method does and does not kill, and treat water three different ways in the field.'
 },
 {
-  id:'map-compass', cat:'outdoors', name:'Learn basic map and compass navigation', time:'2–3 weeks', level:'Moderate', challenge:17,
+  id:'map-compass', cat:'outdoors', name:'Learn basic map and compass navigation', time:'2–3 weeks', level:'Moderate',
   blurb:'The full skill: orient a map, take and follow a bearing, work out where you are from what you can see, and cope when the terrain disagrees with you.',
   gear:['A baseplate compass with a rotating bezel','A topographic map of somewhere you can walk','A whistle and a watch'],
   steps:[

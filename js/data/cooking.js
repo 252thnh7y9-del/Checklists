@@ -111,7 +111,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Silky, evenly thin pasta with a proper bite, made from scratch without a recipe in front of you.'
 },
 {
-  id:'bread', cat:'cooking', name:'Make bread from scratch', time:'2–4 weeks', level:'Moderate', challenge:14,
+  id:'bread', cat:'cooking', name:'Make bread from scratch', time:'2–4 weeks', level:'Moderate',
   blurb:'A basic yeasted loaf teaches the whole grammar of bread: hydration, gluten development, fermentation and the shaping that gives structure. It is a fortnight to a genuinely good loaf.',
   gear:['Strong bread flour, salt, instant yeast','A digital scale — volume measures are unreliable','A Dutch oven or a baking stone'],
   steps:[
@@ -338,7 +338,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Three consecutive shots within a second and a gram of your target, all tasting balanced.'
 },
 {
-  id:'latte-art', cat:'cooking', name:'Learn basic latte art', time:'2–4 weeks', level:'Moderate', challenge:15,
+  id:'latte-art', cat:'cooking', name:'Learn basic latte art', time:'2–4 weeks', level:'Moderate',
   blurb:'A heart, then a rosetta. Latte art is 80% milk texture — get glossy microfoam and the pouring is far easier than it looks.',
   gear:['An espresso machine with a steam wand','A 350 ml pouring jug with a sharp spout','Whole milk, cold','Practice patience: it wastes a lot of milk'],
   steps:[

@@ -36,7 +36,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You repair a real garment and someone has to be told where the damage was.'
 },
 {
-  id:'hand-stitching', cat:'making', name:'Learn basic hand stitching', time:'1 week', level:'Easy', challenge:24,
+  id:'hand-stitching', cat:'making', name:'Learn basic hand stitching', time:'1 week', level:'Easy',
   blurb:'Five stitches cover nearly all hand sewing: running, backstitch, whip, slip and blanket. Once you have them, most clothing repairs become a ten-minute job.',
   gear:['Assorted needles','Thread in a few basic colours','Scrap fabric','A thimble'],
   steps:[
@@ -91,7 +91,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Both legs hang at the same, correct length and the stitching is invisible from outside.'
 },
 {
-  id:'sharpen-kitchen-knife', cat:'making', name:'Sharpen a kitchen knife', time:'1 week', level:'Moderate', challenge:16,
+  id:'sharpen-kitchen-knife', cat:'making', name:'Sharpen a kitchen knife', time:'1 week', level:'Moderate',
   blurb:'The single highest-impact kitchen skill that is not cooking. A sharp knife is safer, faster and more pleasant, and whetstone sharpening takes about a week to learn properly.',
   gear:['A combination whetstone, roughly 1000 and 3000 grit','A honing rod','A damp cloth to stop the stone sliding'],
   steps:[
@@ -128,7 +128,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Your blunt kitchen scissors cut tissue paper cleanly along the full length of the blade.'
 },
 {
-  id:'bike-flat', cat:'making', name:'Repair a bicycle flat tire', time:'2–3 hours to learn', level:'Easy', challenge:25,
+  id:'bike-flat', cat:'making', name:'Repair a bicycle flat tire', time:'2–3 hours to learn', level:'Easy',
   blurb:'The core bike-maintenance skill. Once you can do it calmly at the roadside in ten minutes, cycling becomes far less stressful.',
   gear:['Tyre levers, spare tube, patch kit','A pump with a gauge, or CO2','A multitool if your wheels are bolted'],
   steps:[
@@ -388,7 +388,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'A loaded shelf that reads level in both directions and does not move when you lean on it.'
 },
 {
-  id:'wood-joints', cat:'making', name:'Learn basic woodworking joints', time:'2–4 weeks', level:'Moderate', challenge:23,
+  id:'wood-joints', cat:'making', name:'Learn basic woodworking joints', time:'2–4 weeks', level:'Moderate',
   blurb:'Four joints — butt, lap, dado and a simple mortise and tenon — cover most beginner projects and teach the accurate marking and sawing that everything else depends on.',
   gear:['A handsaw and a chisel set','A marking gauge, square and pencil','Clamps and wood glue','Softwood offcuts to practise on'],
   steps:[

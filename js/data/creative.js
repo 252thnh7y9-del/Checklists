@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'sketch-faces', cat:'creative', name:'Sketch recognizable faces', time:'3–6 weeks', level:'Moderate', challenge:22,
+  id:'sketch-faces', cat:'creative', name:'Sketch recognizable faces', time:'3–6 weeks', level:'Moderate',
   blurb:'Portraits are proportion before talent. The Loomis method gives you a reliable construction for the skull and features, and likeness follows from measurement rather than instinct.',
   gear:['A pencil (HB and 2B), paper and a kneadable eraser','Reference photographs','A mirror for self-portraits'],
   steps:[
@@ -128,7 +128,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'A lettered phrase with clean thick-thin contrast and consistent connections, on a card you would give someone.'
 },
 {
-  id:'origami', cat:'creative', name:'Fold 10 impressive origami models', time:'2–4 weeks', level:'Easy', challenge:10,
+  id:'origami', cat:'creative', name:'Fold 10 impressive origami models', time:'2–4 weeks', level:'Easy',
   blurb:'Ten models memorised, folded cleanly from memory. Origami rewards precision: the difference between a beautiful model and a scruffy one is entirely in the accuracy of the early folds.',
   gear:['Proper origami paper, 15 cm square','A hard flat surface','A bone folder or a fingernail'],
   steps:[

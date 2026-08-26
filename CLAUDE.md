@@ -54,7 +54,12 @@ Two generators, run only when their inputs change:
   scrolls to the top. State changes go through `rerender()`, which holds scroll
   position and restores focus. Do not collapse these back together.
 - **Colour means something.** Teal carries completion (ticks, meters, progress);
-  ochre is reserved for wishlist stars. Cool for done, warm for wanted.
+  ochre is reserved for wishlist stars; passing is neutral ink, because setting
+  something aside should look quiet. Cool for done, warm for wanted.
+- **Learned, wishlisted and passed are mutually exclusive.** Store enforces it —
+  setting any one clears the others. Passed skills are filtered out of every view
+  except the Passed tab, via `inPlay()` in app.js, and out of the progress
+  denominators with them.
 - **Every colour is defined on bare `:root` first.** Dark is a token override in
   two guarded blocks. A colour defined only inside a media or `[data-theme]`
   block renders one theme's text on the other theme's ground.

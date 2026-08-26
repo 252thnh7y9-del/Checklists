@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'constellations', cat:'observation', name:'Identify major constellations', time:'2–4 weeks', level:'Easy', challenge:11,
+  id:'constellations', cat:'observation', name:'Identify major constellations', time:'2–4 weeks', level:'Easy',
   blurb:'Twenty constellations is enough to orient yourself anywhere in your hemisphere and to never look at the night sky the same way again.',
   gear:['A star chart or a planisphere','A red torch to preserve night vision','A stargazing app for checking yourself'],
   steps:[
@@ -199,7 +199,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You spell any word aloud in the alphabet at conversational speed, with no hesitation.'
 },
 {
-  id:'morse-recognize', cat:'observation', name:'Learn Morse code well enough to recognise common letters', time:'2–4 weeks', level:'Moderate', challenge:18,
+  id:'morse-recognize', cat:'observation', name:'Learn Morse code well enough to recognise common letters', time:'2–4 weeks', level:'Moderate',
   blurb:'Learn it by sound from the start — as rhythms, never as dots and dashes on a page — and the common letters become recognisable within a fortnight.',
   gear:['A Morse trainer app using the Koch or Farnsworth method','Headphones'],
   steps:[
@@ -235,7 +235,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You send and receive a short message with a partner at 100 metres.'
 },
 {
-  id:'world-map', cat:'observation', name:'Identify countries on a blank world map', time:'2–4 weeks', level:'Moderate', challenge:27,
+  id:'world-map', cat:'observation', name:'Identify countries on a blank world map', time:'2–4 weeks', level:'Moderate',
   blurb:'All 195 countries is genuinely achievable in a month with spaced repetition, and it quietly improves how you read every news story thereafter.',
   gear:['A map quiz site or app','A blank printable map','Flashcards or a spaced-repetition app'],
   steps:[

@@ -89,6 +89,7 @@ button{font:inherit; color:inherit}
 .stat span{display:block; margin-top:5px; font:500 10.5px/1 var(--mono); color:var(--ink-3);
   text-transform:uppercase; letter-spacing:.11em}
 .stat.done b{color:var(--accent)} .stat.wish b{color:var(--gold)}
+.stat.passed b{color:var(--ink-3)}
 
 /* ---------- chips ---------- */
 .toolbar{display:flex; flex-wrap:wrap; gap:10px; align-items:center; margin:0 0 22px}
@@ -131,6 +132,18 @@ button{font:inherit; color:inherit}
 .row-sub span+span::before{content:"·"; margin:0 7px; opacity:.55}
 .star{flex:none; background:none; border:none; cursor:pointer; font-size:16px; color:var(--ink-3); padding:4px; line-height:1}
 .star:hover, .star[aria-pressed="true"]{color:var(--gold)}
+.bin{flex:none; display:grid; place-items:center; background:none; border:none; cursor:pointer;
+  color:var(--ink-3); padding:4px; line-height:1; opacity:.55; transition:opacity .14s, color .14s}
+.bin:hover{opacity:1; color:var(--ink)}
+.bin[aria-pressed="true"]{opacity:1; color:var(--ink-2)}
+.row:hover .bin{opacity:.85}
+.bin-ico{width:16px; height:16px; fill:none; stroke:currentColor; stroke-width:1.6;
+  stroke-linecap:round; stroke-linejoin:round}
+.btn .bin-ico{width:15px; height:15px}
+/* On the Passed tab the rows are visibly set aside rather than active. */
+.row.is-passed{background:var(--sunk); border-style:dashed}
+.row.is-passed .row-name{color:var(--ink-2)}
+.row.is-passed .tick, .row.is-passed .star{opacity:.4}
 .chev{flex:none; color:var(--ink-3); font-size:17px}
 .badge{font:500 10px/1 var(--mono); text-transform:uppercase; letter-spacing:.09em; padding:3px 6px;
   border-radius:4px; background:var(--gold-wash); color:var(--gold); vertical-align:2px; margin-left:6px}
@@ -191,6 +204,7 @@ a.kicker:hover{text-decoration:underline; text-underline-offset:4px}
 .btn.primary:hover{filter:brightness(1.08)}
 .btn.done-state{background:var(--accent-wash); border-color:var(--accent); color:var(--accent)}
 .btn.wished{background:var(--gold-wash); border-color:var(--gold); color:var(--gold)}
+.btn.passed-state{background:var(--sunk); border-color:var(--line-2); color:var(--ink-2)}
 .btn + .btn{margin-top:9px}
 .side small{display:block; margin-top:11px; text-align:center; font:400 11.5px/1 var(--mono); color:var(--ink-3)}
 textarea{width:100%; min-height:100px; resize:vertical; border-radius:var(--r-sm); border:1px solid var(--line);

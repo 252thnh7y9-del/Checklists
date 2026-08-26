@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'rubiks-3x3', cat:'puzzles', name:'Solve a 3×3 Rubik’s Cube', time:'1–2 weeks', level:'Moderate', challenge:1,
+  id:'rubiks-3x3', cat:'puzzles', name:'Solve a 3×3 Rubik’s Cube', time:'1–2 weeks', level:'Moderate',
   blurb:'The cube is not a puzzle you out-think, it is a set of about seven algorithms you memorise and then apply in a fixed order. Almost everyone who practises deliberately for a week can solve any scramble unaided.',
   gear:['A modern speedcube — a Rubik’s brand cube is stiff and will fight you','A printed copy of the beginner method'],
   steps:[
@@ -54,7 +54,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Three solves under 60 seconds within a single session of twelve.'
 },
 {
-  id:'card-tricks', cat:'puzzles', name:'Learn several impressive card tricks', time:'2–3 weeks', level:'Moderate', challenge:7,
+  id:'card-tricks', cat:'puzzles', name:'Learn several impressive card tricks', time:'2–3 weeks', level:'Moderate',
   blurb:'A handful of well-chosen tricks covers most situations: one self-working, one that uses a key card, one force, one with a false shuffle. The performance matters more than the method.',
   gear:['Two identical decks of poker-size cards, Bicycle or similar','A mirror or a phone camera'],
   steps:[
@@ -73,7 +73,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You perform three tricks back to back for people who did not know it was coming, and nobody catches the method.'
 },
 {
-  id:'coin-tricks', cat:'puzzles', name:'Learn coin tricks and basic sleight of hand', time:'2–4 weeks', level:'Moderate', challenge:8,
+  id:'coin-tricks', cat:'puzzles', name:'Learn coin tricks and basic sleight of hand', time:'2–4 weeks', level:'Moderate',
   blurb:'Coin magic is built on two ideas: a palm that hides a coin in a relaxed-looking hand, and a false transfer that convinces the eye a coin moved when it did not. Everything else is decoration.',
   gear:['Four matching coins, larger than a small coin — half dollars or £2 coins work well','A mirror'],
   steps:[
@@ -92,7 +92,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You vanish a coin cleanly for someone standing an arm’s length away, and they ask to see your hands.'
 },
 {
-  id:'memorize-deck', cat:'puzzles', name:'Memorize a shuffled deck of cards', time:'3–4 weeks', level:'Hard', challenge:5,
+  id:'memorize-deck', cat:'puzzles', name:'Memorize a shuffled deck of cards', time:'3–4 weeks', level:'Hard',
   blurb:'You are not memorising cards, you are converting each card into a vivid person or object and walking them through a familiar building. The system does the work; you supply the images.',
   gear:['A deck of cards','A timer','A written list of your 52 images'],
   steps:[

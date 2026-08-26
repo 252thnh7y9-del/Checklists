@@ -19,7 +19,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'A 60-second chest-to-wall handstand with a straight line and no sagging.'
 },
 {
-  id:'freestanding-handstand', cat:'physical', name:'Hold a freestanding handstand', time:'1–6 months', level:'Hard', challenge:6,
+  id:'freestanding-handstand', cat:'physical', name:'Hold a freestanding handstand', time:'1–6 months', level:'Hard',
   blurb:'The genuinely hard one on this list, and the most impressive. Balance is a fingertip skill, and consistent daily practice matters far more than strength.',
   gear:['Floor space and a wall for drills','Optional parallettes'],
   steps:[

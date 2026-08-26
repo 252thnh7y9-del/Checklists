@@ -5,7 +5,7 @@
   var mem = null;               // fallback when localStorage throws
   var ok = true;
 
-  function blank() { return { done: {}, wish: {}, notes: {}, steps: {}, theme: null }; }
+  function blank() { return { done: {}, wish: {}, pass: {}, notes: {}, steps: {}, theme: null }; }
 
   function read() {
     if (mem) return mem;
@@ -17,6 +17,7 @@
         if (p && typeof p === 'object') {
           s.done  = p.done  && typeof p.done  === 'object' ? p.done  : {};
           s.wish  = p.wish  && typeof p.wish  === 'object' ? p.wish  : {};
+          s.pass  = p.pass  && typeof p.pass  === 'object' ? p.pass  : {};
           s.notes = p.notes && typeof p.notes === 'object' ? p.notes : {};
           s.steps = p.steps && typeof p.steps === 'object' ? p.steps : {};
           s.theme = p.theme || null;
@@ -40,19 +41,28 @@
     isDone:  function (id) { return !!read().done[id]; },
     doneAt:  function (id) { return read().done[id] || null; },
     isWish:  function (id) { return !!read().wish[id]; },
+    isPass:  function (id) { return !!read().pass[id]; },
 
     toggleDone: function (id) {
       var s = read();
       if (s.done[id]) { delete s.done[id]; }
-      else { s.done[id] = new Date().toISOString(); delete s.wish[id]; }
+      else { s.done[id] = new Date().toISOString(); delete s.wish[id]; delete s.pass[id]; }
       write();
       return !!s.done[id];
     },
     toggleWish: function (id) {
       var s = read();
-      if (s.wish[id]) { delete s.wish[id]; } else { s.wish[id] = Date.now(); }
+      if (s.wish[id]) { delete s.wish[id]; }
+      else { s.wish[id] = Date.now(); delete s.pass[id]; }
       write();
       return !!s.wish[id];
+    },
+    togglePass: function (id) {
+      var s = read();
+      if (s.pass[id]) { delete s.pass[id]; }
+      else { s.pass[id] = Date.now(); delete s.wish[id]; delete s.done[id]; }
+      write();
+      return !!s.pass[id];
     },
 
     note: function (id, value) {
@@ -78,7 +88,11 @@
 
     counts: function () {
       var s = read();
-      return { done: Object.keys(s.done).length, wish: Object.keys(s.wish).length };
+      return {
+        done: Object.keys(s.done).length,
+        wish: Object.keys(s.wish).length,
+        pass: Object.keys(s.pass).length
+      };
     },
 
     theme: function (v) {
@@ -95,7 +109,7 @@
       var d = p && p.data ? p.data : p;
       if (!d || typeof d !== 'object') throw new Error('Unrecognised file');
       var s = read();
-      ['done', 'wish', 'notes', 'steps'].forEach(function (k) {
+      ['done', 'wish', 'pass', 'notes', 'steps'].forEach(function (k) {
         if (d[k] && typeof d[k] === 'object') {
           Object.keys(d[k]).forEach(function (id) { s[k][id] = d[k][id]; });
         }

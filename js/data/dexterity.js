@@ -1,6 +1,6 @@
 window.SKILLS = (window.SKILLS || []).concat([
 {
-  id:'juggle-3-balls', cat:'dexterity', name:'Juggle three balls', time:'1–3 weeks', level:'Moderate', challenge:2,
+  id:'juggle-3-balls', cat:'dexterity', name:'Juggle three balls', time:'1–3 weeks', level:'Moderate',
   blurb:'The three-ball cascade is the classic “I taught myself something” skill. It is learned in three separate stages, and the only real mistake is trying to do all three at once.',
   gear:['Three beanbags or juggling balls — never bouncy balls','A wall to stand facing, or a bed to catch drops'],
   steps:[
@@ -19,7 +19,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'Fifty consecutive catches, standing still, without a drop.'
 },
 {
-  id:'juggle-tricks', cat:'dexterity', name:'Juggling tricks beyond the basic cascade', time:'2–4 weeks after the cascade', level:'Moderate', challenge:28,
+  id:'juggle-tricks', cat:'dexterity', name:'Juggling tricks beyond the basic cascade', time:'2–4 weeks after the cascade', level:'Moderate',
   blurb:'Once the cascade is automatic, a handful of variations turn “I can juggle” into something worth watching: columns, under-the-leg, over-the-top and the start of a shower.',
   gear:['Three beanbags'],
   steps:[
@@ -90,7 +90,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You spin the ball for ten seconds on one finger, feeding it at least twice.'
 },
 {
-  id:'yoyo', cat:'dexterity', name:'Learn several yo-yo tricks', time:'2–3 weeks', level:'Moderate', challenge:20,
+  id:'yoyo', cat:'dexterity', name:'Learn several yo-yo tricks', time:'2–3 weeks', level:'Moderate',
   blurb:'A modern responsive yo-yo makes the first five tricks reachable in a fortnight: sleeper, walk the dog, around the world, rock the baby and the trapeze.',
   gear:['A responsive ball-bearing yo-yo (not a cheap fixed-axle toy)','Spare strings — they wear out fast'],
   steps:[
@@ -109,7 +109,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You perform five distinct tricks in a row, each landing cleanly, on demand.'
 },
 {
-  id:'pen-spinning', cat:'dexterity', name:'Learn basic pen spinning', time:'2–4 weeks', level:'Moderate', challenge:19,
+  id:'pen-spinning', cat:'dexterity', name:'Learn basic pen spinning', time:'2–4 weeks', level:'Moderate',
   blurb:'Three fundamental spins — ThumbAround, Charge and Sonic — cover most of what looks impressive, and you can practise them in any meeting for the rest of your life.',
   gear:['A slightly weighted pen, or a modified one with caps on both ends','A carpet or lap to drop onto'],
   steps:[

@@ -36,7 +36,7 @@ window.SKILLS = (window.SKILLS || []).concat([
   proof:'You hit at least seven out of ten from your practised distance, then adapt to a new table within ten throws.'
 },
 {
-  id:'billiards', cat:'precision', name:'Learn billiards fundamentals', time:'2–4 weeks', level:'Moderate', challenge:21,
+  id:'billiards', cat:'precision', name:'Learn billiards fundamentals', time:'2–4 weeks', level:'Moderate',
   blurb:'Stance, bridge, a straight stroke and cue-ball control. Beginners aim; players think about where the white ends up.',
   gear:['Table access','A decent cue and chalk'],
   steps:[
