@@ -53,9 +53,16 @@ Two generators, run only when their inputs change:
 - **`render()` vs `navigate()` vs `rerender()` in app.js.** Only `navigate()`
   scrolls to the top. State changes go through `rerender()`, which holds scroll
   position and restores focus. Do not collapse these back together.
-- **Colour means something.** Teal carries completion (ticks, meters, progress);
-  ochre is reserved for wishlist stars; passing is neutral ink, because setting
-  something aside should look quiet. Cool for done, warm for wanted.
+- **Colour means something.** Teal carries completion (ticks, bars, progress),
+  ochre is wishlist, red is passed. The four states map to four bar segments,
+  the fourth being the unmarked remainder in grey.
+- **The bar fills are their own tokens, not the ink tokens.** `--seg-*` are
+  validated as a categorical set (lightness band, chroma floor, CVD separation,
+  contrast) against the card surface in both themes; `--accent`, `--gold` and
+  `--pass` are text colours with a higher contrast floor. Re-run the dataviz
+  validator before changing any of them, and never reuse an ink token as a fill.
+- **The bar always carries a legend with counts** on the home and category
+  pages, so state is never conveyed by colour alone.
 - **Learned, wishlisted and passed are mutually exclusive.** Store enforces it —
   setting any one clears the others. Passed skills are filtered out of every view
   except the Passed tab, via `inPlay()` in app.js, and out of the progress

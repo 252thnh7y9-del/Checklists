@@ -9,7 +9,8 @@ tells you when you can call it learned.
 
 ## What it does
 
-- **Browse by category** — 21 categories, each with a progress bar.
+- **Browse by category** — 21 categories, each with a four-part progress bar
+  showing learned, wishlisted, passed and unmarked at a glance.
 - **Tick skills off** — from the list view or from the skill page.
 - **Wishlist** — star anything to come back to later.
 - **Per-step progress** — tick individual steps on a skill page as you work through them.

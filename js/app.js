@@ -48,6 +48,49 @@
     return d.toLocaleDateString(undefined, { day: 'numeric', month: 'short', year: 'numeric' });
   }
 
+  /* A skill is in exactly one of four states, so a category divides cleanly
+     into four parts. Counts come from the full list including passed skills,
+     since passed is one of the segments. */
+  var SEGMENTS = [
+    ['learned',  'Learned'],
+    ['wish',     'Wishlist'],
+    ['pass',     'Passed'],
+    ['none',     'Unmarked']
+  ];
+
+  function tally(list) {
+    var t = { learned: 0, wish: 0, pass: 0, total: list.length };
+    list.forEach(function (s) {
+      if (Store.isDone(s.id))      t.learned++;
+      else if (Store.isWish(s.id)) t.wish++;
+      else if (Store.isPass(s.id)) t.pass++;
+    });
+    t.none = t.total - t.learned - t.wish - t.pass;
+    return t;
+  }
+
+  function barHTML(list, withLegend) {
+    var t = tally(list);
+    if (!t.total) return '';
+    var summary = SEGMENTS.map(function (s) { return t[s[0]] + ' ' + s[1].toLowerCase(); })
+                          .join(', ') + ', of ' + t.total + ' skills';
+
+    var bar = '<div class="bar" role="img" aria-label="' + esc(summary) + '">' +
+      SEGMENTS.map(function (s) {
+        var n = t[s[0]];
+        if (!n) return '';
+        return '<i class="seg-' + s[0] + '" style="width:' + (n / t.total * 100).toFixed(2) + '%" ' +
+          'title="' + esc(s[1] + ': ' + n + ' of ' + t.total + ' (' + pct(n, t.total) + '%)') + '"></i>';
+      }).join('') + '</div>';
+
+    if (!withLegend) return bar;
+    return '<div class="bar-block">' + bar + '<ul class="legend">' +
+      SEGMENTS.map(function (s) {
+        return '<li' + (t[s[0]] ? '' : ' class="zero"') + '>' +
+          '<i class="sw seg-' + s[0] + '"></i>' + esc(s[1]) + ' <b>' + t[s[0]] + '</b></li>';
+      }).join('') + '</ul></div>';
+  }
+
   /* ---------- shared fragments ---------- */
   var BIN = '<svg class="bin-ico" viewBox="0 0 24 24" aria-hidden="true">' +
     '<path d="M4 7h16M10 4.5h4M6.5 7l.9 12.5h9.2L17.5 7M10 10.5v6M14 10.5v6"/></svg>';
@@ -112,6 +155,7 @@
           '<div class="stat"><b>' + pct(done, active.length) + '%</b><span>Complete</span></div>' +
           (c.pass ? '<div class="stat passed"><b>' + c.pass + '</b><span>Passed</span></div>' : '') +
         '</div>' +
+        barHTML(SKILLS, true) +
       '</section>' +
       chipsHTML('all');
 
@@ -122,11 +166,13 @@
 
     html += '<div class="sec-head"><h2>Browse by category</h2><span class="muted">' + CATS.length + ' categories</span></div>' +
       '<div class="grid">' + CATS.map(function (cat) {
-        var list = inPlay(byCat[cat.id] || []), d = doneIn(list);
+        var all = byCat[cat.id] || [], list = inPlay(all), d = doneIn(list);
+        var setAside = all.length - list.length;
         return '<a class="cat-card" href="#/c/' + cat.id + '">' +
-            '<span class="cat-count">' + list.length + ' skills</span>' +
+            '<span class="cat-count">' + list.length +
+              (setAside ? ' in play' : ' skills') + '</span>' +
             '<h3>' + esc(cat.name) + '</h3><p>' + esc(cat.blurb) + '</p>' +
-            '<div class="meter"><i style="width:' + pct(d, list.length) + '%"></i></div>' +
+            barHTML(all) +
             '<div class="cat-foot"><span>' + d + ' learned</span><span>' + pct(d, list.length) + '%</span></div>' +
           '</a>';
       }).join('') + '</div>';
@@ -137,7 +183,7 @@
   function viewCategory(id) {
     var cat = CATS.filter(function (c) { return c.id === id; })[0];
     if (!cat) return viewMissing();
-    var list = inPlay(byCat[id] || []), d = doneIn(list);
+    var all = byCat[id] || [], list = inPlay(all), d = doneIn(list);
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(cat.name) + '</p>' +
       '<div class="page-head">' +
@@ -146,6 +192,7 @@
         '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
           '<div class="stat done"><b>' + d + '</b><span>Learned</span></div>' +
           '<div class="stat"><b>' + pct(d, list.length) + '%</b><span>Complete</span></div></div>' +
+        barHTML(all, true) +
       '</div>' +
       (list.length ? rowsHTML(list, null, true)
                    : emptyHTML('Nothing left here',
