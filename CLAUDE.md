@@ -78,9 +78,14 @@ Two other generators, run only when their inputs change:
 - **The bar always carries a legend with counts** on the home and category
   pages, so state is never conveyed by colour alone.
 - **Learned, wishlisted and passed are mutually exclusive.** Store enforces it —
-  setting any one clears the others. Passed skills are filtered out of every view
-  except the Passed tab, via `inPlay()` in app.js, and out of the progress
-  denominators with them.
+  setting any one clears the others.
+- **Lists are ordered by `sortForDisplay()`, not by data order.** Wishlist first,
+  then unmarked, then learned, then passed. Within a section: wishlist oldest
+  first (a queue), learned and passed newest first (a log), unmarked
+  alphabetically, and alphabetically as the fallback whenever a date is missing
+  or two match. Passed skills are visible everywhere — they sink, they do not
+  hide — but `inPlay()` still keeps them out of the progress denominators,
+  because passing means you do not intend to do it.
 - **Every colour is defined on bare `:root` first.** Dark is a token override in
   two guarded blocks. A colour defined only inside a media or `[data-theme]`
   block renders one theme's text on the other theme's ground.

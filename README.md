@@ -15,8 +15,11 @@ tells you when you can call it learned.
 - **Wishlist** — star anything to come back to later.
 - **Per-step progress** — tick individual steps on a skill page as you work through them.
 - **Notes** — a private practice log on every skill page.
-- **Pass on a skill** — the bin button sets it aside; it then disappears from every
-  list until you open the Passed tab, where the same button puts it back.
+- **Pass on a skill** — the bin button sets it aside. It stays in its category but
+  sorts to the bottom, and the same button puts it back.
+- **Ordered by what you intend to do** — every list runs wishlist, then unmarked,
+  then learned, then passed; within a section by the date you marked it, or
+  alphabetically where there is no date.
 - **Search** — over names, descriptions and categories (press `/` to focus).
 - **Light and dark themes** — follows your system setting, with a manual toggle.
 - **Export / import / reset** — your data as a JSON file, so it survives a new browser.

@@ -41,7 +41,9 @@
     isDone:  function (id) { return !!read().done[id]; },
     doneAt:  function (id) { return read().done[id] || null; },
     isWish:  function (id) { return !!read().wish[id]; },
+    wishAt:  function (id) { return read().wish[id] || null; },
     isPass:  function (id) { return !!read().pass[id]; },
+    passAt:  function (id) { return read().pass[id] || null; },
 
     toggleDone: function (id) {
       var s = read();

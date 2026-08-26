@@ -37,10 +37,46 @@
   }
   function pct(done, total) { return total ? Math.round(done / total * 100) : 0; }
   function doneIn(list) { return list.filter(function (s) { return Store.isDone(s.id); }).length; }
-  /* Every list except the Passed tab hides what you have passed on: that is the
-     whole point of passing. Counts and progress follow the same rule, so the
-     percentage reflects what you actually intend to learn. */
+  /* Passed skills stay in the list but sink to the bottom. Progress still
+     measures them out of the denominators, because passing means you do not
+     intend to do it — it changes where a skill sits, not whether it counts. */
   function inPlay(list) { return list.filter(function (s) { return !Store.isPass(s.id); }); }
+
+  /* Display order: what you plan to do, then what you have not decided on, then
+     the record of what you finished and what you set aside. */
+  var SECTION = { wish: 0, none: 1, done: 2, pass: 3 };
+
+  function stateOf(id) {
+    if (Store.isWish(id)) return 'wish';
+    if (Store.isDone(id)) return 'done';
+    if (Store.isPass(id)) return 'pass';
+    return 'none';
+  }
+
+  function markedAt(id, state) {
+    var v = state === 'done' ? Store.doneAt(id)
+          : state === 'wish' ? Store.wishAt(id)
+          : state === 'pass' ? Store.passAt(id)
+          : null;
+    if (!v) return 0;
+    var n = typeof v === 'number' ? v : Date.parse(v);
+    return isNaN(n) ? 0 : n;
+  }
+
+  /* Within a section, order by the date the state was set where there is one.
+     The wishlist runs oldest first, so what you have been meaning to do longest
+     rises to the top; learned and passed run newest first, because those read as
+     a log. Unmarked skills have no date, so they fall back to alphabetical — as
+     does any pair whose dates are missing or equal. */
+  function sortForDisplay(list) {
+    return list.slice().sort(function (x, y) {
+      var sx = stateOf(x.id), sy = stateOf(y.id);
+      if (SECTION[sx] !== SECTION[sy]) return SECTION[sx] - SECTION[sy];
+      var tx = markedAt(x.id, sx), ty = markedAt(y.id, sy);
+      if (tx && ty && tx !== ty) return sx === 'wish' ? tx - ty : ty - tx;
+      return x.name.localeCompare(y.name);
+    });
+  }
   function niceDate(iso) {
     if (!iso) return '';
     var d = new Date(iso);
@@ -100,8 +136,11 @@
     var steps = Store.stepCount(s.id);
     var sub = ['<b>' + esc(s.level) + '</b>', esc(s.time)];
     if (!hideCat) sub.push(esc(catName(s.cat)));
-    if (!done && steps) sub.push(steps + '/' + s.steps.length + ' steps done');
+    if (!done && !passed && steps) sub.push(steps + '/' + s.steps.length + ' steps done');
+    /* The date a state was set is what orders each section, so show it. */
     if (done && Store.doneAt(s.id)) sub.push('✓ ' + niceDate(Store.doneAt(s.id)));
+    if (wish && Store.wishAt(s.id)) sub.push('starred ' + niceDate(Store.wishAt(s.id)));
+    if (passed && Store.passAt(s.id)) sub.push('passed ' + niceDate(Store.passAt(s.id)));
     return '' +
       '<div class="row' + (done ? ' is-done' : '') + (passed ? ' is-passed' : '') + '">' +
         '<button class="tick" data-toggle-done="' + esc(s.id) + '" aria-pressed="' + done + '" ' +
@@ -141,7 +180,7 @@
   /* ---------- views ---------- */
   function viewHome() {
     var active = inPlay(SKILLS), done = doneIn(active), c = Store.counts();
-    var wishList = active.filter(function (s) { return Store.isWish(s.id); }).slice(0, 3);
+    var wishList = sortForDisplay(SKILLS.filter(function (s) { return Store.isWish(s.id); })).slice(0, 3);
 
     var html = '' +
       '<section class="hero">' +
@@ -183,47 +222,43 @@
   function viewCategory(id) {
     var cat = CATS.filter(function (c) { return c.id === id; })[0];
     if (!cat) return viewMissing();
-    var all = byCat[id] || [], list = inPlay(all), d = doneIn(list);
+    var all = byCat[id] || [], playable = inPlay(all), d = doneIn(all), setAside = all.length - playable.length;
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(cat.name) + '</p>' +
       '<div class="page-head">' +
         '<h1>' + esc(cat.name) + '</h1>' +
         '<p>' + esc(cat.blurb) + '</p>' +
-        '<div class="stats"><div class="stat"><b>' + list.length + '</b><span>Skills</span></div>' +
+        '<div class="stats">' +
+          '<div class="stat"><b>' + playable.length + '</b><span>' + (setAside ? 'In play' : 'Skills') + '</span></div>' +
           '<div class="stat done"><b>' + d + '</b><span>Learned</span></div>' +
-          '<div class="stat"><b>' + pct(d, list.length) + '%</b><span>Complete</span></div></div>' +
+          '<div class="stat"><b>' + pct(d, playable.length) + '%</b><span>Complete</span></div></div>' +
         barHTML(all, true) +
-      '</div>' +
-      (list.length ? rowsHTML(list, null, true)
-                   : emptyHTML('Nothing left here',
-                       'You have passed on every skill in this category. They are on the ' +
-                       '<a href="#/passed">Passed</a> tab if you change your mind.'));
+      '</div>' + rowsHTML(sortForDisplay(all), null, true);
   }
 
   function viewList(kind) {
     var list, title, blurb, empty;
     if (kind === 'wishlist') {
-      list = inPlay(SKILLS).filter(function (s) { return Store.isWish(s.id); });
-      title = 'Your wishlist'; blurb = 'Skills you have starred to come back to. Starring is just a bookmark — nothing here counts as learned until you tick it off.';
+      list = SKILLS.filter(function (s) { return Store.isWish(s.id); });
+      title = 'Your wishlist'; blurb = 'Skills you have starred to come back to, the ones you starred longest ago first. Starring is just a bookmark — nothing here counts as learned until you tick it off.';
       empty = emptyHTML('Nothing starred yet', 'Tap the ☆ next to any skill to park it here for later.');
     } else if (kind === 'learned') {
-      list = inPlay(SKILLS).filter(function (s) { return Store.isDone(s.id); })
-                   .sort(function (a, b) { return (Store.doneAt(b.id) || '').localeCompare(Store.doneAt(a.id) || ''); });
+      list = SKILLS.filter(function (s) { return Store.isDone(s.id); });
       title = 'Learned'; blurb = 'Everything you have ticked off, newest first.';
       empty = emptyHTML('Nothing ticked off yet', 'Tick the box on any skill once you can do it on demand, cold.');
     } else if (kind === 'passed') {
       list = SKILLS.filter(function (s) { return Store.isPass(s.id); });
       title = 'Passed';
-      blurb = 'Skills you have set aside as not for you. They are hidden everywhere else — put one back with the same bin button.';
+      blurb = 'Skills you have set aside as not for you, most recent first. They still appear in their category, sorted to the bottom — put one back with the same bin button.';
       empty = emptyHTML('Nothing passed on yet',
-        'Use the bin button on any skill you have no intention of learning, and it will step out of the way.');
+        'Use the bin button on any skill you have no intention of learning, and it will drop to the bottom of its list.');
     } else {
-      list = inPlay(SKILLS).sort(function (a, b) { return a.name.localeCompare(b.name); });
+      list = SKILLS;
       title = 'Every skill';
-      blurb = list.length === SKILLS.length
-        ? 'All ' + SKILLS.length + ' skills in one alphabetical list.'
-        : list.length + ' skills in one alphabetical list, with the ones you have passed on left out.';
+      blurb = 'All ' + SKILLS.length + ' skills in one list: wishlisted first, then unmarked, ' +
+              'then learned, then the ones you have passed on.';
     }
+    list = sortForDisplay(list);
     var d = doneIn(list);
     main.innerHTML = '' +
       '<p class="crumbs"><a href="#/">All categories</a> › ' + esc(title) + '</p>' +
@@ -238,7 +273,7 @@
 
   function viewSearch(q) {
     var needle = q.toLowerCase();
-    var list = inPlay(SKILLS).filter(function (s) {
+    var list = sortForDisplay(SKILLS).filter(function (s) {
       return (s.name + ' ' + s.blurb + ' ' + catName(s.cat) + ' ' + (s.tags || '')).toLowerCase().indexOf(needle) > -1;
     });
     main.innerHTML = '' +
@@ -251,7 +286,7 @@
   function viewSkill(id) {
     var s = byId[id];
     if (!s) return viewMissing();
-    var siblings = inPlay(byCat[s.cat] || []);
+    var siblings = sortForDisplay(byCat[s.cat] || []);
     var i = siblings.indexOf(s);
     var prev = i > -1 ? siblings[i - 1] : null;
     var next = i > -1 ? siblings[i + 1] : null;
