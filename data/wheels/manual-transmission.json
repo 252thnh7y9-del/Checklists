@@ -1,0 +1,25 @@
+{
+  "id": "manual-transmission",
+  "name": "Drive a manual transmission",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Stick shift is a clutch-feel skill, learned in a car park in an afternoon and refined over a fortnight. Worth having: it makes hire cars anywhere in the world an option.",
+  "gear": [
+    "A manual car and a licensed, patient supervising driver",
+    "An empty flat car park",
+    "Check your licence and insurance cover a manual first"
+  ],
+  "steps": [
+    "Learn the biting point with the engine running, handbrake on, no gas: lift the clutch slowly until the revs dip and the car strains.",
+    "Practise pulling away on the flat using only the clutch, no accelerator, until it is smooth.",
+    "Add a little gas and learn to balance the two pedals.",
+    "Learn to change up: lift off, clutch in, shift, clutch out smoothly while feeding the gas back in.",
+    "Learn to change down and to match engine speed so the car does not lurch.",
+    "Learn hill starts with the handbrake, then without, which is the part that actually intimidates people."
+  ],
+  "tips": [
+    "Stalling is normal and harmless. Handbrake on, restart, carry on.",
+    "Riding the clutch — resting your foot on it — burns it out. Foot off the pedal entirely when not shifting."
+  ],
+  "proof": "You drive a mixed route including hill starts and traffic without stalling or lurching."
+}

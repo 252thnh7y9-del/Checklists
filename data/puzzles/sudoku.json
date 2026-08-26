@@ -1,0 +1,24 @@
+{
+  "id": "sudoku",
+  "name": "Solve Sudoku systematically",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Sudoku is a logic procedure, not a guessing game. Four techniques in a fixed order will solve every puzzle up to hard, and you should never need to guess.",
+  "gear": [
+    "A book or app with graded puzzles",
+    "A pencil"
+  ],
+  "steps": [
+    "Learn scanning: for each digit, cross off rows and columns to find the single cell in a box where it can live.",
+    "Pencil in candidates properly — every possible digit in every empty cell — rather than keeping them in your head.",
+    "Apply naked singles (one candidate in a cell) and hidden singles (one cell in a unit for a digit) until neither yields anything.",
+    "Learn naked pairs and pointing pairs to eliminate candidates when singles run out.",
+    "Work a hard puzzle in that fixed order, and when stuck, re-scan rather than guessing.",
+    "Time yourself on easy puzzles to build fluency before moving up a grade."
+  ],
+  "tips": [
+    "If you are guessing, you have missed something. Guessing wrong wastes more time than a careful re-scan.",
+    "Update candidates the moment you place a digit, or the grid quietly becomes wrong."
+  ],
+  "proof": "You solve a newspaper hard-rated puzzle with pure logic, no guesses, no eraser."
+}

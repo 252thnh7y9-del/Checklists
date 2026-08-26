@@ -1,0 +1,26 @@
+{
+  "id": "sushi-rolls",
+  "name": "Make sushi rolls",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Home sushi is a rice skill, not a fish skill. Get the rice right — seasoned, cooled correctly, at the right texture — and everything else is assembly.",
+  "gear": [
+    "Short-grain sushi rice, rice vinegar, sugar, salt",
+    "A bamboo rolling mat and cling film",
+    "A very sharp knife"
+  ],
+  "steps": [
+    "Rinse the rice until the water runs clear, cook it properly, then fold through the vinegar seasoning while hot, using a cutting motion so the grains stay intact.",
+    "Cool the rice to body temperature, covered with a damp cloth. Never refrigerate it.",
+    "Prepare fillings: cucumber, avocado, cooked prawn or high-quality fish — and read up on what is safe raw before using any raw fish.",
+    "Lay nori shiny side down, spread a thin, even layer of rice leaving a clear strip at the far edge, and place the filling in a line.",
+    "Roll with the mat, applying even pressure and tucking the near edge under the filling to start a tight cylinder.",
+    "Cut with a very sharp wet knife, wiping between each cut."
+  ],
+  "tips": [
+    "Too much rice is the universal beginner error. A thin layer rolls far better.",
+    "Only use fish sold as safe for raw consumption, and keep it cold throughout.",
+    "Wet hands stop the rice sticking to everything, including you."
+  ],
+  "proof": "Tight, even rolls that hold together when cut, with well-seasoned rice at the right texture."
+}

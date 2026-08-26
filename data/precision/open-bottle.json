@@ -1,0 +1,25 @@
+{
+  "id": "open-bottle",
+  "name": "Open a bottle using ordinary objects",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "A lever and a fulcrum. Once you understand the mechanics, almost any rigid object with an edge becomes a bottle opener.",
+  "gear": [
+    "Crown-capped bottles",
+    "Lighters, spoons, keys, a table edge, paper"
+  ],
+  "steps": [
+    "Understand the principle: grip the bottle neck firmly with one hand, place a rigid edge under the cap’s crimp, and lever downwards against your index finger as the fulcrum.",
+    "Learn the lighter method, which is the most reliable and works with almost any rigid object.",
+    "Learn the spoon and the key variants, which use exactly the same mechanics.",
+    "Learn the paper method, where a folded sheet becomes rigid enough to act as the lever.",
+    "Learn the counter-edge method, which needs a downward strike and a surface you are allowed to damage.",
+    "Practise until it takes one motion rather than five attempts."
+  ],
+  "tips": [
+    "Grip the neck tightly right under the cap. A loose grip is why it slips and why hands get cut.",
+    "Never use your teeth. Dentists see this injury constantly.",
+    "Do not damage someone else’s furniture for a party trick."
+  ],
+  "proof": "You open a bottle with three different everyday objects, one motion each."
+}

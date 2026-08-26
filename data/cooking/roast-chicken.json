@@ -1,0 +1,25 @@
+{
+  "id": "roast-chicken",
+  "name": "Roast a whole chicken",
+  "time": "2–3 attempts",
+  "level": "Easy",
+  "blurb": "The benchmark home-cooking dish: crisp skin, breast that is not dry, and a carcass that becomes stock. Salt and a thermometer do most of the work.",
+  "gear": [
+    "A roasting tin with a rack",
+    "An instant-read thermometer",
+    "Kitchen string"
+  ],
+  "steps": [
+    "Dry-brine: salt it generously all over and leave it uncovered in the fridge for at least a few hours, ideally overnight. This seasons the meat and dries the skin for crisping.",
+    "Bring it towards room temperature before roasting and pat it dry again.",
+    "Truss the legs loosely and set it on a rack so heat circulates underneath.",
+    "Roast hot to start for colour, then moderate. Basting is largely a myth — it cools the oven and softens the skin.",
+    "Take it out at 74 °C in the thickest part of the thigh, not touching bone.",
+    "Rest for 15–20 minutes before carving, and make stock from the carcass the same evening."
+  ],
+  "tips": [
+    "Cooking by time rather than temperature is why home-roast chicken is so often dry. Use a thermometer.",
+    "Wet skin will never crisp. Dry it, and give it time uncovered in the fridge."
+  ],
+  "proof": "Crisp skin, juicy breast, and a carcass that becomes stock, three times running."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "home-network",
+  "name": "Set up a home network",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Understanding your own network — router, DHCP, DNS, Wi-Fi channels, guest networks — fixes most of the problems people call support about.",
+  "gear": [
+    "Your router and its admin interface",
+    "A device to test with",
+    "A Wi-Fi analyser app"
+  ],
+  "steps": [
+    "Log into your router properly and change the default admin password immediately.",
+    "Learn the basics: what a router does, what DHCP hands out, what DNS resolves, and what your public versus private IP addresses are.",
+    "Optimise Wi-Fi: choose non-overlapping channels, use 5 GHz for nearby devices and 2.4 GHz for range, and place the router centrally and high.",
+    "Set up a guest network and, if supported, a separate network for smart-home devices.",
+    "Learn to give important devices a fixed address via DHCP reservation, and to forward a port if you genuinely need to.",
+    "Learn to diagnose: ping, traceroute, and how to tell a Wi-Fi problem from an internet problem."
+  ],
+  "tips": [
+    "Use WPA3 or WPA2 with a long passphrase, and turn WPS off — it is a known weak point.",
+    "Keep the router firmware updated. Home routers are a common attack target.",
+    "Mesh systems solve coverage problems that no amount of channel tuning will."
+  ],
+  "proof": "Strong coverage in every room, a working guest network, and you can diagnose a slowdown yourself."
+}

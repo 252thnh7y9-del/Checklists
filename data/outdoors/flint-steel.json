@@ -1,0 +1,27 @@
+{
+  "id": "flint-steel",
+  "name": "Start a fire with flint and steel",
+  "time": "2–4 days",
+  "level": "Easy",
+  "blurb": "The traditional pre-match method: a hard stone edge shaves burning particles off high-carbon steel into char cloth. Far easier than friction fire and beautifully reliable once the char is right.",
+  "gear": [
+    "A high-carbon steel striker",
+    "A sharp-edged flint, chert, quartz or agate",
+    "Char cloth (make your own from 100% cotton in a tin)",
+    "A tinder bundle: jute, dry grass, birch bark"
+  ],
+  "steps": [
+    "Make char cloth: pack cotton scraps in a tin with a pinhole, put it in a fire until the smoke from the hole stops, then let it cool sealed.",
+    "Hold a piece of char cloth on top of the flint, just back from the sharp edge, pinched under your thumb.",
+    "Strike the steel down along the flint edge at a shallow angle so sparks fall onto the char, not away from it.",
+    "When a spark catches, an orange glow will spread across the char. Do not blow yet.",
+    "Fold the glowing char into your tinder bundle, close it loosely, and blow steadily until it bursts into flame.",
+    "Practise until you can do it in under a minute with cold hands."
+  ],
+  "tips": [
+    "Bad char cloth is the usual culprit: if it is brown rather than uniformly black, it was under-cooked.",
+    "The flint must be sharp. Knap a fresh edge when strikes stop throwing sparks.",
+    "The steel must be high carbon. Stainless will not spark."
+  ],
+  "proof": "Spark to flame in under a minute, using char cloth you made yourself."
+}

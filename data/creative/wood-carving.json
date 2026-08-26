@@ -1,0 +1,26 @@
+{
+  "id": "wood-carving",
+  "name": "Learn basic wood carving",
+  "time": "3–4 weeks",
+  "level": "Moderate",
+  "blurb": "Whittling with a single knife: grain reading, a handful of controlled cuts, and safe grips. Cheap, portable and genuinely meditative.",
+  "gear": [
+    "A sharp carving knife with a fixed blade",
+    "Basswood, lime or green wood",
+    "A cut-resistant glove and a thumb guard",
+    "A strop"
+  ],
+  "steps": [
+    "Learn to sharpen and strop. A carving knife must be shaving sharp, and blunt tools are what cause slips and injuries.",
+    "Learn to read grain: cutting downhill with the grain slices cleanly, cutting against it tears and catches.",
+    "Learn the four core cuts: the push cut, the pull or paring cut, the thumb-pushing cut and the stop cut.",
+    "Learn safe body position — always cut away from your body, and know where the blade goes if it slips.",
+    "Carve simple projects: a wedge, a chain link, a small animal, a spoon blank.",
+    "Strop frequently while working rather than sharpening rarely."
+  ],
+  "tips": [
+    "Wear the glove on the hand holding the wood. Almost all carving injuries land there.",
+    "If the knife is fighting you, you are cutting against the grain. Turn the wood around."
+  ],
+  "proof": "A finished carved object with clean, unforced cuts and no tear-out."
+}

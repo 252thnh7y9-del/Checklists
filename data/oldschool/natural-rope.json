@@ -1,0 +1,25 @@
+{
+  "id": "natural-rope",
+  "name": "Make rope from natural fibres",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Reverse-wrap two bundles of plant fibre and you get cordage strong enough to matter. It is the technique behind every rope made before industry.",
+  "gear": [
+    "Fibrous plants: nettle, dogbane, yucca, lime bast, or even long dry grass",
+    "A knife, and water for retting"
+  ],
+  "steps": [
+    "Harvest and process the fibre: for nettle or dogbane, dry the stalks, then split and scrape away the woody pith to leave long fibres.",
+    "Buff the fibres by rolling them between your hands to soften and separate them.",
+    "Take a bundle, twist it until it kinks in the middle, and fold it there — this is your start.",
+    "Reverse-wrap: twist the upper strand away from you, then cross it over the other towards you, and repeat. The counter-twist is what locks the rope together.",
+    "Splice in new fibre before a strand runs out, staggering the joins so they never coincide.",
+    "Test it to destruction to learn how much your cordage actually holds."
+  ],
+  "tips": [
+    "Consistent twist tension is what makes a rope strong. Loose sections are where it breaks.",
+    "Staggering the splices matters more than anything else for strength.",
+    "Learn to identify your fibre plants confidently — nettles are excellent, and some lookalikes are not."
+  ],
+  "proof": "A metre of two-ply cordage that holds your own body weight in a static pull."
+}

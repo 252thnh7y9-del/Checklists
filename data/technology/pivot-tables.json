@@ -1,0 +1,24 @@
+{
+  "id": "pivot-tables",
+  "name": "Learn pivot tables",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "The fastest way to summarise thousands of rows. Ten minutes to learn the basics, and it makes you look like a data analyst in any office.",
+  "gear": [
+    "A spreadsheet app",
+    "A dataset of at least a few hundred rows"
+  ],
+  "steps": [
+    "Learn the data requirements first: one header row, no merged cells, no blank rows, one record per row. Most pivot table problems are actually source data problems.",
+    "Build a basic pivot: rows, columns, values, and understand what each area does.",
+    "Learn to change the aggregation — sum, count, average — and to format the results properly.",
+    "Learn filters and slicers for interactive reports.",
+    "Learn calculated fields and percentage-of-total views.",
+    "Learn to refresh when source data changes, and to build a pivot over a proper table or named range so new rows are included automatically."
+  ],
+  "tips": [
+    "Merged cells and multi-row headers break pivots. Clean the source first.",
+    "A pivot over a table range updates automatically when rows are added; one over a fixed range does not."
+  ],
+  "proof": "You turn a raw export of thousands of rows into a clear one-page summary in under ten minutes."
+}

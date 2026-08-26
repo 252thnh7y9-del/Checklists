@@ -1,0 +1,25 @@
+{
+  "id": "juggle-3-balls",
+  "name": "Juggle three balls",
+  "time": "1–3 weeks",
+  "level": "Moderate",
+  "blurb": "The three-ball cascade is the classic “I taught myself something” skill. It is learned in three separate stages, and the only real mistake is trying to do all three at once.",
+  "gear": [
+    "Three beanbags or juggling balls — never bouncy balls",
+    "A wall to stand facing, or a bed to catch drops"
+  ],
+  "steps": [
+    "One ball: throw from hand to hand in an arc peaking at eye height, and let it land in the other hand without reaching. Do 50 clean passes.",
+    "Two balls: throw the right ball, and when it reaches its peak throw the left underneath it. Two throws, two catches, stop. Do it from both starting hands, 50 times each.",
+    "Three balls with two in one hand: throw one, throw two at the peak, throw three at the peak of two, and let them all drop. You are training the timing, not the catching.",
+    "Now catch them. Expect a fortnight of five-catch runs before it suddenly becomes continuous.",
+    "Practise facing a wall so your throws stay in a flat plane instead of drifting forwards.",
+    "Once the cascade is stable, count runs of 100 and work on keeping your hands low and relaxed."
+  ],
+  "tips": [
+    "Throwing forwards is the universal beginner fault. If you are walking across the room, face a wall.",
+    "Every throw should be a throw, not a hand-off. Two throws in a row from the same hand means you rushed.",
+    "Ten focused minutes daily beats an hour on Sunday. This is a sleep-consolidated skill."
+  ],
+  "proof": "Fifty consecutive catches, standing still, without a drop."
+}

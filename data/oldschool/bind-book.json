@@ -1,0 +1,26 @@
+{
+  "id": "bind-book",
+  "name": "Bind a simple book",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "A pamphlet stitch is 20 minutes; a proper multi-signature case-bound notebook is a weekend and produces something genuinely beautiful.",
+  "gear": [
+    "Paper, bookbinding thread and a needle",
+    "An awl, a bone folder, PVA glue",
+    "Bookcloth or card for the cover, and clamps"
+  ],
+  "steps": [
+    "Learn to fold signatures: sets of four or five sheets folded together, creased hard with a bone folder.",
+    "Learn the pamphlet stitch on a single signature as a first, complete project.",
+    "Learn to punch consistent sewing stations using a template so every signature aligns.",
+    "Learn the coptic or the French link stitch to join multiple signatures into a text block.",
+    "Glue and press the spine, then round it if you want, and add end papers.",
+    "Make a case from board and cloth, and case the text block in, pressing it flat overnight."
+  ],
+  "tips": [
+    "Grain direction matters. Paper and board should have their grain running head to tail, or the book will warp.",
+    "Press everything, at every stage, for longer than feels necessary.",
+    "Use PVA rather than a hot glue gun, which goes brittle and fails within a year."
+  ],
+  "proof": "A hand-bound notebook that opens flat, has a square spine, and survives being carried around."
+}

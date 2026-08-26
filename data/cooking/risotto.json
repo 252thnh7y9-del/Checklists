@@ -1,0 +1,25 @@
+{
+  "id": "risotto",
+  "name": "Make risotto",
+  "time": "2–3 attempts",
+  "level": "Moderate",
+  "blurb": "Creamy without cream — the texture comes entirely from starch coaxed out of the rice. It rewards attention for twenty minutes and punishes walking away.",
+  "gear": [
+    "Carnaroli or arborio rice",
+    "Warm stock kept simmering alongside",
+    "A wide heavy pan and a wooden spoon"
+  ],
+  "steps": [
+    "Soften onion gently in butter without colouring it, then add the rice and toast it until the edges turn translucent.",
+    "Deglaze with wine and let it absorb fully before adding stock.",
+    "Add warm stock a ladle at a time, stirring, waiting until each addition is almost absorbed before the next. Cold stock stops the cooking and ruins the texture.",
+    "Keep it at a steady lively simmer, not a boil, and keep stirring to release the starch.",
+    "Test for doneness at about 16 minutes: tender with the faintest bite. It should spread slowly on the plate, not stand in a mound.",
+    "Finish off the heat with cold butter and grated parmesan, beaten in vigorously — the mantecatura, which is what makes it glossy."
+  ],
+  "tips": [
+    "Never rinse risotto rice. The surface starch is the entire point.",
+    "It continues to thicken off the heat, so take it off slightly looser than you want to serve it."
+  ],
+  "proof": "A risotto that ripples across the plate when you tap it, with rice that still has bite."
+}

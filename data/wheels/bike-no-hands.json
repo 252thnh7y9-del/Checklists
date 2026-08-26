@@ -1,0 +1,24 @@
+{
+  "id": "bike-no-hands",
+  "name": "Ride a bike with no hands",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "A small, satisfying party trick that teaches you how bicycles actually balance — through steering geometry and hips rather than arms.",
+  "gear": [
+    "A bike in good order",
+    "A wide, empty, smooth space with no traffic"
+  ],
+  "steps": [
+    "Get comfortable riding one-handed first, both sides, including looking over your shoulder.",
+    "Sit upright and shift your weight back slightly so the front wheel is lightly loaded.",
+    "Ride at a decent speed — slow is much harder — and hover your hands just above the bars before letting go.",
+    "Steer with your hips and by leaning, and keep pedalling smoothly. Coasting makes it harder.",
+    "Build from a second to ten seconds, then add gentle turns.",
+    "Learn to get your hands back on the bars smoothly rather than grabbing."
+  ],
+  "tips": [
+    "Do it away from traffic, kerbs and pedestrians until it is reliable.",
+    "A bike with a loose headset or twitchy steering makes this far harder than it should be."
+  ],
+  "proof": "Fifty metres hands-free, including a gentle turn in each direction."
+}

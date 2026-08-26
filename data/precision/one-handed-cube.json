@@ -1,0 +1,24 @@
+{
+  "id": "one-handed-cube",
+  "name": "Solve a Rubik’s Cube one-handed",
+  "time": "3–6 weeks after two-handed",
+  "level": "Hard",
+  "blurb": "The same method with half the hands. It requires re-learning your algorithms as one-handed finger tricks and using the table for the moves you cannot do.",
+  "gear": [
+    "A well-broken-in, loose-tension speedcube",
+    "A table"
+  ],
+  "steps": [
+    "Get comfortable solving two-handed without thinking first — one-handed adds a physical problem to an already busy mental one.",
+    "Loosen the cube’s tension. One-handed solving needs a much easier turn than two-handed.",
+    "Learn one-handed U turns with the index finger and thumb, which is the foundation of everything.",
+    "Learn to rotate the whole cube in one hand without dropping it.",
+    "Re-learn your algorithms as one-handed sequences, using table abuse — pressing the cube against the table — for awkward turns.",
+    "Practise both hands if you are ambitious, and time yourself to track progress."
+  ],
+  "tips": [
+    "A tight cube makes this miserable. Loosen it and use lube.",
+    "Practise over a table or a bed. You will drop it hundreds of times."
+  ],
+  "proof": "A full solve one-handed, under two minutes, without dropping the cube."
+}

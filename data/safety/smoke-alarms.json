@@ -1,0 +1,25 @@
+{
+  "id": "smoke-alarms",
+  "name": "Set up smoke and CO alarms properly",
+  "time": "An afternoon",
+  "level": "Easy",
+  "blurb": "Alarms only work where they are placed correctly and tested. This is a half-hour job that is repeatedly shown to be the difference between a fire and a fatal fire.",
+  "gear": [
+    "Smoke alarms for each floor",
+    "A carbon monoxide alarm for any room with a fuel-burning appliance",
+    "A drill and a step ladder"
+  ],
+  "steps": [
+    "Fit at least one smoke alarm on every level, in hallways and landings, and ideally in bedrooms.",
+    "Mount them on the ceiling, near the centre of the room, away from corners, vents and bathrooms.",
+    "Fit a heat alarm rather than a smoke alarm in the kitchen so cooking does not cause nuisance alarms people then disable.",
+    "Fit a CO alarm in any room with a boiler, stove, fire or flue, at the height the manufacturer specifies.",
+    "Test them monthly and replace batteries as needed; replace whole units after their stated lifespan, usually ten years.",
+    "Make an escape plan the household has actually walked through, including a meeting point."
+  ],
+  "tips": [
+    "A removed battery is the most common failure. If cooking triggers it, move the alarm rather than disabling it.",
+    "Carbon monoxide is odourless. Only an alarm detects it, and headaches and drowsiness that improve when you leave the house are a warning sign."
+  ],
+  "proof": "Working, in-date alarms on every level, tested this month, and a household escape plan everyone knows."
+}

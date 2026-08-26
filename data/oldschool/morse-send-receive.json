@@ -1,0 +1,25 @@
+{
+  "id": "morse-send-receive",
+  "name": "Send and receive basic Morse code",
+  "time": "4–8 weeks",
+  "level": "Hard",
+  "blurb": "Beyond recognising letters: actually holding a conversation. Sending is easier than receiving, and good sending rhythm is what makes you readable.",
+  "gear": [
+    "A straight key or a paddle, plus a practice oscillator",
+    "Morse training software",
+    "Ideally a local radio club"
+  ],
+  "steps": [
+    "Get receiving to about 10 words per minute first. Sending well requires knowing what good code sounds like.",
+    "Learn to send with a straight key: correct wrist action, and the timing ratios — a dash is three dots, gaps between elements one dot, between letters three, between words seven.",
+    "Record your sending and compare it to machine-generated code. Bad rhythm is far harder for a receiver than high speed.",
+    "Learn the procedural signals and common abbreviations that make real exchanges efficient.",
+    "Practise head copy — understanding without writing down — which is the step to conversational speed.",
+    "Make real contacts, on air with a licence or over an internet Morse practice server."
+  ],
+  "tips": [
+    "Rhythm matters more than speed. Sloppy timing is unreadable at any speed.",
+    "Getting on the air requires an amateur radio licence in most countries. Practice servers do not."
+  ],
+  "proof": "You hold a short two-way exchange at 12 words per minute, sending and receiving."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "crochet",
+  "name": "Learn to crochet",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "One hook, one live stitch, and mistakes that pull out cleanly. Crochet is faster to learn than knitting and much easier to undo, which makes it the friendlier starting point.",
+  "gear": [
+    "A 5 mm hook",
+    "Smooth light-coloured aran yarn",
+    "Scissors and a darning needle"
+  ],
+  "steps": [
+    "Learn the slip knot, the chain, and how to count chains — miscounting the foundation chain is the classic first frustration.",
+    "Learn the single crochet (UK double), working into the back bump of the chain for a tidy edge.",
+    "Learn the double crochet (UK treble) and the difference the turning chain makes.",
+    "Learn to work in the round to make a granny square, which introduces working into spaces rather than stitches.",
+    "Learn to read a simple pattern and its abbreviations, checking whether it is UK or US terminology.",
+    "Make several squares and join them into something real."
+  ],
+  "tips": [
+    "UK and US stitch names differ and mean different stitches. Check which a pattern uses before starting.",
+    "Losing or gaining stitches at the ends is nearly always the turning chain. Count every row."
+  ],
+  "proof": "A finished blanket square or small bag, with straight sides and a consistent stitch count."
+}

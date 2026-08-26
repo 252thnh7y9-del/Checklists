@@ -55,13 +55,33 @@ on one do not appear on the other — use Export and Import to move progress bet
 index.html            page shell, nav, footer
 css/styles.css        all styling, light + dark tokens
 css/fonts.css         generated — Google Fonts inlined as data URIs
-js/categories.js      the 14 categories and their descriptions
-js/data/*.js          the skills, one file per category
+data/categories.json  the 21 categories, in home-page order
+data/<cat>/index.json that category's skill ids, in display order
+data/<cat>/<id>.json  one skill — this is what you edit
+js/skills.js          generated from data/ by build-data.js — do not edit
 js/store.js           localStorage persistence (fails soft if storage is blocked)
 js/app.js             hash router and views
+build-data.js         compiles data/ into js/skills.js
 build-fonts.js        regenerates css/fonts.css (only when the font list changes)
 build-artifact.js     bundles everything into one self-contained HTML file
 ```
+
+### Why the data is compiled
+
+The site is static files with no build step at request time. A `<script src>` cannot
+load JSON, and fetching 423 files at runtime would cost hundreds of round trips, break
+opening `index.html` over `file://`, and break the offline bundle. So `data/` is the
+source you edit and `js/skills.js` is the compiled artefact, committed alongside it.
+
+```sh
+node build-data.js          # rebuild js/skills.js after editing data/
+node build-data.js --check  # verify it is current (CI runs this)
+```
+
+The build refuses to produce output if a skill is missing a required field, an id
+disagrees with its filename, a level is not one of Easy/Moderate/Hard, or `index.json`
+and the folder contents disagree — so a typo fails loudly instead of silently dropping
+a skill from the site.
 
 ## Design
 
@@ -88,21 +108,27 @@ progress routes through the host's download capability instead of a plain link.
 
 ### Adding a skill
 
-Append an object to the relevant file in `js/data/`:
+Create `data/<category>/<id>.json`:
 
-```js
+```json
 {
-  id:'unique-slug', cat:'outdoors', name:'Skill name',
-  time:'1–2 weeks', level:'Easy',            // level: Easy | Moderate | Hard
-  blurb:'A sentence or two on what this actually is.',
-  gear:['What you need'],
-  steps:['Step one.', 'Step two.'],
-  tips:['A common mistake.'],
-  proof:'The milestone that means you have it.'
+  "id": "unique-slug",
+  "name": "Skill name",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "A sentence or two on what this actually is.",
+  "gear": ["What you need"],
+  "steps": ["Step one.", "Step two."],
+  "tips": ["A common mistake."],
+  "proof": "The milestone that means you have it."
 }
 ```
 
-The category `id` must match one in `js/categories.js`. No rebuild is needed — reload the page.
+Add its id to that category's `index.json` at the position you want it to appear, then
+run `node build-data.js`. There is no `cat` field — the folder defines the category.
+
+To add a category, add it to `data/categories.json`, create the folder with an
+`index.json`, and rebuild. Nothing in `index.html` needs touching.
 
 ## Routes
 

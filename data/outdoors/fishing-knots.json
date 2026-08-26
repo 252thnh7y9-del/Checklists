@@ -1,0 +1,25 @@
+{
+  "id": "fishing-knots",
+  "name": "Learn basic fishing knots",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "Four knots cover almost all fishing: a hook knot, a loop, a line-to-line join and a leader connection. Monofilament is unforgiving, so technique and lubrication matter more than with rope.",
+  "gear": [
+    "Spare monofilament line",
+    "Practice hooks with the points cut off, or swivels",
+    "Nail clippers"
+  ],
+  "steps": [
+    "Learn the improved clinch knot for tying line to hook or swivel — the everyday workhorse.",
+    "Learn the palomar knot, which is stronger, simpler and works well with braid.",
+    "Learn the double surgeon’s knot or blood knot for joining two lines.",
+    "Learn a loop knot — the non-slip mono loop — so lures can swing freely.",
+    "Always wet the knot before tightening: friction heat weakens monofilament dramatically.",
+    "Test each knot by pulling it to failure and noticing whether the line breaks at the knot or elsewhere."
+  ],
+  "tips": [
+    "Tighten slowly and evenly. A jerked knot fails at the worst moment.",
+    "Trim tags close but not flush, and check knots after every snag."
+  ],
+  "proof": "You tie all four in the field, in the cold, and none fails under load during a session."
+}

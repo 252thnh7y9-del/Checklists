@@ -1,0 +1,25 @@
+{
+  "id": "open-water-swim",
+  "name": "Swim in open water",
+  "time": "A season",
+  "level": "Hard",
+  "blurb": "Pool fitness does not transfer directly: cold, chop, no walls and no black line make open water a distinct skill. Done properly it is one of the best things there is.",
+  "gear": [
+    "A wetsuit for cold water",
+    "A brightly coloured hat and a tow float",
+    "A group or a swim buddy, always"
+  ],
+  "steps": [
+    "Acclimatise gradually to cold water over weeks. Never jump straight into cold water — the shock response is what kills.",
+    "Learn to control the initial gasp: enter slowly, submerge to the neck, and wait for your breathing to settle before swimming.",
+    "Learn sighting: lift your eyes just clear of the water every six to ten strokes, crocodile-style, without stopping your stroke.",
+    "Practise swimming in a straight line by sighting on a fixed high landmark rather than a buoy.",
+    "Learn to swim in chop by breathing to the sheltered side and shortening your stroke.",
+    "Always swim with others, know the exit points, and get warm quickly afterwards."
+  ],
+  "tips": [
+    "Afterdrop is real: you keep cooling after you get out. Dry off and layer up immediately, and skip the hot shower.",
+    "Never swim alone in open water, and always be visible to boats with a bright hat and float."
+  ],
+  "proof": "A comfortable one-kilometre open-water swim, sighting accurately, with a safe entry and exit."
+}

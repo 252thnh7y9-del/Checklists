@@ -1,0 +1,24 @@
+{
+  "id": "tide-tables",
+  "name": "Read a tide table",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Anyone walking on a coast should be able to do this. Tides cut people off on beaches and causeways every year, and the information is free and public.",
+  "gear": [
+    "A local tide table or app",
+    "A chart datum reference for your area"
+  ],
+  "steps": [
+    "Learn to read the table: high and low water times and heights, usually for a named port with corrections for nearby places.",
+    "Learn that tides are roughly every 12 hours 25 minutes, so times shift later each day by about 50 minutes.",
+    "Learn spring and neap tides and how they change the range — spring tides go both higher and lower.",
+    "Learn the rule of twelfths to estimate the water level between high and low.",
+    "Apply it to real plans: when a causeway is passable, when a beach walk is safe, when a cave is cut off.",
+    "Always build in a wide margin, and know your escape route before you set out."
+  ],
+  "tips": [
+    "A rising tide fills bays behind you before it reaches you. Being cut off is far more common than being overtaken.",
+    "Wind and atmospheric pressure can raise water well above predicted heights."
+  ],
+  "proof": "You plan a coastal walk around the tide and return with a comfortable margin."
+}

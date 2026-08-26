@@ -1,0 +1,25 @@
+{
+  "id": "cross-stitch",
+  "name": "Learn cross-stitch",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "The most forgiving needlecraft: a counted grid, one stitch, and a chart that tells you exactly what to do. Genuinely relaxing and almost impossible to do badly once you can count.",
+  "gear": [
+    "14-count Aida fabric",
+    "Stranded floss and a blunt tapestry needle",
+    "A hoop and a printed chart"
+  ],
+  "steps": [
+    "Learn to find the centre of both the fabric and the chart, and always start there.",
+    "Learn the stitch: a row of half-crosses in one direction, then back over them to complete each X.",
+    "Keep every top stitch going the same direction across the whole piece — this is what makes it look even.",
+    "Learn to carry thread short distances on the back and when to finish off instead.",
+    "Add back-stitch outlining last, which is what makes the design read clearly.",
+    "Wash, press face-down on a towel, and frame it."
+  ],
+  "tips": [
+    "Count twice before stitching a new area. Unpicking counted work is miserable.",
+    "Never carry dark thread across pale unstitched fabric; it shows through."
+  ],
+  "proof": "A finished small design with consistent stitch direction and correct counting throughout."
+}

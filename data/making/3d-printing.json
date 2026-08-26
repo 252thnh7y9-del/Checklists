@@ -1,0 +1,25 @@
+{
+  "id": "3d-printing",
+  "name": "Learn 3D printing",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Getting from a file to a good print is mostly about bed adhesion, temperature and slicing settings. The printer is the easy part; the workflow is the skill.",
+  "gear": [
+    "An FDM printer",
+    "PLA filament to start — it is the most forgiving",
+    "Calipers, a scraper and a good slicer"
+  ],
+  "steps": [
+    "Level the bed properly and set the first-layer height. Almost every failed print fails in the first layer.",
+    "Print a known-good benchmark model to establish that the machine works before blaming your own files.",
+    "Learn the key slicer settings: layer height, infill, walls, supports and brims, and what each trades off.",
+    "Learn to orient a model for strength and for minimal supports — the biggest lever on print quality.",
+    "Learn to diagnose the common failures: stringing, warping, layer shifting, elephant foot.",
+    "Learn basic CAD so you can design your own parts rather than only printing other people’s."
+  ],
+  "tips": [
+    "Store filament dry. Damp PLA prints badly and pops audibly as it extrudes.",
+    "Never leave a printer running unattended overnight without a smoke alarm nearby."
+  ],
+  "proof": "You design and print a functional part that fits a real object to within half a millimetre."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "chess-endgames",
+  "name": "Learn basic chess endgames",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Most club games end with few pieces on the board, and most players have no idea what to do there. A handful of endgame positions is the cheapest rating you will ever gain.",
+  "gear": [
+    "A board",
+    "An endgame trainer or a simple book"
+  ],
+  "steps": [
+    "Learn king and queen versus king, and king and rook versus king, until you can mate without thinking.",
+    "Learn the opposition — the fundamental king-and-pawn concept that decides whether a pawn promotes.",
+    "Learn the square of the pawn, for calculating at a glance whether a king can catch a runner.",
+    "Learn key pawn endings: king and pawn versus king, from both sides.",
+    "Learn the Lucena and Philidor positions in rook endings, which cover an enormous share of practical rook endgames.",
+    "Practise each against an engine set to defend perfectly."
+  ],
+  "tips": [
+    "The king becomes an attacking piece in the endgame. Beginners leave it in the corner.",
+    "A drawn endgame you convert to a win is worth exactly as much as a brilliant opening."
+  ],
+  "proof": "You convert king and rook versus king in under 20 moves and win a won pawn ending against an engine."
+}

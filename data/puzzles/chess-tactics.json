@@ -1,0 +1,24 @@
+{
+  "id": "chess-tactics",
+  "name": "Learn beginner chess tactics",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Below club level, almost every game is decided by a hanging piece or a two-move tactic. Learning the standard patterns is worth more than any amount of opening theory.",
+  "gear": [
+    "A free tactics-puzzle site or app",
+    "A board, physical or on screen"
+  ],
+  "steps": [
+    "Learn the six core patterns cold: fork, pin, skewer, discovered attack, double attack and removing the defender.",
+    "Do 15 to 20 puzzles a day, and force yourself to calculate the full line before moving rather than guessing and retrying.",
+    "Learn the basic checkmate patterns: back-rank, smothered mate, and mating with queen plus king.",
+    "Adopt a blunder check before every move: what did my opponent’s last move attack, and what of mine is undefended?",
+    "Play slow games only — 15 minutes or more — so there is time to actually apply this.",
+    "Review each loss and find the single move where the game turned."
+  ],
+  "tips": [
+    "Do not study openings yet. Three sound principles — control the centre, develop pieces, castle early — cover everything you need.",
+    "Bullet chess trains speed, not chess. It will actively slow your improvement at this stage."
+  ],
+  "proof": "You solve a mixed set of beginner puzzles at 80% accuracy and stop losing pieces for nothing."
+}

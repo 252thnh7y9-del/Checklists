@@ -1,0 +1,24 @@
+{
+  "id": "hypothermia-heat",
+  "name": "Recognise and treat hypothermia and heat illness",
+  "time": "1–2 hours",
+  "level": "Moderate",
+  "blurb": "Two opposite emergencies with the same trap: the person affected is usually the last to notice. Anyone who spends time outdoors should know both.",
+  "gear": [
+    "A first aid reference",
+    "A foil blanket and insulation in your outdoor kit"
+  ],
+  "steps": [
+    "Learn the early signs of hypothermia — the \"umbles\": stumbles, mumbles, fumbles, grumbles — plus shivering and poor decisions.",
+    "Treat by stopping heat loss: shelter from wind and wet, remove wet clothing, insulate from the ground, add layers and a hat, and give warm sweet drinks if fully conscious.",
+    "Handle severely hypothermic people gently and get medical help — rough handling can trigger dangerous heart rhythms, and do not rub limbs or give alcohol.",
+    "Learn heat exhaustion: heavy sweating, weakness, nausea, headache. Move to shade, cool actively, and rehydrate.",
+    "Learn heatstroke, which is a medical emergency: confusion, no sweating in some cases, very high temperature, collapse. Call emergency services and cool aggressively.",
+    "Learn prevention for both: layering and fuel in cold, pacing, shade and salt in heat."
+  ],
+  "tips": [
+    "Shivering stopping in a cold casualty is a bad sign, not a good one.",
+    "Confusion in heat is the line between exhaustion and heatstroke. Treat confusion as an emergency."
+  ],
+  "proof": "You can identify both conditions early in someone else and act before they become serious."
+}

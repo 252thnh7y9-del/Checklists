@@ -1,0 +1,25 @@
+{
+  "id": "sew-tote",
+  "name": "Make a bag from a pattern",
+  "time": "1–2 weekends",
+  "level": "Moderate",
+  "blurb": "The step from mending to making. A lined tote teaches pattern reading, seam allowances, topstitching and the small order-of-operations tricks that make things look shop-bought.",
+  "gear": [
+    "A sewing machine",
+    "Outer and lining fabric, plus interfacing",
+    "Pins, a rotary cutter or shears, an iron"
+  ],
+  "steps": [
+    "Read the whole pattern before cutting anything, and note the seam allowance it assumes.",
+    "Cut accurately — with fabric, most wonky results start at the cutting stage.",
+    "Apply interfacing to give the bag structure, which is what separates a crisp bag from a floppy one.",
+    "Sew the outer and lining separately, pressing every seam open as you go. Pressing is not optional.",
+    "Learn to box the corners so the bag has a base, and to attach handles securely with a reinforcing square.",
+    "Join lining to outer, leaving a turning gap, then close it with a neat topstitch."
+  ],
+  "tips": [
+    "Press after every seam. It is the single biggest difference between homemade and handmade.",
+    "Handles take all the strain. Reinforce them more than the pattern suggests."
+  ],
+  "proof": "A lined bag with straight topstitching, square corners and handles that survive a heavy load."
+}

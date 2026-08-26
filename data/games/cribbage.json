@@ -1,0 +1,24 @@
+{
+  "id": "cribbage",
+  "name": "Learn cribbage",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "A pub classic with a board, a peg and its own vocabulary. The scoring feels arcane for two evenings and then becomes automatic.",
+  "gear": [
+    "A cribbage board and a deck of cards",
+    "A patient opponent"
+  ],
+  "steps": [
+    "Learn the scoring combinations: fifteens, pairs, runs, flushes and his nobs.",
+    "Learn the flow: the deal, the crib, the cut, the play to 31, and the show.",
+    "Learn to count a hand quickly and accurately — this is the actual skill.",
+    "Learn discard strategy: what to keep and what to throw into your own crib versus your opponent’s.",
+    "Learn the play tactics: leading low cards, avoiding setting up fifteens for your opponent.",
+    "Play a lot. Cribbage counting only becomes fast through repetition."
+  ],
+  "tips": [
+    "Muggins — where your opponent claims points you missed — is the traditional incentive to count carefully.",
+    "Keeping a 5 is almost always valuable, because so many combinations make fifteen with it."
+  ],
+  "proof": "You count any hand correctly in a few seconds and hold your own against a regular player."
+}

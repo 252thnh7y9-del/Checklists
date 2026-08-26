@@ -1,0 +1,25 @@
+{
+  "id": "sail-dinghy",
+  "name": "Sail a small dinghy",
+  "time": "A week-long course, then a season",
+  "level": "Hard",
+  "blurb": "Wind awareness, points of sail, tacking and gybing. Once it clicks, sailing stops feeling like magic and starts feeling like a set of rules you can apply.",
+  "gear": [
+    "A dinghy and buoyancy aid",
+    "A beginner course — this is one to learn from an instructor",
+    "Appropriate clothing for immersion"
+  ],
+  "steps": [
+    "Learn to feel where the wind is coming from, constantly. Everything else in sailing depends on that one awareness.",
+    "Learn the points of sail: close hauled, reaching, running, and the no-go zone into the wind.",
+    "Learn sail trim: let it out until it luffs, then pull in until it stops. That rule alone covers most situations.",
+    "Learn to tack — turning the bow through the wind — with the sequence of words, tiller and body movement in order.",
+    "Learn to gybe, which is the one that catches people out: control the boom, keep your head down.",
+    "Learn capsize recovery deliberately, in warm sheltered water with support. It removes the fear."
+  ],
+  "tips": [
+    "Sit facing the sail with the tiller behind you. Steering feels backwards until it does not.",
+    "Do a proper course. Sailing has genuine hazards and self-teaching from videos is a poor substitute."
+  ],
+  "proof": "You sail a triangular course unaided, tacking and gybing under control, and recover from a capsize."
+}

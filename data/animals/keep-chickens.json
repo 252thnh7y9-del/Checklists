@@ -1,0 +1,25 @@
+{
+  "id": "keep-chickens",
+  "name": "Keep chickens",
+  "time": "A season to set up, then daily",
+  "level": "Moderate",
+  "blurb": "Eggs, entertainment and a pest patrol. Chickens are easy to keep alive and hard to keep safe — predators are the real challenge, not the birds.",
+  "gear": [
+    "A coop with a secure run and good ventilation",
+    "Feeder, drinker and layers pellets",
+    "Bedding, and grit"
+  ],
+  "steps": [
+    "Check local rules first: many places restrict numbers, or ban cockerels entirely.",
+    "Build or buy a coop with proper ventilation but no draughts, and enough space — cramped birds get sick and peck each other.",
+    "Predator-proof properly: bury or skirt the wire, use welded mesh rather than chicken wire, and secure it against animals that can open latches.",
+    "Start with three or four hens of a docile laying breed, since chickens are miserable alone.",
+    "Learn the daily routine: let out, check feed and water, collect eggs, shut in securely at dusk.",
+    "Learn the common health issues — red mite, scaly leg, egg binding — and check the birds regularly."
+  ],
+  "tips": [
+    "Foxes will dig and reach through wire. Chicken wire keeps chickens in, not predators out.",
+    "Egg laying drops in winter and with age. Keeping hens for eggs alone is not economical; keep them because you like them."
+  ],
+  "proof": "A healthy flock that has come through a full year, including winter, with no predator losses."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "wipers",
+  "name": "Change windshield wipers",
+  "time": "30 minutes",
+  "level": "Easy",
+  "blurb": "Five minutes, no tools, and it costs a fraction of what a garage charges. The only trick is knowing your car’s fitting type.",
+  "gear": [
+    "Correct blades for your car — check the fitment guide",
+    "A towel"
+  ],
+  "steps": [
+    "Look up the exact sizes and fitting type for your model; front blades are often two different lengths.",
+    "Lift the arm away from the glass and lay a towel on the screen in case it snaps back.",
+    "Release the old blade — usually a small tab on a hook fitting, or a clip on a bayonet or pinch-tab fitting.",
+    "Slide the new blade on until it clicks, and tug it gently to confirm it is locked.",
+    "Lower the arm carefully onto the glass.",
+    "Test with washer fluid, and check for streaks or chatter."
+  ],
+  "tips": [
+    "A snapped-back arm can crack a windscreen. The towel is not optional.",
+    "Streaking after fitting usually means the glass needs cleaning, not that the blades are bad."
+  ],
+  "proof": "New blades fitted, both sides, sweeping cleanly with no streaks or judder."
+}

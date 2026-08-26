@@ -1,0 +1,24 @@
+{
+  "id": "speed-reading",
+  "name": "Learn basic speed reading techniques",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "The honest version: you cannot read 5,000 words a minute with comprehension, but most people can move from roughly 200 to 400 words a minute on non-technical text by fixing two habits.",
+  "gear": [
+    "Books you actually want to read",
+    "A timer"
+  ],
+  "steps": [
+    "Measure your baseline: read for three minutes, count the words, and write down a two-sentence summary to check comprehension.",
+    "Reduce subvocalisation — the inner voice reading aloud — by humming quietly or counting silently while your eyes move.",
+    "Stop regressing. Run a finger or pen under the line as a pacer so your eyes cannot flick backwards.",
+    "Widen your fixations: practise taking in three or four words per stop rather than one, by fixing your gaze slightly inside each margin.",
+    "Practise previewing: read headings, first sentences and the conclusion before reading properly, so your brain has a map.",
+    "Re-measure weekly, always with the comprehension check attached."
+  ],
+  "tips": [
+    "Speed techniques belong to easy prose. Dense technical material and poetry deserve to be read slowly.",
+    "A speed gain that costs comprehension is not a gain, it is skimming with extra steps."
+  ],
+  "proof": "You double your baseline rate on general non-fiction while still summarising each chapter accurately."
+}

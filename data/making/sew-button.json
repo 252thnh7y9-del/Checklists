@@ -1,0 +1,25 @@
+{
+  "id": "sew-button",
+  "name": "Sew on a button properly",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "Twenty minutes to learn, useful for the rest of your life. The detail that separates a proper job from a bodge is the shank — the small gap that lets the button sit over the fabric.",
+  "gear": [
+    "Needle and thread matching the garment",
+    "Scissors",
+    "A spare button, or the one that fell off"
+  ],
+  "steps": [
+    "Thread the needle with about 45 cm of doubled thread and knot the end.",
+    "Come up from underneath at the button position and place the button on the needle.",
+    "Lay a matchstick or a pin across the top of the button and sew over it, four to six passes through each pair of holes.",
+    "Remove the matchstick, bring the needle up between button and fabric, and wind the thread tightly around the threads underneath to form the shank.",
+    "Push the needle back through to the underside and finish with two or three small knotted stitches.",
+    "Trim and test by doing the button up — it should sit flat without straining."
+  ],
+  "tips": [
+    "No shank means a button that puckers the fabric and pops off again in a month.",
+    "Four-hole buttons can be sewn as parallel bars or a cross. Match whatever the other buttons on the garment do."
+  ],
+  "proof": "A button you sewed survives a full wash cycle and sits as neatly as the factory ones."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "perspective-drawing",
+  "name": "Learn basic perspective drawing",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "One-, two- and three-point perspective are geometric rules, not art talent. Once you have them, drawing convincing rooms, streets and boxes becomes procedural.",
+  "gear": [
+    "A ruler and pencil",
+    "Large paper",
+    "A viewfinder or a phone camera"
+  ],
+  "steps": [
+    "Learn the horizon line as eye level, and understand that it moves with you rather than with the scene.",
+    "Learn one-point perspective by drawing a corridor and a room interior with all depth lines meeting one vanishing point.",
+    "Learn two-point perspective by drawing a building corner with two vanishing points on the horizon.",
+    "Learn to divide space in perspective — the diagonal method for equal spacing of fence posts, windows and floor tiles.",
+    "Learn three-point perspective for looking up at or down on tall structures.",
+    "Draw a real street scene from observation and check your lines against the photo."
+  ],
+  "tips": [
+    "Vanishing points placed too close together produce a violently distorted image. Push them further out, usually off the page.",
+    "Everything shares the same horizon line. That is what makes a scene cohere."
+  ],
+  "proof": "You draw a convincing street scene in two-point perspective from imagination, with consistent vanishing points."
+}

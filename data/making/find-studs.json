@@ -1,0 +1,25 @@
+{
+  "id": "find-studs",
+  "name": "Find wall studs",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "Everything heavy you hang needs to reach a stud or a proper cavity fixing. There are three independent methods, and knowing all three means never guessing.",
+  "gear": [
+    "An electronic stud detector",
+    "A strong magnet",
+    "A small drill bit for confirmation"
+  ],
+  "steps": [
+    "Learn the standard spacing: studs are usually at regular 400 or 600 mm centres, and they always exist at corners and beside door frames.",
+    "Use a stud detector, calibrating it on a blank section of wall, and mark both edges to find the centre.",
+    "Cross-check with a magnet, which finds the screws or nails holding the plasterboard to the stud — a very reliable second opinion.",
+    "Knock along the wall: hollow between studs, solid over one. Crude but a useful sanity check.",
+    "Confirm with a fine drill bit in an inconspicuous spot, feeling for the resistance of timber.",
+    "Learn the alternatives for when there is no stud where you need one: toggle bolts and proper cavity anchors."
+  ],
+  "tips": [
+    "Detectors give false positives over pipes and cables. Never trust one reading alone.",
+    "Look for the vertical line of nail pops or screw dimples in old walls — free stud locations."
+  ],
+  "proof": "You locate three studs and confirm each by two independent methods before drilling."
+}

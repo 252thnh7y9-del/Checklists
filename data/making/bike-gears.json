@@ -1,0 +1,25 @@
+{
+  "id": "bike-gears",
+  "name": "Adjust bicycle gears",
+  "time": "2–4 hours",
+  "level": "Moderate",
+  "blurb": "Indexed gears need three things right: limit screws, cable tension and hanger alignment. Understanding which of the three is causing your problem is the whole skill.",
+  "gear": [
+    "A screwdriver for limit screws",
+    "Allen keys",
+    "A bike stand or a way to lift the rear wheel"
+  ],
+  "steps": [
+    "Shift into the smallest sprocket and the smallest chainring to release cable tension.",
+    "Set the high limit screw so the derailleur sits directly under the smallest sprocket without overshooting into the frame.",
+    "Set the low limit screw at the other end so the chain cannot drop into the spokes.",
+    "Set cable tension with the barrel adjuster: a quarter-turn at a time, testing shifts up and down the block. If it is slow shifting to bigger sprockets, add tension.",
+    "Check the derailleur hanger alignment if shifting is inconsistent across the whole range — a bent hanger defeats every other adjustment.",
+    "Fine-tune under light pedalling load, and check the front derailleur clears the chain in every gear."
+  ],
+  "tips": [
+    "Quarter-turns only. Big adjustments make it impossible to tell what changed.",
+    "A worn chain causes skipping that no adjustment fixes. Check it with a chain wear tool."
+  ],
+  "proof": "Every gear shifts cleanly in both directions, under load, without noise."
+}

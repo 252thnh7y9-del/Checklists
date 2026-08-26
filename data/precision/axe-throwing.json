@@ -1,0 +1,25 @@
+{
+  "id": "axe-throwing",
+  "name": "Learn axe throwing",
+  "time": "2–4 sessions",
+  "level": "Moderate",
+  "blurb": "Rotation and distance, not strength. The axe turns a fixed amount per throw, so hitting the target is about standing in the right place — which is why beginners improve so fast.",
+  "gear": [
+    "A supervised venue, at least at first",
+    "A throwing axe suited to the target",
+    "Closed shoes and no loose clothing"
+  ],
+  "steps": [
+    "Learn the venue’s safety rules and stick to them: one thrower at a time, never retrieve while anyone is throwing, no one behind the throwing line.",
+    "Learn the grip: like a handshake, firm but not tight, thumb along the handle.",
+    "Throw with a straight overhead motion, releasing at eye level, with no wrist flick at all — the flick is what causes over-rotation.",
+    "Let the axe rotate once naturally, and adjust your distance rather than your throw to fix rotation.",
+    "Step forward if it hits handle-first with too much rotation; step back if it hits top-first with too little.",
+    "Once one-rotation throws are consistent, learn the two-handed throw and longer distances."
+  ],
+  "tips": [
+    "Throwing harder does not help and usually causes bounce-backs, which are the main injury risk.",
+    "Never throw at a target on soft or unsuitable backing, and never improvise a home range casually."
+  ],
+  "proof": "Eight out of ten sticks on the board, most in the scoring rings."
+}

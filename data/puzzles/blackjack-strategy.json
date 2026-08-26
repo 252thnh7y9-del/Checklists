@@ -1,0 +1,25 @@
+{
+  "id": "blackjack-strategy",
+  "name": "Learn blackjack basic strategy",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "A solved game: for every hand against every dealer card there is one mathematically correct play. Memorising the chart is a genuine feat of applied memory, and it turns the worst odds in the casino into nearly the best.",
+  "gear": [
+    "A printed basic strategy chart for the exact rules you will face",
+    "A deck of cards",
+    "A drill app"
+  ],
+  "steps": [
+    "Get the correct chart — strategy differs by rule set, such as whether the dealer hits soft 17.",
+    "Learn the hard totals first, which is the largest block and the most common situation.",
+    "Learn the soft totals, where holding an ace changes everything.",
+    "Learn the pair splitting rules, then the surrender rules if your game offers them.",
+    "Drill with an app or flashcards until you answer instantly, without reasoning it out.",
+    "Understand what it does and does not do: it minimises the house edge to well under one percent, but it does not make the game profitable."
+  ],
+  "tips": [
+    "Insurance is a bad bet in almost every situation. Never take it.",
+    "Basic strategy reduces losses; it does not create an edge. Treat any gambling budget as entertainment spending you expect to lose, and set a limit before you start."
+  ],
+  "proof": "You answer any hand correctly in under two seconds, across a full shuffled drill."
+}

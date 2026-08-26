@@ -1,0 +1,25 @@
+{
+  "id": "photo-manipulation",
+  "name": "Learn basic photo manipulation",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Layers, masks and selections — the three concepts that everything in Photoshop or GIMP is built on. Removing an object convincingly is the classic first project.",
+  "gear": [
+    "Photoshop, GIMP, Affinity Photo or Photopea",
+    "A mouse or a graphics tablet"
+  ],
+  "steps": [
+    "Learn layers and non-destructive editing: adjustment layers and smart objects rather than editing pixels directly.",
+    "Learn masks, which is the single most important concept — hiding rather than deleting.",
+    "Learn the selection tools and how to refine an edge, especially for hair.",
+    "Learn the healing brush, clone stamp and content-aware fill for removing objects.",
+    "Learn to composite: match colour, contrast, grain and light direction between elements, which is what makes fakes convincing or not.",
+    "Do a full project: remove a distracting object from a real photo so nobody can tell."
+  ],
+  "tips": [
+    "Mismatched light direction is what gives away nearly every amateur composite.",
+    "Work non-destructively so you can undo a decision from an hour ago.",
+    "Be thoughtful about editing images of real people, and never present a manipulated photo as documentary."
+  ],
+  "proof": "You remove a significant object from a photo and nobody can identify where it was."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "multimeter",
+  "name": "Use a multimeter",
+  "time": "1 week",
+  "level": "Moderate",
+  "blurb": "The diagnostic tool for anything electrical. Four measurements — voltage, continuity, resistance and current — solve most household and automotive electrical mysteries.",
+  "gear": [
+    "A multimeter with a continuity beeper",
+    "Test leads",
+    "Batteries and old electronics to practise on"
+  ],
+  "steps": [
+    "Learn the dial: DC volts, AC volts, resistance, continuity and current, and what the probes plug into for each.",
+    "Measure DC voltage on batteries of known state, so you learn what a healthy versus a dead cell reads.",
+    "Learn continuity testing: the beeper tells you whether a fuse, switch or wire is intact. This is the single most useful function.",
+    "Measure resistance across components with the circuit powered off and the component isolated.",
+    "Learn current measurement, which requires breaking the circuit and putting the meter in series — and understand why this blows fuses when done wrong.",
+    "Diagnose something real: a dead extension lead, a car battery drain, a suspect fuse."
+  ],
+  "tips": [
+    "Never measure resistance or continuity on a live circuit.",
+    "Measuring current in parallel across a voltage source is a short circuit. It is the classic way to destroy a meter.",
+    "Treat mains voltage with total respect and use a properly rated meter with rated leads."
+  ],
+  "proof": "You diagnose a real electrical fault using the meter to prove where the circuit breaks."
+}

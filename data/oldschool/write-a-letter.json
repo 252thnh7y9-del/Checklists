@@ -1,0 +1,25 @@
+{
+  "id": "write-a-letter",
+  "name": "Write a proper letter",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "A handwritten letter is now so rare that it lands with real weight. Thank-you notes, condolences and congratulations are three occasions where nothing else works as well.",
+  "gear": [
+    "Decent paper and envelopes",
+    "A pen you enjoy writing with",
+    "Stamps, and the actual address"
+  ],
+  "steps": [
+    "Learn the basic layout: your address, the date, a greeting, body, a closing and a signature.",
+    "Learn the closings and when each fits — formal, friendly and intimate are genuinely different registers.",
+    "Draft it first. A handwritten letter cannot be edited, so think it through before the good paper.",
+    "Write a thank-you note properly: name the specific thing, say what it meant or how you used it, and look forward.",
+    "Learn the condolence letter, which is the hardest and most valuable: name the person, share one specific memory, do not offer silver linings, and offer something concrete.",
+    "Post it within a few days. A late note is still far better than none."
+  ],
+  "tips": [
+    "\"Thank you for the gift\" is barely worth sending. Specificity is the entire point.",
+    "Do not tell a grieving person what to feel or that it was for the best. Just be present on the page."
+  ],
+  "proof": "You send three real letters, including one condolence or thank-you, and get a reply."
+}

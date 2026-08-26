@@ -1,0 +1,25 @@
+{
+  "id": "winter-driving",
+  "name": "Drive safely on snow and ice",
+  "time": "1–2 sessions",
+  "level": "Moderate",
+  "blurb": "Smoothness and space, not skill at the limit. Most winter accidents come from doing something abruptly, and the fixes are simple once you know them.",
+  "gear": [
+    "Winter or all-season tyres, which matter more than drive type",
+    "An empty snow-covered car park to practise in",
+    "A winter kit in the boot"
+  ],
+  "steps": [
+    "Clear the whole car before moving: all windows, lights, roof and number plate.",
+    "Do everything gently — accelerate, brake and steer as if there is an open cup of coffee on the dash.",
+    "Increase your following distance to at least four times the usual, and brake far earlier than feels necessary.",
+    "Practise emergency braking in a safe empty space to feel ABS pulsing, so you do not lift off when it happens for real.",
+    "Learn skid recovery: look and steer where you want to go, ease off the accelerator, do not stamp on the brake.",
+    "Learn to pull away in a higher gear on slick surfaces to reduce wheelspin."
+  ],
+  "tips": [
+    "Four-wheel drive helps you go, not stop. It gives false confidence on ice.",
+    "Black ice appears on bridges and shaded spots first. Treat those as ice even when the road looks clear."
+  ],
+  "proof": "You handle a snowy journey calmly, with correct following distances and no abrupt inputs."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "memorize-deck",
+  "name": "Memorize a shuffled deck of cards",
+  "time": "3–4 weeks",
+  "level": "Hard",
+  "blurb": "You are not memorising cards, you are converting each card into a vivid person or object and walking them through a familiar building. The system does the work; you supply the images.",
+  "gear": [
+    "A deck of cards",
+    "A timer",
+    "A written list of your 52 images"
+  ],
+  "steps": [
+    "Build a 52-image system: give every card a fixed character or object. Suits usually map to a category, ranks to a number-sound. Write the list out and drill it as flashcards until recall is instant.",
+    "Build a memory palace with 26 clearly ordered locations in a place you know intimately — your home, your route to work.",
+    "Practise pairs: turn two cards at a time into one absurd interacting image and place it at a location.",
+    "Memorise a quarter of the deck first, recall it perfectly, then half, then the whole thing. Never move up until the shorter version is clean.",
+    "Recall out loud, in order, from your starting location. Note exactly which locations failed and make those images stranger.",
+    "Once accurate, start the clock and shave the time down."
+  ],
+  "tips": [
+    "Weak images are the failure point every time. Make them violent, absurd, loud, or funny — never merely present.",
+    "Use each palace at most once a day, or old images will bleed into new ones.",
+    "Accuracy first. A 90-second run with three mistakes is worse than a five-minute perfect one."
+  ],
+  "proof": "You memorise a freshly shuffled deck and recite all 52 cards in order with no errors."
+}

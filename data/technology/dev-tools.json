@@ -1,0 +1,23 @@
+{
+  "id": "dev-tools",
+  "name": "Learn browser developer tools",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Every browser ships with a full inspection suite. It is how you find out why a page is broken, slow, or ugly — and how you learn CSS faster than any tutorial.",
+  "gear": [
+    "Any modern browser"
+  ],
+  "steps": [
+    "Learn the Elements panel: inspect any element, edit its HTML and CSS live, and see the computed styles.",
+    "Learn to read specificity conflicts — struck-through rules show you exactly which style won and why.",
+    "Learn the Console for errors and for running JavaScript against the live page.",
+    "Learn the Network panel: what loaded, how big it was, how long it took, and what returned an error.",
+    "Learn device emulation to test responsive layouts and throttled connections.",
+    "Learn the Lighthouse or performance audit to find the actual bottleneck rather than guessing."
+  ],
+  "tips": [
+    "Live-editing CSS in the Elements panel is temporary. Copy changes back to your source before reloading.",
+    "The Network panel’s \"disable cache\" checkbox resolves a large share of confusing behaviour."
+  ],
+  "proof": "You diagnose why a real page is slow or mis-rendering, using the tools rather than guessing."
+}

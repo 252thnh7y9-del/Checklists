@@ -1,0 +1,25 @@
+{
+  "id": "bake-cake",
+  "name": "Bake a cake that rises evenly",
+  "time": "3–4 attempts",
+  "level": "Moderate",
+  "blurb": "Baking is chemistry with tight tolerances. A level, tender sponge comes from correct creaming, correct temperature and not opening the oven.",
+  "gear": [
+    "Digital scales",
+    "Cake tins and baking parchment",
+    "An oven thermometer, because ovens lie"
+  ],
+  "steps": [
+    "Weigh everything, and have eggs and butter at room temperature — cold ingredients curdle the batter and lose air.",
+    "Cream the butter and sugar for far longer than feels necessary, until pale and fluffy. This is where the lift comes from.",
+    "Add eggs gradually to avoid curdling, then fold in the flour gently. Overmixing at this stage builds gluten and toughens the crumb.",
+    "Check your real oven temperature with a thermometer and adjust; a 20-degree error ruins cakes.",
+    "Bake in the middle of the oven and do not open the door in the first two-thirds of the time.",
+    "Test with a skewer, cool in the tin for ten minutes, then turn out onto a rack."
+  ],
+  "tips": [
+    "A sunken middle usually means underbaking, too much raising agent, or the door opened early.",
+    "A domed cracked top means the oven was too hot. Lower it and bake longer."
+  ],
+  "proof": "A level, evenly coloured sponge with a fine crumb, twice running."
+}

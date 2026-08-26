@@ -1,0 +1,24 @@
+{
+  "id": "paper-airplanes",
+  "name": "Make paper airplanes optimized for distance",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Distance planes are an engineering problem: weight forward, wings straight, folds sharp. Understanding why they fly makes the difference between 5 metres and 25.",
+  "gear": [
+    "A4 or letter paper, standard weight",
+    "A long corridor or a calm outdoor space"
+  ],
+  "steps": [
+    "Learn the aerodynamics: the centre of gravity must be forward of the centre of lift, or the plane stalls and tumbles.",
+    "Fold a proven distance design — a dart variant or the Suzanne-style world record design — with absolutely symmetrical folds.",
+    "Crease hard. Sharp creases hold the aerofoil shape; soft ones let it deform in flight.",
+    "Add dihedral: a slight upward V to the wings, which gives roll stability.",
+    "Learn the throw: hard, at about 40 degrees for distance, released cleanly without twisting the wrist.",
+    "Test and trim — bend the trailing edges up slightly if it dives, down if it stalls — and measure every flight."
+  ],
+  "tips": [
+    "Asymmetry is the number one cause of a plane that veers. Fold on a hard surface and check both sides match.",
+    "A plane that climbs steeply then stalls is nose-light. Add a fold or a small paperclip at the nose."
+  ],
+  "proof": "A plane you folded flies over 20 metres, straight, three throws in a row."
+}

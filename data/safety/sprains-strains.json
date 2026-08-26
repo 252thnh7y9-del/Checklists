@@ -1,0 +1,25 @@
+{
+  "id": "sprains-strains",
+  "name": "Treat sprains and strains",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "The old RICE advice has moved on. Current guidance protects the injury early and then loads it gently, because prolonged rest slows healing rather than helping.",
+  "gear": [
+    "An elastic bandage",
+    "A cold pack",
+    "A first aid reference from a current source"
+  ],
+  "steps": [
+    "In the first day or two, protect the injury and avoid anything that sharply increases pain.",
+    "Use elevation and gentle compression to manage swelling.",
+    "Learn the current thinking on ice: useful for short-term pain relief, but prolonged icing may slow healing. Use it briefly for comfort.",
+    "Begin gentle optimal loading early — movement within a pain-free range — rather than complete rest.",
+    "Learn the red flags for a fracture: inability to bear weight, deformity, bony tenderness, numbness. Those need imaging.",
+    "Progress load gradually and return to full activity only when strength and balance have come back."
+  ],
+  "tips": [
+    "Complete rest for a week is now considered counterproductive for most simple sprains.",
+    "Anti-inflammatories may relieve pain but there is debate about their effect on healing. Ask a clinician."
+  ],
+  "proof": "You manage a real sprain to full function, and can name the red flags that mean go to hospital."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "hem-trousers",
+  "name": "Hem trousers",
+  "time": "2–3 hours",
+  "level": "Moderate",
+  "blurb": "A proper hem — measured, pressed, and stitched so it is invisible from the outside — saves a tailor’s fee every time you buy trousers, and takes an evening to learn.",
+  "gear": [
+    "Measuring tape, pins, tailor’s chalk",
+    "Iron and ironing board",
+    "Needle and thread, or a machine"
+  ],
+  "steps": [
+    "Wear the trousers with the shoes you will wear them with, and have someone pin the fold at the right length. Do both legs — they are rarely identical.",
+    "Turn inside out, measure the pin line, and mark a consistent line all round with chalk.",
+    "Add the hem allowance below the line — usually 3 to 4 cm — and cut off the excess.",
+    "Press the raw edge under by 1 cm, then fold up to the marked line and press again. Pressing is what makes the hem crisp.",
+    "Stitch with a blind hem — catching only a thread or two of the outer fabric — by hand or with a machine blind-hem foot.",
+    "Press the finished hem and check both legs match on the body."
+  ],
+  "tips": [
+    "Measure twice with the actual shoes. Different shoes change the break by centimetres.",
+    "Keep the original hem if the fabric has a distinctive edge: it can be detached and reattached."
+  ],
+  "proof": "Both legs hang at the same, correct length and the stitching is invisible from outside."
+}

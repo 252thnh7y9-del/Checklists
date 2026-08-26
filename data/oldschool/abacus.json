@@ -1,0 +1,24 @@
+{
+  "id": "abacus",
+  "name": "Use an abacus",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "The soroban is fast, and skilled users beat calculators for addition. It also builds a spatial mental-arithmetic ability that persists after you put the beads away.",
+  "gear": [
+    "A Japanese soroban (one bead above, four below)",
+    "A practice book or app"
+  ],
+  "steps": [
+    "Learn the layout and how to represent numbers: each lower bead is one, each upper bead is five, columns are place values.",
+    "Learn the correct finger technique — thumb up, index down — which matters for speed.",
+    "Learn simple addition and subtraction within a single column.",
+    "Learn the complements: the five and ten friend rules that handle carrying and borrowing. This is the real content of the method.",
+    "Drill columns of numbers daily for speed and accuracy.",
+    "Learn anzan: visualising the beads and calculating mentally without the device, which is where the real benefit lies."
+  ],
+  "tips": [
+    "Learn the finger technique properly from the start. Bad habits cap your speed permanently.",
+    "Daily short practice beats occasional long sessions for this kind of motor-plus-mental skill."
+  ],
+  "proof": "You add a column of twenty three-digit numbers faster and more accurately than by pen and paper."
+}

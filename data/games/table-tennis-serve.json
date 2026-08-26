@@ -1,0 +1,24 @@
+{
+  "id": "table-tennis-serve",
+  "name": "Learn table tennis spin and serve",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "The gap between garage table tennis and the real game is spin. Learning to produce it and read it transforms both your serve and your ability to return one.",
+  "gear": [
+    "A bat with decent rubber, not a bare wooden paddle",
+    "A table and a box of balls"
+  ],
+  "steps": [
+    "Learn the grip — shakehand for most people — and a relaxed ready stance.",
+    "Learn to generate spin by brushing the ball rather than hitting through it, and feel how differently it bounces.",
+    "Learn the backspin push and the topspin drive as your two base strokes.",
+    "Learn a backspin serve and a sidespin serve, disguising them with a similar action.",
+    "Learn to read spin from your opponent’s bat direction at contact, and to adjust your bat angle to counter it.",
+    "Practise serves alone with a box of balls — it is the only stroke you can perfect without a partner."
+  ],
+  "tips": [
+    "Returning backspin into the net repeatedly means you need to open the bat face, not hit harder.",
+    "A legal serve is thrown up at least 16 cm from an open flat palm, behind the end line."
+  ],
+  "proof": "You serve three genuinely different spins on demand and read your opponent’s serve well enough to return it."
+}

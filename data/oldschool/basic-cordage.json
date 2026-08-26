@@ -1,0 +1,24 @@
+{
+  "id": "basic-cordage",
+  "name": "Make basic cordage",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "The general version of rope making: taking any available fibre — plant, fabric strips, plastic bags — and reverse-wrapping it into usable line.",
+  "gear": [
+    "Any fibrous material: grass, bark, string, cut fabric",
+    "Your hands"
+  ],
+  "steps": [
+    "Learn the reverse-wrap on something easy first, such as strips of an old t-shirt, so the motion is clear before you fight with plants.",
+    "Learn to judge fibre quality: length, strength when dry, and whether it stays flexible.",
+    "Learn to splice in new material with a long staggered overlap.",
+    "Learn to make thicker rope by plying finished cordage together.",
+    "Test each batch to destruction, so you know its actual working load rather than guessing.",
+    "Make a length long enough to be useful — a tarp guy line, a bow-drill cord, a bag handle."
+  ],
+  "tips": [
+    "Even tension throughout is what makes cordage strong. Rushing produces weak spots.",
+    "Never trust improvised cordage for anything where a failure would hurt someone."
+  ],
+  "proof": "Two metres of even, strong cordage made from material you gathered, used for a real job."
+}

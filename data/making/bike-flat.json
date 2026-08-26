@@ -1,0 +1,26 @@
+{
+  "id": "bike-flat",
+  "name": "Repair a bicycle flat tire",
+  "time": "2–3 hours to learn",
+  "level": "Easy",
+  "blurb": "The core bike-maintenance skill. Once you can do it calmly at the roadside in ten minutes, cycling becomes far less stressful.",
+  "gear": [
+    "Tyre levers, spare tube, patch kit",
+    "A pump with a gauge, or CO2",
+    "A multitool if your wheels are bolted"
+  ],
+  "steps": [
+    "Remove the wheel: release the brake, open the quick-release or undo the bolts, and for a rear wheel shift to the smallest sprocket first.",
+    "Deflate fully, unseat one bead with two tyre levers, and pull the tube out.",
+    "Find the cause. Run your fingers carefully around the inside of the tyre — if you do not remove the thorn or glass, the new tube punctures immediately.",
+    "Fit the new tube: inflate it slightly so it holds shape, seat the valve, tuck the tube in all round, then work the bead back on by hand, finishing with your thumbs rather than levers.",
+    "Check the bead is seated evenly all the way round before inflating fully, and inflate to the pressure printed on the sidewall.",
+    "Refit the wheel, reconnect the brake, and check it spins true. Patch the old tube at home for a spare."
+  ],
+  "tips": [
+    "Not finding the cause is the mistake that ruins the second tube too.",
+    "Levers on the final section of bead are the classic way to pinch and puncture the new tube.",
+    "Practise at home before you have to do it in the rain."
+  ],
+  "proof": "You fix a flat at the roadside, unhurried, in under ten minutes, and it stays inflated."
+}

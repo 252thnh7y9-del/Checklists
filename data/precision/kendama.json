@@ -1,0 +1,24 @@
+{
+  "id": "kendama",
+  "name": "Learn kendama basics",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "A Japanese skill toy with a clear ladder of tricks: big cup, small cup, base cup, spike, and then the airplane. Progress is fast and very visible.",
+  "gear": [
+    "A kendama with a decent tacky finish",
+    "Patience for the string tangles"
+  ],
+  "steps": [
+    "Learn the stance and the knee bend — every kendama trick is powered by the legs, not the arms.",
+    "Learn big cup: pull the ball up straight and catch it by dipping the knees to absorb the landing.",
+    "Learn small cup and base cup, which need the same motion with finer control.",
+    "Learn the spike, catching the ball on the point via its hole, which requires controlling the ball’s rotation.",
+    "Learn around the world and the airplane, which chain the earlier catches together.",
+    "Practise combinations, because linking tricks is a separate skill from doing each one."
+  ],
+  "tips": [
+    "Bending the knees to absorb the catch is the whole secret. Stiff arms and legs mean the ball bounces off.",
+    "Pull the ball straight up. Any sideways pull makes the catch far harder."
+  ],
+  "proof": "You link big cup, small cup, base cup and spike into one continuous combo."
+}

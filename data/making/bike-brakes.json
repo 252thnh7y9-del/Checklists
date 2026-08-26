@@ -1,0 +1,25 @@
+{
+  "id": "bike-brakes",
+  "name": "Adjust bicycle brakes",
+  "time": "2–3 hours",
+  "level": "Easy",
+  "blurb": "Brakes that bite properly, with pads centred and cables tensioned, are both a safety issue and a five-minute job with basic tools.",
+  "gear": [
+    "Allen keys",
+    "A 5 mm hex and a cable cutter if replacing cables",
+    "Rubbing alcohol for rotors, if disc brakes"
+  ],
+  "steps": [
+    "Identify your brake type: rim, mechanical disc or hydraulic disc — the adjustments differ.",
+    "For rim brakes, check the pads: they should contact the braking surface squarely, not the tyre, with a slight toe-in at the front.",
+    "Set cable tension with the barrel adjuster so the lever engages firmly a third of the way through its travel, well before it reaches the bar.",
+    "Centre the calliper so both pads clear the rim equally, using the centring screw or by adjusting the mounting bolt.",
+    "For mechanical discs, adjust the fixed pad first, then the cable, aiming for a rotor that spins free but stops fast.",
+    "Test at walking pace before you trust them, and check pad wear regularly."
+  ],
+  "tips": [
+    "Never let oil or degreaser touch a disc rotor or pad. Contaminated pads are only fixable by replacement.",
+    "A lever that reaches the handlebar is dangerous, not merely soft. Fix it before riding."
+  ],
+  "proof": "Both brakes stop the bike firmly with a solid lever feel and no rubbing when released."
+}

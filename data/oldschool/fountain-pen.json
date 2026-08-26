@@ -1,0 +1,26 @@
+{
+  "id": "fountain-pen",
+  "name": "Use a fountain pen properly",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Fountain pens want a different grip and much less pressure than a ballpoint. Adjust to that and writing becomes noticeably more comfortable and better looking.",
+  "gear": [
+    "A fountain pen with a fine or medium nib",
+    "Bottled ink or cartridges",
+    "Fountain-pen-friendly paper"
+  ],
+  "steps": [
+    "Learn the grip and angle: hold it lower and at about 45 degrees, with the nib’s tines flat to the paper.",
+    "Learn to write with almost no pressure — the ink flows by capillary action and pressing damages the nib.",
+    "Learn to fill it properly, whether by converter, cartridge or piston, and to wipe the nib afterwards.",
+    "Learn about paper: cheap paper feathers and bleeds, which makes a good pen look bad.",
+    "Learn maintenance: flush the pen every few weeks, and always when changing ink.",
+    "Write a page a day for a week to adapt your hand to the lighter touch."
+  ],
+  "tips": [
+    "Skipping usually means the nib is rotated off its sweet spot, or the pen needs a flush.",
+    "Never lend a fountain pen you care about. Nibs wear to one person’s hand.",
+    "Do not fly with a full pen at altitude in a bag, or use permanent inks not designed for fountain pens."
+  ],
+  "proof": "A page of comfortable, consistent writing with no skipping, blotting or hand fatigue."
+}

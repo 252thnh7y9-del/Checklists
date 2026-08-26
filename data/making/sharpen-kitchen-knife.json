@@ -1,0 +1,26 @@
+{
+  "id": "sharpen-kitchen-knife",
+  "name": "Sharpen a kitchen knife",
+  "time": "1 week",
+  "level": "Moderate",
+  "blurb": "The single highest-impact kitchen skill that is not cooking. A sharp knife is safer, faster and more pleasant, and whetstone sharpening takes about a week to learn properly.",
+  "gear": [
+    "A combination whetstone, roughly 1000 and 3000 grit",
+    "A honing rod",
+    "A damp cloth to stop the stone sliding"
+  ],
+  "steps": [
+    "Soak the stone if it is a soaking type, and set it on a non-slip base.",
+    "Find the angle: most European knives want about 20 degrees per side, Japanese knives about 15. Colour the bevel with a marker to see exactly what you are removing.",
+    "Grind one side with even strokes, edge leading, covering the whole blade including the tip, until a burr forms along the entire opposite edge.",
+    "Flip and repeat until the burr forms on the first side.",
+    "Refine on the finer grit with lighter alternating strokes, then strop on cardboard or leather to remove the burr.",
+    "Test on paper, then a tomato. Learn to hone with the rod between sharpenings to keep the edge straight."
+  ],
+  "tips": [
+    "Honing is not sharpening. A rod realigns an edge, a stone removes metal. Do both, at different frequencies.",
+    "Pull-through sharpeners tear the edge and shorten the life of a good knife.",
+    "Consistency of angle beats everything else. A slightly wrong but consistent angle is far better than a wandering correct one."
+  ],
+  "proof": "A blunt knife you sharpened cleanly slices a ripe tomato under its own weight."
+}

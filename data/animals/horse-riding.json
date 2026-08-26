@@ -1,0 +1,25 @@
+{
+  "id": "horse-riding",
+  "name": "Ride a horse at walk and trot",
+  "time": "10–20 lessons",
+  "level": "Hard",
+  "blurb": "Riding is a partnership with a large animal that has its own opinions. Lessons are non-negotiable — this is not one to teach yourself.",
+  "gear": [
+    "Lessons at a reputable riding school",
+    "A properly fitted riding hat to current safety standard",
+    "Boots with a small heel, and gloves"
+  ],
+  "steps": [
+    "Learn ground safety first: how to approach, lead and stand beside a horse without getting stood on or startled.",
+    "Learn to mount and dismount correctly, and to check the girth and stirrup length.",
+    "Learn the basic position: heels down, shoulders back, a straight line from ear to shoulder to hip to heel.",
+    "Learn to sit the walk and to steer with your seat and legs, not by pulling on the reins.",
+    "Learn rising trot, matching the rhythm and the correct diagonal.",
+    "Learn to stop and slow with your body first, and to fall safely."
+  ],
+  "tips": [
+    "Balancing on the reins hurts the horse’s mouth and unbalances you. Balance comes from the seat.",
+    "Always wear a current-standard hat. Head injuries are the main serious risk in riding."
+  ],
+  "proof": "You can tack up with supervision, walk, trot and steer independently in a school lesson."
+}

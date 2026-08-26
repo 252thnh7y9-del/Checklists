@@ -1,0 +1,25 @@
+{
+  "id": "paint-a-room",
+  "name": "Paint a room properly",
+  "time": "A weekend",
+  "level": "Easy",
+  "blurb": "Ninety percent preparation, ten percent painting. The difference between a decorator’s finish and an amateur one is almost entirely in the work done before the lid comes off.",
+  "gear": [
+    "Dust sheets, filler, sandpaper, sugar soap",
+    "Good brushes and a decent roller with the right nap",
+    "Frog tape, and a paint suited to the surface"
+  ],
+  "steps": [
+    "Clear and cover everything, then fill holes, sand smooth and wash the walls. Paint over dust and it will not stick.",
+    "Prime bare plaster, filler patches and any stains, or they will flash through the topcoat.",
+    "Cut in the edges first with a brush, in a band wide enough for the roller to reach comfortably.",
+    "Roll in overlapping W or M patterns and lay off in one direction, keeping a wet edge so it does not band.",
+    "Do two thin coats rather than one thick one, respecting the recoat time on the tin.",
+    "Remove masking tape while the last coat is still slightly tacky for the sharpest line."
+  ],
+  "tips": [
+    "Overloading the roller causes runs and spatter. Load properly on the tray ramp.",
+    "Working in patches that dry before you join them causes visible lap marks. Keep moving and keep a wet edge."
+  ],
+  "proof": "An evenly covered room with sharp edges, no roller marks and no flashing under a raking light."
+}

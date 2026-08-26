@@ -1,0 +1,23 @@
+{
+  "id": "markdown",
+  "name": "Learn Markdown",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "A plain-text formatting syntax you can learn in an hour and will use for the rest of your working life — notes, documentation, issues, chat and static sites all speak it.",
+  "gear": [
+    "Any text editor with a preview pane"
+  ],
+  "steps": [
+    "Learn the core syntax: headings, bold, italic, links, images, ordered and unordered lists.",
+    "Learn code formatting — inline backticks and fenced blocks with a language for syntax highlighting.",
+    "Learn tables, blockquotes and horizontal rules.",
+    "Learn that a line break needs a blank line, which is the single most common source of confusion.",
+    "Learn the flavour differences: GitHub Flavored Markdown adds task lists, tables and strikethrough that basic Markdown lacks.",
+    "Convert your existing notes to it and use it for everything for a fortnight."
+  ],
+  "tips": [
+    "Markdown renders differently in different tools. Check where it will actually be displayed.",
+    "Task lists with checkboxes are supported almost everywhere and are quietly very useful."
+  ],
+  "proof": "You write a full document with headings, tables, code blocks and links without looking anything up."
+}

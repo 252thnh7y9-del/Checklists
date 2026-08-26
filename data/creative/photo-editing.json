@@ -1,0 +1,24 @@
+{
+  "id": "photo-editing",
+  "name": "Learn basic photo editing",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "A repeatable editing workflow — exposure, white balance, contrast, colour, local adjustments, crop — takes competent photos to good ones without making them look processed.",
+  "gear": [
+    "Lightroom, Darktable, Capture One or a phone editor",
+    "RAW files, which hold far more editable information than JPEGs"
+  ],
+  "steps": [
+    "Shoot RAW and understand why: far more recoverable highlight and shadow detail.",
+    "Establish a fixed order: white balance, exposure, highlights and shadows, contrast, then colour, then local adjustments, then crop and sharpen last.",
+    "Learn the tone curve, which gives finer control than the basic sliders.",
+    "Learn local adjustments: masks, gradients and brushes to lift a face or darken a sky.",
+    "Learn colour grading with HSL, adjusting individual colours rather than the whole image.",
+    "Edit the same image three ways, leave it a day, and pick which still looks right."
+  ],
+  "tips": [
+    "Over-editing is the beginner signature: crushed blacks, oversaturated skies, heavy clarity. Come back the next day before publishing.",
+    "Build presets from your own repeated edits rather than buying someone else’s look."
+  ],
+  "proof": "You take a flat RAW file to a finished image in under five minutes with a workflow you can repeat."
+}

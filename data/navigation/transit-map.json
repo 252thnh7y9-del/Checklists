@@ -1,0 +1,24 @@
+{
+  "id": "transit-map",
+  "name": "Read a subway or transit map quickly",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "Transit maps are schematic diagrams, not geography. Understanding that, plus a few reading habits, gets you around any new city’s network in minutes.",
+  "gear": [
+    "A transit map — paper or app",
+    "A city with a network"
+  ],
+  "steps": [
+    "Understand the abstraction: the map preserves topology and order, not distance or direction. Two stations close on the map can be far apart in reality.",
+    "Learn to identify interchanges and how they are marked, since journey planning is mostly about choosing where to change.",
+    "Learn to read direction: lines are labelled by their terminus, so you need the end-of-line name, not the compass direction.",
+    "Learn the zone or fare structure before travelling, and how to buy the right ticket.",
+    "Plan a multi-change journey on paper and then walk it.",
+    "Learn to spot when walking is faster — adjacent stations are often five minutes apart on foot."
+  ],
+  "tips": [
+    "Always check the terminus on the platform indicator. Boarding the right line in the wrong direction is the classic mistake.",
+    "Check whether your interchange requires leaving the paid area, which can mean a second fare."
+  ],
+  "proof": "You plan and execute a three-change journey in an unfamiliar city without hesitating at any platform."
+}

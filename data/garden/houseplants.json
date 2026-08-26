@@ -1,0 +1,25 @@
+{
+  "id": "houseplants",
+  "name": "Keep houseplants alive",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "Almost every houseplant death is overwatering, wrong light, or the plant being in the wrong room. Get those three right and most plants look after themselves.",
+  "gear": [
+    "A few forgiving plants: pothos, snake plant, ZZ, spider plant",
+    "Pots with drainage holes, without exception",
+    "A watering can and a moisture meter or your finger"
+  ],
+  "steps": [
+    "Match plant to light honestly: watch a spot through a day before putting anything in it. \"Bright indirect\" means bright, not dark.",
+    "Water by checking, not by schedule: push a finger two knuckles into the soil and only water if it is dry.",
+    "When you do water, water thoroughly until it runs out the bottom, then empty the saucer. Never leave a pot standing in water.",
+    "Learn the symptoms: yellow lower leaves and soggy soil is overwatering; crisp brown edges is underwatering or dry air.",
+    "Repot when roots come out of the drainage holes, going up only one pot size.",
+    "Feed only during active growth in spring and summer, at half the stated strength."
+  ],
+  "tips": [
+    "Pots without drainage holes kill plants. A decorative pot needs an inner pot with drainage.",
+    "More houseplants die of kindness than neglect. When in doubt, wait another few days."
+  ],
+  "proof": "Five plants alive and visibly growing a year after you got them."
+}

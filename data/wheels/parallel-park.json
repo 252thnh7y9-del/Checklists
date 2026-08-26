@@ -1,0 +1,24 @@
+{
+  "id": "parallel-park",
+  "name": "Parallel park reliably",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "A reference-point procedure, not a knack. Learn the three markers for your car and it becomes repeatable rather than a gamble.",
+  "gear": [
+    "A car",
+    "Two cones, or a quiet street with real gaps"
+  ],
+  "steps": [
+    "Find a gap about one and a half car lengths, signal, and pull alongside the front car with your rear wheels roughly level with its rear bumper.",
+    "Reverse straight until your rear wheels line up with the other car’s rear bumper — your first fixed reference point.",
+    "Turn the wheel fully towards the kerb and reverse until your car sits at roughly 45 degrees.",
+    "Straighten the wheel and reverse until your front bumper clears the other car’s rear corner.",
+    "Turn fully the other way and reverse in, then straighten up and adjust.",
+    "Practise with cones until it takes one attempt, then practise on real streets."
+  ],
+  "tips": [
+    "Go slowly and steer fast. Almost every failed park is from moving too quickly.",
+    "Reference points differ per car. Recalibrate when you drive something unfamiliar."
+  ],
+  "proof": "You park in a gap only slightly longer than the car, first attempt, without touching the kerb."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "morse-recognize",
+  "name": "Learn Morse code well enough to recognise common letters",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Learn it by sound from the start — as rhythms, never as dots and dashes on a page — and the common letters become recognisable within a fortnight.",
+  "gear": [
+    "A Morse trainer app using the Koch or Farnsworth method",
+    "Headphones"
+  ],
+  "steps": [
+    "Learn by sound only. Reading dots and dashes visually creates a translation step you will spend months unlearning.",
+    "Use the Koch method: start with just two characters at full speed, adding one more each time you hit 90% accuracy.",
+    "Learn characters as rhythmic sounds — “dah-di-dah-dit” as a single unit, not four events.",
+    "Learn the high-frequency letters first: E, T, A, I, N, M, S, O.",
+    "Practise 15 minutes daily. Little and often matters far more here than long sessions.",
+    "Learn SOS and your own name and callsign to fluency."
+  ],
+  "tips": [
+    "Never use a chart that shows dots and dashes visually. It is the single biggest cause of a permanent speed ceiling.",
+    "Full character speed with long gaps (the Farnsworth approach) is far better than slowing the characters down."
+  ],
+  "proof": "You copy a short plain-text message by ear at 10 words per minute."
+}

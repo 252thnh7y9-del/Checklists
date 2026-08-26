@@ -1,0 +1,25 @@
+{
+  "id": "prune-shrub",
+  "name": "Prune a shrub properly",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Most pruning damage comes from cutting at the wrong time of year or hacking rather than shaping. The rules are simple once you know what a plant flowers on.",
+  "gear": [
+    "Sharp, clean secateurs",
+    "Loppers and a pruning saw for thicker wood",
+    "Gloves"
+  ],
+  "steps": [
+    "Learn the timing rule: shrubs that flower on old wood are pruned right after flowering; those flowering on new wood are pruned in late winter.",
+    "Start with the three Ds — dead, damaged and diseased — which is always safe to remove.",
+    "Remove crossing and inward-growing branches to open the centre to light and air.",
+    "Cut just above an outward-facing bud, at a slight angle away from it.",
+    "Never remove more than about a third in one season, and step back frequently to check the shape.",
+    "Clean your blades between plants to avoid spreading disease."
+  ],
+  "tips": [
+    "Pruning a spring-flowering shrub in winter removes all this year’s flowers. Identify the plant first.",
+    "Leaving stubs invites die-back. Cut back to a bud or to the branch collar."
+  ],
+  "proof": "A shrub you pruned that comes back healthier and flowers well the following season."
+}

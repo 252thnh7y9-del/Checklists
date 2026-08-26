@@ -1,0 +1,26 @@
+{
+  "id": "sourdough-starter",
+  "name": "Grow a sourdough starter",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Flour and water, left to catch wild yeast and bacteria. Most failures are impatience: there is a false rise around day two that fools nearly everyone.",
+  "gear": [
+    "Wholemeal or rye flour to start, then strong white",
+    "A jar and a scale",
+    "Non-chlorinated water"
+  ],
+  "steps": [
+    "Mix 50 g wholemeal flour and 50 g water in a jar, cover loosely and leave somewhere warm.",
+    "Expect vigorous bubbling around day two — this is usually the wrong bacteria, and it will die back. Keep going.",
+    "From day three, discard all but about 25 g and feed with equal weights of flour and water, once or twice daily.",
+    "Watch for the real signs of maturity: a predictable rise and fall, a pleasant sour-yoghurt smell, and doubling within four to six hours of feeding.",
+    "Test with the float test: a spoonful of ripe starter should float in water.",
+    "Once it doubles reliably, bake with it, and settle into a maintenance rhythm — fridge storage with weekly feeds is fine."
+  ],
+  "tips": [
+    "Days three to five are the discouraging dead zone. Almost everyone who quits, quits here.",
+    "Cold kitchens slow everything down. Find a warm spot around 24 °C.",
+    "Chlorinated tap water can inhibit it. Leave water out overnight or filter it."
+  ],
+  "proof": "A starter that reliably doubles in four to six hours and raises a loaf without commercial yeast."
+}

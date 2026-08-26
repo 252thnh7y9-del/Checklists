@@ -1,0 +1,24 @@
+{
+  "id": "clouds",
+  "name": "Identify common cloud formations",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Ten cloud types, sorted by height and shape, let you read the next several hours of weather off the sky — a genuinely useful skill for anyone who goes outdoors.",
+  "gear": [
+    "The sky",
+    "A phone camera for a personal reference album"
+  ],
+  "steps": [
+    "Learn the three altitude families: cirro- (high, icy), alto- (middle), and low cloud, plus the vertically developed ones.",
+    "Learn the shape words: cumulus is heaped, stratus is layered, nimbus means rain-bearing, cirrus is wispy.",
+    "Combine them: cirrostratus, altocumulus, stratocumulus, nimbostratus, cumulonimbus.",
+    "Learn the classic warm-front sequence — cirrus, then cirrostratus, then altostratus, then rain — which gives 12 to 24 hours of warning.",
+    "Learn the towering cumulus to cumulonimbus progression that means a thunderstorm within hours.",
+    "Photograph the sky daily for a fortnight, name each type, and note what the weather actually did."
+  ],
+  "tips": [
+    "Height and shape, in that order. Getting the family right narrows it to two or three options immediately.",
+    "A halo around the sun or moon means high ice cloud, which often means rain in a day."
+  ],
+  "proof": "You name the cloud types overhead and correctly predict the next few hours, several days running."
+}

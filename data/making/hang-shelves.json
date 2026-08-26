@@ -1,0 +1,25 @@
+{
+  "id": "hang-shelves",
+  "name": "Hang shelves level",
+  "time": "1 session",
+  "level": "Moderate",
+  "blurb": "Marking out, choosing the right fixings for the wall type, and getting it level — a shelf that sags or tilts is a permanent daily annoyance.",
+  "gear": [
+    "A spirit level or laser level",
+    "Drill, appropriate fixings, screwdriver",
+    "Pencil, tape measure, stud detector"
+  ],
+  "steps": [
+    "Decide the height and mark a level line across the wall with a spirit level, checking it in both directions.",
+    "Identify the wall type: solid masonry needs plugs, plasterboard needs cavity anchors or a stud.",
+    "Locate studs, or choose cavity fixings rated well above the intended load.",
+    "Mark the bracket holes off the level line, not off the previous bracket — errors compound.",
+    "Drill, plug and fix the first bracket loosely, then use the level across to position the second before tightening both.",
+    "Fit the shelf, check level again, and load it gradually to test."
+  ],
+  "tips": [
+    "Floors and ceilings in most houses are not level. Never use them as a reference.",
+    "Match fixing to load. Plasterboard plugs pull out under book weight surprisingly easily."
+  ],
+  "proof": "A loaded shelf that reads level in both directions and does not move when you lean on it."
+}

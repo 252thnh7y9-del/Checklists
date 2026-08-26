@@ -1,0 +1,25 @@
+{
+  "id": "paddleboard",
+  "name": "Stand-up paddleboard",
+  "time": "2–4 sessions",
+  "level": "Easy",
+  "blurb": "The easiest way onto the water. Standing up takes one session; paddling in a straight line without switching sides every three strokes takes a few more.",
+  "gear": [
+    "A wide, stable board",
+    "A leash — it keeps you attached to your flotation",
+    "A buoyancy aid and appropriate clothing"
+  ],
+  "steps": [
+    "Start kneeling in flat, sheltered water and paddle until the board feels stable.",
+    "Stand by moving one foot at a time to where your knees were, feet hip-width, parallel, mid-board.",
+    "Look at the horizon, not your feet. Knees soft, hips loose, weight centred.",
+    "Learn the paddle grip: one hand on the top, one on the shaft, and the blade angled away from you, not towards you.",
+    "Paddle with torso rotation, planting the blade well forward and pulling to your feet.",
+    "Learn to turn with a sweep stroke and a step back, and always wear the leash."
+  ],
+  "tips": [
+    "Almost everyone holds the paddle backwards at first. The blade angles forward, away from the handle.",
+    "Offshore wind is the danger on a paddleboard — it is easy to get blown out and impossible to paddle back. Check the forecast."
+  ],
+  "proof": "You paddle a kilometre standing, turning at each end, without falling in."
+}

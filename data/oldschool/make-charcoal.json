@@ -1,0 +1,27 @@
+{
+  "id": "make-charcoal",
+  "name": "Make charcoal",
+  "time": "1–2 sessions",
+  "level": "Moderate",
+  "blurb": "Wood heated without oxygen becomes nearly pure carbon: hotter-burning, smokeless fuel. A tin-can retort makes it a safe afternoon project.",
+  "gear": [
+    "A metal tin with a small vent hole",
+    "Dry hardwood, cut small",
+    "A fire pit and long tongs",
+    "Gloves and eye protection, outdoors only"
+  ],
+  "steps": [
+    "Understand the principle: pyrolysis drives off water and volatiles, leaving carbon, and the exclusion of oxygen is what stops it becoming ash.",
+    "Pack a metal tin with dry hardwood pieces and make one small vent hole in the lid for gases to escape.",
+    "Build a good fire and place the tin in the coals.",
+    "Watch the vent: it will jet smoke and then flame as the wood gases burn off. When that stops, the process is finished.",
+    "Remove the tin with tongs, plug the vent hole, and let it cool completely sealed — opening it hot lets air in and burns your charcoal to ash.",
+    "Test the result: good charcoal is light, black through, rings when tapped, and lights easily."
+  ],
+  "tips": [
+    "Do this outdoors only. The escaping gases include carbon monoxide and they are flammable.",
+    "Opening the tin while hot is the classic way to lose the whole batch to sudden combustion.",
+    "Cool it fully before storing — charcoal can reignite hours later."
+  ],
+  "proof": "A batch of charcoal that lights readily and burns hot with almost no smoke."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "soldering",
+  "name": "Solder two wires together",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "A good joint is shiny, concave and mechanically sound. The core insight is that you heat the work, not the solder — beginners nearly always get this backwards.",
+  "gear": [
+    "A temperature-controlled soldering iron",
+    "Rosin-core solder",
+    "Helping hands, side cutters, heat-shrink tubing",
+    "Ventilation and eye protection"
+  ],
+  "steps": [
+    "Set the iron to around 350 °C and tin the tip: melt a little solder onto it and wipe on brass wool.",
+    "Prepare the wires: strip them, twist the strands, and tin each one separately.",
+    "Join them — a lineman’s splice or a hook joint, mechanically sound before soldering.",
+    "Heat the joint with the iron and feed solder into the joint, not onto the iron. The solder should flow in by capillary action.",
+    "Remove heat and hold still while it solidifies. A frosty, lumpy joint means it moved or was too cold.",
+    "Insulate with heat-shrink, slid on before you soldered, and tug-test the finished joint."
+  ],
+  "tips": [
+    "A dull, grey blob is a cold joint and will fail. Reheat and add flux.",
+    "Never solder live circuits, work in ventilation, and wash your hands afterwards.",
+    "Keep the tip tinned. An oxidised black tip will not transfer heat and makes everything harder."
+  ],
+  "proof": "Two joints that are shiny and smooth, survive a firm tug, and are neatly heat-shrunk."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "identify-trees",
+  "name": "Identify common trees",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "Fifteen local species, identified in all four seasons — including in winter, when there are no leaves and most people are lost.",
+  "gear": [
+    "A regional tree guide with a key",
+    "A hand lens",
+    "A notebook"
+  ],
+  "steps": [
+    "Start with the ten commonest species where you live and learn them by leaf first.",
+    "Learn to use the whole tree: bark texture, branching pattern, buds, overall silhouette and habitat.",
+    "Learn the big divisions: opposite versus alternate branching, compound versus simple leaves, needle arrangement in conifers.",
+    "Learn winter identification by twig and bud, which is the real test and the most useful skill.",
+    "Visit the same trees monthly through a year and photograph them.",
+    "Learn the useful associations: which trees indicate wet ground, which indicate old woodland."
+  ],
+  "tips": [
+    "Opposite branching narrows the field enormously in temperate regions — very few families have it.",
+    "Bark changes dramatically with age. Learn both young and mature versions of each species."
+  ],
+  "proof": "You identify 15 species in summer and can still name ten of them in midwinter with no leaves."
+}

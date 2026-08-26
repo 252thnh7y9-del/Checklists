@@ -1,0 +1,25 @@
+{
+  "id": "cpr",
+  "name": "Learn CPR",
+  "time": "A half-day course",
+  "level": "Moderate",
+  "blurb": "The single highest-value skill on this entire list. Survival from a cardiac arrest roughly doubles or trebles when a bystander starts CPR, and most people who could help stand and watch because they were never taught.",
+  "gear": [
+    "A place on an accredited first aid course — this one genuinely requires hands-on practice",
+    "A manikin, which the course provides"
+  ],
+  "steps": [
+    "Book a course. Reading about chest compressions does not build the skill; pressing on a manikin under instruction does.",
+    "Learn the sequence: check danger, check response, shout for help, open the airway, check breathing for no more than ten seconds.",
+    "Learn to recognise agonal breathing — occasional gasping — as cardiac arrest, not as breathing. This is the mistake that costs lives.",
+    "Call emergency services, or send a specific named person, and ask for an AED.",
+    "Learn compressions: centre of the chest, 5–6 cm deep on an adult, 100–120 per minute, letting the chest recoil fully between each.",
+    "Learn that hands-only CPR is entirely acceptable if you are untrained in rescue breaths or unwilling to give them, and practise on the manikin until the depth and rate are automatic."
+  ],
+  "tips": [
+    "Compressions on adults are deeper and harder than people expect. Ribs sometimes crack; you continue anyway.",
+    "Child and infant CPR differ. If you are around children, take a course that covers them specifically.",
+    "Refresh it. CPR skills measurably decay within months, which is why certificates expire."
+  ],
+  "proof": "A current certificate from an accredited course, and you can demonstrate correct depth and rate on a manikin."
+}

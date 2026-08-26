@@ -1,0 +1,23 @@
+{
+  "id": "balance-objects",
+  "name": "Balance unusual objects",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Balancing a chair on your chin, a broom on a finger, or stacking rocks. It comes down to finding the centre of mass and making constant tiny corrections.",
+  "gear": [
+    "A broom, a chair, stones, whatever is to hand"
+  ],
+  "steps": [
+    "Start with a broom on your palm: look at the top of the handle, not your hand, and let your hand move under it.",
+    "Learn the physics: longer objects are far easier to balance because they fall more slowly.",
+    "Learn to find the centre of mass by feel before trying to balance anything.",
+    "Progress to smaller and shorter objects, which demand faster corrections.",
+    "Learn rock balancing: search for the three contact points where two stones lock, and work slowly with steady breathing.",
+    "Learn a chin balance with a light chair, keeping your eyes on the highest point."
+  ],
+  "tips": [
+    "Watching the top rather than the base is the single trick that makes balancing work.",
+    "Small early corrections beat large late ones, in every balancing task."
+  ],
+  "proof": "You balance three different objects for at least 30 seconds each."
+}

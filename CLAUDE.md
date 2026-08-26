@@ -30,16 +30,30 @@ page. No build step for the site itself — `index.html` loads the CSS and the
 scripts directly, in order.
 
 ```
-index.html        shell, nav, footer
-css/styles.css    all styling; light/dark defined at token level
-css/fonts.css     generated — Google Fonts inlined as data URIs
-js/categories.js  the 14 categories
-js/data/*.js      the skills, one file per category (21 files)
-js/store.js       localStorage persistence, fails soft when storage is blocked
-js/app.js         hash router and views
+index.html            shell, nav, footer
+css/styles.css        all styling; light/dark defined at token level
+css/fonts.css         generated — Google Fonts inlined as data URIs
+data/categories.json  the 21 categories, in home-page order
+data/<cat>/index.json that category's skill ids, in display order
+data/<cat>/<id>.json  one skill — the source you edit
+js/skills.js          GENERATED from data/ — never edit by hand
+js/store.js           localStorage persistence, fails soft when storage is blocked
+js/app.js             hash router and views
 ```
 
-Two generators, run only when their inputs change:
+**`data/` is the source; `js/skills.js` is compiled from it and committed.**
+Pages serves the repo as-is with no build step, a `<script src>` cannot load JSON,
+and fetching 423 files at runtime would break `file://` and the offline bundle —
+hence the compile. After any edit under `data/`, run `node build-data.js`, or the
+site deploys unchanged. CI runs `node build-data.js --check` to catch exactly that.
+
+The build validates as it goes and refuses to emit output on: a missing required
+field, an id that disagrees with its filename, a level outside Easy/Moderate/Hard,
+a duplicate id, a stray `cat` field, or `index.json` disagreeing with the folder.
+Adding a category means editing `data/categories.json` and adding a folder —
+`index.html` is not involved.
+
+Two other generators, run only when their inputs change:
 
 - `node build-fonts.js` — regenerates `css/fonts.css`. Only if the typefaces change.
 - `node build-artifact.js out.html` — bundles everything into one self-contained
@@ -70,9 +84,6 @@ Two generators, run only when their inputs change:
 - **Every colour is defined on bare `:root` first.** Dark is a token override in
   two guarded blocks. A colour defined only inside a media or `[data-theme]`
   block renders one theme's text on the other theme's ground.
-- **Every category needs a `<script>` tag in index.html.** Adding a data file
-  without one silently drops the whole category; the bundler reads its script
-  list from that markup too.
 - **Skill copy is specific and honest** — real steps, real failure modes, a
   concrete milestone. Several skills carry genuine safety notes (edible plants,
   charcoal fumes, whip and card throwing, mains wiring, lye, welding, river

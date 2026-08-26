@@ -1,0 +1,23 @@
+{
+  "id": "recognise-stroke-heart",
+  "name": "Recognise a stroke or heart attack",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "Both are time-critical: treatment options narrow by the hour. Recognising them and calling immediately is a skill anyone can learn in an evening.",
+  "gear": [
+    "Nothing but the willingness to learn the signs"
+  ],
+  "steps": [
+    "Learn FAST for stroke: Face drooping, Arm weakness, Speech difficulty, Time to call emergency services.",
+    "Learn the less obvious stroke signs too: sudden vision loss, severe unexplained headache, sudden loss of balance or coordination.",
+    "Learn heart attack signs: central chest pain or pressure, possibly radiating to arm, jaw or back, with sweating, nausea or breathlessness.",
+    "Learn that presentation differs — women, older people and those with diabetes more often have atypical symptoms such as fatigue, breathlessness or back pain rather than crushing chest pain.",
+    "Call emergency services immediately rather than driving them yourself or waiting to see if it passes.",
+    "While waiting: keep them still and calm, sitting up for a suspected heart attack, and follow the dispatcher’s instructions about aspirin."
+  ],
+  "tips": [
+    "Symptoms that come and go still need an emergency call — a mini-stroke often precedes a major one.",
+    "Never let someone talk you out of calling. Embarrassment is a poor reason to lose brain tissue."
+  ],
+  "proof": "You can run through FAST and the atypical presentations from memory, and you would call without hesitating."
+}

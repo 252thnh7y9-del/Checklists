@@ -1,0 +1,25 @@
+{
+  "id": "maintain-knives",
+  "name": "Sharpen and maintain kitchen knives",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Beyond a one-off sharpening: knowing when to hone, when to sharpen, how to store and how to wash so a good knife lasts thirty years.",
+  "gear": [
+    "Whetstones, coarse and fine",
+    "A honing rod",
+    "A magnetic strip or knife block"
+  ],
+  "steps": [
+    "Learn the difference between honing (realigning the edge, weekly) and sharpening (removing metal, every few months).",
+    "Learn to hone properly: consistent angle, light pressure, alternating sides, a few strokes only.",
+    "Learn whetstone sharpening: raise a burr on one side, then the other, then refine and strop.",
+    "Learn the destroyers: the dishwasher, glass or stone boards, leaving knives wet, and scraping the board with the edge instead of the spine.",
+    "Store on a magnetic strip or in a block, never loose in a drawer.",
+    "Set a maintenance rhythm and stick to it — a schedule beats waiting until it is unusable."
+  ],
+  "tips": [
+    "Scraping chopped food off the board with the blade edge dulls it faster than cutting does. Use the spine.",
+    "Hand wash and dry immediately, even for stainless."
+  ],
+  "proof": "Every knife in your kitchen passes the paper test and you can say when each was last sharpened."
+}

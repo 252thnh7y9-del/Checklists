@@ -1,0 +1,25 @@
+{
+  "id": "identify-birds",
+  "name": "Identify common birds in your area",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "Twenty local species covers almost everything you will see in a garden or park. Learning them turns background noise into information.",
+  "gear": [
+    "A regional bird guide or app",
+    "Binoculars, 8x42 is the standard",
+    "A notebook or a birding app for records"
+  ],
+  "steps": [
+    "Learn the ten most common species where you live first — they account for most sightings and give you a size and shape baseline.",
+    "Learn to identify by GISS: general size, shape, behaviour and habitat, rather than by plumage detail.",
+    "Learn the calls of five species. Sound identifies far more birds than sight does, especially in woodland.",
+    "Keep a list with date, place and what the bird was doing.",
+    "Visit the same patch weekly through a season to see how the population changes.",
+    "Use a sound-identification app to check yourself, but guess before you look."
+  ],
+  "tips": [
+    "Behaviour is often more diagnostic than colour — how it flies, where it feeds, whether it bobs.",
+    "Juveniles and winter plumage confuse everyone. Do not assume you have found a rarity."
+  ],
+  "proof": "You identify 20 local species by sight and five by call, unaided."
+}

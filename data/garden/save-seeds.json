@@ -1,0 +1,25 @@
+{
+  "id": "save-seeds",
+  "name": "Save your own seed",
+  "time": "A season",
+  "level": "Moderate",
+  "blurb": "Free seed for next year, from your best plants. It works reliably for some crops and not at all for others, and knowing which is the whole skill.",
+  "gear": [
+    "Paper envelopes and labels",
+    "A sieve and a bowl",
+    "Airtight jars for storage"
+  ],
+  "steps": [
+    "Start with self-pollinating crops — tomatoes, beans, peas, lettuce — which come true from saved seed.",
+    "Avoid saving from F1 hybrids: the next generation will not resemble the parent.",
+    "Let the seed mature fully on the plant: beans until the pods rattle, tomatoes until overripe.",
+    "For wet seeds like tomatoes, ferment the pulp in water for a few days to remove the germination-inhibiting coating, then rinse and dry.",
+    "Dry thoroughly on a plate, never in direct heat, until the seed snaps rather than bends.",
+    "Label with variety and year, and store cool, dark and dry."
+  ],
+  "tips": [
+    "Damp seed rots or germinates in storage. Dryness matters more than temperature.",
+    "Squashes and brassicas cross-pollinate readily; saved seed from those is a lottery without isolation."
+  ],
+  "proof": "You grow a crop from seed you saved the previous year, and it comes true."
+}

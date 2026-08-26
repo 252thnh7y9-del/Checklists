@@ -1,0 +1,24 @@
+{
+  "id": "music-notation",
+  "name": "Learn basic music notation",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Enough to read a simple melody line: the staff, note values, key signatures and time signatures. It makes every other musical skill on this list cheaper to learn.",
+  "gear": [
+    "Beginner sheet music",
+    "Manuscript paper or a notation app"
+  ],
+  "steps": [
+    "Learn the treble staff, then the bass staff, using the classic mnemonics, and then practise until you no longer need them.",
+    "Learn note values and rests: whole, half, quarter, eighth, and dots and ties.",
+    "Learn time signatures and how to count each bar out loud.",
+    "Learn key signatures and the circle of fifths well enough to name the key of a piece at a glance.",
+    "Learn the common expression marks: dynamics, articulation, repeats and codas.",
+    "Sight-read one very simple new piece every day for two weeks."
+  ],
+  "tips": [
+    "Rhythm is where most beginners struggle, not pitch. Clap the rhythm before you play anything.",
+    "Read music you can already play by ear first — you get instant feedback on whether you read it right."
+  ],
+  "proof": "You sight-read a simple unfamiliar melody at tempo, correct notes and correct rhythm."
+}

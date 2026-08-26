@@ -1,0 +1,26 @@
+{
+  "id": "ukulele",
+  "name": "Play 5–10 songs on ukulele",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Four nylon strings, short scale, forgiving action — the ukulele gets you playing real songs faster than any other instrument. Four chords cover an enormous amount of popular music.",
+  "gear": [
+    "A soprano or concert ukulele",
+    "A clip-on tuner",
+    "A chord chart"
+  ],
+  "steps": [
+    "Tune it (G-C-E-A) and learn to retune before every session — new strings drift constantly for the first fortnight.",
+    "Learn C, F, Am and G. That set alone plays hundreds of songs.",
+    "Drill the chord changes without strumming: one minute per pair, counting how many clean changes you make, and beat the number tomorrow.",
+    "Learn a basic down-down-up-up-down-up strum and keep it going even while changing chords.",
+    "Learn your first full song end to end, including the part where you mess up and carry on.",
+    "Add G7, Dm and Em, then build a five-song set you can play without a chart."
+  ],
+  "tips": [
+    "Buzzing means your fingers are flat rather than arched, or too far from the fret.",
+    "Practise the changes, not the chords. Everyone can hold a C; the skill is arriving at it in time.",
+    "Sing while you play as soon as possible, badly. It forces the strumming to become automatic."
+  ],
+  "proof": "You play five songs start to finish, from memory, singing along, without stopping."
+}

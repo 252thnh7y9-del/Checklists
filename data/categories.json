@@ -1,0 +1,107 @@
+[
+  {
+    "id": "puzzles",
+    "name": "Puzzles, Tricks & Brain Skills",
+    "blurb": "Cubes, cards, memory systems and mental arithmetic — the skills that look like magic and are mostly method."
+  },
+  {
+    "id": "dexterity",
+    "name": "Coordination & Dexterity",
+    "blurb": "Juggling, spinning, shuffling. Pure repetition skills where your hands learn faster than your head."
+  },
+  {
+    "id": "physical",
+    "name": "Physical Skills",
+    "blurb": "Handstands, rope climbs, first pull-ups and fight-sport fundamentals you can train in a corner of a room."
+  },
+  {
+    "id": "water",
+    "name": "Water Skills",
+    "blurb": "Swimming, surfing, kayaking and the water-safety knowledge that turns open water from a hazard into a place to be."
+  },
+  {
+    "id": "wheels",
+    "name": "Wheels, Boards & Snow",
+    "blurb": "Bikes, boards, blades, skis and a manual gearbox — the balance skills that move you, and the one that gets you a hire car anywhere."
+  },
+  {
+    "id": "outdoors",
+    "name": "Outdoor & Survival Skills",
+    "blurb": "Fire, knots, shelter, water and navigation — the classic competences, each with a clear pass/fail."
+  },
+  {
+    "id": "garden",
+    "name": "Garden & Growing",
+    "blurb": "Seeds, soil, compost and pruning. Nothing here needs a garden — a windowsill and a season will do."
+  },
+  {
+    "id": "safety",
+    "name": "First Aid & Safety",
+    "blurb": "CPR, choking, bleeding, burns and the shutoff valves in your own home. The highest-stakes category on the list."
+  },
+  {
+    "id": "music",
+    "name": "Music & Rhythm",
+    "blurb": "You will not become a musician in three weeks, but you can become genuinely good at one narrow musical thing."
+  },
+  {
+    "id": "making",
+    "name": "Making & Repair Skills",
+    "blurb": "Sewing, sharpening, soldering, bikes, cars and drywall — the stop-paying-someone-else tier of adulthood."
+  },
+  {
+    "id": "textile",
+    "name": "Textile & Fibre Crafts",
+    "blurb": "Knitting, crochet, embroidery and mending. Slow, portable crafts that turn string into things you actually wear."
+  },
+  {
+    "id": "cooking",
+    "name": "Cooking & Food Skills",
+    "blurb": "Knife work, dough, sauces and protein cookery. Practise these and you eat the homework."
+  },
+  {
+    "id": "social",
+    "name": "Social & Performance Skills",
+    "blurb": "Stories, speeches, names, listening and dancing — trainable skills that most people leave to chance."
+  },
+  {
+    "id": "games",
+    "name": "Games & Strategy",
+    "blurb": "Poker, backgammon, Go and cribbage — games deep enough to keep repaying attention for decades."
+  },
+  {
+    "id": "animals",
+    "name": "Animals & Pets",
+    "blurb": "Training, handling and reading the animals around you, from your own dog to somebody else’s horse."
+  },
+  {
+    "id": "observation",
+    "name": "Observation & Awareness Skills",
+    "blurb": "Learn to read the sky, the trees, the birds and the map. The world gets noisier in a good way."
+  },
+  {
+    "id": "creative",
+    "name": "Creative Skills",
+    "blurb": "Drawing, lettering, folding, carving, shooting and editing — output-based skills with visible weekly progress."
+  },
+  {
+    "id": "technology",
+    "name": "Technology Skills",
+    "blurb": "Typing, the command line, a first website, spreadsheets, Git and sane security hygiene."
+  },
+  {
+    "id": "navigation",
+    "name": "Navigation & Travel Skills",
+    "blurb": "Maps, compasses, transit systems and carry-on packing: how to arrive without a blue dot to follow."
+  },
+  {
+    "id": "precision",
+    "name": "Precision & Party Skills",
+    "blurb": "The best effort-to-impressiveness ratio on the whole list. Cards, cues, darts, whips and kendama."
+  },
+  {
+    "id": "oldschool",
+    "name": "Old-School Practical Skills",
+    "blurb": "Shorthand, slide rules, wax seals, ties, shoeshine and cordage — analogue competence, quietly satisfying."
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "id": "bunny-hop",
+  "name": "Bunny hop a bike",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Lifting both wheels over an obstacle without clipping it. Genuinely useful for potholes and kerbs, and the foundation of most mountain-bike technique.",
+  "gear": [
+    "A bike with decent tyres",
+    "A stick or a small obstacle",
+    "Flat ground and pads if you are nervous"
+  ],
+  "steps": [
+    "Learn the front wheel lift first: crouch, then explode up and back, pulling the bars towards your hips.",
+    "Learn the rear wheel lift separately: shift forward, drop your heels and scoop the pedals up behind you.",
+    "Combine them in sequence — front up, then push forward and scoop the rear — rather than trying to jump both at once.",
+    "Practise over a stick or a chalk line before anything solid.",
+    "Keep your arms and legs working as suspension, absorbing the landing.",
+    "Build the height gradually, always over something you can safely hit."
+  ],
+  "tips": [
+    "Pulling straight up on the bars does nothing. The lift comes from a body movement back and up.",
+    "Practise over something soft. Clipping a kerb at speed sends you over the bars."
+  ],
+  "proof": "You clear a 15 cm obstacle cleanly with both wheels, ten times in a row."
+}

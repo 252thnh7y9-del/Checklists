@@ -1,0 +1,25 @@
+{
+  "id": "kalimba",
+  "name": "Play the kalimba",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "A thumb piano with tines laid out so that neighbouring notes are never adjacent — which makes it almost impossible to play a genuinely wrong note. Perhaps the fastest instrument to sound good on.",
+  "gear": [
+    "A 17-key kalimba in C",
+    "A tuning hammer",
+    "Tab sheets, which use numbers rather than notation"
+  ],
+  "steps": [
+    "Learn the layout: the lowest note in the centre, alternating up the scale outwards to left and right.",
+    "Learn the thumbnail technique — strike with the nail edge, not the pad, for a clear tone.",
+    "Learn to read kalimba tab, which is just the numbers stamped on the tines.",
+    "Play a simple melody, then add a bass note underneath with the other thumb.",
+    "Learn a rolling arpeggio across several tines, which is the sound the instrument is known for.",
+    "Learn to tune it with the hammer, since tines drift over time."
+  ],
+  "tips": [
+    "A buzzing tine usually needs a tiny nudge sideways, or the sticker beneath it reseating.",
+    "Keep your thumbnails slightly long; playing with the flesh gives a dull thud."
+  ],
+  "proof": "You play three pieces from memory with a melody and a bass line."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dog-basic-cues",
+  "name": "Teach a dog sit, stay and come",
+  "time": "4–8 weeks",
+  "level": "Moderate",
+  "blurb": "Three cues that cover most of daily life with a dog. Modern training is reward-based and takes short, frequent sessions rather than long ones.",
+  "gear": [
+    "High-value treats cut very small",
+    "A quiet space with no distractions to start",
+    "Patience and consistency across everyone in the household"
+  ],
+  "steps": [
+    "Learn the principle: reward the behaviour you want the instant it happens, and manage the environment so the wrong behaviour is hard.",
+    "Teach sit by luring with a treat over the nose so the back end drops, then mark and reward. Add the word only once the behaviour is reliable.",
+    "Teach stay by building duration first, then distance, then distraction — one at a time, never all three at once.",
+    "Teach recall as the most rewarding thing that ever happens: enormous rewards, every time, and never call them to something they dislike.",
+    "Keep sessions to a few minutes, several times a day, and end while it is still going well.",
+    "Generalise deliberately — a dog that sits in the kitchen has not learned to sit in the park."
+  ],
+  "tips": [
+    "Never punish a dog that comes back to you, however long it took. It teaches them not to come next time.",
+    "Repeating a cue the dog is ignoring teaches them the cue means nothing. Go back a step instead.",
+    "Aversive methods carry real fallout risk. Reward-based training is both kinder and better evidenced."
+  ],
+  "proof": "Your dog responds first time, in a distracting environment, off lead where it is safe and legal."
+}

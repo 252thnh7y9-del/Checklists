@@ -1,0 +1,26 @@
+{
+  "id": "fillet-fish",
+  "name": "Fillet a fish",
+  "time": "3–4 sessions",
+  "level": "Hard",
+  "blurb": "A flexible blade following the bone structure. Round fish and flat fish need different approaches, and the yield difference between a beginner and a competent cook is enormous.",
+  "gear": [
+    "A flexible filleting knife",
+    "Fish tweezers",
+    "A whole round fish — a trout or sea bass is a good start"
+  ],
+  "steps": [
+    "Scale and gut the fish if it has not been done, working in a sink to contain the mess.",
+    "Cut behind the pectoral fin down to the backbone, then turn the knife flat.",
+    "Run the blade along the backbone from head to tail in long strokes, keeping the blade angled slightly down against the bone rather than sawing.",
+    "Free the fillet over the rib cage, then remove the rib bones with a shallow cut or with tweezers.",
+    "Repeat on the other side, then skin the fillets by holding the tail and running the knife between skin and flesh at a shallow angle.",
+    "Check for pin bones by running a finger down the fillet and pull them with tweezers, in the direction they lie."
+  ],
+  "tips": [
+    "Long strokes, not sawing. Sawing tears the flesh and leaves meat on the frame.",
+    "The frame tells you how you did: any meat left on the bones is yield you lost.",
+    "A sharp flexible knife matters here more than in almost any other kitchen task."
+  ],
+  "proof": "Two clean, intact fillets with no pin bones and almost nothing left on the frame."
+}

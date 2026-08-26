@@ -1,0 +1,27 @@
+{
+  "id": "wood-joints",
+  "name": "Learn basic woodworking joints",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Four joints — butt, lap, dado and a simple mortise and tenon — cover most beginner projects and teach the accurate marking and sawing that everything else depends on.",
+  "gear": [
+    "A handsaw and a chisel set",
+    "A marking gauge, square and pencil",
+    "Clamps and wood glue",
+    "Softwood offcuts to practise on"
+  ],
+  "steps": [
+    "Learn to mark accurately: a sharp knife line beats a pencil line, and a square used consistently from one reference face avoids compounding error.",
+    "Learn to saw to a line, on the waste side, keeping the cut square in both planes.",
+    "Cut a butt joint reinforced with screws or dowels — simple, and it teaches squareness.",
+    "Cut a half-lap joint, which introduces removing material to a precise depth with a chisel.",
+    "Cut a dado or housing joint for shelving.",
+    "Cut a simple mortise and tenon, the joint that teaches real precision, and fit it so it needs a mallet tap but not force."
+  ],
+  "tips": [
+    "Sharpen the chisels first. Blunt chisels crush rather than cut, and are far more dangerous.",
+    "Mark the waste side clearly. Sawing on the wrong side of the line is the classic beginner loss.",
+    "Test-fit dry before glue, every time."
+  ],
+  "proof": "Four joints cut by hand, each square and tight enough to hold together before glue."
+}

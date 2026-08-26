@@ -1,0 +1,24 @@
+{
+  "id": "weather-prediction",
+  "name": "Predict weather from clouds",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Clouds, wind direction and pressure trend give you a usable 6 to 12 hour forecast without any instrument except your eyes — and it works when the phone signal does not.",
+  "gear": [
+    "A notebook or weather journal",
+    "Optional: a barometer or a watch with one"
+  ],
+  "steps": [
+    "Learn the cloud types by height and shape first — the sequence they arrive in is the actual forecast.",
+    "Learn the warm-front sequence: cirrus, thickening to cirrostratus with a halo, then altostratus, then rain within 12 to 24 hours.",
+    "Learn the cold-front signature: towering cumulus, a sharp squall, heavy short rain, then rapid clearing and cooler air.",
+    "Learn to read the pressure trend — a fast drop means wind and rain coming, a steady rise means settled weather.",
+    "Learn what wind direction typically brings in your region, which is local knowledge you can only build by observing.",
+    "Keep a daily journal for a month: sky at morning, your forecast, and what actually happened."
+  ],
+  "tips": [
+    "The rate of change matters more than the absolute reading. A fast-falling barometer is the strongest warning signal there is.",
+    "Local terrain overrides general rules. Mountains and coasts make their own weather."
+  ],
+  "proof": "Your 12-hour forecasts, made from the sky alone, beat guessing over a month of records."
+}

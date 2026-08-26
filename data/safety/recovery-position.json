@@ -1,0 +1,24 @@
+{
+  "id": "recovery-position",
+  "name": "Put someone in the recovery position",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "For someone unconscious but breathing normally. It keeps the airway open and stops them choking on vomit — simple, quick, and it saves lives at every party and roadside.",
+  "gear": [
+    "A willing friend to practise on",
+    "Floor space"
+  ],
+  "steps": [
+    "Confirm first that they are unconscious but breathing normally. If they are not breathing normally, it is CPR instead.",
+    "Kneel beside them, place the near arm out at a right angle, palm up.",
+    "Bring the far arm across the chest and hold the back of their hand against the near cheek.",
+    "Pull the far knee up and use it as a lever to roll them towards you onto their side.",
+    "Adjust the top leg so hip and knee are at right angles, and tilt the head back gently to keep the airway open.",
+    "Call emergency services, monitor breathing continuously, and be ready to start CPR if it stops."
+  ],
+  "tips": [
+    "If you suspect a spinal injury, still prioritise the airway — an open airway beats a perfectly still spine.",
+    "Practise on a real person. It is much more awkward than diagrams suggest."
+  ],
+  "proof": "You can roll an adult into a stable recovery position in under thirty seconds, unprompted."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "caulk-bathtub",
+  "name": "Caulk a bathtub neatly",
+  "time": "1 session plus curing",
+  "level": "Easy",
+  "blurb": "A tidy silicone line stops water getting into the wall and instantly makes a bathroom look maintained. The preparation matters more than the piping.",
+  "gear": [
+    "Mould-resistant sanitary silicone",
+    "A caulking gun, a removal tool, masking tape",
+    "Rubbing alcohol and cloths"
+  ],
+  "steps": [
+    "Remove all the old caulk with a scraper — every trace, because silicone will not bond to old silicone.",
+    "Clean the joint with rubbing alcohol and let it dry completely. Any moisture or soap residue kills adhesion.",
+    "Fill the bath with water before caulking, so the joint is at its widest under load and the seal will not tear later.",
+    "Mask both sides of the joint with tape, leaving a consistent gap.",
+    "Cut the nozzle at 45 degrees to the width you want, and lay a continuous bead in one smooth pass, pushing rather than dragging.",
+    "Tool the bead with a wet finger or a shaping tool, then pull the tape off immediately while the silicone is wet, and leave it to cure 24 hours before use."
+  ],
+  "tips": [
+    "Pulling the tape after the silicone skins over tears the edge. Remove it straight away.",
+    "A tiny nozzle opening gives you far more control than a wide one.",
+    "Empty the bath only after full curing."
+  ],
+  "proof": "A continuous, even bead with crisp edges that stays watertight and mould-free for months."
+}

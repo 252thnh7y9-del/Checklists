@@ -1,0 +1,25 @@
+{
+  "id": "snowboard",
+  "name": "Snowboard linked turns",
+  "time": "1–2 weeks on snow",
+  "level": "Hard",
+  "blurb": "Snowboarding is famously harder for the first three days and easier after the first week than skiing. Getting to linked turns is the milestone that makes it fun rather than painful.",
+  "gear": [
+    "Lessons",
+    "Wrist guards and a helmet — the first days involve falling a lot",
+    "Boots that fit"
+  ],
+  "steps": [
+    "Find your stance, regular or goofy, and set the bindings accordingly.",
+    "Learn to skate and glide with one foot out, which is how you get off every lift.",
+    "Learn heelside and toeside sideslipping — controlled descent on one edge — until it is boring.",
+    "Learn the falling-leaf, traversing across the slope on one edge in both directions.",
+    "Link the two edges with a turn through the fall line, looking where you want to go and leading with your front shoulder.",
+    "Learn to get up from both edges efficiently; you will be doing it a lot."
+  ],
+  "tips": [
+    "Catching the downhill edge is what causes the hard falls. Commit to one edge at all times.",
+    "Wrist guards. The first two days are almost entirely falling onto your hands."
+  ],
+  "proof": "You link heelside and toeside turns down a full green or blue run without stopping."
+}

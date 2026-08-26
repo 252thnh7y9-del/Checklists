@@ -1,0 +1,25 @@
+{
+  "id": "tarp-shelter",
+  "name": "Make a tarp shelter",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "A tarp and four metres of cord give you a dozen configurations for rain, wind and sun. Fast, light and far more adaptable than a tent.",
+  "gear": [
+    "A 3×3 m tarp with tie-outs",
+    "Guy lines and a ridgeline cord",
+    "6–8 pegs"
+  ],
+  "steps": [
+    "Learn the A-frame: a taut ridgeline between two trees, tarp over it, corners pegged out. The default all-weather setup.",
+    "Learn the lean-to: one edge high, one at the ground, open side away from the wind — best for a fire in front.",
+    "Learn the diamond or plough point for a fast single-person shelter with one anchor.",
+    "Master the ridgeline: a taut-line hitch at one end for adjustment, a trucker’s hitch for tension.",
+    "Pitch it low and tight in wind, high and open in heat.",
+    "Practise pitching in the dark and in rain — that is when you will actually need it."
+  ],
+  "tips": [
+    "A sagging ridgeline collects a puddle that eventually collapses the shelter. Get it drum tight.",
+    "Watch what the wind is doing before choosing your orientation, not after."
+  ],
+  "proof": "You pitch three different configurations in under five minutes each, and stay dry through real rain."
+}

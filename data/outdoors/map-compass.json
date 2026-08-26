@@ -1,0 +1,27 @@
+{
+  "id": "map-compass",
+  "name": "Learn basic map and compass navigation",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "The full skill: orient a map, take and follow a bearing, work out where you are from what you can see, and cope when the terrain disagrees with you.",
+  "gear": [
+    "A baseplate compass with a rotating bezel",
+    "A topographic map of somewhere you can walk",
+    "A whistle and a watch"
+  ],
+  "steps": [
+    "Learn to read the map: contour lines, spacing as steepness, the difference between a spur and a re-entrant, and the scale.",
+    "Orient the map to the ground by aligning its grid north with the compass needle, adjusted for magnetic declination.",
+    "Take a bearing from the map: baseplate edge along your route, rotate the bezel to grid north, then turn your body until the needle sits in the shed.",
+    "Follow it by picking a visible feature on the bearing, walking to it, and re-shooting — never by staring at the needle as you walk.",
+    "Learn pacing and timing to estimate distance covered, and count paces over a measured 100 m to calibrate.",
+    "Learn resection: bearings to two known features, back-plotted on the map, give your position.",
+    "Practise handrails, catching features and deliberate offset — the techniques that make navigation robust rather than precise."
+  ],
+  "tips": [
+    "Adjust for declination or you will drift, badly, over distance. Check the value for your area and its year.",
+    "Keep your thumb on your position and move it as you go. Losing track is what turns a mistake into an epic.",
+    "Metal objects — phones, cars, knives — deflect the needle. Step away before taking a bearing."
+  ],
+  "proof": "You navigate a multi-leg course in unfamiliar terrain, in poor visibility, hitting each control without GPS."
+}

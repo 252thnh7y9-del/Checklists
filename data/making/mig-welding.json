@@ -1,0 +1,26 @@
+{
+  "id": "mig-welding",
+  "name": "Learn basic MIG welding",
+  "time": "4–8 weeks",
+  "level": "Hard",
+  "blurb": "Joining steel with a wire feed. It is the most beginner-accessible welding process, and a weekend course gets you laying sound beads far faster than teaching yourself.",
+  "gear": [
+    "A MIG welder and shielding gas",
+    "An auto-darkening helmet, leather gloves, a jacket and boots",
+    "Steel offcuts and a wire brush",
+    "A fire extinguisher and clear ventilation"
+  ],
+  "steps": [
+    "Do a course or find someone experienced. Welding involves eye damage, fumes and fire risks that are easy to underestimate.",
+    "Set up safely: no flammables anywhere near, good ventilation, all skin covered, and no synthetic clothing.",
+    "Clean the metal to bright steel — welding through paint, rust or galvanising gives poor welds and toxic fumes.",
+    "Set voltage and wire speed for the material thickness, and test on scrap until the arc sounds like frying bacon.",
+    "Learn the travel angle and a steady speed, and practise beads on flat plate before attempting joints.",
+    "Progress through the joint types — lap, tee, butt — and cut your welds open to see the penetration."
+  ],
+  "tips": [
+    "Arc eye is a painful corneal burn that appears hours later. Never strike an arc without a helmet down, and screen bystanders.",
+    "Galvanised steel gives off zinc fumes that cause metal fume fever. Grind the coating off or do not weld it."
+  ],
+  "proof": "A butt weld that passes a bend test, with consistent bead and full penetration."
+}

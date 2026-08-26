@@ -1,0 +1,26 @@
+{
+  "id": "water-purification",
+  "name": "Purify water using several methods",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "Knowing three independent ways to make water safe — and their limits — is one of the genuinely life-saving skills on this list.",
+  "gear": [
+    "A filter or purifier",
+    "Purification tablets",
+    "A metal pot for boiling",
+    "A bandana for pre-filtering"
+  ],
+  "steps": [
+    "Learn the source hierarchy: flowing water above human activity beats standing water; a spring beats a stream.",
+    "Pre-filter sediment through cloth or by letting it settle — every method works better on clear water.",
+    "Boiling: a rolling boil for one minute kills everything biological. Three minutes above 2,000 m. It does not remove chemicals.",
+    "Filtration: understand pore size. A 0.2 micron filter handles bacteria and protozoa but not viruses.",
+    "Chemical treatment: chlorine dioxide or iodine, respecting the contact times, which lengthen dramatically in cold water.",
+    "Practise the full sequence in the field, including how you keep dirty and clean containers separate."
+  ],
+  "tips": [
+    "No method covers everything. Filters miss viruses, chemicals miss cryptosporidium, boiling misses chemicals.",
+    "Cross-contamination is the usual real-world failure: dirty threads, dirty hands, dirty lid."
+  ],
+  "proof": "You can explain what each method does and does not kill, and treat water three different ways in the field."
+}

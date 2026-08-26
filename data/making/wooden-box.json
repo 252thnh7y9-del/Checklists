@@ -1,0 +1,25 @@
+{
+  "id": "wooden-box",
+  "name": "Make a simple wooden box",
+  "time": "1–2 weekends",
+  "level": "Moderate",
+  "blurb": "The classic first project: it demands square cuts, accurate joints, a fitted bottom and a finish. Everything you get wrong is visible, which is exactly why it teaches so well.",
+  "gear": [
+    "Timber — pine or poplar to start",
+    "Saw, chisel, clamps, glue, sandpaper",
+    "A square, and a finish such as oil or wax"
+  ],
+  "steps": [
+    "Design it on paper with real dimensions, and produce a cutting list including the thickness of every piece.",
+    "Cut the four sides, keeping opposite pairs identical in length — this matters far more than hitting the exact nominal size.",
+    "Cut your chosen corner joint: rebates for a first box, finger joints or dovetails if you are ambitious.",
+    "Cut a groove for the base so the bottom floats in it rather than being nailed on.",
+    "Dry-fit everything, check the diagonals are equal, then glue and clamp square.",
+    "Sand progressively through the grits and apply a simple oil or wax finish, then fit a lid or hinges if you want them."
+  ],
+  "tips": [
+    "Equal diagonals mean a square box. Check while the glue is wet, when you can still fix it.",
+    "Sand up through the grits without skipping, and always with the grain on the final passes."
+  ],
+  "proof": "A box that sits flat, closes properly, has tight corners and a finish you are happy to give away."
+}

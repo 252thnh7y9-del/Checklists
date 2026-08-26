@@ -1,0 +1,25 @@
+{
+  "id": "fire-extinguisher",
+  "name": "Use a fire extinguisher",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Knowing the right extinguisher for the fire, and knowing when to walk away instead, matters more than the technique — which is four letters long.",
+  "gear": [
+    "Extinguishers appropriate to your home",
+    "A fire blanket for the kitchen",
+    "A hands-on session if your workplace offers one"
+  ],
+  "steps": [
+    "Learn the classes and what matches them: water for wood and paper, CO2 for electrical, foam or powder for liquids, wet chemical for cooking oil.",
+    "Learn what never to do: water on an electrical or oil fire, which spreads it explosively.",
+    "Learn PASS: Pull the pin, Aim at the base of the flames, Squeeze the handle, Sweep side to side.",
+    "Learn the decision rule: only fight a small, contained fire, with your back to a clear exit, and only once the alarm is raised and people are leaving.",
+    "Learn to use a fire blanket for a pan fire — never move a burning pan, and never use water.",
+    "Check the pressure gauges on your extinguishers twice a year."
+  ],
+  "tips": [
+    "If a fire is bigger than a wastebasket, get out and call the fire service. Extinguishers buy an escape route, not a victory.",
+    "Smoke incapacitates far faster than flame. Leaving early beats fighting well."
+  ],
+  "proof": "You can pick the right extinguisher for four different fires and state when you would not fight one."
+}

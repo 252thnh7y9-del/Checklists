@@ -1,0 +1,25 @@
+{
+  "id": "perform-magic",
+  "name": "Learn a few magic tricks well enough to perform",
+  "time": "3–4 weeks",
+  "level": "Moderate",
+  "blurb": "The difference between knowing a trick and performing one is scripting, misdirection and the confidence to hold a room. Three polished tricks beat thirty half-learned ones.",
+  "gear": [
+    "A deck of cards, coins, a rubber band or two",
+    "A mirror and a camera"
+  ],
+  "steps": [
+    "Choose three tricks with different methods so no one can find a pattern.",
+    "Learn each method until your hands do it without thought — the method must be invisible even to you.",
+    "Write a script: what you say, where you pause, what you do while their attention is elsewhere.",
+    "Rehearse misdirection deliberately: the secret move happens during a laugh, a question, or a look away.",
+    "Perform in the mirror, then to a camera, then to one friend, then to strangers.",
+    "Build the set so the strongest trick is last, and learn to stop when you are ahead."
+  ],
+  "tips": [
+    "Never announce what will happen in advance — it lets them watch for it.",
+    "Never repeat a trick, and never explain the method.",
+    "If a move fails, carry on. Most audiences do not know what was supposed to happen."
+  ],
+  "proof": "You perform a three-trick set for strangers, with a script, and nobody works out how any of it was done."
+}

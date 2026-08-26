@@ -1,0 +1,24 @@
+{
+  "id": "keyboard-shortcuts",
+  "name": "Learn useful keyboard shortcuts",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Twenty shortcuts, properly internalised, save hours a week. The trick is learning them a few at a time, in the apps you actually live in.",
+  "gear": [
+    "The apps you use daily",
+    "A sticky note for the ones you are learning this week"
+  ],
+  "steps": [
+    "Learn the universal set first: copy, paste, undo, redo, save, find, select all, switch app, close tab, reopen closed tab.",
+    "Learn text navigation: move and select by word and by line with modifier keys, which is where most editing time is actually spent.",
+    "Learn your browser’s tab and address-bar shortcuts.",
+    "Learn your OS window management: snapping, virtual desktops, spotlight or the start-menu search.",
+    "Add three new shortcuts a week, written on a note, and force yourself to use them instead of the mouse.",
+    "Learn your main application’s command palette, which often replaces memorising dozens of individual shortcuts."
+  ],
+  "tips": [
+    "Learning a shortcut you use once a month is wasted. Optimise for the actions you repeat daily.",
+    "Deliberately banning the mouse for an hour is an unpleasant but very effective drill."
+  ],
+  "proof": "You go a full working hour with the mouse untouched for common operations."
+}

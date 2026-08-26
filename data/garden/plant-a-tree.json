@@ -1,0 +1,25 @@
+{
+  "id": "plant-a-tree",
+  "name": "Plant a tree properly",
+  "time": "A day, then a season of care",
+  "level": "Easy",
+  "blurb": "Most young trees that fail were planted too deep, in a hole that was too small, and then never watered. Getting it right takes an extra twenty minutes and decades of payoff.",
+  "gear": [
+    "A young bare-root or container tree",
+    "A spade, a stake and a tree tie",
+    "Mulch"
+  ],
+  "steps": [
+    "Choose the right tree for the space at its mature size, not its size today, and check what is underground before digging.",
+    "Dig a hole two to three times as wide as the root ball but no deeper than it.",
+    "Plant at the same depth it grew before — the root flare must be visible at the surface. Burying it kills trees slowly.",
+    "Tease out circling roots from a container-grown tree, or they will strangle it.",
+    "Backfill with the soil you dug out, firm gently, and water thoroughly to settle it.",
+    "Stake low and loosely so the trunk can flex, mulch in a ring but not touching the trunk, and water deeply through the first two summers."
+  ],
+  "tips": [
+    "Planting too deep is the single commonest cause of failure. Find the flare.",
+    "Mulch piled against the trunk causes rot. Leave a clear gap."
+  ],
+  "proof": "A tree still thriving two years after you planted it, with visible new growth."
+}

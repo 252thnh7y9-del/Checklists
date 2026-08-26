@@ -1,0 +1,26 @@
+{
+  "id": "touch-typing",
+  "name": "Touch type at 50+ words per minute",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "The highest-return technology skill on this list if you use a computer daily. The hard part is the fortnight where you are deliberately slower than your old hunt-and-peck.",
+  "gear": [
+    "A typing tutor site with lessons and tests",
+    "A decent keyboard",
+    "Optionally a cloth to cover your hands"
+  ],
+  "steps": [
+    "Learn the home row and the finger-to-key assignments. Every finger has a fixed territory, and this is the whole system.",
+    "Never look down. Cover your hands if you must — looking is what stops the map forming.",
+    "Drill accuracy first at a slow speed. Speed built on 90% accuracy is a dead end, because corrections cost more than the speed gained.",
+    "Do 15 to 20 minutes daily rather than long sessions. This is motor learning and it consolidates overnight.",
+    "Learn the number row and the symbols, which most self-taught typists never do properly.",
+    "Type real prose rather than random words, and test weekly to track WPM and accuracy together."
+  ],
+  "tips": [
+    "Expect two weeks of being slower than before. Everyone goes through it and most quitters quit there.",
+    "Accuracy above 97% first, then speed. Speed follows accuracy far more reliably than the reverse.",
+    "Learn proper posture and wrist position now rather than after the RSI."
+  ],
+  "proof": "Sustained 50+ WPM at 97% accuracy on unfamiliar prose, without looking at the keyboard."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "teach-a-game",
+  "name": "Teach a board game well",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "An underrated social skill. A badly explained game ruins an evening; a well-taught one has everyone playing confidently within ten minutes.",
+  "gear": [
+    "A game you know well",
+    "Willing victims"
+  ],
+  "steps": [
+    "Start with the goal: what winning looks like, in one sentence, before any rule at all.",
+    "Give the shape next: how long it lasts, roughly what a turn involves, how the game ends.",
+    "Teach the turn structure, then the exceptions — never the exceptions first.",
+    "Set up a visible example rather than describing abstractly, and point at components as you name them.",
+    "Say explicitly what you are leaving out and promise to cover it when it comes up.",
+    "Play an open first round where everyone can ask anything and take back moves."
+  ],
+  "tips": [
+    "Reading the rulebook aloud is the classic failure. Teach the shape, then the details.",
+    "Do not explain the strategy while teaching the rules. It doubles the cognitive load."
+  ],
+  "proof": "You teach a medium-complexity game to four new players and they are playing confidently within fifteen minutes."
+}

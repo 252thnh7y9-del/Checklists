@@ -1,0 +1,24 @@
+{
+  "id": "sql-basics",
+  "name": "Learn basic SQL",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "The language for asking questions of data, essentially unchanged for decades. A handful of clauses answers most real questions people ask of a database.",
+  "gear": [
+    "SQLite, which needs no server, or an online SQL playground",
+    "A real dataset you care about"
+  ],
+  "steps": [
+    "Learn SELECT, FROM and WHERE, and get comfortable filtering before anything else.",
+    "Learn ORDER BY and LIMIT, then aggregate functions with GROUP BY and HAVING.",
+    "Learn JOINs properly — inner, left, and why the difference matters — with small tables you can check by eye.",
+    "Learn to think in sets rather than loops. This is the conceptual leap for anyone coming from programming.",
+    "Learn subqueries and common table expressions to break complex questions into readable steps.",
+    "Practise on a dataset that interests you and answer real questions with it."
+  ],
+  "tips": [
+    "Always run a SELECT with your WHERE clause before running the matching DELETE or UPDATE.",
+    "NULL is not equal to anything, including itself. This surprises everyone at least once."
+  ],
+  "proof": "You answer a multi-part question about a real dataset with a single well-structured query."
+}

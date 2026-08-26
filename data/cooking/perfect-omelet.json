@@ -1,0 +1,26 @@
+{
+  "id": "perfect-omelet",
+  "name": "Cook a perfect omelet",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The classic French omelette — pale yellow, no browning, softly set inside, rolled into a smooth cylinder — is a technical exercise that chefs still use as a hiring test.",
+  "gear": [
+    "A well-seasoned or non-stick 20 cm pan",
+    "A rubber spatula",
+    "Three eggs, butter, salt"
+  ],
+  "steps": [
+    "Beat three eggs thoroughly with a pinch of salt until completely homogeneous — no streaks of white at all.",
+    "Melt butter over medium-low heat until it foams but does not colour. Heat control is the entire dish.",
+    "Pour in the eggs and stir constantly with the spatula while shaking the pan, making small curds.",
+    "When the eggs are about 80% set and still glossy, stop stirring and spread them evenly across the pan.",
+    "Tilt the pan away from you and roll the omelette over on itself, using the spatula to fold the far edge.",
+    "Turn out onto a plate seam-side down and brush with butter for shine. Eat immediately."
+  ],
+  "tips": [
+    "Browning means the pan was too hot. A French omelette should have no colour whatsoever.",
+    "Overcooking is the only real failure. It carries on cooking on the plate, so pull it early.",
+    "Practise with three eggs a day for a week. Cheap homework."
+  ],
+  "proof": "A pale, smooth, unbrowned omelette with a soft centre, rolled cleanly, three times running."
+}

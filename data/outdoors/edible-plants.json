@@ -1,0 +1,26 @@
+{
+  "id": "edible-plants",
+  "name": "Learn basic edible-plant identification",
+  "time": "A season",
+  "level": "Hard",
+  "blurb": "Foraging done properly is narrow and deep: five or six species you know absolutely, including their poisonous lookalikes. Breadth here is genuinely dangerous.",
+  "gear": [
+    "A regional field guide with keys, not just photos",
+    "A notebook",
+    "Ideally a local foraging walk with an expert"
+  ],
+  "steps": [
+    "Pick five common, unmistakable local species — nettle, bramble, dandelion, elder and one tree fruit are typical starters.",
+    "For each, learn the entire plant across all four seasons, plus its habitat and smell, not just a summer photo.",
+    "For each, learn every poisonous lookalike in your region and the specific features that separate them. Hemlock and cow parsley kill people who skip this.",
+    "Learn the universal rules: never eat anything you cannot name with certainty, avoid roadsides and sprayed land, and try a small amount first for allergy.",
+    "Go out with an experienced forager at least once. Books cannot show you what a plant smells like or how it grows.",
+    "Cook and eat each species once you are confident, and record it."
+  ],
+  "tips": [
+    "Umbellifers — the carrot family, with umbrella flower heads — contain both fine food and lethal poison. Beginners should avoid the whole family.",
+    "The universal edibility test is unreliable folklore for a survival emergency, not a foraging method.",
+    "Know your local laws and take only a small portion of what you find."
+  ],
+  "proof": "You confidently identify and eat five species and can name each of their dangerous lookalikes on sight."
+}

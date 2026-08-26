@@ -1,0 +1,26 @@
+{
+  "id": "bread",
+  "name": "Make bread from scratch",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A basic yeasted loaf teaches the whole grammar of bread: hydration, gluten development, fermentation and the shaping that gives structure. It is a fortnight to a genuinely good loaf.",
+  "gear": [
+    "Strong bread flour, salt, instant yeast",
+    "A digital scale — volume measures are unreliable",
+    "A Dutch oven or a baking stone"
+  ],
+  "steps": [
+    "Weigh everything and work in baker’s percentages: flour 100%, water 65–75%, salt 2%, yeast 1%.",
+    "Mix and rest for 30 minutes before kneading — the autolyse does much of the gluten work for you.",
+    "Knead or do a set of stretch-and-folds until the dough passes the windowpane test.",
+    "Bulk ferment until roughly doubled, judging by the dough rather than the clock — temperature changes everything.",
+    "Shape with tension across the surface, then prove until a poked indent springs back slowly.",
+    "Bake hot with steam for the first ten minutes, then dry, and cool completely on a rack before cutting."
+  ],
+  "tips": [
+    "Under-proving gives a dense crumb; over-proving gives a flat, collapsing loaf. Learn the poke test.",
+    "Cutting a hot loaf gives a gummy crumb. Wait an hour, however hard that is.",
+    "Weigh, do not scoop. Cup measures of flour vary by 30%."
+  ],
+  "proof": "A loaf with an open crumb, crisp crust and good oven spring, repeated three times."
+}

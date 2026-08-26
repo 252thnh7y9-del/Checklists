@@ -1,0 +1,26 @@
+{
+  "id": "tortillas",
+  "name": "Make homemade tortillas",
+  "time": "2–3 sessions",
+  "level": "Easy",
+  "blurb": "Three ingredients, ten minutes, and a result so much better than shop-bought that it changes what you cook. Corn and flour versions teach different things.",
+  "gear": [
+    "Masa harina for corn, or plain flour and fat for flour tortillas",
+    "A tortilla press, or a heavy pan and a plastic bag",
+    "A dry cast-iron skillet or comal"
+  ],
+  "steps": [
+    "For corn: mix masa harina with warm water and a little salt to a play-dough consistency that does not crack at the edges when pressed.",
+    "Rest the dough 20 minutes so the masa fully hydrates.",
+    "Press between two sheets of plastic to about 2 mm, then peel carefully.",
+    "Cook on a dry, hot pan: about 30 seconds, flip, a minute, flip again — the third flip is when it puffs.",
+    "Keep them wrapped in a clean towel to steam and soften.",
+    "For flour tortillas, cut fat into flour, add hot water, rest the dough, then roll thin and cook the same way."
+  ],
+  "tips": [
+    "Cracked edges when pressing means the dough is too dry. Add water a teaspoon at a time.",
+    "The puff on the third flip is the sign of a well-hydrated, well-cooked tortilla.",
+    "Masa harina is not cornflour or polenta. It must be nixtamalised."
+  ],
+  "proof": "A dozen soft, pliable tortillas that puff on the pan and stay foldable when cool."
+}

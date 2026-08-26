@@ -1,0 +1,24 @@
+{
+  "id": "crack-whip",
+  "name": "Crack a whip",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The crack is a small sonic boom: the tip breaks the sound barrier. Getting one is a first-session thing; getting consistent, controlled cracks takes a fortnight.",
+  "gear": [
+    "A bullwhip or stockwhip, 1.2–1.8 m for learning",
+    "Wide open space, eye protection, long sleeves"
+  ],
+  "steps": [
+    "Find a genuinely clear space — several whip-lengths in every direction, with nobody nearby, including behind you.",
+    "Learn the cattleman’s crack: bring the whip forward and back smoothly, then reverse direction cleanly to send a loop down the whip.",
+    "Focus on smooth acceleration and a clean direction change rather than force. Yanking it produces no crack.",
+    "Learn the overhead crack once the basic one is reliable.",
+    "Learn to control where the tip goes, which is what turns noise into a skill.",
+    "Learn basic whip care: keep it clean, conditioned, and replace the cracker when it frays."
+  ],
+  "tips": [
+    "The tip can cut skin and blind an eye. Eye protection is essential and so is space.",
+    "No crack means the loop is not travelling cleanly. Slow down and smooth the motion."
+  ],
+  "proof": "Ten consecutive controlled cracks with the tip landing where you intended."
+}

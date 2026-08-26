@@ -1,0 +1,25 @@
+{
+  "id": "camp-cooking",
+  "name": "Cook properly on a camp stove",
+  "time": "2–3 trips",
+  "level": "Easy",
+  "blurb": "The difference between a miserable trip and a good one is often dinner. Camp cooking is about heat control, planning and washing up without wrecking the site.",
+  "gear": [
+    "A stove suited to conditions — canister for convenience, liquid fuel for cold",
+    "A windshield, pot and lid",
+    "Biodegradable soap and a scrubber"
+  ],
+  "steps": [
+    "Learn your stove properly at home, including lighting it in wind and changing a canister.",
+    "Always use a windshield and a lid. Wind can double your fuel use, and a lid halves boil times.",
+    "Learn to simmer rather than only boil — most stoves can, but it takes practice with the valve.",
+    "Plan meals that rehydrate or cook in one pot, and prepare and repackage ingredients at home.",
+    "Cook well away from your tent, and never inside it or in a closed porch — carbon monoxide poisoning kills campers every year.",
+    "Wash up 60 m from water, strain the food particles out and pack them, and scatter the grey water widely."
+  ],
+  "tips": [
+    "Canister stoves lose power badly in cold. Keep the canister warm or use liquid fuel in winter.",
+    "Never cook or run a stove in an enclosed space. It is the most common serious camping accident."
+  ],
+  "proof": "You cook a proper two-course meal in poor weather, with fuel to spare and a clean site."
+}

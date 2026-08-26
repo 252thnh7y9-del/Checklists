@@ -1,0 +1,25 @@
+{
+  "id": "prompt-ai",
+  "name": "Use an AI assistant well",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Getting good output is a skill: context, specificity, examples and verification. The difference between a vague request and a well-framed one is enormous.",
+  "gear": [
+    "Access to an AI assistant",
+    "Real tasks worth doing"
+  ],
+  "steps": [
+    "Give context up front: who it is for, what format you want, what constraints apply, and what you have already tried.",
+    "Be specific about the output: length, tone, structure, and audience.",
+    "Provide an example of what good looks like when you have one — a sample is worth several paragraphs of description.",
+    "Iterate rather than restarting: tell it what was wrong with the last answer specifically.",
+    "Ask it to show its reasoning or list its assumptions when the answer matters.",
+    "Verify everything factual independently. Confident-sounding wrong answers are the main failure mode."
+  ],
+  "tips": [
+    "Never paste secrets, credentials or other people’s personal data into a tool you do not control.",
+    "For anything consequential — legal, medical, financial — treat the output as a starting point for a professional, not a substitute.",
+    "Asking it to critique its own answer often surfaces real problems."
+  ],
+  "proof": "You complete a genuinely useful piece of work with it and can point to what you verified independently."
+}

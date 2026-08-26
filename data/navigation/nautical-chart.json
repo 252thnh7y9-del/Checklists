@@ -1,0 +1,25 @@
+{
+  "id": "nautical-chart",
+  "name": "Read a nautical chart",
+  "time": "2–4 weeks",
+  "level": "Hard",
+  "blurb": "A completely different language from a land map: depths, hazards, buoyage and tidal streams. Essential for anyone going out on the water in anything.",
+  "gear": [
+    "A local chart, paper or digital",
+    "A chart symbols reference",
+    "Dividers and a plotter"
+  ],
+  "steps": [
+    "Learn chart datum: charted depths are the minimum expected, and heights are measured from a different datum entirely.",
+    "Learn the symbols for hazards — rocks, wrecks, drying heights — and which ones are covered at different states of tide.",
+    "Learn the buoyage system for your region, including the crucial difference between IALA A and B, where red and green are reversed.",
+    "Learn to read tidal stream diamonds and the tables that go with them.",
+    "Learn to plot a position, take a bearing and lay off a course, allowing for tidal set and leeway.",
+    "Practise by planning a real passage, including what happens if the tide turns or the wind shifts."
+  ],
+  "tips": [
+    "Depths shown are the least you should expect, not what is there now. A falling tide can put you aground on charted water.",
+    "Digital charts fail. Carry paper and know how to use it."
+  ],
+  "proof": "You plan a coastal passage with tidal calculations and can justify every waypoint."
+}

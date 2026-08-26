@@ -1,0 +1,26 @@
+{
+  "id": "eggs-many-ways",
+  "name": "Cook eggs several different ways",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Scrambled, fried, poached, boiled, coddled and baked — six methods, six sets of heat control lessons, and breakfast is solved forever.",
+  "gear": [
+    "Fresh eggs",
+    "A non-stick pan and a saucepan",
+    "A timer",
+    "A slotted spoon"
+  ],
+  "steps": [
+    "Boiled: learn the timings from a rolling boil — 6 minutes for a runny yolk, 8 for jammy, 10 for hard — then straight into ice water.",
+    "Fried: learn both sunny-side up over gentle heat with a lid, and crispy-edged over higher heat with hot oil basted over the top.",
+    "Scrambled: learn the low-and-slow custardy French style and the fast, large-curd diner style, and taste the difference.",
+    "Poached: fresh eggs, barely simmering water with a splash of vinegar, a gentle swirl, three minutes.",
+    "Learn to season at the right moment — salt too early in scrambled eggs changes the texture.",
+    "Cook each method until it is reliable rather than lucky, and learn what overcooked looks like at each stage."
+  ],
+  "tips": [
+    "Egg freshness matters most for poaching; older eggs spread into rags.",
+    "Residual heat keeps cooking eggs after they leave the pan. Always pull them slightly underdone."
+  ],
+  "proof": "You cook all six methods to order, correctly, without a timer for the ones that do not need one."
+}

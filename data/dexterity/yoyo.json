@@ -1,0 +1,25 @@
+{
+  "id": "yoyo",
+  "name": "Learn several yo-yo tricks",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "A modern responsive yo-yo makes the first five tricks reachable in a fortnight: sleeper, walk the dog, around the world, rock the baby and the trapeze.",
+  "gear": [
+    "A responsive ball-bearing yo-yo (not a cheap fixed-axle toy)",
+    "Spare strings — they wear out fast"
+  ],
+  "steps": [
+    "Set the string length: standing with the yo-yo on the floor, the string should reach your navel. Tie the loop for your middle finger correctly.",
+    "Master the sleeper — a smooth throw straight down that spins in place for several seconds — before anything else. Every trick depends on it.",
+    "Learn the return: a slight tug at the bottom of the sleeper brings it back to the hand.",
+    "Learn walk the dog and around the world, both of which are just a sleeper plus one movement.",
+    "Learn rock the baby, which teaches you to make string figures with a spinning yo-yo.",
+    "Learn the trapeze — landing the yo-yo on the string — which opens the door to the whole string-trick family."
+  ],
+  "tips": [
+    "A yo-yo that dies after two seconds means a crooked throw, not a bad yo-yo. Throw straight down the plane of your arm.",
+    "Wind it neatly. A badly wound string wrecks the next throw.",
+    "Replace the string when it looks fuzzy, roughly every few hours of play."
+  ],
+  "proof": "You perform five distinct tricks in a row, each landing cleanly, on demand."
+}

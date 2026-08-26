@@ -1,0 +1,25 @@
+{
+  "id": "jump-start",
+  "name": "Jump-start a car",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "Simple, but the order of the clamps matters — done wrong you get sparks over a battery that is venting hydrogen, or a damaged alternator.",
+  "gear": [
+    "Jump leads of decent gauge, or a lithium jump pack",
+    "Gloves and eye protection"
+  ],
+  "steps": [
+    "Check the flat battery is not cracked, leaking or frozen. If it is, do not jump it.",
+    "Park the donor car close but not touching, both engines off, both handbrakes on.",
+    "Connect red to the flat battery’s positive, then red to the donor’s positive.",
+    "Connect black to the donor’s negative, then the final black clamp to an unpainted metal earth point on the dead car’s engine block — not to its negative terminal.",
+    "Start the donor, let it run for a couple of minutes, then start the flat car.",
+    "Remove the clamps in exactly the reverse order, and drive for at least twenty minutes to put charge back."
+  ],
+  "tips": [
+    "The final earth connection goes to the block, away from the battery, because that is where the spark happens.",
+    "Never let the clamps touch each other while connected.",
+    "A modern lithium jump pack removes the need for a second car and is worth keeping in the boot."
+  ],
+  "proof": "You jump a genuinely flat car unaided, in the right order, and it restarts unassisted afterwards."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "bottle-flip",
+  "name": "Flip a bottle consistently",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "The 2016 playground obsession, and a genuine physics lesson: the water fill level changes the moment of inertia and determines whether it lands.",
+  "gear": [
+    "A plastic bottle with a cap",
+    "Water"
+  ],
+  "steps": [
+    "Fill the bottle about one third with water. This is the ratio that lets the water shift and damp the landing.",
+    "Hold it by the neck and toss with a gentle upward flick, aiming for exactly one rotation.",
+    "Keep the release consistent — same height, same spin, same force every time.",
+    "Watch how the water sloshes: too full and it will not settle, too empty and it bounces.",
+    "Practise on a hard flat surface, then vary the surface.",
+    "Progress to the cap landing, which needs less rotation and a softer release."
+  ],
+  "tips": [
+    "One rotation, not one and a half. Most failures are over-spinning.",
+    "Fill level is the biggest variable. Tune it before blaming your throw."
+  ],
+  "proof": "Eight successful landings out of ten from your standard setup."
+}

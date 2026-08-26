@@ -1,0 +1,23 @@
+{
+  "id": "north-night-sky",
+  "name": "Find north using the night sky",
+  "time": "1 evening",
+  "level": "Easy",
+  "blurb": "Two methods, one per hemisphere, and both take less than a minute once you know them. This is the survival-useful half of astronomy.",
+  "gear": [
+    "A clear night"
+  ],
+  "steps": [
+    "Northern hemisphere: find the Plough, follow the two pointer stars at the end of the pan about five times their separation to reach Polaris. Polaris is due north, and its altitude equals your latitude.",
+    "Southern hemisphere: find the Southern Cross, extend its long axis four and a half times, then drop straight down to the horizon for south.",
+    "Cross-check with the pointer stars of Centaurus, whose perpendicular bisector meets the Cross’s extended axis at the south celestial pole.",
+    "Learn the two-stick method for any star: mark a star’s drift over a few minutes to work out which way you are facing.",
+    "Verify with a compass a few times to calibrate your confidence.",
+    "Practise on several nights until it takes under a minute."
+  ],
+  "tips": [
+    "Polaris is not especially bright. It is found by the pointers, not by looking for the brightest star.",
+    "There is no bright south pole star, so the Southern Cross method takes a little more construction."
+  ],
+  "proof": "You point to true north or south within a few degrees, from the stars alone, and a compass agrees."
+}

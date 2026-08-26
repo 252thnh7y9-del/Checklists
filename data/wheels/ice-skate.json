@@ -1,0 +1,25 @@
+{
+  "id": "ice-skate",
+  "name": "Ice skate",
+  "time": "3–6 sessions",
+  "level": "Moderate",
+  "blurb": "Different from roller skating: a thin blade on a slippery edge. The trick is learning to use the edges rather than trying to stay flat.",
+  "gear": [
+    "Hire skates that are laced properly and tightly at the ankle",
+    "Gloves — always, because of other people’s blades",
+    "A helmet is sensible while learning"
+  ],
+  "steps": [
+    "Lace properly: loose at the toes, very tight over the ankle, snug at the top. Floppy ankles make skating impossible.",
+    "Learn to fall and get up on the ice, away from the barrier, before anything else.",
+    "March on the spot on the ice to get used to the blades, then march forward.",
+    "Learn to glide on two feet, then one, with knees bent and weight slightly forward.",
+    "Learn the snowplough stop, then progress to a proper one-foot stop.",
+    "Learn to push out to the side with the whole blade edge — this is the difference between marching and skating."
+  ],
+  "tips": [
+    "Skate away from the barrier as soon as possible. Holding on teaches your body the wrong balance entirely.",
+    "Keep your gloves on. Fingers under blades is the classic rink injury."
+  ],
+  "proof": "You skate a full lap with proper glides, stop under control, and get up unaided after a fall."
+}

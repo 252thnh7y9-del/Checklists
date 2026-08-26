@@ -1,0 +1,24 @@
+{
+  "id": "html-css-page",
+  "name": "Learn enough HTML/CSS for a personal page",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "The narrower version of building a website: enough HTML and CSS to make one good-looking personal page that you fully understand.",
+  "gear": [
+    "A text editor",
+    "A browser"
+  ],
+  "steps": [
+    "Learn semantic HTML: header, nav, main, section, article, footer, and why they matter for accessibility and search.",
+    "Learn the CSS box model — margin, border, padding, content — which explains most layout confusion.",
+    "Learn selectors and specificity, so you understand why a style is not applying.",
+    "Learn flexbox properly. It covers the great majority of layouts you will need.",
+    "Learn typography basics in CSS: a sensible line height, a readable measure of 60 to 75 characters, and a consistent type scale.",
+    "Build a one-page personal site: who you are, what you do, how to reach you."
+  ],
+  "tips": [
+    "Specificity conflicts are behind most \"why won’t this change\" moments. Learn to read the computed styles panel.",
+    "Do not reach for a framework yet. Plain CSS teaches you what the framework is doing."
+  ],
+  "proof": "A personal page you wrote from scratch, with no framework, that looks good on desktop and phone."
+}

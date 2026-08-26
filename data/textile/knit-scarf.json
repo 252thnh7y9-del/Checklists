@@ -1,0 +1,26 @@
+{
+  "id": "knit-scarf",
+  "name": "Learn to knit",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Four things — cast on, knit, purl, cast off — and you can make a scarf, a dishcloth and eventually anything. Knitting is repetitive in the way that makes it restful rather than dull.",
+  "gear": [
+    "Smooth 5 mm needles — bamboo grips better than metal for beginners",
+    "Light-coloured aran or worsted yarn, so you can see the stitches",
+    "A darning needle for weaving in ends"
+  ],
+  "steps": [
+    "Learn the long-tail cast on, leaving a tail about three times the width of your project.",
+    "Learn the knit stitch and make a garter-stitch swatch until your tension stops wandering.",
+    "Learn the purl stitch, then combine them: alternate rows for stocking stitch, alternate within rows for rib.",
+    "Learn to cast off loosely — a tight cast-off is what makes hats that do not fit.",
+    "Learn to fix the two standard disasters: picking up a dropped stitch with a crochet hook, and recognising an accidental increase from knitting into the gap.",
+    "Weave in the ends properly and block the finished piece."
+  ],
+  "tips": [
+    "Gaining stitches every row usually means you are knitting the yarn-over at the start. Count your stitches each row.",
+    "Death-grip tension is the beginner signature. Loosen up and the fabric evens out.",
+    "Light, smooth yarn shows its stitches. Learning on black fluffy novelty yarn is needlessly hard."
+  ],
+  "proof": "A finished scarf or dishcloth with even tension, straight edges and no accidental increases."
+}

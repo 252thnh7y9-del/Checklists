@@ -1,0 +1,25 @@
+{
+  "id": "roller-skate",
+  "name": "Roller skate or inline skate",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Skating is a balance and edge skill. The order that works is: stand, fall safely, stop, then move — and almost everyone does it in the wrong order.",
+  "gear": [
+    "Skates that fit snugly",
+    "Helmet, wrist guards, knee pads",
+    "Smooth flat ground away from traffic"
+  ],
+  "steps": [
+    "Learn to stand and balance on carpet or grass first, feet in a V, knees bent, weight forward over the balls of your feet.",
+    "Learn to fall safely — forwards onto knee pads then wrist guards, never backwards — before you can build any speed.",
+    "Learn to stop before you learn to go: the heel brake on inlines, or the T-stop and plough stop on quads.",
+    "Learn the duck walk on flat ground, then let it become a glide, pushing out to the side rather than backwards.",
+    "Learn to swizzle and to skate in a straight line with long, even strokes.",
+    "Add turning by leaning, and crossovers once the basics are secure."
+  ],
+  "tips": [
+    "Standing upright is what causes backward falls, which are the ones that hurt your head. Stay bent and forward.",
+    "Not being able to stop is the reason beginners panic. Get the brake sorted first."
+  ],
+  "proof": "You skate 500 metres confidently, turn both ways, and stop on command from speed."
+}

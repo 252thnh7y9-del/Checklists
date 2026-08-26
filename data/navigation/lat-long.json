@@ -1,0 +1,24 @@
+{
+  "id": "lat-long",
+  "name": "Learn latitude and longitude basics",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "How coordinates work, how to read and write them in the three common formats, and how to convert between them — useful for maps, emergencies and geocaching alike.",
+  "gear": [
+    "A map with a graticule",
+    "A GPS device or phone"
+  ],
+  "steps": [
+    "Learn the system: latitude runs north and south from the equator, longitude east and west from Greenwich, both measured in degrees.",
+    "Learn the three formats — decimal degrees, degrees and decimal minutes, and degrees-minutes-seconds — and how to convert between them.",
+    "Learn the useful rule of thumb: one degree of latitude is about 111 km, and one minute is about one nautical mile, everywhere.",
+    "Learn why longitude distances shrink towards the poles.",
+    "Practise plotting given coordinates on a paper map and reading coordinates off it.",
+    "Learn to read out coordinates clearly for an emergency call, and know which format your local rescue services expect."
+  ],
+  "tips": [
+    "Format confusion is the classic error — 40.5 degrees is not 40 degrees 5 minutes. Always state the format.",
+    "Getting the north/south or east/west designator wrong puts you on the wrong continent."
+  ],
+  "proof": "You give your exact position in all three formats and plot a stranger’s coordinates on a paper map."
+}

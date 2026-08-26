@@ -1,0 +1,24 @@
+{
+  "id": "aircraft-types",
+  "name": "Recognise different types of aircraft",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Airliners, light aircraft, helicopters and military types are distinguished by a handful of features — engine count and position, wing shape, tail configuration.",
+  "gear": [
+    "A flight-tracking app to check yourself",
+    "Binoculars are useful but optional"
+  ],
+  "steps": [
+    "Learn the broad categories first: narrow-body versus wide-body airliners, turboprops, business jets, light singles, helicopters.",
+    "Learn the diagnostic features: number and position of engines, whether the wing is high or low, tail shape, winglet style, and the number of main landing gear wheels.",
+    "Learn the distinguishing details of the common airliner families — the Boeing 737 versus the Airbus A320 is the classic pair, separated by nose shape and engine intake.",
+    "Learn to read the sky by context: approach paths, altitude and time of day narrow the options enormously.",
+    "Guess first, then check with a tracking app. That feedback loop is what builds the skill.",
+    "Spend an hour at an airport perimeter — a concentrated dose beats months of casual watching."
+  ],
+  "tips": [
+    "Engine intake shape is one of the most reliable distinctions: the 737 has a flattened bottom, the A320 is circular.",
+    "Contrails and altitude tell you it is a long-haul type before you can see anything else."
+  ],
+  "proof": "You identify passing aircraft by family and often by type, then a tracking app confirms you."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "audio-editing",
+  "name": "Learn basic audio editing",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Cleaning up a recording — noise, levels, EQ, compression — makes the difference between amateur and professional far more than any microphone upgrade.",
+  "gear": [
+    "Audacity, Reaper or GarageBand",
+    "Closed-back headphones",
+    "Any recording to work on"
+  ],
+  "steps": [
+    "Learn to record properly first: close mic placement, a quiet room and levels peaking around -12 dB. Fixing it later is always worse than recording it right.",
+    "Learn to cut and crossfade cleanly so edits are inaudible — always cut at a zero crossing or in a silence.",
+    "Learn noise reduction, applied gently. Heavy noise reduction makes voices sound underwater.",
+    "Learn EQ: a high-pass filter to remove rumble, and small cuts rather than large boosts.",
+    "Learn compression to even out levels, and understand the threshold and ratio controls.",
+    "Learn loudness normalisation for the target platform, and export at the right format."
+  ],
+  "tips": [
+    "A treated room beats an expensive microphone. Soft furnishings, curtains and a duvet do most of it.",
+    "Small EQ moves. If you are boosting by 9 dB, the problem is the recording."
+  ],
+  "proof": "A cleaned-up recording with consistent levels, no audible edits and no processing artefacts."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "water-rescue",
+  "name": "Learn basic water rescue",
+  "time": "1–2 sessions",
+  "level": "Moderate",
+  "blurb": "How to help someone in trouble without becoming the second casualty. The whole principle is that you almost never swim to them.",
+  "gear": [
+    "Ideally a lifesaving or beach-safety course",
+    "A throw bag or anything buoyant"
+  ],
+  "steps": [
+    "Learn the order: shout and signal, reach, throw, wade, row — and only swim as an absolute last resort with training.",
+    "Reach with anything long: a branch, a paddle, a towel, while lying down and anchored so you cannot be pulled in.",
+    "Throw anything buoyant — a ring, a cool box, a football, an empty bottle. It buys them time and calms them.",
+    "Learn to recognise real drowning: silent, upright, head back, arms pressing down. It looks nothing like the shouting and waving people expect.",
+    "Learn to call for help properly and to send a specific person to do it.",
+    "Take a lifesaving course if you spend real time around water, and refresh CPR alongside it."
+  ],
+  "tips": [
+    "Drowning people climb their rescuers. Untrained swimming rescues are how would-be rescuers die.",
+    "Cold water shock incapacitates in under a minute regardless of swimming ability."
+  ],
+  "proof": "You can explain and demonstrate reach and throw rescues and recognise the real signs of drowning."
+}

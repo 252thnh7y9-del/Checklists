@@ -1,0 +1,25 @@
+{
+  "id": "drop-spindle",
+  "name": "Spin yarn with a drop spindle",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Turning raw fleece into yarn with a stick and a weight. It is the oldest textile technology there is, and once it clicks it is deeply absorbing.",
+  "gear": [
+    "A top-whorl drop spindle",
+    "Prepared wool roving — start with a long-staple breed",
+    "A leader yarn"
+  ],
+  "steps": [
+    "Learn to draft: pull the fibres apart gently so they slide past each other into a thinner strand, without breaking it.",
+    "Attach a leader to the spindle and join your fibre to it.",
+    "Spin the spindle clockwise and let the twist travel up into the drafted fibre.",
+    "Park and draft at first — stop the spindle between your knees, draft a length, then let the twist in. Speed comes later.",
+    "Wind on to the spindle in a neat cone and continue.",
+    "Ply two singles together in the opposite direction, then set the twist by washing and hanging the skein."
+  ],
+  "tips": [
+    "Too much twist makes wiry yarn that kinks; too little makes it fall apart. You are looking for the middle.",
+    "Everyone drops the spindle constantly for the first week. That is why it is called a drop spindle."
+  ],
+  "proof": "A plied, twist-set skein of usable yarn that you spun from raw fibre."
+}

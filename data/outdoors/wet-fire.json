@@ -1,0 +1,25 @@
+{
+  "id": "wet-fire",
+  "name": "Build a fire in wet conditions",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "The genuinely useful fire skill. Rain does not stop a fire; poor material selection does. The trick is knowing where dry wood hides after three days of drizzle.",
+  "gear": [
+    "A knife or small axe for splitting",
+    "A ferro rod or lighter",
+    "A candle stub or a commercial fire starter as insurance"
+  ],
+  "steps": [
+    "Find standing dead wood — never wood off the ground. Dead branches still attached to a tree stay drier than anything lying down.",
+    "Split everything. Wood is wet on the outside and dry at the core, so batoning a wrist-thick piece gives you dry heartwood.",
+    "Make feather sticks: fine curls shaved from dry inner wood, which light far more readily than shavings you have collected.",
+    "Look for natural dry tinder: birch bark, resinous fatwood from old stumps, dead conifer twigs from the underside of the canopy, the fluffy inner bark of dead standing trees.",
+    "Build a platform of split wood to keep the fire off wet ground, and lay a lean-to of graded kindling before lighting.",
+    "Light it low and shelter the flame with your body until the kindling is genuinely committed."
+  ],
+  "tips": [
+    "Gather three times as much kindling as you think you need, then double it. Running out mid-build is the number one wet-fire failure.",
+    "Never lay a wet fire directly on soaked ground — steam from below will kill it."
+  ],
+  "proof": "You start and sustain a fire after a full day of rain, using only what you gathered on site."
+}

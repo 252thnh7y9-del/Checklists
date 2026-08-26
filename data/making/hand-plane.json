@@ -1,0 +1,25 @@
+{
+  "id": "hand-plane",
+  "name": "Use a hand plane",
+  "time": "3–5 weeks",
+  "level": "Hard",
+  "blurb": "A sharp, properly set plane produces gossamer shavings and a surface no sandpaper can match. Most people who dislike hand planes have only ever used a blunt, badly set one.",
+  "gear": [
+    "A bench plane — a secondhand number 4 is ideal",
+    "Sharpening stones and a honing guide",
+    "A workbench with a way to hold the wood"
+  ],
+  "steps": [
+    "Sharpen first. A plane is a sharpening tool with a jig attached, and no technique compensates for a dull iron.",
+    "Learn to set the blade: retract it fully, advance until it just takes a shaving, and adjust lateral alignment so it cuts evenly across.",
+    "Set the chip breaker close to the edge — under a millimetre — which is what prevents tear-out.",
+    "Learn to read grain direction and always plane downhill with it.",
+    "Use your whole body: press down at the start of the stroke, evenly through the middle, and at the back at the end, to avoid rounding the ends.",
+    "Practise producing full-width, translucent shavings on a flat board."
+  ],
+  "tips": [
+    "Tear-out means you are planing against the grain. Turn the board around.",
+    "A plane that skips and chatters is dull, or the blade is set too deep."
+  ],
+  "proof": "You flatten a board by hand to a smooth, even surface, producing continuous full-width shavings."
+}

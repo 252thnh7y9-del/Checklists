@@ -1,0 +1,24 @@
+{
+  "id": "poker-fundamentals",
+  "name": "Learn poker fundamentals",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Texas hold’em is easy to play and hard to play well. Position, starting hands and pot odds are the three ideas that separate a losing player from a competent one.",
+  "gear": [
+    "A deck of cards and chips, or a play-money app",
+    "A starting-hand chart"
+  ],
+  "steps": [
+    "Learn the hand rankings cold, then the betting rounds and the mechanics of blinds and position.",
+    "Learn a tight starting-hand chart by position and follow it strictly at first. Playing too many hands is the beginner leak.",
+    "Learn why position matters: acting last means acting with more information, which is worth more than most cards.",
+    "Learn pot odds — comparing the price of a call to your chance of improving — and the rule of two and four for quick estimates.",
+    "Learn to fold. Most money is saved rather than won, and chasing draws without the odds is how beginners bleed out.",
+    "Review your sessions honestly, and play for stakes you genuinely do not mind losing."
+  ],
+  "tips": [
+    "Bluffing matters far less at low stakes than simply playing better hands than your opponents.",
+    "Gamble responsibly: set a loss limit before you sit down and stop when you reach it. If it stops being fun, stop playing."
+  ],
+  "proof": "You can calculate pot odds at the table and articulate why you folded a hand you wanted to play."
+}

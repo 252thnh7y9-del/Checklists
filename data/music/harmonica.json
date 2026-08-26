@@ -1,0 +1,25 @@
+{
+  "id": "harmonica",
+  "name": "Learn a few harmonica songs",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Fits in a pocket, needs no tuning, and a diatonic harmonica in C is arranged so most wrong notes still sound acceptable. Three songs in a fortnight is realistic.",
+  "gear": [
+    "A 10-hole diatonic harmonica in the key of C",
+    "A tutorial with tablature"
+  ],
+  "steps": [
+    "Learn to hold it and to get single clean notes — either by puckering or by tongue-blocking. This is the main beginner hurdle.",
+    "Learn the note layout of holes 4 to 7, where most simple melodies live.",
+    "Play a simple melody from tab, slowly, until each note speaks cleanly.",
+    "Learn to play with breath control rather than force; harmonicas reward gentle air.",
+    "Learn a basic chugging rhythm on the low holes for accompaniment.",
+    "Learn three songs to performance standard, then try bending a note on hole 4 draw."
+  ],
+  "tips": [
+    "Two notes at once means your embouchure is too wide. Narrow the aperture and relax.",
+    "Playing hard wrecks the reeds and sounds worse. Breathe, do not blast.",
+    "Keep it dry and tap it out after playing."
+  ],
+  "proof": "You play three recognisable tunes cleanly, single notes throughout."
+}

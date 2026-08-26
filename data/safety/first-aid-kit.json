@@ -1,0 +1,24 @@
+{
+  "id": "first-aid-kit",
+  "name": "Build a first aid kit that gets used",
+  "time": "An afternoon",
+  "level": "Easy",
+  "blurb": "Shop-bought kits are mostly plasters. Building your own means you know what is in it, where it is, and how to use each item — which is the part that matters.",
+  "gear": [
+    "A sturdy visible container",
+    "Contents chosen for your actual life and location"
+  ],
+  "steps": [
+    "Build around what you actually do: a household kit, a car kit and a walking kit have genuinely different contents.",
+    "Cover the basics: assorted dressings, sterile gauze, tape, triangular bandage, gloves, scissors, tweezers, saline.",
+    "Add what you would actually need: blister plasters for walkers, a foil blanket, a tick remover, burn gel for the kitchen.",
+    "Add personal medication: antihistamines, any prescribed adrenaline auto-injectors, painkillers, and a written list of household medications and allergies.",
+    "Check expiry dates twice a year and restock what you use.",
+    "Make sure everyone in the house knows where it is — a kit nobody can find is decoration."
+  ],
+  "tips": [
+    "Skip the tiny sachets and single plasters that fill commercial kits. Pack more of the few things you would actually reach for.",
+    "A kit is only useful alongside training. Buying it is the easy half."
+  ],
+  "proof": "A kit you assembled, everyone in the household can find, and that you have restocked at least once."
+}

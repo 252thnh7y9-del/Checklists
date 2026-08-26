@@ -1,0 +1,24 @@
+{
+  "id": "lip-reading",
+  "name": "Learn basic lip-reading",
+  "time": "4–8 weeks",
+  "level": "Hard",
+  "blurb": "Honest expectations: only about a third of speech sounds are visible on the lips, so lip-reading is mostly context and pattern prediction. Even partial skill is useful in noisy rooms.",
+  "gear": [
+    "Videos with subtitles you can toggle",
+    "A patient practice partner"
+  ],
+  "steps": [
+    "Learn the visemes: the visually distinct mouth shapes. P, B and M look identical; F and V look identical; many sounds are invisible entirely.",
+    "Learn to read whole words and phrases rather than sound by sound — context does most of the work.",
+    "Practise with subtitled video: watch with subtitles off, guess, then turn them on to check.",
+    "Practise with a partner mouthing common phrases from a known set, then from an unknown one.",
+    "Learn to use every other cue: facial expression, gesture, topic, and the shape of the conversation.",
+    "Practise in real conditions — a noisy café is the actual use case."
+  ],
+  "tips": [
+    "Even expert lip-readers rely heavily on guessing from context. Do not judge yourself against a fantasy.",
+    "Beards, poor light and people who turn away make it impossible. That is the medium, not you."
+  ],
+  "proof": "You follow the gist of a subtitled conversation with the sound off and subtitles hidden."
+}

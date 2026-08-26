@@ -1,0 +1,23 @@
+{
+  "id": "cartooning",
+  "name": "Draw simple cartoons",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Cartooning is about simplification and exaggeration, not accuracy — which makes it far more achievable than realism and much faster to get good at.",
+  "gear": [
+    "A sketchbook and a fineliner or brush pen"
+  ],
+  "steps": [
+    "Learn to build figures from basic shapes: circles, ovals and simple lines for the skeleton.",
+    "Learn expression from a small set of variables — eyebrow angle, eye size, mouth curve — and draw a sheet of 20 expressions.",
+    "Learn the line of action: one sweeping curve through the whole figure that gives it energy before any detail.",
+    "Develop a repeatable character you can draw from any angle, which is much harder and more valuable than one good drawing.",
+    "Learn to exaggerate: find the one feature that defines a subject and push it well past reality.",
+    "Draw one small cartoon a day for a month, finished and inked."
+  ],
+  "tips": [
+    "Consistency beats polish. A character that looks the same across ten drawings reads as a character.",
+    "Simplify aggressively. Every removed line makes the drawing read faster."
+  ],
+  "proof": "You draw your own character from four angles with three different expressions, recognisably the same person."
+}

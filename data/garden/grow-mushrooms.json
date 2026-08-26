@@ -1,0 +1,25 @@
+{
+  "id": "grow-mushrooms",
+  "name": "Grow mushrooms",
+  "time": "4–10 weeks",
+  "level": "Moderate",
+  "blurb": "Oyster mushrooms on a kit or on inoculated logs, indoors and out of season. Fast, surprising, and completely different from growing plants.",
+  "gear": [
+    "A mushroom kit, or spawn plus a substrate",
+    "A spray bottle",
+    "Somewhere humid and out of direct sun"
+  ],
+  "steps": [
+    "Start with a ready-made kit to learn the cycle before attempting your own substrate.",
+    "Learn the two phases: colonisation, where the mycelium takes over the substrate in the dark, then fruiting, triggered by light, air and humidity.",
+    "Keep humidity high during fruiting by misting several times a day, without soaking the substrate.",
+    "Give good fresh airflow — mushrooms with long thin stems and tiny caps are short of air.",
+    "Harvest just before the caps flatten and the edges turn up.",
+    "Soak the block and try for a second and third flush, then compost it."
+  ],
+  "tips": [
+    "Green or black mould means contamination. Discard it rather than trying to rescue it.",
+    "Only ever eat mushrooms you grew from known spawn. This is not a route into wild foraging."
+  ],
+  "proof": "Two flushes of mushrooms you grew and cooked."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "go-basics",
+  "name": "Learn the basics of Go",
+  "time": "3–6 weeks",
+  "level": "Hard",
+  "blurb": "Simpler rules than chess and vastly more room. Start on a 9×9 board, where a beginner can genuinely play a complete, satisfying game within an hour of learning.",
+  "gear": [
+    "A 9×9 board or an app",
+    "A go-playing server for opponents at your level"
+  ],
+  "steps": [
+    "Learn the rules, which take ten minutes: place stones, capture by removing liberties, and the ko rule.",
+    "Learn the concept of life and death — two eyes make a group unconditionally alive.",
+    "Play many 9×9 games rather than studying. The board teaches faster than books at this stage.",
+    "Learn basic capturing tactics: the ladder, the net and the snapback.",
+    "Learn to count liberties before starting a fight, and to recognise when a group is already dead.",
+    "Move to 13×13 and then 19×19 only once 9×9 games feel like they make sense."
+  ],
+  "tips": [
+    "Beginners fight over everything. Learning when to leave a group and play elsewhere is the big leap.",
+    "Playing on a full 19×19 board too early is why most beginners bounce off Go."
+  ],
+  "proof": "You play a complete 9×9 game, correctly identify which groups are alive, and count the score."
+}

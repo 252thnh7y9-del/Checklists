@@ -1,0 +1,24 @@
+{
+  "id": "backgammon",
+  "name": "Learn backgammon",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Five thousand years old and still one of the best games there is: enough luck that a beginner can beat an expert once, enough skill that they will not do it twice.",
+  "gear": [
+    "A backgammon set",
+    "A doubling cube"
+  ],
+  "steps": [
+    "Learn the setup, movement, and how bearing off works.",
+    "Learn the key concepts: making points, blots, hitting and the bar.",
+    "Learn the opening rolls — there are only fifteen and the best replies are well established.",
+    "Learn to count pips so you know whether you are in a race or a holding game, and play accordingly.",
+    "Learn the doubling cube, which is where most of the real skill lives.",
+    "Play often against a bot that shows equity, and review the moves it disagreed with."
+  ],
+  "tips": [
+    "Leaving blots you do not need to is the beginner leak. Count the shots that can hit you.",
+    "When ahead in the race, race. When behind, play a holding game and wait for a shot."
+  ],
+  "proof": "You beat a decent bot on its intermediate setting more often than not over 20 games."
+}

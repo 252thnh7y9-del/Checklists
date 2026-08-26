@@ -1,0 +1,25 @@
+{
+  "id": "knit-hat",
+  "name": "Knit in the round",
+  "time": "2–3 weeks after the basics",
+  "level": "Moderate",
+  "blurb": "Circular knitting gets you hats, socks and sleeves — tubes with no seams. It also removes purling from stocking stitch entirely, which most people find a relief.",
+  "gear": [
+    "A short circular needle, plus double-pointed needles or a long circular for the crown",
+    "Yarn with a stated gauge",
+    "Stitch markers"
+  ],
+  "steps": [
+    "Knit a gauge swatch and actually measure it. In flat knitting you can fudge it; in a fitted hat you cannot.",
+    "Cast on, then join in the round — carefully, making sure the stitches are not twisted around the needle, which is unfixable later.",
+    "Place a marker at the start of the round so you always know where you are.",
+    "Knit a ribbed brim, then the body in stocking stitch, which in the round is just knitting forever.",
+    "Learn decreases (k2tog and ssk) for the crown, switching to double-pointed needles or magic loop as the circumference shrinks.",
+    "Thread the yarn through the last stitches, pull tight, and weave in the ends."
+  ],
+  "tips": [
+    "A twisted join means starting completely over. Check twice before joining.",
+    "Ladders — loose columns where needles meet — are fixed by giving the first two stitches of each needle an extra tug."
+  ],
+  "proof": "A hat that fits the intended head, with a neat crown and no ladders."
+}

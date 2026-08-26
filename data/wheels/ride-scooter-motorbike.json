@@ -1,0 +1,25 @@
+{
+  "id": "ride-scooter-motorbike",
+  "name": "Ride a motorbike or scooter",
+  "time": "A training course, then months",
+  "level": "Hard",
+  "blurb": "This one starts with a licence and formal training, not a video. Once trained, the core skills are counter-steering, smooth throttle and reading traffic as if you are invisible.",
+  "gear": [
+    "The legally required training and licence for your country",
+    "A helmet plus proper protective gear, always",
+    "A small, manageable first bike"
+  ],
+  "steps": [
+    "Do the legally required training. This is not a skill to self-teach, and the training is what insurers and the law require.",
+    "Learn slow-speed control first: clutch, rear brake and throttle together for turns tighter than any car could manage.",
+    "Learn counter-steering — pushing the bar on the side you want to turn towards — which is how bikes actually steer above walking pace.",
+    "Learn threshold braking with both brakes, progressively, in a safe environment.",
+    "Learn road positioning and defensive riding: assume every driver has not seen you, because often they have not.",
+    "Wear full gear every ride, and take an advanced course once you have a season behind you."
+  ],
+  "tips": [
+    "Target fixation is the classic killer: you go where you look, so look at the escape route, not the hazard.",
+    "The first six months carry the highest risk. Build experience gradually rather than buying a powerful bike immediately."
+  ],
+  "proof": "You hold the licence, ride a mixed route confidently, and can do a slow-speed U-turn within a lane."
+}

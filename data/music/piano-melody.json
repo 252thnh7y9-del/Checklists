@@ -1,0 +1,24 @@
+{
+  "id": "piano-melody",
+  "name": "Play a recognizable melody on piano",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Any keyboard, a bit of geography, and one tune played properly with both hands. Far more satisfying than a month of scales.",
+  "gear": [
+    "Any keyboard, ideally 61+ keys",
+    "A simple sheet or a note-by-note tutorial"
+  ],
+  "steps": [
+    "Learn the keyboard layout: find middle C by the pattern of two and three black keys, and learn to locate any note quickly.",
+    "Learn correct hand shape — curved fingers, relaxed wrist, fingertips on the keys — before playing anything.",
+    "Learn a simple right-hand melody in C major, hands separate, slowly, counting out loud.",
+    "Add a simple left-hand accompaniment: single root notes on the beat, then broken chords.",
+    "Put hands together at half speed and only raise the tempo when it is completely clean.",
+    "Memorise the piece so you can play it for someone without the sheet."
+  ],
+  "tips": [
+    "Practise the two-bar section you keep fluffing, not the whole piece. Repetition of the whole thing is mostly rehearsing the parts you already have.",
+    "Use a metronome from the start; playing rubato is a choice, not an accident."
+  ],
+  "proof": "You play a recognisable tune with both hands, from memory, at a steady tempo."
+}

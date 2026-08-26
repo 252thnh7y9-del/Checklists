@@ -1,0 +1,25 @@
+{
+  "id": "geocaching",
+  "name": "Go geocaching",
+  "time": "2–4 outings",
+  "level": "Easy",
+  "blurb": "Millions of small containers hidden worldwide, findable by coordinates. It is a real navigation exercise disguised as a treasure hunt, and it works brilliantly with children.",
+  "gear": [
+    "A geocaching app or a handheld GPS",
+    "A pen for the logbook",
+    "Small items to trade, if you want to"
+  ],
+  "steps": [
+    "Start with caches rated easy for both difficulty and terrain, and read the description and recent logs before setting out.",
+    "Learn that GPS accuracy is only a few metres at best — the last stretch is done by reading the ground, not the screen.",
+    "Learn to think like a hider: look at the obvious unnatural things, the base of posts, under lips, in walls.",
+    "Sign the physical log, return the cache exactly as you found it, and log it online.",
+    "Learn the etiquette: be discreet in public, take nothing without leaving something of equal value, do not damage anything to search.",
+    "Progress to multi-caches and puzzle caches, which involve real navigation and problem solving."
+  ],
+  "tips": [
+    "Tree cover and urban canyons wreck GPS accuracy. Trust the terrain over the arrow when it starts spinning.",
+    "Do not search in a way that alarms people. Some caches are near sensitive infrastructure — use judgement."
+  ],
+  "proof": "You find ten caches including one multi-stage, and hide one of your own that others find."
+}

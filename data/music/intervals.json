@@ -1,0 +1,24 @@
+{
+  "id": "intervals",
+  "name": "Recognise common intervals",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Ear training’s highest-value first step: naming the distance between two notes. Anchor each interval to a song you already know and it becomes automatic.",
+  "gear": [
+    "An ear-training app",
+    "A keyboard for reference"
+  ],
+  "steps": [
+    "Learn the anchor songs: a rising minor third is the “Greensleeves” opening, a perfect fourth is “Here Comes the Bride”, a perfect fifth is the “Star Wars” theme, an octave is “Somewhere Over the Rainbow”.",
+    "Drill just three intervals at first — fourth, fifth and octave — until you get 90% right.",
+    "Add thirds and sixths, the ones that carry emotional colour.",
+    "Add the awkward ones: tritone, minor seventh, major seventh.",
+    "Practise descending intervals separately; they need their own anchors.",
+    "Move from apps to real music: pause a song and name the interval you just heard."
+  ],
+  "tips": [
+    "Ten focused minutes a day beats an hour weekly. This is memory work as much as ear work.",
+    "Singing the interval before naming it dramatically improves accuracy."
+  ],
+  "proof": "You identify all common intervals, ascending and descending, at 90% accuracy."
+}

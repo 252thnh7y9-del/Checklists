@@ -1,0 +1,25 @@
+{
+  "id": "card-tricks",
+  "name": "Learn several impressive card tricks",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "A handful of well-chosen tricks covers most situations: one self-working, one that uses a key card, one force, one with a false shuffle. The performance matters more than the method.",
+  "gear": [
+    "Two identical decks of poker-size cards, Bicycle or similar",
+    "A mirror or a phone camera"
+  ],
+  "steps": [
+    "Start with one self-working trick that relies on maths, not sleight of hand — it lets you practise presentation with zero technical risk.",
+    "Learn the key-card principle: glimpse the bottom card, have theirs placed on top, cut, and their card is now next to your key.",
+    "Learn one force (the classic cross-cut force is the easiest and fools nearly everyone) so you can control which card is “freely chosen”.",
+    "Learn one false shuffle — an overhand shuffle that keeps the top stock intact is enough.",
+    "Build a five-minute set: three tricks with different-looking methods, escalating in impact, ending on your strongest.",
+    "Film yourself performing the set and watch it back with the sound off to catch the moments your hands give you away."
+  ],
+  "tips": [
+    "Never repeat a trick for the same audience — the second viewing is where they solve it.",
+    "Never explain the method, however much they ask. The mystery is the whole product.",
+    "Talk through the moves you want them to remember; stay quiet through the ones you do not."
+  ],
+  "proof": "You perform three tricks back to back for people who did not know it was coming, and nobody catches the method."
+}

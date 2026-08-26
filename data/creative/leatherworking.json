@@ -1,0 +1,26 @@
+{
+  "id": "leatherworking",
+  "name": "Learn simple leatherworking",
+  "time": "3–4 weeks",
+  "level": "Moderate",
+  "blurb": "A card holder or a belt teaches the whole vocabulary: cutting, edge finishing, saddle stitching and hardware. Hand-stitched leather is stronger than machine-stitched.",
+  "gear": [
+    "Vegetable-tanned leather, 2–3 mm",
+    "A cutting mat, a sharp knife, a stitching chisel",
+    "Waxed thread and two harness needles",
+    "Edge beveller and burnisher"
+  ],
+  "steps": [
+    "Learn to cut accurately with a very sharp knife against a steel rule, in one confident pass rather than several timid ones.",
+    "Learn the saddle stitch: two needles, one thread, passing through each hole from both sides. It is what makes hand-stitching outlast machine work.",
+    "Learn to mark and punch stitching holes evenly with a chisel and a mallet.",
+    "Learn edge finishing: bevel the edge, wet it, then burnish with a slicker until it is glassy. This step is what makes work look professional.",
+    "Make a simple card holder as a first project, then a belt or a knife sheath.",
+    "Learn basic hardware: rivets, snaps and buckles."
+  ],
+  "tips": [
+    "Edge finishing is 80% of the perceived quality. Do not skip it.",
+    "Measure and mark everything before cutting — leather does not forgive an error the way fabric does."
+  ],
+  "proof": "A hand-stitched item with even stitches and burnished edges that you would use daily."
+}

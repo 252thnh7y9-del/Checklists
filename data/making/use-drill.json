@@ -1,0 +1,26 @@
+{
+  "id": "use-drill",
+  "name": "Use a drill correctly",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "Matching bit to material, choosing the right speed and clutch setting, and drilling straight — this is the gateway to every other DIY task.",
+  "gear": [
+    "A cordless combi drill",
+    "Bit sets for wood, masonry and metal",
+    "Safety glasses, and a pencil"
+  ],
+  "steps": [
+    "Learn the controls: chuck, torque clutch, drill versus hammer mode, and the speed gears. Low gear is high torque, high gear is high speed.",
+    "Match the bit to the material: brad-point or twist for wood, masonry with hammer mode for brick, HSS with a slow speed for metal.",
+    "Mark and centre-punch or pilot the hole so the bit cannot wander.",
+    "Drill straight — sight from two angles, or use a guide block. Angled holes are the most common beginner result.",
+    "Learn the clutch for driving screws: start low and increase until the screw seats without stripping the head or sinking too deep.",
+    "Learn pilot holes and countersinking for clean, split-free screwing into wood."
+  ],
+  "tips": [
+    "Let the bit cut. Leaning on it overheats bits and burns wood.",
+    "Always check for cables and pipes before drilling into a wall — a detector costs less than an electrician.",
+    "Clamp small workpieces. A spinning workpiece is how hands get hurt."
+  ],
+  "proof": "You drill perpendicular holes in wood, metal and masonry, each with the right bit, speed and mode."
+}

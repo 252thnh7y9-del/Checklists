@@ -1,0 +1,22 @@
+{
+  "id": "rubiks-2x2",
+  "name": "Solve a 2×2 Rubik’s Cube",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "The 2×2 is a 3×3 with no edges and no centres — corners only. If you know the beginner 3×3 method you already know enough to solve it; if you do not, this is the gentler place to start.",
+  "gear": [
+    "Any 2×2 cube"
+  ],
+  "steps": [
+    "Pick a colour and solve one whole face, matching the side colours of those four corners as a band around the cube.",
+    "Orient the opposite face using the same R U R’ U R U2 R’ repetition you would use on a 3×3, turning only the top between repeats.",
+    "Permute the last four corners with a single corner-swap algorithm, applied once or twice.",
+    "Practise recognising the last-layer case at a glance rather than counting stickers.",
+    "Time yourself over ten solves and try to break your own average."
+  ],
+  "tips": [
+    "There are no centres, so nothing tells you which colour goes where — use the corners you have already solved as the reference.",
+    "If you learn the 2×2 first, the 3×3 last layer will feel familiar rather than new."
+  ],
+  "proof": "You solve any scramble in under a minute without looking at notes."
+}

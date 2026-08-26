@@ -1,0 +1,24 @@
+{
+  "id": "navigate-compass",
+  "name": "Navigate using a compass",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The compass on its own: taking a bearing, walking it accurately, and coming back. Simple in principle, and full of small errors that compound over distance.",
+  "gear": [
+    "A baseplate compass",
+    "An open area to practise in"
+  ],
+  "steps": [
+    "Learn the parts: the housing, the bezel, the orienting arrow, the direction-of-travel arrow and the magnetic needle.",
+    "Learn to take a bearing off an object: point the direction-of-travel arrow at it and rotate the bezel until the needle sits in the shed.",
+    "Learn to walk a bearing: pick a distant object on the line, walk to it, and re-shoot. Do not walk while watching the needle.",
+    "Learn the back bearing to return along the same line.",
+    "Practise a triangle course: three legs of 100 paces at 120-degree bearings should return you to your start. The gap is your error.",
+    "Learn to account for magnetic declination in your area, and for the deflection caused by metal near the compass."
+  ],
+  "tips": [
+    "Phones, cars, belt buckles and steel-framed glasses all pull the needle. Step away before reading.",
+    "Small angular errors become big distance errors. One degree off is about 17 metres per kilometre."
+  ],
+  "proof": "A triangle course of 300 paces returns you within a few metres of your starting point."
+}

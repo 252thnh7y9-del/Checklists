@@ -1,0 +1,23 @@
+{
+  "id": "bowline-blind",
+  "name": "Tie a bowline without looking",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "The king of knots: a fixed loop that will not slip, will not jam, and unties easily after loading. Being able to tie it behind your back, in the dark, is a genuinely practical goal.",
+  "gear": [
+    "A length of rope"
+  ],
+  "steps": [
+    "Learn it in the open with the rabbit story: the rabbit comes up the hole, round the tree and back down the hole.",
+    "Tie it fifty times looking, checking each time that the loose end finishes inside the loop, not outside.",
+    "Tie it with your eyes closed, feeling for the twist that forms the hole.",
+    "Learn the one-handed version, which is the one you would actually use if you were holding on with the other hand.",
+    "Tie it behind your back, then around your own waist, then in the dark.",
+    "Learn to spot a cowboy bowline — the mirrored, weaker version — by feel."
+  ],
+  "tips": [
+    "Under a cyclic load a bowline can shake loose. Add a stopper knot in the tail if it matters.",
+    "Check the tail is inside the loop, every single time. This is the one error that makes it fail."
+  ],
+  "proof": "You tie a correct bowline around your own waist, in the dark, in under ten seconds."
+}

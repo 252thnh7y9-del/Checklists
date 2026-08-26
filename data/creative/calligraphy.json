@@ -1,0 +1,25 @@
+{
+  "id": "calligraphy",
+  "name": "Learn simple calligraphy",
+  "time": "3–5 weeks",
+  "level": "Moderate",
+  "blurb": "One hand — italic or foundational — learned properly. Calligraphy is about consistent angle, consistent spacing and slow deliberate strokes.",
+  "gear": [
+    "A broad-edge pen: a dip nib or a calligraphy fountain pen",
+    "Guideline paper with slant lines",
+    "Non-bleeding paper and ink"
+  ],
+  "steps": [
+    "Choose one hand and stick to it. Italic is the most useful for everyday writing.",
+    "Set the pen angle — usually 45 degrees for italic — and hold it constant. This single variable creates the thick and thin strokes.",
+    "Learn the basic strokes before any letters: the stem, the arch, the branch, the o-shape.",
+    "Learn letters in family groups that share a construction, not in alphabetical order.",
+    "Learn the x-height and stick to the guidelines. Consistency of height and slant is what makes it look professional.",
+    "Practise spacing with whole words, then write a full quotation as a finished piece."
+  ],
+  "tips": [
+    "Draw the letters slowly. Calligraphy is drawing, not handwriting, and speed comes only after the shapes are automatic.",
+    "A wandering pen angle is the fault behind nearly every wobbly beginner alphabet."
+  ],
+  "proof": "A finished piece with even spacing, consistent angle and a straight baseline, that you would frame."
+}

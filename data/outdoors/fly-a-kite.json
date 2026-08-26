@@ -1,0 +1,25 @@
+{
+  "id": "fly-a-kite",
+  "name": "Fly a kite",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "Almost everyone has failed at this on a beach, and almost always for the same reasons: the wrong kite, the wrong wind, and running. Get those right and it is effortless.",
+  "gear": [
+    "A single-line delta or diamond kite for learning",
+    "An open space well away from power lines, roads and trees",
+    "Gloves if you go up to a bigger kite"
+  ],
+  "steps": [
+    "Check the wind: most kites want a steady 8–25 km/h. Too little and nothing works; too much and it will be destroyed.",
+    "Choose your site with care — well clear of overhead lines, airports, roads and people. This matters more than any technique.",
+    "Assemble it properly and check the bridle attachment point, which controls the angle it flies at.",
+    "Launch with your back to the wind: hold it up, let out a few metres of line and let the wind lift it. Do not run.",
+    "Let line out steadily as it climbs, and pull in gently when it starts to drop to give it more lift.",
+    "Learn to land it by walking towards it while winding in, and to fly a two-line stunt kite once the single-line one is boring."
+  ],
+  "tips": [
+    "Running with a kite is the classic mistake. If it needs running, there is not enough wind.",
+    "Never fly near power lines, in a thunderstorm, or with wire or wet line. Kite lines conduct."
+  ],
+  "proof": "You launch unaided, hold a stable high flight for twenty minutes, and land it under control."
+}

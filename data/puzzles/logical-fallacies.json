@@ -1,0 +1,23 @@
+{
+  "id": "logical-fallacies",
+  "name": "Recognise basic logical fallacies",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Learning a dozen named fallacies changes how you read news, arguments and advertising — and, more usefully, how you spot the weak joints in your own reasoning.",
+  "gear": [
+    "A list of the classic fallacies",
+    "A source of arguments: opinion columns, forums, adverts"
+  ],
+  "steps": [
+    "Learn the six that appear most often: straw man, ad hominem, false dilemma, appeal to authority, slippery slope, and circular reasoning.",
+    "Add the statistical cousins: correlation mistaken for causation, survivorship bias, base-rate neglect and cherry-picking.",
+    "Read one opinion piece a day and name every move the writer makes, fair or not.",
+    "Practise steel-manning: restate an argument you disagree with in its strongest form before criticising it. Most “fallacies” dissolve.",
+    "Audit your own last three arguments for the same errors, honestly."
+  ],
+  "tips": [
+    "A fallacy makes an argument unsupported, not automatically wrong. Calling “fallacy!” is not itself a rebuttal.",
+    "Naming fallacies out loud in conversation rarely persuades anyone. Ask a question that exposes the gap instead."
+  ],
+  "proof": "You can read an opinion column and describe the actual structure of its argument, including where it holds up."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "scrabble-strategy",
+  "name": "Learn Scrabble strategy",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Scrabble is not a vocabulary test, it is a board-control and rack-management game. Two lists and three principles beat a large vocabulary played badly.",
+  "gear": [
+    "A Scrabble set",
+    "A list of two-letter and three-letter valid words"
+  ],
+  "steps": [
+    "Learn the two-letter word list. It is about a hundred words and it is the single highest-value study in the game.",
+    "Learn rack management: aim to keep a balance of vowels and consonants, and dump awkward tiles early.",
+    "Learn to play the board, not just the word — do not open a triple word score for your opponent to use.",
+    "Learn the hooks: words that take an S, or that extend existing words.",
+    "Learn to value a 50-point bingo bonus and to hold tiles that make seven-letter plays likely.",
+    "Track the tiles that have gone, especially the blanks and the S tiles."
+  ],
+  "tips": [
+    "The highest-scoring play is often the wrong play if it opens a triple lane for your opponent.",
+    "Q without U words are worth memorising; there are only a handful."
+  ],
+  "proof": "You beat casual players consistently and average over 300 points a game."
+}

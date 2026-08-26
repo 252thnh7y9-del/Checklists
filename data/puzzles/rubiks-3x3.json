@@ -1,0 +1,25 @@
+{
+  "id": "rubiks-3x3",
+  "name": "Solve a 3×3 Rubik’s Cube",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The cube is not a puzzle you out-think, it is a set of about seven algorithms you memorise and then apply in a fixed order. Almost everyone who practises deliberately for a week can solve any scramble unaided.",
+  "gear": [
+    "A modern speedcube — a Rubik’s brand cube is stiff and will fight you",
+    "A printed copy of the beginner method"
+  ],
+  "steps": [
+    "Learn the vocabulary first: faces U, D, L, R, F, B, a plain letter means a clockwise quarter turn, an apostrophe means anticlockwise. Practise turning to spoken letters until you no longer have to think.",
+    "Solve the white cross so the edge colours also match the side centres. Do this by intuition, not algorithms — it is the only part you should reason through.",
+    "Solve the first two layers by inserting the four white corners with the R U R’ U’ trigger, then the four middle edges with the two mirrored edge-insertion algorithms.",
+    "Orient the last layer: make the yellow cross with F R U R’ U’ F’, then flip the remaining corners with repeated R U R’ U R U2 R’ while turning only the top face between repetitions.",
+    "Permute the last layer: cycle the corners into place, then cycle the edges. Two algorithms, and the cube is solved.",
+    "Do ten scrambled solves a day with the sheet in front of you, then ten more without it."
+  ],
+  "tips": [
+    "Do not learn the layers out of order. Every step assumes the one before it is already solved.",
+    "When an algorithm seems to wreck your progress, it usually has not — finish the whole sequence before judging.",
+    "Hold the cube in a fixed orientation during an algorithm. Most beginner failures are re-gripping mid-sequence."
+  ],
+  "proof": "Someone else scrambles the cube out of your sight and you solve it, no notes, three times running."
+}

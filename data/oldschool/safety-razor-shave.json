@@ -1,0 +1,26 @@
+{
+  "id": "safety-razor-shave",
+  "name": "Shave with a safety razor",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A better shave for a fraction of the cost, with a fraction of the plastic. The technique is the opposite of a cartridge razor: no pressure, and the angle does the work.",
+  "gear": [
+    "A double-edge safety razor and a variety pack of blades",
+    "A shaving brush and a soap or cream",
+    "A styptic pencil or alum block"
+  ],
+  "steps": [
+    "Prepare properly: shave after a shower, or use a hot towel, so the hair is soft.",
+    "Build a proper lather with a brush — it lifts the hair and lubricates far better than canned foam.",
+    "Learn the angle: roughly 30 degrees between blade and skin, achieved by finding the shallow point and dropping slightly.",
+    "Use no pressure at all. The weight of the razor is the correct pressure, and pressing is what causes cuts and irritation.",
+    "Shave with the grain first, mapping which way your hair actually grows on each part of your face.",
+    "Reduce in passes rather than chasing smoothness in one — with the grain, then across, and only then against if you need to."
+  ],
+  "tips": [
+    "Blades are personal. A variety pack tells you more than any review.",
+    "Razor burn is almost always pressure or too many passes against the grain.",
+    "Dispose of blades in a proper blade bank, never loose in a bin."
+  ],
+  "proof": "A comfortable close shave with no weepers or razor burn, three times in a row."
+}

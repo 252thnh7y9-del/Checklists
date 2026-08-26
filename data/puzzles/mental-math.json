@@ -1,0 +1,23 @@
+{
+  "id": "mental-math",
+  "name": "Learn common mental math shortcuts",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Fast mental arithmetic is a small toolkit of tricks plus the habit of working left to right instead of the way you were taught at school.",
+  "gear": [
+    "A notebook for drills"
+  ],
+  "steps": [
+    "Switch to left-to-right addition: add the hundreds, then the tens, then the units, keeping one running number in your head.",
+    "Learn multiplication by 11 (add the neighbouring digits), by 5 (halve then times ten) and by 9 (times ten, subtract the number).",
+    "Learn squaring numbers ending in 5: the tens digit times its successor, then stick 25 on the end. 65² is 6×7 then 25, so 4225.",
+    "Learn the difference-of-squares trick for near pairs: 48×52 is 50² minus 2², so 2496.",
+    "Learn casting out nines as a check on your answers.",
+    "Drill five minutes a day with random two-digit problems and check your work."
+  ],
+  "tips": [
+    "Estimating first gives you a sanity check, and catches the tenfold slips that make you look foolish.",
+    "Speed follows accuracy. Get it right slowly for a week and fast arrives on its own."
+  ],
+  "proof": "You multiply any two two-digit numbers in your head in under ten seconds, reliably."
+}

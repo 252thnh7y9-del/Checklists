@@ -1,0 +1,24 @@
+{
+  "id": "bowling-hook",
+  "name": "Bowl a hook",
+  "time": "4–8 sessions",
+  "level": "Moderate",
+  "blurb": "A hooking ball enters the pocket at an angle and scatters pins far better than a straight ball. It comes from the release, not from throwing across your body.",
+  "gear": [
+    "A ball drilled to fit your hand, if you get serious",
+    "A bowling alley and a few evenings"
+  ],
+  "steps": [
+    "Fix the fundamentals: a consistent four or five-step approach and a straight, pendulum arm swing.",
+    "Aim at the arrows on the lane, not at the pins. Everyone who aims at the pins is less accurate.",
+    "Learn the release: keep the hand behind the ball and rotate it slightly counter-clockwise at the bottom, like shaking hands then turning a doorknob.",
+    "Let the thumb come out first and the fingers lift, which is what imparts the roll.",
+    "Adjust your starting position, not your aim, when the ball misses left or right.",
+    "Learn to read the lane as oil moves during a session."
+  ],
+  "tips": [
+    "Muscling the ball kills accuracy. Let the swing do the work and keep the arm loose.",
+    "House balls with wide thumb holes make a proper release almost impossible."
+  ],
+  "proof": "A repeatable hook that consistently enters the pocket, and an average above 130."
+}

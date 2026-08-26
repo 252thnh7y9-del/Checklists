@@ -1,0 +1,26 @@
+{
+  "id": "ollie",
+  "name": "Land an ollie",
+  "time": "1–3 months",
+  "level": "Hard",
+  "blurb": "The trick every other skate trick is built on: the board leaves the ground with you, unattached. It is a timing puzzle, and it takes far longer than beginners expect.",
+  "gear": [
+    "A skateboard",
+    "Somewhere flat, and grass or carpet for the first attempts",
+    "Protective gear"
+  ],
+  "steps": [
+    "Learn it stationary first, with the board wedged in grass or carpet so it cannot shoot out.",
+    "Set your feet: back foot on the tail with the ball of your foot on the very end, front foot behind the front bolts.",
+    "Snap the tail down hard and jump at the same moment — the pop and the jump are one action, not two.",
+    "Drag the outside of your front foot up the grip tape towards the nose. This is what levels the board out.",
+    "Suck your knees up and level the board in the air, then land over the bolts with bent knees.",
+    "Once it works stationary, do it rolling slowly. Rolling ollies are easier than stationary ones, oddly."
+  ],
+  "tips": [
+    "No pop usually means your back foot is not on the very tip of the tail.",
+    "The board flying forwards means you are not dragging your front foot, just jumping.",
+    "This one takes weeks. Everyone who lands it went through the same frustrating fortnight."
+  ],
+  "proof": "You ollie over a stationary obstacle while rolling, and land rolling away."
+}

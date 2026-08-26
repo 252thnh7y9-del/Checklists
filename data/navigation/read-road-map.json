@@ -1,0 +1,24 @@
+{
+  "id": "read-road-map",
+  "name": "Read a paper road map",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "Folding, legend, scale, grid references and the ability to plan a route before you set off. It also builds the mental model of a region that satnav actively prevents.",
+  "gear": [
+    "A paper road atlas or a folded regional map",
+    "A highlighter"
+  ],
+  "steps": [
+    "Learn the legend properly: road classifications, distances between junctions, gradients, and what the symbols mean.",
+    "Learn the scale and how to convert map distance to real distance quickly with your thumb or a scrap of paper.",
+    "Learn the grid and index system so you can find a named place in seconds.",
+    "Plan a real route: write down the road numbers and junction names in sequence, as a strip map.",
+    "Navigate a real journey with the map only, no phone.",
+    "Learn to refold it properly, which is genuinely a skill."
+  ],
+  "tips": [
+    "Turn the map to match your direction of travel. Reading a map upside down is where most errors happen.",
+    "Note the road numbers and the next big town, not the individual turns. That is how signs are actually labelled."
+  ],
+  "proof": "You drive an unfamiliar 100 km route using only a paper map, without a wrong turn."
+}

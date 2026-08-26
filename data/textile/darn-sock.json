@@ -1,0 +1,25 @@
+{
+  "id": "darn-sock",
+  "name": "Darn a sock",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Twenty minutes of weaving saves a good pair of wool socks. A proper darn is a woven patch, not a pulled-together hole — and it lasts.",
+  "gear": [
+    "A darning mushroom, a tennis ball or a light bulb",
+    "Darning yarn or fine wool in a matching weight",
+    "A darning needle"
+  ],
+  "steps": [
+    "Stretch the sock over the mushroom so the hole lies flat and open.",
+    "Run a circle of small running stitches around the hole in sound fabric to stop it spreading.",
+    "Lay parallel warp threads across the hole, anchoring well into the good fabric either side.",
+    "Weave the weft threads over and under the warp, packing each row snug against the last.",
+    "Keep the tension even and the patch flat — a tight darn creates a lump that causes blisters.",
+    "Finish by weaving the ends into the surrounding fabric rather than knotting."
+  ],
+  "tips": [
+    "Pulling the hole closed instead of weaving across it makes a ridge you will feel with every step.",
+    "Darn while the hole is small — a thin patch is far easier than a large hole."
+  ],
+  "proof": "A darned sock you can wear all day without noticing the repair."
+}

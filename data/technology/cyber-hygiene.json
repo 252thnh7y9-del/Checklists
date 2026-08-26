@@ -1,0 +1,25 @@
+{
+  "id": "cyber-hygiene",
+  "name": "Learn basic cybersecurity hygiene",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Six habits prevent the overwhelming majority of real-world compromises. This is the highest-value hour of security learning available to a normal person.",
+  "gear": [
+    "A password manager",
+    "An authenticator app or a hardware key"
+  ],
+  "steps": [
+    "Get every account into a password manager with unique, generated passwords. Reuse is the single biggest real-world risk.",
+    "Turn on two-factor authentication everywhere it is offered, preferring an app or a hardware key over SMS.",
+    "Secure the accounts that can reset everything else — your email and your phone number — with the strongest protection available.",
+    "Keep devices and browsers updated automatically. Most successful attacks use known, patched vulnerabilities.",
+    "Learn to recognise phishing: check the actual sending domain, never act on urgency, and navigate to sites yourself rather than clicking links.",
+    "Set up backups: three copies, two media, one offsite — and test that a restore actually works."
+  ],
+  "tips": [
+    "Your email account is the master key to everything. Protect it accordingly.",
+    "An untested backup is not a backup. Restore a file from it once.",
+    "Check your addresses against a breach-notification service and change what has leaked."
+  ],
+  "proof": "Every account has a unique password, two-factor is on everywhere it can be, and you have restored a file from backup."
+}

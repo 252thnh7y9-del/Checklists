@@ -1,0 +1,24 @@
+{
+  "id": "analog-clock",
+  "name": "Read an analog clock instantly",
+  "time": "3–5 days",
+  "level": "Easy",
+  "blurb": "Instant, not calculated. If you still work out \"the big hand is on the seven, so that is 35\", a few days of drilling replaces arithmetic with recognition.",
+  "gear": [
+    "An analogue clock or watch",
+    "A clock-drill app or a printed worksheet"
+  ],
+  "steps": [
+    "Learn the twelve hour positions as shapes rather than numbers, so a hand position reads directly as a time.",
+    "Learn the five-minute marks as positions, not multiplications: the three position is 15, the six is 30, the nine is 45.",
+    "Learn to read the minute hand’s fine position between marks by eye.",
+    "Drill with random times, aiming to answer in under a second.",
+    "Practise on clocks with no numerals, and on Roman-numeral faces, which break the counting habit.",
+    "Wear an analogue watch for a fortnight so you get dozens of unconscious reps a day."
+  ],
+  "tips": [
+    "The hour hand also moves. At half past, it sits between two numerals — reading it as the earlier hour is the classic error.",
+    "Roman IIII on watch faces is traditional, not a mistake."
+  ],
+  "proof": "You read any analogue clock correctly, including numeral-free faces, in under a second."
+}

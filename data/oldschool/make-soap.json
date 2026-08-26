@@ -1,0 +1,27 @@
+{
+  "id": "make-soap",
+  "name": "Make soap",
+  "time": "A day plus 6 weeks curing",
+  "level": "Hard",
+  "blurb": "Real cold-process soap from oils and lye. It is straightforward chemistry with genuinely dangerous ingredients, so the safety procedure is the skill.",
+  "gear": [
+    "Sodium hydroxide (lye) and oils",
+    "Digital scales accurate to a gram",
+    "Goggles, chemical-resistant gloves, long sleeves",
+    "A stick blender and dedicated equipment"
+  ],
+  "steps": [
+    "Run your recipe through a lye calculator every time. Guessing quantities produces caustic soap that burns skin.",
+    "Set up safely: ventilated space, no children or pets, full eye protection and gloves, and vinegar and running water to hand.",
+    "Always add lye to water, never water to lye, and do it outdoors or under extraction — it heats violently and gives off fumes.",
+    "Cool both lye solution and melted oils to a similar temperature before combining.",
+    "Blend to trace — the point where the mixture thickens enough to leave a trail — then add fragrance and pour into the mould.",
+    "Insulate for 24 hours, unmould, cut, then cure for four to six weeks so the water evaporates and the bar mildens."
+  ],
+  "tips": [
+    "Lye causes severe chemical burns and blindness. This is not a project to do casually or with children present.",
+    "Uncured soap is harsh and dissolves fast. The six-week wait is not optional.",
+    "Never use aluminium equipment with lye — it reacts and produces hydrogen gas."
+  ],
+  "proof": "A cured batch that lathers well and tests neutral, made from a recipe you calculated."
+}

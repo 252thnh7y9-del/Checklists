@@ -1,0 +1,26 @@
+{
+  "id": "temper-chocolate",
+  "name": "Temper chocolate",
+  "time": "2–4 attempts",
+  "level": "Hard",
+  "blurb": "Tempering aligns the cocoa butter crystals so chocolate sets glossy and snaps. Untempered chocolate is dull, streaky and soft — it is a temperature discipline, not a recipe.",
+  "gear": [
+    "Good couverture chocolate with a stated cocoa butter content",
+    "A reliable digital thermometer",
+    "A marble slab or a bowl and spatula"
+  ],
+  "steps": [
+    "Learn why it works: cocoa butter forms six crystal types and only form V gives gloss and snap.",
+    "Melt the chocolate gently to about 45–50 °C for dark, taking care not to let any water in.",
+    "Cool it to around 27 °C — either by tabling on marble, or by seeding with unmelted tempered chocolate.",
+    "Warm it back to the working temperature, roughly 31–32 °C for dark, lower for milk and white.",
+    "Test on a knife or paper: correctly tempered chocolate sets within a few minutes, glossy and firm.",
+    "Keep it in that working range while you use it, and work in a cool room."
+  ],
+  "tips": [
+    "A single drop of water seizes chocolate instantly. Everything must be bone dry.",
+    "Chocolate chips contain stabilisers and often will not temper. Use proper couverture.",
+    "Bloom — white streaks — means the temper failed or it was stored badly. It is harmless but ugly."
+  ],
+  "proof": "Chocolate that sets with a mirror shine, snaps cleanly, and releases from a mould by itself."
+}

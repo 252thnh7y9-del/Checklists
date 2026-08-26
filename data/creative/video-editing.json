@@ -1,0 +1,25 @@
+{
+  "id": "video-editing",
+  "name": "Learn basic video editing",
+  "time": "3–4 weeks",
+  "level": "Moderate",
+  "blurb": "Cutting, pacing, audio and export settings. The technical part of editing is a week; the judgement about when to cut is the actual skill.",
+  "gear": [
+    "DaVinci Resolve (free), Premiere or CapCut",
+    "Footage — your own, or free stock",
+    "Headphones"
+  ],
+  "steps": [
+    "Learn the interface and the basic operations: import, timeline, trim, ripple delete, and keyboard shortcuts.",
+    "Learn to assemble a rough cut fast without perfecting anything, then refine — editing forwards in perfect order wastes enormous time.",
+    "Learn J-cuts and L-cuts, where audio leads or trails the picture. This one technique makes amateur edits look professional.",
+    "Learn audio: level matching, ducking music under speech, and removing background noise. Bad audio reads as amateur faster than bad picture.",
+    "Learn basic colour correction, then grading, and keep them as separate steps.",
+    "Learn export settings for the platform you are targeting, and finish something short and complete."
+  ],
+  "tips": [
+    "Cut on motion and cut earlier than feels comfortable. Beginner edits are almost always too slow.",
+    "Fix audio before you touch colour. Viewers forgive bad picture long before bad sound."
+  ],
+  "proof": "A finished two-minute video with clean cuts, balanced audio and a consistent look."
+}

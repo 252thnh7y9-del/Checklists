@@ -1,0 +1,27 @@
+{
+  "id": "bow-drill",
+  "name": "Start a fire with a bow drill",
+  "time": "2–4 weeks",
+  "level": "Hard",
+  "blurb": "The hardest fire skill worth learning and the most satisfying. Success depends almost entirely on materials and geometry — when it fails it is nearly always dry-enough wood, not weak arms.",
+  "gear": [
+    "Dry softwood for spindle and hearth board: willow, cedar, cottonwood, lime",
+    "A curved green branch and a bootlace for the bow",
+    "A hardwood or stone bearing block",
+    "A tinder bundle of dry grass, bark fibre or cattail fluff"
+  ],
+  "steps": [
+    "Choose the wood: spindle and hearth board should be the same dry softwood, light enough to dent with a thumbnail but not rotten.",
+    "Carve a spindle about 20 cm long and thumb-thick, pointed at the top and blunter at the bottom, and cut a shallow socket in the hearth board near the edge.",
+    "Burn in the socket first — run the drill until you have a black, matched depression — then cut a precise pie-slice notch, one-eighth of the circle, to collect the dust.",
+    "Set your body: left foot on the board, left wrist locked against your shin, bearing block held down hard and straight. Rigid geometry is more important than speed.",
+    "Bow long, smooth, full strokes to build black dust in the notch, then go faster and heavier for a final burst until smoke rises from the dust pile itself.",
+    "Let the ember sit for 20 seconds, transfer it to your tinder bundle, and blow steadily from underneath until it flames."
+  ],
+  "tips": [
+    "Smoke is not an ember. Everything smokes; only a self-sustaining coal in the notch matters.",
+    "Wobble kills it. If the spindle jumps out, your bearing hand is not locked against your leg.",
+    "Prepare the tinder bundle and all your kindling before you take the first stroke."
+  ],
+  "proof": "You produce an ember and blow it into flame, twice, using materials you gathered yourself."
+}

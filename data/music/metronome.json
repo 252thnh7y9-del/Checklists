@@ -1,0 +1,24 @@
+{
+  "id": "metronome",
+  "name": "Keep rhythm with a metronome",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "The unglamorous skill underneath every other musical skill. Playing genuinely in time — not approximately in time — is trainable and immediately audible.",
+  "gear": [
+    "A metronome app",
+    "Any instrument, or just your hands"
+  ],
+  "steps": [
+    "Clap quarter notes with the click at 80 bpm until the click disappears underneath your clap. That disappearance is the target sensation.",
+    "Subdivide: clap eighths, then triplets, then sixteenths, against the same click.",
+    "Move the click to beats 2 and 4 only, which is much harder and far more musical.",
+    "Practise at slow tempos — 50 bpm exposes every timing flaw that 120 hides.",
+    "Play a piece you know at 60% speed with the click, then raise it in 5 bpm steps, dropping back whenever it gets sloppy.",
+    "Record yourself against a click and listen back for drift."
+  ],
+  "tips": [
+    "If you can still hear the click clearly on every beat, you are slightly off it.",
+    "Rushing is far more common than dragging, especially in loud or fast passages."
+  ],
+  "proof": "You play a full piece with the click on 2 and 4 without drifting, and it sounds locked on playback."
+}

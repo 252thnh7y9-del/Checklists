@@ -1,0 +1,24 @@
+{
+  "id": "rubiks-sub60",
+  "name": "Solve a Rubik’s Cube under 60 seconds",
+  "time": "2–4 weeks after the basics",
+  "level": "Moderate",
+  "blurb": "Sub-60 is not a new method, it is the same beginner method with the pauses taken out. Speed comes from looking ahead and from finger tricks, not from turning faster.",
+  "gear": [
+    "A well-tensioned speedcube, lightly lubricated",
+    "A stopwatch or a cube timer app"
+  ],
+  "steps": [
+    "Get the beginner method fully automatic first — no algorithm sheet, no hesitation.",
+    "Learn finger tricks: turn U with an index flick and R with a thumb push instead of regripping the whole cube.",
+    "Use the 15 seconds of inspection to plan your entire cross before you start turning.",
+    "Practise “look-ahead”: while your hands finish a pair, your eyes hunt for the next one. Deliberately turn slower than you can to force this.",
+    "Replace the beginner corner insert with intuitive F2L pairing — this alone usually takes 20 seconds off.",
+    "Do timed sessions of 12 solves and track the average, not the single best."
+  ],
+  "tips": [
+    "Your single fastest solve is mostly luck. Judge yourself on the average of twelve.",
+    "Turning frantically makes you slower because it kills look-ahead. Smooth beats fast."
+  ],
+  "proof": "Three solves under 60 seconds within a single session of twelve."
+}

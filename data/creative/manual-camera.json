@@ -1,0 +1,24 @@
+{
+  "id": "manual-camera",
+  "name": "Learn manual camera controls",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Aperture, shutter speed and ISO — the exposure triangle. Once you understand what each one costs you, manual mode stops being intimidating and starts being useful.",
+  "gear": [
+    "Any camera with manual controls",
+    "A tripod for the slow-shutter exercises"
+  ],
+  "steps": [
+    "Learn what each control does and what it costs: aperture controls depth of field, shutter speed controls motion blur, ISO controls noise.",
+    "Shoot in aperture priority for a week, deliberately using both f/1.8 and f/11 and comparing the depth of field.",
+    "Shoot in shutter priority for a week: freeze motion at 1/1000, blur it deliberately at 1/15.",
+    "Learn the reciprocal rule for handholding, and when a tripod is genuinely necessary.",
+    "Learn to read the histogram rather than trusting the rear screen, and learn exposure compensation.",
+    "Shoot a full session in manual, setting all three yourself, and review what you got wrong."
+  ],
+  "tips": [
+    "Auto ISO with manual aperture and shutter is a legitimate and very practical middle ground.",
+    "Blown highlights cannot be recovered; shadows often can. When in doubt, expose for the highlights."
+  ],
+  "proof": "You shoot a whole session in manual and nail exposure in changing light without chimping every frame."
+}

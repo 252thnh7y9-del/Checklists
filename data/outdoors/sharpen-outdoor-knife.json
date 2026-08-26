@@ -1,0 +1,25 @@
+{
+  "id": "sharpen-outdoor-knife",
+  "name": "Sharpen an outdoor knife properly",
+  "time": "1 week",
+  "level": "Moderate",
+  "blurb": "A knife that shaves is a safer knife. The skill is holding one consistent angle for the length of the stroke, and knowing when the burr tells you to switch sides.",
+  "gear": [
+    "A coarse and a fine sharpening stone, diamond or ceramic",
+    "A strop, or a leather belt with polishing compound",
+    "Paper for testing"
+  ],
+  "steps": [
+    "Determine the existing bevel angle — most outdoor knives sit around 20 degrees per side — and commit to matching it.",
+    "Work the coarse stone in consistent strokes until you can feel a burr along the whole length of the opposite edge. The burr is the only reliable signal that you have reached the apex.",
+    "Flip and repeat until the burr forms on the other side.",
+    "Move to the fine stone with lighter pressure and alternate sides to minimise the burr.",
+    "Strop on leather, edge trailing, to remove the last of the burr and polish the apex.",
+    "Test on paper, then on arm hair, then on wood — and touch up little and often rather than waiting for blunt."
+  ],
+  "tips": [
+    "Inconsistent angle is the only real beginner problem. An angle guide or a marker pen on the bevel makes errors visible.",
+    "More pressure does not mean faster. It rounds the apex and ruins the edge."
+  ],
+  "proof": "A dull knife, sharpened by you, cleanly slices a hanging sheet of paper and shaves arm hair."
+}

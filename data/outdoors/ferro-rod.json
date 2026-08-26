@@ -1,0 +1,25 @@
+{
+  "id": "ferro-rod",
+  "name": "Use a ferrocerium rod effectively",
+  "time": "1–2 days",
+  "level": "Easy",
+  "blurb": "The modern fire-starter: 3,000-degree sparks from a scraped alloy rod. It works soaked, in wind and in cold, and there is a technique that separates confident use from scratching hopefully.",
+  "gear": [
+    "A ferro rod, 8 mm or thicker for a decent spark shower",
+    "A sharp 90-degree striker or the spine of a knife",
+    "Cotton wool, birch bark or fine tinder"
+  ],
+  "steps": [
+    "Check your striker: a square spine with a sharp corner throws sparks; a rounded spine does nothing. Sharpen it with a file if needed.",
+    "Prepare tinder first, always — a ferro rod lights tinder, it does not light logs.",
+    "Use the pull-back technique: hold the striker still against the rod and pull the rod back beneath it, which keeps your tinder pile intact.",
+    "Aim the sparks into the tinder from close range, no more than a couple of centimetres away.",
+    "Practise with progressively harder tinder: cotton wool, then birch bark, then feather sticks, then damp material.",
+    "Learn to shave a small pile of ferro dust onto stubborn tinder and ignite that pile with a spark."
+  ],
+  "tips": [
+    "Scraping forwards usually scatters your carefully built tinder nest across the ground.",
+    "A new rod has a protective coating to scrape off before it sparks properly."
+  ],
+  "proof": "One-strike ignition of natural tinder you gathered, in wind, three times running."
+}

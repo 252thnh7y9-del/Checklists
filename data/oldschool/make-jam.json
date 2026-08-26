@@ -1,0 +1,27 @@
+{
+  "id": "make-jam",
+  "name": "Make jam",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Fruit, sugar, acid and pectin. Understanding the set is what separates jam from fruit syrup, and it is a matter of chemistry rather than luck.",
+  "gear": [
+    "A wide heavy pan",
+    "A sugar thermometer",
+    "Jars with new lids, and a way to sterilise them",
+    "A saucer in the freezer"
+  ],
+  "steps": [
+    "Learn the four elements of a set: pectin, acid, sugar and heat. Low-pectin fruit needs help from lemon juice or a high-pectin fruit.",
+    "Sterilise jars properly in a hot oven or by boiling, and have them hot when you fill them.",
+    "Cook the fruit to soften it before adding sugar — sugar added early stops fruit softening.",
+    "Bring to a full rolling boil and test for set at 105 °C, or with the wrinkle test on a frozen saucer.",
+    "Skim, rest briefly so the fruit distributes, and fill hot jars to the brim before sealing.",
+    "Label with the date, and check the seal has pulled down before storing."
+  ],
+  "tips": [
+    "Boiling sugar causes severe burns and it splutters. Long sleeves and a deep pan.",
+    "Overcooking gives a stiff dark jam. Start testing early rather than boiling for a set time.",
+    "Follow tested recipes for anything low-acid or pressure canned — botulism risk is real and invisible."
+  ],
+  "proof": "Jars that seal properly, set correctly, and are still good a year later."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cryptic-crosswords",
+  "name": "Solve cryptic crossword clues",
+  "time": "4–8 weeks",
+  "level": "Hard",
+  "blurb": "Cryptic clues look like nonsense until you learn that each one contains a definition and a wordplay instruction. After that they become fair, and then addictive.",
+  "gear": [
+    "A beginner-friendly cryptic crossword",
+    "A guide to clue types",
+    "A pencil"
+  ],
+  "steps": [
+    "Learn the fundamental structure: every clue has a definition at one end and wordplay covering the same answer.",
+    "Learn the clue types one at a time: anagram, hidden word, container, reversal, homophone, charade, double definition and &lit.",
+    "Learn the indicator vocabulary — words like \"confused\" or \"broken\" that signal an anagram, \"about\" that signals a container.",
+    "Learn the standard abbreviations setters use: N for north, R for king, L for left, and so on.",
+    "Start with hidden-word and anagram clues, which are the most findable, and use crossing letters aggressively.",
+    "Do the same setter repeatedly at first; each has habits you will learn."
+  ],
+  "tips": [
+    "Count the letters. The enumeration in brackets constrains the answer far more than beginners use.",
+    "When stuck, look for the definition at the start or end of the clue and ignore the surface reading entirely."
+  ],
+  "proof": "You finish a beginner-level cryptic unaided, and can explain the wordplay of every answer."
+}

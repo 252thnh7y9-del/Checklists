@@ -1,0 +1,25 @@
+{
+  "id": "simple-basket",
+  "name": "Make a simple basket",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "A round willow or rush basket teaches the whole logic of weaving: a rigid framework of spokes and a flexible weaver going over and under.",
+  "gear": [
+    "Soaked willow, rush, or split cane",
+    "A knife and secateurs",
+    "A bucket for soaking"
+  ],
+  "steps": [
+    "Soak the material until it bends without cracking — this can take hours for willow and is not optional.",
+    "Make the base: cross two sets of thick rods, then bind them with a pairing weave to lock the centre.",
+    "Open out the spokes evenly like the spokes of a wheel and continue weaving the flat base.",
+    "Upsett: kink each spoke upwards to form the walls, then weave a few rows of a tight waling weave to hold the shape.",
+    "Weave the sides with a simple randing or pairing weave, keeping the tension even and the shape symmetrical.",
+    "Finish with a border by folding each spoke down and weaving it into the rim."
+  ],
+  "tips": [
+    "Dry material cracks. Keep it damp throughout the whole session.",
+    "Uneven spoke spacing at the base ruins the shape of everything above it. Get the base right."
+  ],
+  "proof": "A basket that holds its shape, has an even rim, and carries real weight."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "airport-procedures",
+  "name": "Learn common airport and travel procedures",
+  "time": "1 week of study",
+  "level": "Easy",
+  "blurb": "Knowing the process — check-in, security rules, immigration, connections, what to do when things go wrong — turns air travel from stressful to routine.",
+  "gear": [
+    "Your next trip",
+    "Your airline’s app"
+  ],
+  "steps": [
+    "Learn the timeline: online check-in, bag drop cutoffs, security queue estimates and the gate closing time, which is much earlier than departure.",
+    "Learn the security rules for liquids, electronics and batteries, and pack so nothing needs to come out at the last moment.",
+    "Learn the difference between transit, transfer and re-entry, and when you must collect and re-check bags on a connection.",
+    "Learn your rights when things go wrong — delay and cancellation compensation rules differ by region and are often unclaimed.",
+    "Learn to read a boarding pass fully: sequence number, zone, gate, and the codes that indicate a security selection or standby.",
+    "Build a repeatable routine: same pockets, same documents, same order, every trip."
+  ],
+  "tips": [
+    "Never put medication, keys, documents or electronics in checked luggage.",
+    "A separated ticket connection is your risk if the first flight is late. A single ticket is the airline’s.",
+    "Know the minimum connection time for your transfer airport."
+  ],
+  "proof": "You handle a multi-leg international trip, including a delay, without confusion or missed steps."
+}

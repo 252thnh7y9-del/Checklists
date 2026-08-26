@@ -1,0 +1,25 @@
+{
+  "id": "sing-harmony",
+  "name": "Sing a harmony line",
+  "time": "4–8 weeks",
+  "level": "Hard",
+  "blurb": "Holding a third above a melody while someone else sings the tune. It is a distinct skill from singing in tune and it makes you welcome in any group that sings.",
+  "gear": [
+    "A recording with a clear melody",
+    "A keyboard for reference",
+    "Someone to sing with"
+  ],
+  "steps": [
+    "Get solid at singing in tune on your own first — harmony on an unstable pitch is impossible.",
+    "Learn to hear intervals, especially thirds and fifths, and to sing them from a given note.",
+    "Practise with a drone: hold one note while a reference note sounds, then move to a third above and back.",
+    "Learn a simple harmony line by ear from a recording that has one, singing along with just the harmony part.",
+    "Practise holding your line while someone sings the melody — the hard part is not being dragged onto their note.",
+    "Learn to find a harmony on the fly by singing a third above and adjusting to what fits the chord."
+  ],
+  "tips": [
+    "Being pulled onto the melody is the universal beginner problem. Sing louder to yourself and cover one ear.",
+    "A third above is not always a fixed distance — it moves between major and minor depending on the chord."
+  ],
+  "proof": "You hold a harmony line through a whole song while someone else sings the melody."
+}

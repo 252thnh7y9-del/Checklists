@@ -1,0 +1,25 @@
+{
+  "id": "estimate-heights",
+  "name": "Estimate heights using simple geometry",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Three classic methods — the shadow ratio, the stick method and the pencil method — let you measure a tree or a building to within a few percent using nothing.",
+  "gear": [
+    "A stick or a pencil",
+    "A tape measure for calibration",
+    "A sunny day for the shadow method"
+  ],
+  "steps": [
+    "Learn the shadow method: measure your own height and shadow, then the object’s shadow. The ratio gives the height directly.",
+    "Learn the stick method: hold a stick equal to your arm length vertically at arm’s length, walk until the stick exactly spans the object, and your distance to the object equals its height.",
+    "Learn the pencil method for scaling against a known reference such as a person standing at the base.",
+    "Learn to use your phone’s inclinometer with basic trigonometry for a more precise answer.",
+    "Practise on objects you can verify — a known building, a flagpole, a house.",
+    "Compare methods on the same object to see how they disagree."
+  ],
+  "tips": [
+    "The stick method fails if the ground slopes. Choose a level line of sight.",
+    "Consistent eye height matters. Small errors there scale up over distance."
+  ],
+  "proof": "You measure a tall tree three different ways and all three agree within 10%."
+}

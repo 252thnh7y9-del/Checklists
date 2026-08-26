@@ -1,0 +1,24 @@
+{
+  "id": "photo-composition",
+  "name": "Learn basic photography composition",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Composition is what separates a snapshot from a photograph, and it costs nothing to learn. A phone camera is entirely sufficient.",
+  "gear": [
+    "Any camera, including a phone",
+    "Somewhere to walk with it"
+  ],
+  "steps": [
+    "Learn the rule of thirds and use the grid overlay, then learn when centring is stronger.",
+    "Learn leading lines, framing, and the use of foreground to create depth.",
+    "Learn to simplify: identify the subject and remove everything that does not serve it, usually by moving your feet.",
+    "Learn to see light: direction, quality and colour. Shooting at golden hour instantly improves most photographs.",
+    "Learn to fill the frame and to watch the edges — distractions at the border ruin more shots than anything else.",
+    "Do a photo-a-day project for a month with a single constraint, such as one focal length or one subject."
+  ],
+  "tips": [
+    "Zooming with your feet changes perspective; zooming with the lens does not. They are not the same thing.",
+    "The most common fix for a weak photo is to get closer."
+  ],
+  "proof": "You can look at your own photo and say exactly why it works or does not, and then reshoot it better."
+}

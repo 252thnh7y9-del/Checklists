@@ -1,0 +1,25 @@
+{
+  "id": "pet-first-aid",
+  "name": "Learn pet first aid",
+  "time": "A short course",
+  "level": "Moderate",
+  "blurb": "What to do in the minutes before the vet, and just as importantly what not to do — several common human remedies are toxic to pets.",
+  "gear": [
+    "A pet first aid course",
+    "A pet first aid kit",
+    "Your vet and nearest emergency vet numbers saved"
+  ],
+  "steps": [
+    "Save your vet and out-of-hours emergency vet numbers in your phone now, and know the route.",
+    "Learn normal vital signs for your animal so you can recognise abnormal ones.",
+    "Learn to control bleeding with direct pressure, and how to muzzle safely — a frightened animal in pain may bite the person helping it.",
+    "Learn the common emergencies: bloat in deep-chested dogs, heatstroke, seizures, and blocked bladders in male cats. All are time-critical.",
+    "Learn the toxic list: chocolate, xylitol, grapes and raisins, lilies for cats, ibuprofen and paracetamol. Never give human painkillers.",
+    "Learn safe transport for an injured animal and when moving them is the wrong call."
+  ],
+  "tips": [
+    "Never induce vomiting unless a vet tells you to. With some substances it causes far worse damage.",
+    "Paracetamol is lethal to cats in small doses. Keep all human medication well away from pets."
+  ],
+  "proof": "A course certificate, an assembled kit, and emergency numbers everyone in the house can find."
+}

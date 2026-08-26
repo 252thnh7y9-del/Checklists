@@ -1,0 +1,27 @@
+{
+  "id": "natural-dye",
+  "name": "Dye fabric",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Onion skins, avocado stones and black beans give real colour on wool and cotton. The chemistry matters more than the recipe: fibre type and mordant decide whether the colour lasts.",
+  "gear": [
+    "Natural fibre fabric or yarn — dye will not take on polyester",
+    "A dedicated dye pot, never used for food again",
+    "Alum mordant",
+    "Dye material: onion skins, avocado, madder, or a synthetic dye"
+  ],
+  "steps": [
+    "Scour the fabric first: wash it hot with detergent to remove finishes, or the dye will blotch.",
+    "Mordant the fibre with alum, which is what bonds the dye to the fibre and stops it washing out.",
+    "Make the dye bath by simmering your dye material, then strain out the solids.",
+    "Add the wet mordanted fabric and hold it below a simmer, stirring gently. Boiling wool will felt it.",
+    "Leave it in the cooling bath for hours or overnight for deeper colour.",
+    "Rinse until the water runs clear, and wash separately for the first few washes."
+  ],
+  "tips": [
+    "Unmordanted natural dye is a stain, not a dye — it will fade within a few washes.",
+    "Keep dye equipment entirely separate from cookware, including mordants, which are not food safe.",
+    "Sudden temperature changes felt wool. Move it gently between baths of similar temperature."
+  ],
+  "proof": "An evenly dyed piece that survives several washes without noticeable fading."
+}

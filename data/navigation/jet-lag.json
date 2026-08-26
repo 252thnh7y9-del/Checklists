@@ -1,0 +1,25 @@
+{
+  "id": "jet-lag",
+  "name": "Manage jet lag",
+  "time": "2–3 trips",
+  "level": "Easy",
+  "blurb": "Light timing, not sleeping pills. The body clock shifts about an hour a day on its own, but deliberate light exposure can roughly double that.",
+  "gear": [
+    "A jet lag app that calculates light timing",
+    "An eye mask and earplugs",
+    "Sunglasses for blocking light at the wrong times"
+  ],
+  "steps": [
+    "Learn the direction rule: eastward travel is harder because you must advance your clock, which the body resists.",
+    "Shift your schedule by an hour a day for a few days before departure where you can.",
+    "Set your watch to the destination time when you board and eat and sleep by it.",
+    "Use light deliberately: seek bright morning light when travelling east, and evening light when travelling west — and block light at the wrong times with sunglasses.",
+    "Get outside on arrival, since daylight is far stronger than any indoor lighting.",
+    "Avoid long naps on arrival day, keep alcohol low, and stay hydrated."
+  ],
+  "tips": [
+    "Light at the wrong time actively pushes your clock the wrong way. The timing matters more than the amount.",
+    "For trips under three days, staying on home time is often better than adapting twice."
+  ],
+  "proof": "You cross five or more time zones and are functioning on local time within two days."
+}

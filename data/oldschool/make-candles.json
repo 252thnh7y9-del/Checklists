@@ -1,0 +1,26 @@
+{
+  "id": "make-candles",
+  "name": "Make candles",
+  "time": "2–3 sessions",
+  "level": "Easy",
+  "blurb": "Melting wax is easy; making a candle that burns properly is a matter of matching wick size to wax and diameter. That one variable is the whole craft.",
+  "gear": [
+    "Wax — soy, beeswax or paraffin",
+    "Wicks in several sizes",
+    "A thermometer and a double boiler",
+    "Containers or moulds"
+  ],
+  "steps": [
+    "Choose wax and container, then select a wick size from the manufacturer’s chart for that combination.",
+    "Melt the wax gently in a double boiler, never directly on a burner, and watch the temperature.",
+    "Secure the wick centrally and hold it upright with a peg or wick bar.",
+    "Pour at the temperature the wax specifies — too hot causes sink holes and cracking, too cool causes poor adhesion.",
+    "Cool slowly at room temperature, and do a second top-up pour if a well forms around the wick.",
+    "Cure for a few days, then trim the wick to 5 mm and do a test burn to check the melt pool."
+  ],
+  "tips": [
+    "A wick that is too small tunnels; too large and it smokes and mushrooms. Test burn before making a batch.",
+    "Wax is flammable and burns fiercely. Never leave melting wax unattended, and never use water on a wax fire."
+  ],
+  "proof": "A candle that burns with a full even melt pool to the container edge, without smoking or tunnelling."
+}

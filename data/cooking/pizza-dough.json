@@ -1,0 +1,26 @@
+{
+  "id": "pizza-dough",
+  "name": "Make pizza dough",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Good pizza is mostly dough and heat. A long, cold fermentation and a very hot oven do more for the result than any topping decision.",
+  "gear": [
+    "Strong or 00 flour, yeast, salt, olive oil",
+    "A pizza steel or stone",
+    "A peel, or an upside-down baking tray"
+  ],
+  "steps": [
+    "Mix a lean dough at about 60–65% hydration: flour, water, 2% salt, a small amount of yeast.",
+    "Knead until smooth, then divide into balls of 220–260 g each.",
+    "Cold ferment in the fridge for 24 to 72 hours. This is the single biggest improvement available to a home cook.",
+    "Bring the balls to room temperature for two hours before shaping.",
+    "Shape by hand, pressing from the centre outwards and leaving the rim untouched — never use a rolling pin, which crushes the gas out of the cornicione.",
+    "Bake on a steel or stone preheated for a full hour at the highest temperature your oven reaches."
+  ],
+  "tips": [
+    "A domestic oven at 250 °C with a preheated steel gets remarkably close to a pizza oven. Preheat far longer than you think.",
+    "Wet dough sticks to the peel. Use semolina and work quickly.",
+    "Less topping than you think. Overloading makes the base soggy."
+  ],
+  "proof": "A puffed, blistered rim and a base that holds its shape when you lift a slice."
+}

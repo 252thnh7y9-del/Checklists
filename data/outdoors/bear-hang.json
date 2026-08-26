@@ -1,0 +1,24 @@
+{
+  "id": "bear-hang",
+  "name": "Store food safely in the backcountry",
+  "time": "1–2 sessions",
+  "level": "Moderate",
+  "blurb": "Keeping food away from wildlife protects both you and the animals — a bear that learns to raid camps usually ends up destroyed. In many places, proper storage is also a legal requirement.",
+  "gear": [
+    "A bear canister where required, or a dry bag and 15 m of cord",
+    "A carabiner and a small weight bag"
+  ],
+  "steps": [
+    "Check the local regulations first: many parks mandate approved canisters and ban hanging entirely.",
+    "Store everything scented, not just food — toothpaste, sunscreen, rubbish, cooking clothes.",
+    "Learn the triangle principle: sleep, cook and store food in three well-separated locations, at least a hundred metres apart.",
+    "If hanging, use the PCT method: throw a line over a branch well out from the trunk, aiming for the bag 4 m up and 2 m out from the trunk and branch.",
+    "Practise the throw at home. Doing it for the first time in the dark, tired, is miserable.",
+    "Keep a clean camp: no food in the tent, ever, and pack out all waste."
+  ],
+  "tips": [
+    "A bag hung too close to the trunk or branch is simply a piñata for a bear.",
+    "Rodents cause far more actual food loss than bears. A canister stops both."
+  ],
+  "proof": "You hang a bag correctly on the first attempt, or pack and use a canister to regulation."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "treat-burns",
+  "name": "Treat a burn correctly",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Twenty minutes of cool running water changes the outcome of a burn more than anything else a bystander can do — and almost every folk remedy makes it worse.",
+  "gear": [
+    "Access to cool running water",
+    "Cling film",
+    "A first aid course for the assessment side"
+  ],
+  "steps": [
+    "Stop the burning: remove the source, and remove clothing and jewellery near the area unless it is stuck to the skin.",
+    "Cool under cool — not ice cold — running water for a full twenty minutes. This is far longer than people think and it genuinely reduces depth.",
+    "Keep the rest of the person warm while you cool the burn, especially with children.",
+    "Cover loosely with cling film laid lengthways, or a clean non-fluffy cloth. Do not wrap tightly.",
+    "Never apply butter, oil, toothpaste or ice, and do not burst blisters.",
+    "Learn when to go to hospital: burns to face, hands, feet or genitals, anything larger than the person’s palm, all chemical and electrical burns, and any burn on a child."
+  ],
+  "tips": [
+    "Ice causes further tissue damage. Cool running water only.",
+    "Chemical burns need much longer irrigation, and identify the chemical for the medics."
+  ],
+  "proof": "You can state the full sequence and the referral criteria without looking them up."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "necktie-knots",
+  "name": "Tie formal necktie knots",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Four knots — four-in-hand, half Windsor, full Windsor and a bow tie — cover every occasion, and each takes an evening to learn properly.",
+  "gear": [
+    "A tie",
+    "A bow tie",
+    "A mirror"
+  ],
+  "steps": [
+    "Learn the four-in-hand: small, slightly asymmetric, and the right choice for most shirts and casual wear.",
+    "Learn the half Windsor: symmetrical and medium-sized, the safe default for business and interviews.",
+    "Learn the full Windsor: large and triangular, for spread collars and formal occasions.",
+    "Learn to get the length right — the tip should reach the middle of your belt buckle — by adjusting the starting position, which takes a few attempts each time.",
+    "Learn the dimple: pinch the fabric just below the knot as you tighten it, which is the detail that separates a good knot from a flat one.",
+    "Learn a real bow tie, which is just a shoelace bow done vertically and takes about twenty attempts before it clicks."
+  ],
+  "tips": [
+    "Match knot size to collar spread: a narrow collar with a full Windsor looks wrong.",
+    "Never yank a tie undone by pulling the narrow end. Reverse the knot properly or it will crease permanently."
+  ],
+  "proof": "You tie all four correctly, at the right length, with a dimple, without a mirror."
+}

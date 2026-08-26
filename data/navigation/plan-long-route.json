@@ -1,0 +1,25 @@
+{
+  "id": "plan-long-route",
+  "name": "Plan a multi-day route",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Turning a vague idea into a plan with daily distances, water, resupply, escape routes and a realistic pace. The planning is what makes the trip enjoyable rather than an ordeal.",
+  "gear": [
+    "Maps covering the whole route",
+    "A route planning tool that gives distance and ascent",
+    "Accommodation or camping information"
+  ],
+  "steps": [
+    "Set a realistic daily distance based on your actual fitness, then reduce it — everyone overestimates on paper.",
+    "Use Naismith’s rule and add time for ascent, then add more for the terrain, rest and photographs.",
+    "Plan water and resupply points explicitly, and note where there are none.",
+    "Identify escape routes and bail-out points for each day, plus the nearest road and transport.",
+    "Check what is seasonal: closed passes, ferries, huts, water sources that dry up, hunting seasons.",
+    "Leave a written plan with someone, including your expected route and when to raise the alarm."
+  ],
+  "tips": [
+    "The first day is always slower than planned. Make it the shortest.",
+    "A plan with no flexibility becomes a reason to push on in bad conditions. Build in spare days."
+  ],
+  "proof": "You complete a multi-day route roughly on plan, without a resupply or water crisis."
+}

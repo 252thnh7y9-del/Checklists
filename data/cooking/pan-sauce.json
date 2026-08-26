@@ -1,0 +1,25 @@
+{
+  "id": "pan-sauce",
+  "name": "Make a basic pan sauce",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "The skill that makes a plain piece of meat taste like a restaurant dish, built from what is already stuck to the pan. Five minutes, no recipe needed.",
+  "gear": [
+    "A stainless or cast-iron pan — non-stick does not build fond",
+    "Stock, wine, butter, shallots"
+  ],
+  "steps": [
+    "Cook the protein in a pan that browns properly and rest it on a warm plate.",
+    "Pour off excess fat, leaving the browned bits — the fond — behind.",
+    "Sweat a chopped shallot or garlic in the residual fat for a minute.",
+    "Deglaze with wine, stock or even water, scraping every bit of fond off the base with a wooden spoon.",
+    "Reduce by half to two-thirds until it coats the back of a spoon.",
+    "Off the heat, whisk in cold butter a cube at a time to emulsify and thicken, then season and add acid or herbs at the end."
+  ],
+  "tips": [
+    "Fond is the flavour. If the pan is clean after cooking, you either used non-stick or the heat was too low.",
+    "Butter added over high heat splits. Off the heat, whisked in cold, it emulsifies.",
+    "Add the resting juices from the meat back into the sauce."
+  ],
+  "proof": "You make a glossy, well-balanced sauce in five minutes from a pan you just cooked in, without a recipe."
+}

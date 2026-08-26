@@ -1,0 +1,26 @@
+{
+  "id": "start-seeds",
+  "name": "Start seeds indoors",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "A packet of seeds costs less than one plant and gives you fifty. The failure points are few and all avoidable: sowing depth, light, and hardening off.",
+  "gear": [
+    "Seed trays or module cells with drainage",
+    "Seed compost, which is lower in nutrients than potting compost",
+    "A bright windowsill or a grow light",
+    "Labels — you will not remember"
+  ],
+  "steps": [
+    "Read the packet for timing and sow accordingly; sowing too early gives you leggy plants with nowhere to go.",
+    "Sow at the right depth — roughly twice the seed’s diameter — and press small seeds onto the surface rather than burying them.",
+    "Water from below by standing trays in water, so you do not wash the seeds around.",
+    "Give them the brightest light you have the moment they germinate. Warmth germinates; light is what stops them stretching.",
+    "Prick out into individual pots once the first true leaves appear, handling by the leaf, never the stem.",
+    "Harden off over a week or two — increasing outdoor exposure — before planting out. Skipping this kills healthy plants in a day."
+  ],
+  "tips": [
+    "Long pale stretched seedlings mean insufficient light. They rarely recover.",
+    "Damping off — seedlings collapsing at soil level — comes from overwatering and poor airflow."
+  ],
+  "proof": "You raise a tray of seedlings from seed to healthy planted-out plants."
+}

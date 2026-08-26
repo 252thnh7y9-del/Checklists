@@ -1,0 +1,26 @@
+{
+  "id": "sewing-machine",
+  "name": "Use a sewing machine",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "Once you can thread it, wind a bobbin and set tension, a sewing machine does in minutes what hand sewing does in an evening. The machine is not delicate; the setup is.",
+  "gear": [
+    "A basic sewing machine and its manual",
+    "Bobbins, universal needles, scrap fabric",
+    "Seam ripper and pins"
+  ],
+  "steps": [
+    "Read the manual for your specific machine, then wind a bobbin and thread the machine from scratch five times until it is automatic.",
+    "Learn the tension relationship: a balanced stitch looks the same on both sides. Loops on top mean bobbin tension issues; loops underneath usually mean the top thread is mis-threaded.",
+    "Sew straight lines on scrap paper without thread to practise steering and speed control.",
+    "Sew a straight seam on fabric, backstitching at both ends to lock it.",
+    "Learn to pivot at corners with the needle down, and to sew a curve slowly.",
+    "Make something real and simple: a cushion cover, a tote bag, or a hem."
+  ],
+  "tips": [
+    "Nine out of ten machine problems are a rethread away. Unthread completely, with the presser foot up, and start again.",
+    "Change the needle regularly — a blunt needle causes skipped stitches and fabric damage.",
+    "Never pull the fabric through. Let the feed dogs do it or you will bend the needle."
+  ],
+  "proof": "You make a finished item with straight, evenly tensioned seams and neat corners."
+}

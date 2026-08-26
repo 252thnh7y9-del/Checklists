@@ -1,0 +1,25 @@
+{
+  "id": "break-chicken",
+  "name": "Break down a whole chicken",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Eight pieces plus a carcass for stock, in under five minutes. It is cheaper than buying parts, and it teaches you where joints actually are.",
+  "gear": [
+    "A sharp boning knife",
+    "A board you can sanitise",
+    "Kitchen shears"
+  ],
+  "steps": [
+    "Remove the legs: cut the skin between breast and thigh, pop the hip joint by bending the leg back, then cut through the joint.",
+    "Separate thigh from drumstick by finding the fat line and cutting straight through the joint.",
+    "Remove the wings, cutting through the shoulder joint rather than the bone.",
+    "Take the breasts off the ribcage, following the keel bone down with the knife tip against the bone.",
+    "Find the oysters — the two small nuggets of dark meat on the back — and keep them with the thigh.",
+    "Save the carcass for stock, and clean everything thoroughly afterwards."
+  ],
+  "tips": [
+    "Cut through joints, never through bone. If it resists, you have missed the joint — reposition rather than push.",
+    "Handle raw poultry with strict hygiene: separate board, wash hands and surfaces, no rinsing the bird."
+  ],
+  "proof": "A whole chicken into eight neat pieces in under five minutes, with no bone splinters and no meat left on the carcass."
+}

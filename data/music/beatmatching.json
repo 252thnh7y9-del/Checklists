@@ -1,0 +1,24 @@
+{
+  "id": "beatmatching",
+  "name": "Learn basic DJ beatmatching",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Getting two tracks running at the same tempo and phase, by ear. Software will sync for you, but hearing the drift is what makes you a DJ rather than an operator.",
+  "gear": [
+    "Two decks or DJ software with a controller",
+    "Headphones with good isolation"
+  ],
+  "steps": [
+    "Learn to count in phrases: four beats to a bar, eight or sixteen bars to a phrase. Almost all dance music is built this way.",
+    "Learn to cue: find the first beat of a phrase and set the cue point precisely.",
+    "Match tempo by ear using the pitch fader, listening for whether the incoming track is fast or slow relative to the master.",
+    "Learn the nudge: touch the jog wheel to correct phase without changing tempo.",
+    "Practise holding two tracks in sync for a full minute with the sync button off.",
+    "Learn a simple mix in and out over 16 bars, with the EQ swapping the basslines."
+  ],
+  "tips": [
+    "Two basslines at once is the single ugliest sound in DJing. Cut the incoming low end until the swap.",
+    "Turn sync off while practising. Learning to hear drift is the entire skill."
+  ],
+  "proof": "You hold two tracks beatmatched by ear for a minute and complete a clean transition, sync disabled."
+}

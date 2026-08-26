@@ -1,0 +1,23 @@
+{
+  "id": "daylight-hand",
+  "name": "Estimate remaining daylight with your hand",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "The fastest useful field trick there is: each finger between the sun and the horizon is roughly 15 minutes of daylight. Learn it once, use it forever.",
+  "gear": [
+    "A visible horizon and sun"
+  ],
+  "steps": [
+    "Extend your arm fully and turn your hand sideways, palm towards you, little finger resting on the horizon.",
+    "Count the fingers that fit between the horizon and the bottom of the sun, stacking hands if needed.",
+    "Each finger is about 15 minutes, so a full hand is roughly an hour.",
+    "Calibrate against sunset time for your location on a few clear evenings and adjust for your own hand size.",
+    "Learn to add roughly 30 minutes of usable twilight after the sun touches the horizon at mid-latitudes.",
+    "Use it to make real decisions: turn-around times, when to start making camp."
+  ],
+  "tips": [
+    "Never look directly at the sun. Sight just below it.",
+    "The estimate is worst near the poles and in mountains, where the horizon is high and the sun sets behind terrain."
+  ],
+  "proof": "Three evenings running, your estimate lands within 15 minutes of actual sunset."
+}

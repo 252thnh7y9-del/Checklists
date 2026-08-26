@@ -1,0 +1,24 @@
+{
+  "id": "edit-short-video",
+  "name": "Edit a short video",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "One finished, watchable short video from raw footage — start to export. Finishing is the skill; most beginners have twenty unfinished timelines.",
+  "gear": [
+    "DaVinci Resolve, CapCut or iMovie",
+    "Footage and music you have the right to use"
+  ],
+  "steps": [
+    "Plan the piece before editing: what it is about and roughly how long. Editing without a shape wastes hours.",
+    "Log and select your best takes before assembling anything.",
+    "Build a rough cut for structure only, ignoring polish.",
+    "Refine the pacing, cutting anything that does not earn its place, and tighten every gap.",
+    "Fix the audio: consistent levels, music ducked under speech, and a clean fade at each end.",
+    "Colour correct, add titles, and export with settings appropriate for the destination."
+  ],
+  "tips": [
+    "Finish it. An exported imperfect video teaches more than three abandoned perfect ones.",
+    "Check the licence on any music you use, especially if you publish it."
+  ],
+  "proof": "A finished, exported video you are happy to publish, under three minutes."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "unicycle",
+  "name": "Ride a unicycle",
+  "time": "1–3 months",
+  "level": "Hard",
+  "blurb": "Legendarily hard for about fifteen hours and then suddenly fine. There is no technique shortcut — it is pure balance adaptation, measured in hours in the saddle.",
+  "gear": [
+    "A unicycle sized to your inseam",
+    "A wall, railing or two helpers",
+    "Shin pads and gloves"
+  ],
+  "steps": [
+    "Set the seat height so your leg is nearly straight at the bottom of the pedal stroke.",
+    "Mount against a wall or railing, sit tall with your weight in the saddle rather than on the pedals.",
+    "Ride along a wall, hand trailing, until you can go the length of it consistently.",
+    "Practise letting go for one pedal stroke, then two, then more.",
+    "Learn to look ahead, not down, and to correct by pedalling rather than by flailing.",
+    "Learn the free mount last — it is the hardest part and comes after riding."
+  ],
+  "tips": [
+    "Sit down properly. Standing on the pedals is exhausting and unstable.",
+    "It really does take about 15 hours of practice before it clicks. Nothing is wrong with you at hour eight."
+  ],
+  "proof": "You free mount and ride 50 metres unaided, then dismount cleanly."
+}

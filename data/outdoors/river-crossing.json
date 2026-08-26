@@ -1,0 +1,26 @@
+{
+  "id": "river-crossing",
+  "name": "Cross a river safely",
+  "time": "1–2 sessions with instruction",
+  "level": "Hard",
+  "blurb": "River crossings kill experienced walkers regularly, almost always because they chose the wrong place or the wrong moment. The decision is more important than the technique.",
+  "gear": [
+    "Trekking poles",
+    "Shoes you can wear in the water",
+    "A pack with a chest strap you can release instantly"
+  ],
+  "steps": [
+    "Assess first: knee-deep fast water can knock you over. If in doubt, do not cross — turn back or walk to a bridge.",
+    "Choose the site carefully: a wide, straight, shallow braided section beats a narrow deep one, and never cross above a hazard such as rapids or a strainer.",
+    "Time it: mountain rivers rise through the day with snowmelt and after rain. Early morning is often dramatically safer.",
+    "Undo your hip belt and sternum strap so you can shed the pack instantly if you go in.",
+    "Face upstream, use poles as a tripod, and shuffle sideways keeping two points of contact at all times.",
+    "For groups, learn the linked or huddle method, and send the strongest person upstream."
+  ],
+  "tips": [
+    "Never cross barefoot, and never with your pack strapped on. A pack full of water will hold you under.",
+    "If you are swept away, get on your back, feet downstream, and swim aggressively for the bank.",
+    "Turning back is a legitimate outcome and often the correct one."
+  ],
+  "proof": "You assess and safely cross a moderate river, or correctly decide not to and find another route."
+}

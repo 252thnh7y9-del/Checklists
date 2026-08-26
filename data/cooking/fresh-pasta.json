@@ -1,0 +1,26 @@
+{
+  "id": "fresh-pasta",
+  "name": "Make fresh pasta",
+  "time": "2–3 sessions",
+  "level": "Moderate",
+  "blurb": "Flour and eggs, nothing else. The whole skill is judging hydration by feel and kneading long enough to develop the gluten, then rolling thin enough.",
+  "gear": [
+    "00 flour or strong plain flour, and eggs",
+    "A rolling pin or a pasta machine",
+    "A bench scraper"
+  ],
+  "steps": [
+    "Start with 100 g flour per egg, adjusting by feel — humidity and egg size mean the ratio is a starting point, not a rule.",
+    "Make a well, beat the eggs in the centre and gradually pull in flour until a shaggy dough forms.",
+    "Knead for a full ten minutes until smooth and elastic. This is longer than feels necessary and is what makes pasta chewy rather than crumbly.",
+    "Rest, wrapped, for at least 30 minutes so the gluten relaxes and the dough rolls thin without springing back.",
+    "Roll in stages, thinner each pass, dusting lightly — thin enough to see your hand through it.",
+    "Cut, dry briefly, and cook in heavily salted water for 90 seconds to three minutes."
+  ],
+  "tips": [
+    "Fresh pasta cooks in a fraction of the time of dried. Taste early.",
+    "Too much dusting flour makes a gluey sauce later. Use semolina if you have it.",
+    "A dough that springs back has not rested long enough. Wait rather than fight it."
+  ],
+  "proof": "Silky, evenly thin pasta with a proper bite, made from scratch without a recipe in front of you."
+}

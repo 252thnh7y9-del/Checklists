@@ -1,0 +1,24 @@
+{
+  "id": "ping-pong-cup",
+  "name": "Bounce a ping-pong ball into a cup consistently",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "A pure calibration skill: the bounce is entirely predictable, so once you find the release point and angle, all you need is repetition.",
+  "gear": [
+    "Ping-pong balls",
+    "A cup and a hard table"
+  ],
+  "steps": [
+    "Set a fixed stance and a fixed distance from the cup, and change nothing else while you learn.",
+    "Find the sweet spot: aim for a point about a third of the way from your hand to the cup, and adjust from there.",
+    "Use a consistent release — the same fingers, the same height, the same arc every time.",
+    "Add a small amount of backspin, which softens the second bounce and keeps the ball in the cup.",
+    "Practise 100 throws a day and log your percentage.",
+    "Once consistent from one spot, learn to recalibrate quickly for a new distance."
+  ],
+  "tips": [
+    "Consistency of everything else is what lets you tune one variable. Change one thing at a time.",
+    "A ball that bounces out is usually a flat, spin-free throw. Add backspin."
+  ],
+  "proof": "You hit at least seven out of ten from your practised distance, then adapt to a new table within ten throws."
+}

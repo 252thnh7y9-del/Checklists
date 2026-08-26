@@ -1,0 +1,25 @@
+{
+  "id": "spreadsheet-formulas",
+  "name": "Learn basic spreadsheet formulas",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Ten functions cover the great majority of real spreadsheet work. This is quietly one of the most employable skills on the entire list.",
+  "gear": [
+    "Excel, Google Sheets or LibreOffice Calc",
+    "A real dataset of your own"
+  ],
+  "steps": [
+    "Learn absolute versus relative references and the dollar-sign notation. Everything else depends on this.",
+    "Learn the core set: SUM, AVERAGE, COUNT, COUNTA, IF, and nested IFs.",
+    "Learn lookups — XLOOKUP where available, otherwise INDEX and MATCH, which is more robust than VLOOKUP.",
+    "Learn the conditional aggregates: SUMIF, COUNTIF, SUMIFS, AVERAGEIFS.",
+    "Learn text functions for cleaning data: TRIM, LEFT, RIGHT, MID, TEXTSPLIT and CONCAT.",
+    "Learn to trace and fix errors, and to structure a sheet so inputs, calculations and outputs are separate."
+  ],
+  "tips": [
+    "Never hard-code a number inside a formula. Put it in a cell and reference it.",
+    "INDEX/MATCH beats VLOOKUP because it does not break when columns are inserted.",
+    "A sheet with formulas scattered everywhere is unmaintainable. Keep a clear structure."
+  ],
+  "proof": "You clean and analyse a messy real dataset using formulas rather than manual editing."
+}

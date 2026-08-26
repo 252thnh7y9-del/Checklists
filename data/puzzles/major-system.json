@@ -1,0 +1,24 @@
+{
+  "id": "major-system",
+  "name": "Learn the major system for numbers",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A code that turns digits into consonants, consonants into words, and words into pictures. It is what makes long numbers — phone numbers, card decks, pi — memorable at all.",
+  "gear": [
+    "The standard digit-to-sound table",
+    "A notebook to build your own word list"
+  ],
+  "steps": [
+    "Learn the ten digit-to-sound mappings: 1 is t or d, 2 is n, 3 is m, and so on. They are phonetic, so spelling does not matter.",
+    "Build your own word for every two-digit number from 00 to 99 — your own images stick far better than a borrowed list.",
+    "Drill both directions: number to word, and word to number, until both are instant.",
+    "Practise on real numbers: phone numbers, PINs you are allowed to remember, historical dates.",
+    "Combine it with a memory palace to store long sequences in order.",
+    "Extend to a person-action-object system if you want to go further into competitive memory work."
+  ],
+  "tips": [
+    "Vowels are free and carry no value, which is what gives you flexibility in choosing words.",
+    "Concrete, visualisable nouns work; abstract words do not. Pick things you can see."
+  ],
+  "proof": "You memorise a 30-digit number in under two minutes and recall it accurately an hour later."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "cook-rice",
+  "name": "Cook rice perfectly",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Separate, fluffy grains every time, without a rice cooker. Different rices want different treatment, and knowing which is which solves it.",
+  "gear": [
+    "A pan with a tight-fitting lid",
+    "A measuring cup",
+    "A fork"
+  ],
+  "steps": [
+    "Rinse long-grain rice until the water runs nearly clear, to remove surface starch that makes it gluey.",
+    "Learn the absorption method: a fixed ratio of water to rice, brought to a boil, then covered and cooked on the lowest heat.",
+    "Do not lift the lid or stir during cooking. Both release the steam that is doing the work.",
+    "Rest it off the heat, still covered, for ten minutes before touching it. This is the step almost everyone skips.",
+    "Fluff with a fork, never a spoon, which crushes the grains.",
+    "Learn the variations: basmati benefits from soaking, risotto rice must not be rinsed, sushi rice is seasoned after cooking."
+  ],
+  "tips": [
+    "Stirring long-grain rice during cooking releases starch and makes it claggy.",
+    "Cooked rice left at room temperature can grow Bacillus cereus. Cool it fast and refrigerate within an hour."
+  ],
+  "proof": "Fluffy separate grains from three different rice varieties, without a rice cooker."
+}

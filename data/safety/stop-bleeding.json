@@ -1,0 +1,24 @@
+{
+  "id": "stop-bleeding",
+  "name": "Control severe bleeding",
+  "time": "A short course",
+  "level": "Moderate",
+  "blurb": "Someone with a major bleed can die in minutes, long before an ambulance arrives. Direct pressure is the answer and almost everyone applies far too little of it.",
+  "gear": [
+    "A first aid course covering catastrophic bleeding",
+    "Gloves, dressings, and a tourniquet if you carry a kit"
+  ],
+  "steps": [
+    "Protect yourself first — gloves if available — then apply firm direct pressure straight onto the wound.",
+    "Press hard and keep pressing. Continuous, heavy, uninterrupted pressure is what stops bleeding, not a light dressing.",
+    "Add dressings on top if blood soaks through; never remove the first one, since it takes the clot with it.",
+    "Call emergency services immediately, and keep the person warm and lying down.",
+    "For a catastrophic limb bleed that direct pressure will not control, learn tourniquet use on a course: high and tight, note the time, and never loosen it.",
+    "Learn wound packing for junctional wounds if your course covers it."
+  ],
+  "tips": [
+    "Improvised tourniquets often fail and can cause harm. Learn on a proper one.",
+    "Once a tourniquet is on, it stays on until a clinician removes it. Write the time down."
+  ],
+  "proof": "A certificate covering catastrophic bleeding, and you can apply a tourniquet correctly under time pressure."
+}

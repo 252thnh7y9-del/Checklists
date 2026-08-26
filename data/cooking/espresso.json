@@ -1,0 +1,27 @@
+{
+  "id": "espresso",
+  "name": "Make good espresso",
+  "time": "2–4 weeks",
+  "level": "Hard",
+  "blurb": "Espresso is a variables problem: dose, grind, time and yield. Once you learn to change one thing at a time and taste the result, you can dial in any coffee.",
+  "gear": [
+    "An espresso machine and a decent burr grinder — the grinder matters more",
+    "A scale accurate to 0.1 g",
+    "A tamper and a distribution tool",
+    "Fresh beans, roasted within a month"
+  ],
+  "steps": [
+    "Fix your dose by weight for your basket — typically 18 g for a double — and keep it constant while you learn.",
+    "Distribute the grounds evenly, then tamp level with consistent pressure. Level matters more than force.",
+    "Pull a shot and record grind setting, dose, yield and time. A common starting target is 36 g out in 25 to 30 seconds.",
+    "Taste it. Sour and thin means under-extracted, so grind finer. Bitter and harsh means over-extracted, so grind coarser.",
+    "Change one variable at a time and re-taste. This is the entire discipline.",
+    "Learn to steam milk to a glossy microfoam once the espresso itself is good."
+  ],
+  "tips": [
+    "The grinder is the limiting factor. A great machine with a bad grinder makes bad espresso.",
+    "Beans need a few days off roast and go stale after a month. Freshness is a variable too.",
+    "Channelling — water finding a fast route through the puck — shows as spraying or a fast, thin shot. Fix the distribution."
+  ],
+  "proof": "Three consecutive shots within a second and a gram of your target, all tasting balanced."
+}

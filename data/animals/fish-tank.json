@@ -1,0 +1,25 @@
+{
+  "id": "fish-tank",
+  "name": "Set up a fish tank properly",
+  "time": "6–8 weeks to cycle",
+  "level": "Moderate",
+  "blurb": "The reason beginner fish die is almost always the nitrogen cycle. Cycling a tank before adding fish takes a month of patience and prevents nearly every common disaster.",
+  "gear": [
+    "The largest tank you have room for — small tanks are harder, not easier",
+    "Filter, heater, test kit for ammonia, nitrite and nitrate",
+    "A source of ammonia for a fishless cycle"
+  ],
+  "steps": [
+    "Learn the nitrogen cycle: fish waste becomes ammonia, bacteria convert it to nitrite, then to less harmful nitrate, which water changes remove.",
+    "Cycle the tank without fish: add an ammonia source and test until ammonia and nitrite both read zero within 24 hours. This takes four to eight weeks.",
+    "Research stocking properly before buying anything — adult size, temperament and water parameters. Most beginner mistakes are bought in a shop in ten minutes.",
+    "Add fish slowly, a few at a time, so the bacteria colony can keep up.",
+    "Establish a weekly routine of partial water changes and gravel cleaning, with dechlorinated water at matched temperature.",
+    "Test regularly and quarantine new fish before adding them to an established tank."
+  ],
+  "tips": [
+    "Goldfish need far more space than a bowl; a bowl is not a suitable home for any fish.",
+    "Never clean the filter media in tap water — chlorine kills the bacteria and crashes the cycle."
+  ],
+  "proof": "A stable tank running six months with zero ammonia and nitrite, and healthy fish."
+}

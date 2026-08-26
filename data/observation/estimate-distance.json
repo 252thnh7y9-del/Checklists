@@ -1,0 +1,24 @@
+{
+  "id": "estimate-distance",
+  "name": "Estimate distances by eye",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Useful for hiking, driving, photography and shooting. It is calibration, not talent: you learn what known distances look like and then interpolate.",
+  "gear": [
+    "A measured 100 m course, or a map",
+    "A rangefinder or a phone map for checking"
+  ],
+  "steps": [
+    "Calibrate on known distances: pace out 50, 100 and 200 metres and study how a person, a car and a tree look at each.",
+    "Learn the detail markers: at 100 m you can see faces; at 200 m faces blur; at 400 m a person is a shape with distinguishable limbs; beyond 800 m a person is a dot.",
+    "Learn the bracketing method: estimate the maximum and minimum plausible distances and take the middle.",
+    "Learn the unit-of-measure method: judge how many 100 m sections fit between you and the object.",
+    "Learn the distortions: distances over water, snow or into the sun read short; uphill and in poor light read long.",
+    "Practise daily with a guess-then-check loop using a map or rangefinder."
+  ],
+  "tips": [
+    "Objects seen across a valley are almost always further than they look.",
+    "Regular calibration matters. This skill decays quickly without the feedback loop."
+  ],
+  "proof": "Ten estimates between 50 m and 1 km, each within 20% of the real distance."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "fix-dripping-tap",
+  "name": "Fix a dripping tap",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "A washer or a ceramic cartridge, ten minutes of work, and the end of a noise that also wastes thousands of litres a year.",
+  "gear": [
+    "Replacement washers or a matching ceramic cartridge",
+    "Adjustable spanner and screwdrivers",
+    "A cloth to protect the finish"
+  ],
+  "steps": [
+    "Turn off the water at the isolation valve under the basin, or at the stopcock, and open the tap to drain it.",
+    "Plug the plughole. Dropping the tiny screw down it is the classic way to turn ten minutes into an afternoon.",
+    "Identify the type: a traditional tap you turn several times has a rubber washer; a quarter-turn tap has a ceramic disc cartridge.",
+    "Remove the head — usually a screw under the decorative cap — and lift out the headgear with a spanner.",
+    "Replace the washer or the whole cartridge with an exact match, and inspect the seat for scoring.",
+    "Reassemble, turn the water on slowly, and check for leaks under load."
+  ],
+  "tips": [
+    "Take the old part to the shop. There are dozens of sizes and they are not interchangeable.",
+    "A tap that still drips after a new washer usually has a damaged seat, which needs a reseating tool."
+  ],
+  "proof": "A tap that is silent and dry for a month afterwards."
+}

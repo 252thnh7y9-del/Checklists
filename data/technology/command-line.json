@@ -1,0 +1,25 @@
+{
+  "id": "command-line",
+  "name": "Learn basic command-line navigation",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "A dozen commands cover most everyday terminal work, and they unlock scripting, servers and version control. It is a vocabulary problem, not a difficulty problem.",
+  "gear": [
+    "A terminal: Terminal on macOS or Linux, PowerShell or WSL on Windows",
+    "A scratch directory to experiment in"
+  ],
+  "steps": [
+    "Learn the mental model: you are always somewhere in the filesystem, and most commands act on where you are.",
+    "Learn navigation and inspection: pwd, ls, cd, tree, and the difference between absolute and relative paths.",
+    "Learn file operations: mkdir, cp, mv, rm, touch, cat, less — and the fact that rm has no undo.",
+    "Learn searching: grep and find, which are the two that repay study most.",
+    "Learn pipes and redirection, which is the idea that makes the shell powerful rather than just an alternative file browser.",
+    "Learn tab completion, history search and the up arrow, then do a real task entirely in the terminal."
+  ],
+  "tips": [
+    "rm -rf has no undo and no recycle bin. Never run it with a variable or wildcard you have not checked.",
+    "Tab completion prevents most typos and is the single biggest speed win.",
+    "Read the man page or --help before searching the web. It is usually faster."
+  ],
+  "proof": "You navigate, search, move and inspect files for a real task without leaving the terminal."
+}

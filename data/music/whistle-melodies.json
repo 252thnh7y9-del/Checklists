@@ -1,0 +1,24 @@
+{
+  "id": "whistle-melodies",
+  "name": "Whistle melodies accurately",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Pucker whistling in tune is a small ear-training project: your mouth is an instrument you cannot see, so the only feedback loop is your ear.",
+  "gear": [
+    "A tuner app",
+    "A piano or keyboard app for reference pitches"
+  ],
+  "steps": [
+    "Find a comfortable middle-range note and hold it steady for ten seconds against a tuner.",
+    "Learn to bend up and down a semitone at a time, checking against the tuner.",
+    "Whistle a major scale up and down, correcting each note against a keyboard.",
+    "Whistle simple melodies you know well, and record them to check the intervals.",
+    "Expand your range at both ends, gently — the top of the range needs a tighter pucker and less air.",
+    "Whistle along with recordings, which trains pitch matching in real time."
+  ],
+  "tips": [
+    "Tongue position controls pitch far more than lip shape does. Think of the vowel sounds “oo” for low, “ee” for high.",
+    "Dry lips are the enemy. Keep them moist."
+  ],
+  "proof": "You whistle a full melody in tune, verified against a tuner or a recording."
+}

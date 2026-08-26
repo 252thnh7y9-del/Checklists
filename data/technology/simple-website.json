@@ -1,0 +1,25 @@
+{
+  "id": "simple-website",
+  "name": "Build a simple website",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "From a blank file to something live on the internet with your own name on it. The publishing step is what makes it real, and it is free.",
+  "gear": [
+    "A text editor such as VS Code",
+    "A browser with developer tools",
+    "A free host: GitHub Pages, Netlify or Cloudflare Pages"
+  ],
+  "steps": [
+    "Write a single HTML file with real structure — headings, paragraphs, links, images — and open it in a browser.",
+    "Add CSS for layout and type, learning the box model, flexbox and a mobile-first media query.",
+    "Make it responsive and check it on an actual phone, not just a narrow browser window.",
+    "Add a small amount of JavaScript for one interactive element.",
+    "Publish it: push to a Git repository and enable free hosting. Getting a live URL is the milestone.",
+    "Learn the basics that make it real: a favicon, meta description, sensible page title and accessible alt text."
+  ],
+  "tips": [
+    "Build one small complete site rather than following three half tutorials.",
+    "Learn to use browser dev tools early. Inspecting live elements teaches CSS faster than any tutorial."
+  ],
+  "proof": "A live URL you can send to someone, that works on a phone and loads fast."
+}

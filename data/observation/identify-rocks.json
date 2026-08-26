@@ -1,0 +1,26 @@
+{
+  "id": "identify-rocks",
+  "name": "Identify rocks and minerals",
+  "time": "2–3 months",
+  "level": "Moderate",
+  "blurb": "Every landscape becomes legible once you can tell what the ground is made of and how it got there. A hand lens and a few tests do most of the work.",
+  "gear": [
+    "A hand lens, 10x",
+    "A geological hammer and eye protection",
+    "A streak plate and a steel nail for hardness tests",
+    "A regional geology guide"
+  ],
+  "steps": [
+    "Learn the three great classes first: igneous, sedimentary and metamorphic, and the field clues for each.",
+    "Learn the diagnostic tests: hardness against known materials, streak colour, reaction to dilute acid, cleavage and lustre.",
+    "Learn to recognise the common rock-forming minerals — quartz, feldspar, mica, calcite — since most rocks are combinations of a few.",
+    "Learn your local geology from a geological map, which tells you what you should be finding.",
+    "Look at fresh broken surfaces, not weathered ones, which hide everything.",
+    "Visit exposures — quarries with permission, coastal cliffs, road cuttings — where you can see the relationships between beds."
+  ],
+  "tips": [
+    "Always wear eye protection when hammering rock, and never hammer at the base of an unstable cliff.",
+    "Collecting is restricted or banned in many protected areas. Check before taking anything."
+  ],
+  "proof": "You identify the rocks in your local area and can explain how the landscape formed."
+}

@@ -1,0 +1,27 @@
+{
+  "id": "fermented-veg",
+  "name": "Make fermented vegetables",
+  "time": "1–3 weeks",
+  "level": "Easy",
+  "blurb": "Sauerkraut and kimchi need only vegetables, salt and time. Lacto-fermentation is safe and forgiving when you follow two rules: correct salt, everything under the brine.",
+  "gear": [
+    "A wide-mouth jar with a loose lid or airlock",
+    "Non-iodised salt",
+    "A weight to keep vegetables submerged",
+    "A digital scale"
+  ],
+  "steps": [
+    "Weigh the vegetables and use 2% of that weight in salt — this ratio is what makes it safe and is worth being precise about.",
+    "For sauerkraut, shred cabbage, mix with salt and massage until it releases enough brine to cover itself.",
+    "Pack tightly into the jar, pressing out air pockets, and weigh everything below the brine line.",
+    "Leave at room temperature, loosely covered or with an airlock so CO2 can escape, and burp daily if sealed.",
+    "Taste from day five onwards. When you like it, refrigerate to slow the fermentation down.",
+    "Learn the signs: cloudy brine and bubbling are good; fuzzy coloured mould on the surface means discard."
+  ],
+  "tips": [
+    "Anything above the brine will spoil. Keep it all submerged, every day.",
+    "White film on the surface is usually harmless kahm yeast; fuzzy green, black or pink growth means throw it out.",
+    "Warmer ferments faster and tastes less complex. Cool and slow is better."
+  ],
+  "proof": "A jar of sauerkraut you fermented, tasting sour and clean, that you are happy to serve to other people."
+}

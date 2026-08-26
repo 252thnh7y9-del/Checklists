@@ -1,0 +1,25 @@
+{
+  "id": "archery",
+  "name": "Learn archery",
+  "time": "6–12 weeks",
+  "level": "Moderate",
+  "blurb": "Consistency is everything: the same draw, the same anchor, the same release, every time. It is a deeply repeatable skill and progress is unusually visible.",
+  "gear": [
+    "A club with beginner courses and loan equipment",
+    "A bow of appropriate draw weight — too heavy ruins form",
+    "An arm guard and finger tab"
+  ],
+  "steps": [
+    "Start at a club. Range safety, correct draw weight and form all need supervision at the beginning.",
+    "Learn the safety rules absolutely: never draw without a target, never point a drawn bow anywhere but downrange, obey whistle commands.",
+    "Build the shot sequence: stance, nock, set hands, raise, draw, anchor, aim, release, follow through — the same every time.",
+    "Find a consistent anchor point on your face and use it identically for every shot.",
+    "Learn the surprise release — a smooth back-tension expansion rather than a conscious letting go, which prevents flinching.",
+    "Shoot at short distance until groups are tight, then move back. Distance before consistency just teaches bad habits."
+  ],
+  "tips": [
+    "A bow that is too heavy is the number one cause of bad form and shoulder injury. Start much lighter than your ego suggests.",
+    "Never dry fire a bow — releasing without an arrow can destroy it and injure you."
+  ],
+  "proof": "You group all six arrows in the gold at 18 metres, repeatably."
+}

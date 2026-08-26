@@ -1,0 +1,25 @@
+{
+  "id": "frame-weaving",
+  "name": "Weave on a frame loom",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "A simple frame loom teaches the whole logic of woven cloth in an afternoon, and produces wall hangings and small rugs while you learn.",
+  "gear": [
+    "A frame loom, or a picture frame with nails",
+    "Warp thread — strong cotton",
+    "Assorted weft yarns, a shed stick and a tapestry needle"
+  ],
+  "steps": [
+    "Warp the loom under even tension. Uneven warp tension causes every problem that follows.",
+    "Learn the plain weave: over, under, alternating each row.",
+    "Learn to leave the weft slack in an arc before beating it down, so the edges do not pull in.",
+    "Beat each row down firmly and evenly with a comb or fork.",
+    "Learn a texture technique: rya knots for fringe, or soumak for a raised braid.",
+    "Finish by tying off the warp and hanging or hemming the piece."
+  ],
+  "tips": [
+    "Pulled-in edges — a waist in the middle of the weaving — mean you are pulling the weft tight. Arc it.",
+    "Choose a warp strong enough to survive tension. Snapped warp threads mid-project are hard to fix."
+  ],
+  "proof": "A finished woven piece with straight, parallel edges and even beat."
+}

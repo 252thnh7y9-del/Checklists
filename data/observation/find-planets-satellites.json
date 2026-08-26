@@ -1,0 +1,25 @@
+{
+  "id": "find-planets-satellites",
+  "name": "Find planets and satellites",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "The Space Station is bright enough to see from a city centre, and four planets are visible with the naked eye. Both are predictable to the minute.",
+  "gear": [
+    "A pass-prediction site or app for the ISS",
+    "A planetarium app",
+    "Binoculars, optionally"
+  ],
+  "steps": [
+    "Learn to tell a planet from a star: planets shine steadily while stars twinkle, and planets stay near the ecliptic.",
+    "Learn the four easy ones: Venus as the brilliant evening or morning star, Jupiter steady and bright, Mars distinctly orange, Saturn a fainter yellow.",
+    "Learn the ecliptic — the line the Sun and Moon travel — because the planets are always on it.",
+    "Look up ISS passes for your location and go out five minutes early. It moves steadily, does not blink, and takes several minutes to cross.",
+    "Learn to spot geostationary and polar satellites, and to distinguish them from aircraft, which have blinking coloured lights.",
+    "With binoculars, find Jupiter’s four Galilean moons — they are visible in almost anything and move visibly night to night."
+  ],
+  "tips": [
+    "The ISS is only visible when it is in sunlight and you are in darkness, which is why passes cluster after dusk and before dawn.",
+    "Satellite trains from recent launches are startlingly bright and often mistaken for something stranger."
+  ],
+  "proof": "You predict and watch an ISS pass, and identify three planets unaided on the same night."
+}

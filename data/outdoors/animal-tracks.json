@@ -1,0 +1,25 @@
+{
+  "id": "animal-tracks",
+  "name": "Learn basic animal-track identification",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Tracking turns a walk into a story. Start with the handful of species that live near you, and learn to read gait patterns as well as individual prints.",
+  "gear": [
+    "A regional track guide",
+    "A small ruler or a coin for scale",
+    "Mud, snow or damp sand"
+  ],
+  "steps": [
+    "Learn the big distinctions: cat prints show no claws and are round; dog and fox prints show claws and are oval; deer leave cloven slots; rodents show long-fingered hand-like prints.",
+    "Learn to measure — overall print length and width, and the stride between prints — and always photograph with something for scale.",
+    "Learn the four gait patterns: walkers, waddlers, bounders and gallopers. The pattern often identifies the family before the print does.",
+    "Learn the other signs: scat, browse lines, rubs, feathers, burrows and runs.",
+    "Visit the same muddy edge or riverbank weekly and log what you find.",
+    "Try trailing: follow one animal’s prints for 50 metres and work out what it was doing."
+  ],
+  "tips": [
+    "Fresh clean prints in mud teach you far more than a dozen degraded ones in dust.",
+    "Domestic dogs confuse almost every beginner. Look for a straighter line of travel and no claw marks for cats."
+  ],
+  "proof": "You identify five local species from prints alone and read a short trail as a sequence of behaviours."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "pack-backpack",
+  "name": "Pack a backpack efficiently",
+  "time": "2–3 sessions",
+  "level": "Easy",
+  "blurb": "Load carrying is a comfort skill: the same weight feels dramatically lighter when it is placed correctly, and the same pack fits far better once you understand the belt-to-shoulder handover.",
+  "gear": [
+    "Your pack and your actual kit",
+    "A set of scales"
+  ],
+  "steps": [
+    "Weigh everything and write the list out. You cannot pack well what you have not measured.",
+    "Load by zone: heavy items — water, food, stove — against your back at shoulder-blade height; medium items around them; sleeping bag and light bulk at the bottom.",
+    "Fill dead space so nothing shifts, and keep the load symmetrical left to right.",
+    "Put what you need on the move in the lid and hipbelt pockets: waterproof, snacks, map, hat.",
+    "Fit it properly: hipbelt on the iliac crest first, take 70–80% of the weight there, then tighten shoulder straps and load lifters, then the sternum strap.",
+    "Walk with it loaded, adjust, and repack anything you never touched."
+  ],
+  "tips": [
+    "Heavy items low is a myth for hiking packs — heavy and close to your spine, at mid-back height, carries best.",
+    "Anything strapped to the outside will snag, swing or get lost. Put it inside.",
+    "Line the pack with a dry bag rather than trusting a rain cover."
+  ],
+  "proof": "You pack for a two-night trip, reach everything you need without unpacking, and finish the walk without shoulder pain."
+}

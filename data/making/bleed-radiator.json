@@ -1,0 +1,25 @@
+{
+  "id": "bleed-radiator",
+  "name": "Bleed a radiator and balance heating",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Cold at the top and hot at the bottom means trapped air. Five minutes with a small key fixes it, and balancing the system afterwards fixes the room that is always cold.",
+  "gear": [
+    "A radiator bleed key",
+    "A cloth and a small container",
+    "A pressure gauge reading on your boiler"
+  ],
+  "steps": [
+    "Turn the heating off and let the system cool before starting.",
+    "Find the bleed valve at the top corner and hold a cloth and container beneath it.",
+    "Turn the key a quarter to half turn until air hisses out, and close it the instant water appears.",
+    "Work around the house, doing downstairs radiators before upstairs ones.",
+    "Check the boiler pressure afterwards and repressurise if it has dropped below the normal band.",
+    "If one radiator is still cold at the bottom, that is sludge rather than air, and balancing or a power flush is the next step."
+  ],
+  "tips": [
+    "Cold at the top is air; cold at the bottom is sludge. They need completely different fixes.",
+    "Bleeding repeatedly over weeks means air is getting in, which is worth a heating engineer’s look."
+  ],
+  "proof": "Every radiator hot across its whole surface, and correct system pressure."
+}

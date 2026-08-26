@@ -1,0 +1,24 @@
+{
+  "id": "slide-rule",
+  "name": "Use a slide rule at a basic level",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The tool that built the twentieth century. Using one teaches logarithms in a physical way no textbook manages, and it is genuinely satisfying.",
+  "gear": [
+    "A slide rule — second-hand, or a printed paper one",
+    "Its instruction manual"
+  ],
+  "steps": [
+    "Learn the scales: C and D for multiplication and division, A and B for squares, K for cubes, and the folded and inverted scales.",
+    "Understand the principle: the scales are logarithmic, so adding lengths multiplies numbers.",
+    "Learn multiplication by aligning the index on C with one factor on D and reading the answer under the second factor.",
+    "Learn division, which is the same movement in reverse.",
+    "Learn to track the decimal point yourself — the slide rule gives you digits, not magnitude, so you must estimate the order separately.",
+    "Learn squares, square roots and simple trigonometry, then do a page of real calculations."
+  ],
+  "tips": [
+    "The slide rule never tells you where the decimal point goes. Estimate roughly first, always.",
+    "Three significant figures is the practical limit. That was enough to design aircraft."
+  ],
+  "proof": "You do a page of multiplication, division and roots on the rule, accurate to three figures."
+}

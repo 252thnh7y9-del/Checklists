@@ -1,0 +1,26 @@
+{
+  "id": "clay-sculpting",
+  "name": "Learn basic clay sculpting",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Hand-building with clay teaches you to think in three dimensions. Pinch pots, coils and slabs are three techniques that between them make almost anything.",
+  "gear": [
+    "Air-dry clay or polymer clay to start",
+    "Simple tools: a wire, a rib, a loop tool",
+    "A board and a damp cloth"
+  ],
+  "steps": [
+    "Learn to wedge the clay — kneading out air bubbles — because trapped air ruins pieces, especially if you ever fire them.",
+    "Make a pinch pot: a ball opened with your thumb and walls thinned evenly. It teaches wall thickness by feel.",
+    "Learn coil building for taller forms, scoring and slipping every join.",
+    "Learn slab building for angular forms, and how to let slabs firm up before assembly.",
+    "Sculpt a simple figure or head, building up an armature if the form needs support.",
+    "Learn to finish: smoothing, texturing, and drying slowly under plastic to prevent cracks."
+  ],
+  "tips": [
+    "Uneven wall thickness causes cracks as it dries. Aim for consistency.",
+    "Score and slip every join, every time, or it will separate.",
+    "Drying too fast is the usual cause of cracks. Slow it down with plastic."
+  ],
+  "proof": "A finished piece using all three techniques that dries without cracking."
+}

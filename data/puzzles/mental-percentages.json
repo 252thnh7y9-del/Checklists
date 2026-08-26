@@ -1,0 +1,22 @@
+{
+  "id": "mental-percentages",
+  "name": "Calculate percentages quickly in your head",
+  "time": "2–3 days",
+  "level": "Easy",
+  "blurb": "A handful of tricks turn restaurant tips, discounts and interest into single-step arithmetic. This is the highest-value mental maths there is because you use it weekly.",
+  "gear": [
+    "Nothing"
+  ],
+  "steps": [
+    "Learn to find 10% instantly by moving the decimal point, then build everything else from it: 20% is double, 5% is half, 15% is 10% plus half of it.",
+    "Learn the reversal rule: x% of y equals y% of x. 4% of 75 is awkward; 75% of 4 is three.",
+    "Learn 1% for fine adjustments, and combine: 37% is 25% plus 10% plus 2%.",
+    "Practise discounts as subtraction from the whole: 30% off means paying 70%, which is 10% times seven.",
+    "Drill in real life — every menu, receipt and sale sign for a week, before you check with a phone."
+  ],
+  "tips": [
+    "Round first, correct after. “About 12, so a bit under” beats a stalled exact calculation.",
+    "Say the intermediate number out loud or under your breath; it stops you losing it mid-sum."
+  ],
+  "proof": "You call an accurate 18% tip on an awkward bill before anyone unlocks a phone."
+}

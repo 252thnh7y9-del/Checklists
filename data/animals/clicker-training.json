@@ -1,0 +1,25 @@
+{
+  "id": "clicker-training",
+  "name": "Learn clicker training",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A marker signal that tells an animal precisely which instant earned the reward. It works on dogs, cats, horses, chickens and, notoriously, on humans.",
+  "gear": [
+    "A clicker, or a consistent marker word",
+    "Small high-value rewards",
+    "An animal willing to work for food"
+  ],
+  "steps": [
+    "Charge the clicker: click, then treat, thirty or forty times, until the sound alone makes the animal look for the reward.",
+    "Learn the timing — the click marks the exact moment of the behaviour, and the treat can follow a second or two later.",
+    "Learn to capture: click a behaviour the animal offers naturally, such as sitting or making eye contact.",
+    "Learn to shape: click successive approximations towards a behaviour that never happens on its own.",
+    "Add the cue only once the behaviour is happening reliably, never before.",
+    "Keep criteria clear and raise them one step at a time — the classic error is asking for too much too soon."
+  ],
+  "tips": [
+    "A late click marks the wrong behaviour. Practise timing by clicking a bouncing ball at the top of its bounce.",
+    "One click, one treat, always. Clicking repeatedly destroys the signal."
+  ],
+  "proof": "You shape a novel behaviour the animal has never offered before, using only the marker and rewards."
+}

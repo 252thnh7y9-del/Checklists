@@ -1,0 +1,24 @@
+{
+  "id": "dive-poolside",
+  "name": "Dive cleanly into a pool",
+  "time": "2–4 sessions",
+  "level": "Moderate",
+  "blurb": "A clean, quiet dive with no belly-flop is a shape problem: hands lead, head is tucked between the arms, and the body follows in one line.",
+  "gear": [
+    "A pool with adequate depth — check it before every dive",
+    "A patient friend"
+  ],
+  "steps": [
+    "Check depth first, every single time and at every new pool. Shallow-water diving causes catastrophic spinal injuries.",
+    "Start kneeling on the edge: arms extended overhead, hands stacked, head tucked between them, and topple in fingers first.",
+    "Progress to a crouch, then one knee, then standing.",
+    "Aim at a spot in the water about a metre and a half out, not straight down.",
+    "Keep your body in one straight line and point your toes — the splash tells you how well you did.",
+    "Practise the entry angle: too flat and you slap, too steep and you go straight to the bottom."
+  ],
+  "tips": [
+    "Never dive into water of unknown depth, ever — not lakes, not the shallow end, not the sea.",
+    "Lifting your head at the last second is what causes belly-flops. Keep it tucked."
+  ],
+  "proof": "A quiet, straight dive from standing that leaves almost no splash."
+}

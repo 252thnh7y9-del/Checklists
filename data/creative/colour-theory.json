@@ -1,0 +1,25 @@
+{
+  "id": "colour-theory",
+  "name": "Learn colour theory in practice",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Not the colour wheel you were shown at school, but the three properties that actually govern mixing: hue, value and saturation — and the fact that value does most of the work.",
+  "gear": [
+    "A limited palette of paints — a warm and cool of each primary, plus white",
+    "A greyscale value strip",
+    "A sketchbook"
+  ],
+  "steps": [
+    "Learn the three properties and practise describing any colour in those terms.",
+    "Make a value scale in grey, then match colours to it. Squinting to see value is the single most useful habit in painting.",
+    "Learn to mix from a limited palette rather than buying more tubes — it forces you to understand mixing.",
+    "Learn that greying a colour with its complement is usually better than adding black.",
+    "Learn colour temperature and how a warm light implies cool shadows.",
+    "Do studies from photographs, matching value first and hue second, and check by photographing your study in greyscale."
+  ],
+  "tips": [
+    "Beginners fix hue and ignore value. If a painting looks wrong in greyscale, the values are wrong.",
+    "Black straight from the tube deadens most mixes. Mix your darks from complements."
+  ],
+  "proof": "You mix any colour you see from a limited palette, and your studies hold up in greyscale."
+}

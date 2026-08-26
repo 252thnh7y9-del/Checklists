@@ -1,0 +1,25 @@
+{
+  "id": "stop-motion",
+  "name": "Make a stop-motion animation",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Patience made visible. A ten-second animation is about 120 photographs, and the craft is entirely in consistency between them.",
+  "gear": [
+    "A phone with a stop-motion app, or a camera on a tripod",
+    "Constant artificial light — daylight changes and ruins the sequence",
+    "Plasticine, paper cut-outs or LEGO"
+  ],
+  "steps": [
+    "Lock everything down: camera on a tripod, manual focus and exposure, and lighting that will not shift.",
+    "Use artificial light and block out windows, because a passing cloud will flicker through your whole shot.",
+    "Plan the movement with a rough storyboard and work out how many frames each action needs.",
+    "Shoot on twos — two frames per position — for a good balance of smoothness and workload.",
+    "Use onion skinning in the app to line up each frame with the last.",
+    "Add sound afterwards; sound design does more for the feel than any extra animation smoothness."
+  ],
+  "tips": [
+    "Knocking the camera or the set is the classic disaster. Tape everything down, including the tripod legs.",
+    "Move things less than feels right. Big jumps read as jerky."
+  ],
+  "proof": "A finished animation of at least fifteen seconds with smooth motion and no light flicker."
+}

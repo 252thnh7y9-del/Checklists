@@ -1,0 +1,24 @@
+{
+  "id": "orient-no-gps",
+  "name": "Orient yourself without GPS",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "A set of rough-and-ready methods for finding direction with nothing but the sun, a watch, a stick and some attention to your surroundings.",
+  "gear": [
+    "An analogue watch or the willingness to imagine one",
+    "A stick"
+  ],
+  "steps": [
+    "Learn the shadow-stick method: mark the tip of a stick’s shadow, wait 15 minutes, mark it again — the line between them runs roughly west to east.",
+    "Learn the watch method for your hemisphere: in the north, point the hour hand at the sun and bisect the angle to the 12.",
+    "Learn the sun’s daily arc: it rises broadly east, sets broadly west, and is due south at local noon in the northern hemisphere.",
+    "Learn to find north at night from Polaris via the Plough, or south from the Southern Cross.",
+    "Use terrain association: rivers run downhill to bigger water, ridge lines and roads are handrails.",
+    "Practise by predicting the direction of home from an unfamiliar spot, then checking with a compass."
+  ],
+  "tips": [
+    "Moss on the north side of trees is unreliable folklore. Use the sun and stars.",
+    "These methods give you a general direction, not a bearing. Treat them as a sanity check, not a route."
+  ],
+  "proof": "You correctly identify north within about 15 degrees, by day and by night, without instruments."
+}

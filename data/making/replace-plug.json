@@ -1,0 +1,25 @@
+{
+  "id": "replace-plug",
+  "name": "Replace an electrical plug",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "Wiring a plug correctly — right colours to right terminals, correct fuse, cord grip tight — is a five-minute job that people are needlessly nervous about.",
+  "gear": [
+    "A replacement plug appropriate to your country",
+    "A small screwdriver, wire strippers",
+    "The correct fuse rating for the appliance"
+  ],
+  "steps": [
+    "Unplug the appliance and cut off the old plug entirely so it can never be reused.",
+    "Strip the outer sheath carefully without nicking the inner insulation, leaving the earth conductor slightly longer than live and neutral.",
+    "Strip each conductor about 6 mm, twist the strands, and identify them by your country’s colour code — in the UK, brown is live, blue is neutral, green-and-yellow is earth.",
+    "Connect each to the correct terminal, tighten fully, and check no stray strands escape.",
+    "Fit the correct fuse for the appliance — not the biggest one that fits.",
+    "Clamp the cord grip on the outer sheath, not the inner cores, and close the plug."
+  ],
+  "tips": [
+    "The cord grip must hold the sheath. If it grips only the thin wires, a tug will pull a live conductor loose.",
+    "If you are in any doubt about your country’s rules or your own competence, have an electrician do it. Some jurisdictions restrict this work."
+  ],
+  "proof": "A correctly wired plug with the right fuse, a firm cord grip, and an appliance that works."
+}

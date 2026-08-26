@@ -1,0 +1,26 @@
+{
+  "id": "cast-iron",
+  "name": "Season and maintain cast iron",
+  "time": "2–3 sessions",
+  "level": "Easy",
+  "blurb": "A well-kept cast iron pan is genuinely non-stick, lasts generations and costs little. Nearly all the folklore around them is wrong.",
+  "gear": [
+    "A cast iron skillet",
+    "A high-smoke-point oil",
+    "Coarse salt and a stiff brush",
+    "Kitchen paper"
+  ],
+  "steps": [
+    "Understand seasoning: it is polymerised oil bonded to the metal, not a coating of grease.",
+    "To season, apply a very thin layer of oil, wipe it off until the pan looks dry, and bake upside down above the oil’s smoke point for an hour.",
+    "Build several thin layers rather than one thick one, which goes sticky and flakes.",
+    "Cook in it regularly, especially fatty foods, which maintains the seasoning better than deliberate re-seasoning.",
+    "Clean while warm with water and a brush, dry immediately on the hob, and wipe with a trace of oil.",
+    "Learn to strip and re-season if it rusts or goes patchy, and never soak it or leave it wet."
+  ],
+  "tips": [
+    "A little washing-up liquid is fine on modern seasoning. The myth that soap destroys it dates from lye-based soaps.",
+    "Sticky patches mean too much oil at seasoning. Wipe far more off than feels right."
+  ],
+  "proof": "An egg slides freely around your pan with only a little fat."
+}

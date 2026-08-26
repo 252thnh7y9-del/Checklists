@@ -1,0 +1,25 @@
+{
+  "id": "regex",
+  "name": "Learn regular expressions",
+  "time": "2–4 weeks",
+  "level": "Hard",
+  "blurb": "A tiny language for describing text patterns. It looks like line noise and pays for itself the first time you clean up a thousand-line file in ten seconds.",
+  "gear": [
+    "An interactive regex tester with an explanation pane",
+    "Real messy text to practise on"
+  ],
+  "steps": [
+    "Learn the building blocks: literal characters, character classes, and the dot.",
+    "Learn quantifiers — star, plus, question mark and braces — and the crucial difference between greedy and lazy matching.",
+    "Learn anchors and word boundaries, which prevent most accidental over-matching.",
+    "Learn capture groups and backreferences, which is what makes find-and-replace powerful.",
+    "Build every pattern incrementally in a tester, checking the matches after each addition rather than writing it all at once.",
+    "Apply it for real: in your editor, in grep, and in a script that cleans a genuinely messy file."
+  ],
+  "tips": [
+    "Greedy matching is behind most \"why does it match too much\" problems. Reach for the lazy quantifier.",
+    "Do not parse HTML with regex. Use a real parser; this is a famous and genuine trap.",
+    "A regex you cannot read in a month is a liability. Comment it or break it up."
+  ],
+  "proof": "You extract and reformat data from a messy file with a regex you built and understand."
+}

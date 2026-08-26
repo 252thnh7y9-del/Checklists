@@ -1,0 +1,27 @@
+{
+  "id": "cook-steak",
+  "name": "Cook steak consistently",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Consistency, not luck: the same doneness every time, with a proper crust. It comes from dry surfaces, high heat, a thermometer and a rest.",
+  "gear": [
+    "A thick steak, at least 3 cm",
+    "A cast-iron pan",
+    "An instant-read thermometer",
+    "Neutral high-smoke-point oil"
+  ],
+  "steps": [
+    "Dry the surface thoroughly and salt it — either just before cooking, or 40 minutes ahead so the salt is reabsorbed. The window in between draws out moisture and prevents a crust.",
+    "Get the pan properly hot; the oil should shimmer and just start to smoke.",
+    "Sear undisturbed to build the crust, then flip. Frequent flipping is fine for evenness once the crust has formed.",
+    "Baste with butter, garlic and thyme in the last minute, spooning continuously.",
+    "Pull it 3 to 5 °C below your target — carryover cooking does the rest. Medium rare means pulling around 52 °C.",
+    "Rest for five to ten minutes on a rack, then slice across the grain."
+  ],
+  "tips": [
+    "Guessing doneness by feel is unreliable until you have cooked hundreds. Use a thermometer and learn the correlation.",
+    "Wet steak steams instead of searing. Pat it dry, and pat it dry again.",
+    "A thin steak cannot be both crusted and rare. Buy thicker."
+  ],
+  "proof": "Five steaks in a row hit your target doneness within a few degrees, each with a proper crust."
+}

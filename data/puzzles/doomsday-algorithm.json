@@ -1,0 +1,24 @@
+{
+  "id": "doomsday-algorithm",
+  "name": "Calculate the day of the week for any date",
+  "time": "2–4 weeks",
+  "level": "Hard",
+  "blurb": "Someone gives you a date and you name the weekday in a couple of seconds. The Doomsday method makes it a small piece of arithmetic rather than a memory trick.",
+  "gear": [
+    "A written description of the Doomsday rule",
+    "A drill app or a calendar to check against"
+  ],
+  "steps": [
+    "Learn the anchor idea: certain dates in every year all fall on the same weekday, called that year’s doomsday.",
+    "Memorise the easy anchor dates: 4/4, 6/6, 8/8, 10/10, 12/12, plus the last day of February and the 9-to-5 pairs (5/9, 9/5, 7/11, 11/7).",
+    "Learn the century anchors, which repeat on a 400-year cycle.",
+    "Learn to compute the year’s doomsday from the last two digits with the divide-by-twelve method.",
+    "Combine: find the doomsday, count from the nearest anchor date to your target, and take the remainder mod seven.",
+    "Drill daily with random dates, timing yourself and checking against a calendar."
+  ],
+  "tips": [
+    "Leap years shift January and February anchors. Getting that exception wrong is the usual error.",
+    "Practise with birthdays of people you know, since you can verify instantly and they find it impressive."
+  ],
+  "proof": "You name the weekday for any date in the 20th or 21st century in under five seconds, correctly."
+}

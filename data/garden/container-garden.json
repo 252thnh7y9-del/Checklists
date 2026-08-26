@@ -1,0 +1,25 @@
+{
+  "id": "container-garden",
+  "name": "Grow food in containers",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "No garden required — a balcony, a doorstep or a windowsill will grow real food. Container growing has its own rules, mostly about water and pot size.",
+  "gear": [
+    "The biggest pots you can accommodate",
+    "Peat-free multipurpose compost",
+    "A watering can and liquid feed"
+  ],
+  "steps": [
+    "Choose crops suited to pots: salad leaves, radish, chard, bush beans, chillies, herbs and potatoes in sacks.",
+    "Go bigger on pots than feels necessary. Small pots dry out within hours in summer and limit every plant in them.",
+    "Ensure real drainage — holes, and raised off the ground on feet.",
+    "Water far more often than you would ground-grown plants: daily in hot weather, sometimes twice.",
+    "Feed regularly, because container compost runs out of nutrients within about six weeks.",
+    "Practise succession sowing — a short row of salad every fortnight rather than all at once."
+  ],
+  "tips": [
+    "Compost that has shrunk away from the pot edge lets water run straight down the sides. Soak the pot fully to rewet it.",
+    "Dark pots in full sun cook roots. Group pots together to shade each other."
+  ],
+  "proof": "You harvest several different crops from containers across one season."
+}

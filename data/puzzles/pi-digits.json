@@ -1,0 +1,22 @@
+{
+  "id": "pi-digits",
+  "name": "Memorize 50–100 digits of pi",
+  "time": "3–7 days",
+  "level": "Easy",
+  "blurb": "A small, self-contained party trick and the cleanest introduction to number-memory systems. Rote repetition works for 50 digits; a system makes 100 comfortable.",
+  "gear": [
+    "A printed list of the digits, chunked in groups of five"
+  ],
+  "steps": [
+    "Write the digits out in groups of five and read them aloud in a fixed rhythm — the rhythm itself becomes a memory cue.",
+    "Learn the first 20 to the point where you can say them faster than you can think.",
+    "For the next stretch, convert each pair or triple of digits into an image using a number-shape or number-sound system, then place those images along a route through your home.",
+    "Recite from the start every session. The beginning gets over-learned, which is exactly what you want under pressure.",
+    "Practise recall while distracted — walking, cooking, with music on — so it survives an audience."
+  ],
+  "tips": [
+    "The failure point is always the same stretch. Give that one extra passes rather than repeating the whole thing.",
+    "Reciting to another person is far harder than reciting alone. Rehearse it that way at least once."
+  ],
+  "proof": "You recite 50 digits aloud to someone checking against a printout, cold."
+}

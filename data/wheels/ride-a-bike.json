@@ -1,0 +1,25 @@
+{
+  "id": "ride-a-bike",
+  "name": "Ride a bike",
+  "time": "1–3 sessions",
+  "level": "Easy",
+  "blurb": "If you never learned as a child, the balance-bike method gets adults riding in an afternoon — far faster than the running-behind-holding-the-saddle approach most people remember.",
+  "gear": [
+    "A bike you can put both feet flat on the ground from",
+    "A helmet",
+    "A gentle grassy slope or an empty flat car park"
+  ],
+  "steps": [
+    "Take the pedals off and drop the saddle so you can sit with both feet flat. This turns the bike into a balance bike and removes all the fear.",
+    "Scoot along, pushing with your feet, then lift both feet and glide. Practise gliding until you can go 10 metres with your feet up.",
+    "Learn to steer while gliding, and learn that you balance by steering into a lean, not by leaning.",
+    "Refit the pedals, raise the saddle slightly, and start with one pedal at the two-o-clock position to push off.",
+    "Practise starting and stopping repeatedly — those are the hard parts, not riding along.",
+    "Add looking over your shoulder, signalling and braking with both levers before going anywhere with traffic."
+  ],
+  "tips": [
+    "Looking down at the front wheel makes you wobble. Look where you want to go, well ahead.",
+    "A saddle too high is frightening and a saddle too low is exhausting. Start low, raise it as confidence grows."
+  ],
+  "proof": "You start unaided, ride 500 metres including turns, and stop under control."
+}

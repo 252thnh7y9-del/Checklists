@@ -1,0 +1,26 @@
+{
+  "id": "constellations",
+  "name": "Identify major constellations",
+  "time": "2–4 weeks",
+  "level": "Easy",
+  "blurb": "Twenty constellations is enough to orient yourself anywhere in your hemisphere and to never look at the night sky the same way again.",
+  "gear": [
+    "A star chart or a planisphere",
+    "A red torch to preserve night vision",
+    "A stargazing app for checking yourself"
+  ],
+  "steps": [
+    "Start with the anchor: the Plough or the Southern Cross, depending on hemisphere, and learn to find it in any orientation.",
+    "Use star hopping: the Plough’s pointer stars find Polaris; its handle arcs to Arcturus and speeds on to Spica.",
+    "Learn the seasonal set for right now — Orion in winter, the Summer Triangle in summer — rather than all of them at once.",
+    "Learn five new constellations a week and revisit the old ones every session.",
+    "Learn to distinguish planets from stars: planets do not twinkle and stay near the ecliptic.",
+    "Go out on the same clear night each week and name everything you can before checking the app."
+  ],
+  "tips": [
+    "Give your eyes 20 minutes to dark-adapt, and use a red torch so you do not lose it.",
+    "Constellations rotate through the night and the seasons. Learn the shapes relative to each other, not to the horizon.",
+    "Light pollution hides most of the sky. One trip somewhere dark is worth ten from a city."
+  ],
+  "proof": "You name 20 constellations on a clear night, unaided, and use them to find north or south."
+}

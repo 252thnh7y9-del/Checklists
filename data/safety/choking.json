@@ -1,0 +1,24 @@
+{
+  "id": "choking",
+  "name": "Help a choking person",
+  "time": "Part of a first aid course",
+  "level": "Moderate",
+  "blurb": "Back blows and abdominal thrusts, in that order — and knowing the difference between mild choking, where you leave them to cough, and severe, where you act immediately.",
+  "gear": [
+    "An accredited course, which will cover adult, child and infant technique"
+  ],
+  "steps": [
+    "Assess severity: if they can cough forcefully, speak or breathe, encourage coughing and do not intervene.",
+    "If the cough is silent, they cannot breathe or speak, or they are clutching their throat, act at once.",
+    "Give up to five sharp back blows between the shoulder blades with the heel of your hand, leaning them forward.",
+    "If that fails, give up to five abdominal thrusts — hands above the navel, sharply inwards and upwards.",
+    "Alternate the two and call emergency services if it does not clear quickly.",
+    "Learn the infant variation, which uses back blows and chest thrusts, never abdominal thrusts."
+  ],
+  "tips": [
+    "Abdominal thrusts can cause internal injury. Anyone who has received them should be checked by a doctor.",
+    "Pregnant or larger people get chest thrusts instead of abdominal thrusts.",
+    "Do not do blind finger sweeps — you can push the obstruction deeper."
+  ],
+  "proof": "A course certificate, and you can state the escalation for adults, children and infants from memory."
+}

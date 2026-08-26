@@ -1,0 +1,24 @@
+{
+  "id": "twelve-bar-blues",
+  "name": "Learn a basic 12-bar blues",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "The most useful twelve bars in music. Learn the form once and you can jam with strangers, on guitar, piano or harmonica, for the rest of your life.",
+  "gear": [
+    "Any instrument",
+    "A backing track at 80–100 bpm"
+  ],
+  "steps": [
+    "Learn the form: four bars of I, two of IV, two of I, one of V, one of IV, two of I. Count it out loud until it is instinctive.",
+    "Play it in one key with basic chords, keeping strict time throughout.",
+    "Learn the shuffle rhythm, which is what makes it sound like blues rather than a chord exercise.",
+    "Learn the minor pentatonic scale in the same key and play simple phrases over the changes.",
+    "Learn to leave space. Beginner soloing is too many notes; the form rewards phrases with gaps.",
+    "Play along with a backing track without losing your place in the form."
+  ],
+  "tips": [
+    "Losing the form is the classic error. Count the bars even while soloing.",
+    "Learn it in two keys — E and A on guitar, C and F on piano — and you can join almost any jam."
+  ],
+  "proof": "You play the full twelve bars, in time, over a backing track, and take a short solo without losing the form."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "data-visualization",
+  "name": "Learn basic data visualization",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Choosing the right chart, and not lying with it. Most bad charts come from a handful of avoidable decisions.",
+  "gear": [
+    "A spreadsheet, or a tool like Datawrapper",
+    "Real data with a real question attached"
+  ],
+  "steps": [
+    "Learn to match chart to question: bar for comparison across categories, line for change over time, scatter for relationships, and almost never a pie chart.",
+    "Learn the honesty rules: bar charts must start at zero, axes must be labelled, and scales must not be truncated to exaggerate.",
+    "Learn to reduce chart junk — no 3D, no heavy gridlines, no decorative shading. Everything that is not data should justify itself.",
+    "Learn to use colour meaningfully: one accent for the point you are making, muted greys for context, and a palette that survives colour-blindness.",
+    "Learn to write the title as the finding, not the topic: \"Sales fell 20% after March\" rather than \"Monthly sales\".",
+    "Rebuild a bad chart you find in the wild and compare the two."
+  ],
+  "tips": [
+    "If a chart needs a paragraph of explanation, redesign the chart.",
+    "Direct labels usually beat a legend, because the reader does not have to look back and forth."
+  ],
+  "proof": "You make a chart that a stranger reads correctly in five seconds without asking a question."
+}

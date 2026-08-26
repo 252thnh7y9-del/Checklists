@@ -1,0 +1,25 @@
+{
+  "id": "mayonnaise",
+  "name": "Make mayonnaise by hand",
+  "time": "1–2 sessions",
+  "level": "Easy",
+  "blurb": "An emulsion made from egg yolk, oil and acid — a five-minute lesson in the technique that also underpins hollandaise, aioli and vinaigrette.",
+  "gear": [
+    "A bowl and a whisk, or a stick blender",
+    "Egg yolks, neutral oil, lemon juice or vinegar, mustard, salt"
+  ],
+  "steps": [
+    "Set the bowl on a damp cloth so it cannot spin, and whisk the yolk with mustard, a little acid and salt.",
+    "Add the oil drop by drop at first, whisking constantly. This is where emulsions are made or broken.",
+    "Once it thickens and takes, you can pour the oil in a slow, thin stream.",
+    "Adjust at the end with acid, salt and a splash of water to reach the consistency you want.",
+    "Learn the rescue: if it splits, start with a fresh yolk in a clean bowl and whisk the broken mixture into it drop by drop.",
+    "Make a flavoured version — aioli with garlic, or a herb mayonnaise."
+  ],
+  "tips": [
+    "Adding oil too fast is the only real way to fail. Slower than feels reasonable.",
+    "Room-temperature ingredients emulsify far more readily than fridge-cold ones.",
+    "Raw egg carries a small salmonella risk. Use very fresh or pasteurised eggs, and avoid serving it to anyone vulnerable."
+  ],
+  "proof": "A thick, glossy, stable mayonnaise made by hand, plus one successful rescue of a deliberately split batch."
+}

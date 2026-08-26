@@ -1,0 +1,25 @@
+{
+  "id": "sharpen-scissors",
+  "name": "Sharpen scissors",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Scissors are two blades that shear past each other, so sharpening them means restoring the bevel without touching the flat inner faces. Easy once you know that rule.",
+  "gear": [
+    "A whetstone or a fine file",
+    "A screwdriver if the pivot is adjustable",
+    "Oil for the pivot"
+  ],
+  "steps": [
+    "Check the pivot first: many “blunt” scissors are simply loose. Tighten until the blades shear with slight resistance.",
+    "Separate the blades if the design allows, or work them open.",
+    "Sharpen only the outer bevel, matching its existing angle, with strokes running from pivot to tip.",
+    "Never grind the flat inner faces — that is the shearing surface and ruins the scissors.",
+    "Remove the burr by opening and closing the scissors a few times, or with a light pass on a strop.",
+    "Oil the pivot and test on tissue paper, which exposes any gap along the cut."
+  ],
+  "tips": [
+    "Cutting tissue paper cleanly to the tip is the real test; thick paper hides a lot of faults.",
+    "Fabric scissors should never cut paper. Keep two pairs and label them."
+  ],
+  "proof": "Your blunt kitchen scissors cut tissue paper cleanly along the full length of the blade."
+}

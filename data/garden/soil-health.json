@@ -1,0 +1,25 @@
+{
+  "id": "soil-health",
+  "name": "Test and improve your soil",
+  "time": "A season",
+  "level": "Moderate",
+  "blurb": "Everything in gardening rests on soil. Ten minutes of testing tells you what you are working with and saves years of blaming the plants.",
+  "gear": [
+    "A soil pH test kit",
+    "A spade",
+    "Organic matter: compost, leaf mould or well-rotted manure"
+  ],
+  "steps": [
+    "Do the jar test for texture: soil and water in a jar, shaken and left to settle into sand, silt and clay layers.",
+    "Test the pH, which determines what nutrients plants can actually take up. Most vegetables want roughly 6.5.",
+    "Dig a hole and look: is it compacted, does water sit in it, are there worms? Worm count is a fast proxy for soil health.",
+    "Add organic matter as a mulch on the surface rather than digging it in — the soil life will incorporate it for you.",
+    "Stop walking on beds. Compaction is the most common and most invisible soil problem.",
+    "Keep the soil covered, with plants or mulch, year round."
+  ],
+  "tips": [
+    "Adding lime or sulphur to change pH is slow and easy to overdo. Test first, adjust gradually.",
+    "A \"feed the soil, not the plant\" approach outperforms fertiliser over a few seasons."
+  ],
+  "proof": "You can state your soil’s texture and pH, and show visible improvement after a season of mulching."
+}

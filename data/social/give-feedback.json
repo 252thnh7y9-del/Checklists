@@ -1,0 +1,24 @@
+{
+  "id": "give-feedback",
+  "name": "Give feedback well",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Most feedback is either so softened it is missed or so blunt it is rejected. The skill is being specific and kind at the same time — and they are not in tension.",
+  "gear": [
+    "Real situations",
+    "A structure to lean on until it becomes natural"
+  ],
+  "steps": [
+    "Ask permission and pick the moment: privately, soon after the event, and not when either of you is angry.",
+    "Describe the specific observable behaviour, not the person or their character. \"The report arrived after the deadline\" rather than \"you are unreliable\".",
+    "State the concrete impact, which is what makes it land: what happened as a result, for you or for others.",
+    "Stop talking and listen. Their explanation may change what the right outcome is.",
+    "Agree a specific change together rather than issuing an instruction.",
+    "Abandon the compliment sandwich — people hear the praise, miss the middle, and stop trusting your compliments."
+  ],
+  "tips": [
+    "\"You always\" and \"you never\" invite an argument about counterexamples instead of the actual issue.",
+    "Feedback nobody can act on is just criticism. If there is no specific behaviour, wait until there is."
+  ],
+  "proof": "You give difficult feedback and the relationship is intact, with the behaviour actually changed."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "hand-drill",
+  "name": "Start a fire with a hand drill",
+  "time": "3–6 weeks",
+  "level": "Hard",
+  "blurb": "The bow drill without the bow: bare hands spinning a long spindle. It demands better materials, drier conditions and tougher hands than any other friction method.",
+  "gear": [
+    "A long, straight, dead-dry spindle: mullein, horseweed, elderberry",
+    "A soft dry hearth board",
+    "A prepared tinder bundle"
+  ],
+  "steps": [
+    "Select a spindle 60–75 cm long, straight and bone dry — moisture that a bow drill tolerates will defeat you here.",
+    "Burn in a socket and cut the collection notch exactly as for a bow drill.",
+    "Learn the float: spin with your palms while travelling down the spindle, then snap your hands back to the top without stopping the spin.",
+    "Build heat in long sets rather than frantic ones, keeping constant downward pressure through your palms.",
+    "Finish with a fast, heavy set until the dust pile smokes on its own.",
+    "Transfer to tinder and blow to flame."
+  ],
+  "tips": [
+    "Blisters mean you are sliding rather than pressing. Toughen your hands gradually over weeks.",
+    "A thumb loop or a helper on the second set is legitimate practice, not cheating.",
+    "This method is genuinely hard in damp climates. Master the bow drill first."
+  ],
+  "proof": "An ember from hand-drill alone, blown to flame, with no bow involved."
+}

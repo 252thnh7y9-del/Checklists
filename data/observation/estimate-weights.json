@@ -1,0 +1,23 @@
+{
+  "id": "estimate-weights",
+  "name": "Estimate weights by feel",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Useful for cooking, luggage and shopping. It works by building a mental library of reference weights and comparing against them.",
+  "gear": [
+    "A kitchen scale and a luggage scale"
+  ],
+  "steps": [
+    "Build reference points: hold a 1 kg bag of sugar, a 5 kg weight and a 10 kg one until each is familiar.",
+    "Practise in the kitchen: guess the weight of every ingredient before it goes on the scale.",
+    "Learn density cues — the same size in metal, wood and plastic weighs wildly differently, and volume alone will mislead you.",
+    "Practise with luggage, which is the highest-stakes everyday use, then check on a luggage scale.",
+    "Learn to estimate by lifting in a consistent way: same hand, same posture, brief hold.",
+    "Log guesses and actuals for a fortnight and watch the error shrink."
+  ],
+  "tips": [
+    "Awkward shapes feel heavier than compact ones of the same mass. Correct for it.",
+    "Recalibrate periodically. Your reference sense drifts."
+  ],
+  "proof": "Ten items estimated within 15% of actual weight, across a range of sizes."
+}

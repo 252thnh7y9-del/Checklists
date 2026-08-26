@@ -1,0 +1,25 @@
+{
+  "id": "host-dinner",
+  "name": "Host a dinner party",
+  "time": "2–3 attempts",
+  "level": "Moderate",
+  "blurb": "Hosting is logistics and warmth, not cooking. The best hosts are relaxed because they planned a menu that let them be.",
+  "gear": [
+    "A menu chosen for the cook, not to impress",
+    "Enough plates, glasses and chairs",
+    "A written timeline"
+  ],
+  "steps": [
+    "Choose a menu with at most one dish that needs attention at the last minute. Everything else should be done in advance or unattended.",
+    "Write a reverse timeline from serving time, including when the oven is needed for what — oven clashes are the classic failure.",
+    "Ask about allergies and diets when you invite, not on the night.",
+    "Prep everything possible in advance and lay the table hours early.",
+    "Greet people with a drink in hand within a minute of arrival, and introduce them to each other with a hook, not just a name.",
+    "Eat with your guests. A host who spends the evening in the kitchen has made everyone uncomfortable."
+  ],
+  "tips": [
+    "Attempting a new complicated recipe for guests is the reliable route to a stressful evening.",
+    "People remember the atmosphere far longer than the food."
+  ],
+  "proof": "You host an evening where everything arrives hot, together, and you were at the table for all of it."
+}

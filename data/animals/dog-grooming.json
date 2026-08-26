@@ -1,0 +1,26 @@
+{
+  "id": "dog-grooming",
+  "name": "Groom a dog and trim nails",
+  "time": "4–8 weeks of conditioning",
+  "level": "Moderate",
+  "blurb": "Nail trimming is the routine care task most owners dread and most dogs hate — almost always because it was never introduced gradually. Cooperative care fixes it.",
+  "gear": [
+    "Nail clippers or a grinder",
+    "A brush suited to the coat type",
+    "Styptic powder, in case",
+    "High-value treats"
+  ],
+  "steps": [
+    "Learn cooperative care: build a consent signal, take one paw at a time, and stop the moment the dog withdraws.",
+    "Spend a week just touching paws and rewarding, before any clippers appear.",
+    "Introduce the clippers as a thing that predicts treats, without cutting anything, for several sessions.",
+    "Learn where the quick is — the blood vessel inside the nail — and take small slices rather than one big cut. On dark nails, go a sliver at a time and watch the cut surface.",
+    "Do one nail a day rather than all of them at once, at first.",
+    "Brush regularly to the skin, not just over the top, and learn your dog’s coat type and what it needs."
+  ],
+  "tips": [
+    "Cutting the quick hurts and bleeds, and one bad experience can create years of nail-trim fear. Go slowly.",
+    "Nails that click on the floor are too long. Regular small trims beat occasional big ones."
+  ],
+  "proof": "Your dog stands calmly for a full nail trim and grooming session without restraint."
+}

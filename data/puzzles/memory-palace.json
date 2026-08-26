@@ -1,0 +1,23 @@
+{
+  "id": "memory-palace",
+  "name": "Learn the memory palace technique",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "The method of loci is 2,000 years old and still the most effective memory tool there is: you attach what you want to remember to places you already know by heart.",
+  "gear": [
+    "A place you know extremely well"
+  ],
+  "steps": [
+    "Choose a building you can walk through in your mind and fix a route with 10 to 20 stations, always in the same order.",
+    "Walk it physically once, saying each station out loud, then walk it in your head until the order is automatic.",
+    "Take a 10-item list and turn each item into an exaggerated image interacting with its station — not sitting there, but breaking, burning or blocking it.",
+    "Recall by walking the route mentally. Recall it backwards too; that proves the route is solid rather than a chain.",
+    "Build a second and third palace so you can retire one for a few days between uses.",
+    "Apply it to something real: a speech outline, a shopping list, a set of names."
+  ],
+  "tips": [
+    "Stations should be distinct. Four identical chairs in a row will blur into one.",
+    "Odd, rude and funny images stick. Sensible ones evaporate."
+  ],
+  "proof": "You hear a 20-item list once and repeat it in order, then backwards."
+}

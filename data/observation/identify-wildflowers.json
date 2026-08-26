@@ -1,0 +1,25 @@
+{
+  "id": "identify-wildflowers",
+  "name": "Identify wildflowers",
+  "time": "A season",
+  "level": "Easy",
+  "blurb": "Learning thirty local wildflowers changes every walk you take for the rest of your life, and it is the gateway into understanding habitats.",
+  "gear": [
+    "A regional flora or a good app",
+    "A hand lens",
+    "A notebook"
+  ],
+  "steps": [
+    "Learn to see the structures a key asks about: petal number, symmetry, leaf arrangement, whether leaves are opposite or alternate.",
+    "Learn the big families first — daisy, pea, carrot, mint, cabbage — because family recognition narrows things enormously.",
+    "Learn what grows where: chalk grassland, acid heath, woodland floor and roadside verge each have their own cast.",
+    "Record what you find with date and place. Flowering time is itself an identification clue.",
+    "Use an app to check yourself, but key it out first — the app teaches you nothing if you lead with it.",
+    "Revisit the same patch monthly through a year to see succession."
+  ],
+  "tips": [
+    "Picking wildflowers is restricted or illegal in many places, and pointless for rare species. Photograph instead.",
+    "The carrot family contains both harmless and deadly plants that look similar. Look, do not taste."
+  ],
+  "proof": "You name thirty local species on sight and can predict what you will find in a given habitat."
+}

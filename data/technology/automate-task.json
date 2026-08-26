@@ -1,0 +1,26 @@
+{
+  "id": "automate-task",
+  "name": "Automate a repetitive task with a short script",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Pick one annoying manual chore and make it a script. This is where programming stops being abstract, because the payoff is immediate and personal.",
+  "gear": [
+    "Python, or your shell",
+    "A text editor",
+    "One genuinely repetitive task you do"
+  ],
+  "steps": [
+    "Choose a real task: renaming files in bulk, resizing images, merging spreadsheets, downloading a report every week.",
+    "Write down the manual steps precisely, in order. Automating something you cannot describe is impossible.",
+    "Learn just enough of one language: variables, loops, conditionals, file operations and one library.",
+    "Write the script for one file or one item first, then wrap it in a loop.",
+    "Add safety: print what it would do before doing it, and test on copies rather than originals.",
+    "Run it for real, then improve it the next time it annoys you."
+  ],
+  "tips": [
+    "Always dry-run first. A script that renames files wrongly does it to all of them instantly.",
+    "Work on copies until you trust it. Version control or a backup counts as trust.",
+    "Do not over-engineer. A 20-line script that works beats a configurable tool you never finish."
+  ],
+  "proof": "A script you actually use that saves you real time each week."
+}

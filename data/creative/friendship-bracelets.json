@@ -1,0 +1,25 @@
+{
+  "id": "friendship-bracelets",
+  "name": "Make friendship bracelets",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Two knots — forward and backward — produce every classic pattern. It is a portable, cheap craft with quick visible results.",
+  "gear": [
+    "Embroidery floss in several colours",
+    "Tape or a clipboard to anchor the work",
+    "Scissors"
+  ],
+  "steps": [
+    "Learn the forward knot and the backward knot. Every pattern is a sequence of these two.",
+    "Make a candy-stripe bracelet: all forward knots, which teaches consistent tension.",
+    "Make a chevron, which introduces working from both sides towards the middle.",
+    "Learn to read a pattern chart, where each cell tells you which knot to tie.",
+    "Learn tension control — the most common beginner problem is knots that vary in tightness and make the bracelet curl.",
+    "Learn to finish with a braid and a loop, or a sliding knot closure."
+  ],
+  "tips": [
+    "Anchor the work firmly. Loose anchoring is why tension wanders.",
+    "Cut the strands much longer than seems necessary — about four times the finished length per strand."
+  ],
+  "proof": "Three bracelets in different patterns, with even tension and a proper closure."
+}

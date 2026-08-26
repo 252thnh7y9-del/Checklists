@@ -1,0 +1,25 @@
+{
+  "id": "record-a-demo",
+  "name": "Record a simple song",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Multitracking a song on a laptop or phone. The gear matters far less than the source: a good performance recorded simply beats a bad one recorded expensively.",
+  "gear": [
+    "Free DAW software, or a phone multitrack app",
+    "A USB microphone or an audio interface",
+    "Headphones — speakers cause feedback and bleed"
+  ],
+  "steps": [
+    "Set up a click track first and record to it, so parts line up.",
+    "Record the foundation part — usually rhythm guitar or piano — all the way through before adding anything.",
+    "Set levels so the loudest part peaks around -12 dB, leaving headroom. Recording too hot cannot be undone.",
+    "Layer parts one at a time, listening back after each, and re-record rather than fixing bad takes endlessly.",
+    "Learn basic mixing: balance first, then panning, then EQ, then a little compression and reverb.",
+    "Leave it overnight and listen again before deciding it is finished. Fresh ears hear everything."
+  ],
+  "tips": [
+    "Room sound is what makes home recordings sound amateur. Record in a soft, furnished space, or make a blanket fort.",
+    "Fix performance problems by performing again, not with plugins."
+  ],
+  "proof": "A finished multitrack song you would happily send to a friend."
+}

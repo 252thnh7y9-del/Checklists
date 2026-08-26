@@ -1,0 +1,26 @@
+{
+  "id": "develop-film",
+  "name": "Develop black and white film",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Home development needs no darkroom — just a changing bag and a tank. It costs little, takes half an hour, and the moment you unroll your own negatives is genuinely thrilling.",
+  "gear": [
+    "A developing tank and reels",
+    "A changing bag",
+    "Developer, stop bath or water, and fixer",
+    "A thermometer and a timer"
+  ],
+  "steps": [
+    "Practise loading the reel with a sacrificial roll in daylight, then with your eyes closed, before doing it for real.",
+    "Load the film into the tank inside a changing bag. Everything after this is done in daylight.",
+    "Mix chemicals to the right dilution and get them to temperature — 20 °C is standard and a couple of degrees matters.",
+    "Develop for the time specified for that film and developer combination, agitating on a fixed schedule.",
+    "Stop, then fix for the full time, then wash thoroughly — inadequate washing means the negatives fade within years.",
+    "Add a wetting agent, hang to dry somewhere dust-free, then scan or print."
+  ],
+  "tips": [
+    "A film touching itself on the reel gives clear undeveloped patches. Loading practice is what prevents it.",
+    "Wear gloves and ventilate. Photographic chemicals are irritants, and fixer must not go down the drain in some areas — check local disposal rules."
+  ],
+  "proof": "A properly exposed, evenly developed roll of your own negatives with no loading marks."
+}

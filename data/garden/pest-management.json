@@ -1,0 +1,25 @@
+{
+  "id": "pest-management",
+  "name": "Deal with garden pests without spraying",
+  "time": "A season",
+  "level": "Moderate",
+  "blurb": "Identify first, then act proportionately. Most pest panic leads to spraying something that kills the predators along with the pest and makes next year worse.",
+  "gear": [
+    "A hand lens",
+    "A hose",
+    "Physical barriers: fleece, copper tape, collars"
+  ],
+  "steps": [
+    "Identify what you actually have before doing anything. Half of suspected pests are harmless or already being eaten.",
+    "Learn the main offenders in your area — aphids, slugs, cabbage white caterpillars, vine weevil — and their natural predators.",
+    "Use physical barriers first: netting for brassicas, fleece for carrot fly, collars for cabbages.",
+    "Encourage predators with flowers, a pond and undisturbed corners. Ladybirds and birds do more than you can.",
+    "Deal with aphids with a strong jet of water and patience; they collapse once predators arrive.",
+    "Accept some damage. A garden with zero pests has no predators either."
+  ],
+  "tips": [
+    "Broad-spectrum sprays kill pollinators and predators, and pests rebound faster than their predators do.",
+    "Slug pellets containing metaldehyde are banned in many places and harm wildlife. Use barriers, traps or nematodes."
+  ],
+  "proof": "You get a crop through a season with barriers and predators rather than sprays."
+}

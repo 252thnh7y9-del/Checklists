@@ -1,0 +1,25 @@
+{
+  "id": "golf-putting",
+  "name": "Learn to putt",
+  "time": "4–8 weeks",
+  "level": "Moderate",
+  "blurb": "Around 40% of golf shots are putts, and it is the part of the game an amateur can most easily make good. Distance control matters more than line.",
+  "gear": [
+    "A putter that fits your height",
+    "A practice mat, or a green",
+    "Alignment aids or two clubs on the ground"
+  ],
+  "steps": [
+    "Set up consistently: eyes over the ball, shoulders square to the target line, ball slightly forward of centre.",
+    "Learn the stroke as a pendulum from the shoulders, with quiet hands and wrists.",
+    "Work on distance control first with a ladder drill — putts to 3, 6 and 9 metres — since three-putts come from distance, not line.",
+    "Practise short putts to build the habit of holing out, using a gate of two tees just wider than the putter head.",
+    "Learn to read green slope by looking from behind the ball and from the low side.",
+    "Learn to commit: pick a line, trust it, and never decelerate through the ball."
+  ],
+  "tips": [
+    "Decelerating into the ball is the commonest fault and causes pushes and pulls alike.",
+    "Most amateurs leave putts short. Aim to finish a foot past the hole."
+  ],
+  "proof": "You two-putt from 10 metres nine times out of ten, and hole out consistently from 1.5 metres."
+}

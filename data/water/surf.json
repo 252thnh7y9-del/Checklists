@@ -1,0 +1,26 @@
+{
+  "id": "surf",
+  "name": "Learn to surf",
+  "time": "A season",
+  "level": "Hard",
+  "blurb": "Standing up is the easy part. Surfing is mostly paddling fitness, wave reading and positioning — expect several sessions before a clean ride, and take a lesson so you learn the safety rules from someone who knows the break.",
+  "gear": [
+    "A big soft-top board, 8 ft or more — small boards make learning far harder",
+    "A wetsuit for cold water",
+    "A lesson at a beginner-friendly beach"
+  ],
+  "steps": [
+    "Learn the safety rules first: rip currents, how to fall flat rather than dive, never surface head-first, and never let the board come between you and a wave.",
+    "Learn the etiquette: the surfer closest to the peak has right of way, do not drop in, do not paddle through the takeoff zone.",
+    "Practise the pop-up on dry land until it is one movement — chest up, feet under you, no knees.",
+    "Start in white water on a big board, catching broken waves straight to the beach until standing is automatic.",
+    "Learn to paddle properly: lie centred so the nose is a few centimetres clear, and paddle deep and long.",
+    "Move to unbroken green waves only once you can pop up reliably, and learn to read where the wave will break."
+  ],
+  "tips": [
+    "Being too far back on the board makes it impossible to catch anything; too far forward and you nosedive.",
+    "Paddling fitness is the real limit for beginners. Swim between sessions.",
+    "Learn to identify a rip before you enter the water, at every new beach."
+  ],
+  "proof": "You paddle out, catch an unbroken wave, pop up and ride it along the face to the end."
+}

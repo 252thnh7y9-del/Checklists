@@ -1,0 +1,25 @@
+{
+  "id": "sing-in-tune",
+  "name": "Learn to sing in tune",
+  "time": "4–12 weeks",
+  "level": "Moderate",
+  "blurb": "Genuine tone deafness is rare — a few percent of people. Almost everyone who says they cannot sing has simply never trained the loop between hearing a pitch and producing it.",
+  "gear": [
+    "A tuner app with a pitch display",
+    "A keyboard or piano app",
+    "Somewhere you feel comfortable being heard"
+  ],
+  "steps": [
+    "Test yourself honestly: play a note and try to match it. If you can hear that you are off, you are not tone deaf.",
+    "Practise matching single pitches against a keyboard, watching a tuner for immediate feedback.",
+    "Find your comfortable range before anything else — most people fail by trying to sing songs pitched for someone else.",
+    "Learn to support with breath from the diaphragm rather than pushing from the throat.",
+    "Practise sliding between two notes and stopping accurately on the target.",
+    "Record yourself regularly. Your voice sounds different in your head, and the recording is the honest version."
+  ],
+  "tips": [
+    "Straining for high notes is almost always a sign to change key rather than to push harder.",
+    "A few lessons with a teacher fixes in an hour what months of solo practice may not."
+  ],
+  "proof": "You sing a full song in tune, verified by a recording or a tuner, comfortably in your own range."
+}

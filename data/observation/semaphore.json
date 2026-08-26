@@ -1,0 +1,24 @@
+{
+  "id": "semaphore",
+  "name": "Learn semaphore basics",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Flag positions for each letter, based on a clock face. Almost obsolete, quick to learn, and a genuinely charming party trick at distance.",
+  "gear": [
+    "Two flags, or two brightly coloured cloths",
+    "A friend at a distance"
+  ],
+  "steps": [
+    "Learn the eight arm positions, thought of as clock positions, and how each pair of positions maps to a letter.",
+    "Learn the alphabet in the standard circles: letters A to G use one arm low, and each subsequent circle moves the reference arm.",
+    "Learn the control signals: attention, error, numerals and end of message.",
+    "Practise spelling your name and short words in front of a mirror.",
+    "Practise sending to a partner at 50 metres, and then receiving.",
+    "Build speed until you can send a short sentence without pausing to think."
+  ],
+  "tips": [
+    "Crisp, held positions read far better at distance than fast sloppy ones.",
+    "Contrast matters. Dark flags against a dark background are unreadable."
+  ],
+  "proof": "You send and receive a short message with a partner at 100 metres."
+}

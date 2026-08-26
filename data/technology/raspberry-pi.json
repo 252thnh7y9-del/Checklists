@@ -1,0 +1,25 @@
+{
+  "id": "raspberry-pi",
+  "name": "Set up a Raspberry Pi",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "A cheap computer that turns abstract Linux and networking knowledge into something physical doing a real job in your house.",
+  "gear": [
+    "A Raspberry Pi, power supply and microSD card",
+    "A card imaging tool",
+    "A network connection"
+  ],
+  "steps": [
+    "Flash an OS image to the card, configuring wifi, hostname and SSH before first boot.",
+    "Boot headless and connect over SSH rather than plugging in a monitor.",
+    "Secure it immediately: change the default password, set up key-based SSH, and update everything.",
+    "Give it a job worth doing — network ad blocking, a file server, a media server, a print server or a home automation hub.",
+    "Learn to keep it running: automatic updates, and a backup of the SD card image once it is configured.",
+    "Learn the GPIO pins if you want to attach sensors and physical hardware."
+  ],
+  "tips": [
+    "SD cards fail with constant writes. Back up the image once it works, and consider booting from SSD for anything important.",
+    "Never expose SSH to the internet with password authentication. Use keys, and preferably a VPN."
+  ],
+  "proof": "A Pi doing a genuinely useful job in your home, running unattended for a month."
+}

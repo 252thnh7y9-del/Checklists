@@ -1,0 +1,25 @@
+{
+  "id": "read-garment-pattern",
+  "name": "Read a garment pattern",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "Commercial patterns are written in their own language — ease, grainlines, notches, darts. Learning to read one properly is what unlocks making clothes that actually fit.",
+  "gear": [
+    "A simple pattern for a woven garment",
+    "Measuring tape, tracing paper",
+    "Fabric for a toile, such as cheap calico"
+  ],
+  "steps": [
+    "Measure yourself properly and choose the size from the pattern’s body measurements, not from shop sizing.",
+    "Learn to read the finished-garment measurements and the ease built in — this tells you how it will actually sit.",
+    "Learn the markings: grainline, notches, darts, fold lines, seam allowance.",
+    "Cut on grain. Ignoring the grainline is what makes homemade clothes hang oddly.",
+    "Make a toile in cheap fabric first and fit it, adjusting the pattern rather than the good fabric.",
+    "Learn one or two standard adjustments, such as a full bust adjustment or shortening the bodice."
+  ],
+  "tips": [
+    "Pattern sizes are not shop sizes and usually run several sizes larger. Ignore the number.",
+    "Nobody is standard. The toile is where fit actually happens."
+  ],
+  "proof": "A garment you drafted adjustments for and made, that fits you properly."
+}

@@ -1,0 +1,26 @@
+{
+  "id": "patch-drywall",
+  "name": "Patch a hole in drywall",
+  "time": "2 sessions plus drying",
+  "level": "Moderate",
+  "blurb": "Small holes take filler; anything bigger needs backing. Invisible repairs are 20% filling and 80% feathering and sanding.",
+  "gear": [
+    "Filler or joint compound, and a self-adhesive mesh patch for medium holes",
+    "Taping knives — a small one and a wide one",
+    "Sandpaper, dust sheet, primer and matching paint"
+  ],
+  "steps": [
+    "Assess the hole: under 2 cm, fill it; up to 15 cm, use a mesh patch or a plug of new board; larger, cut back to the studs and screw in a new piece.",
+    "Cut back any loose paper or crumbling edges to a clean, sound opening.",
+    "Apply the backing or patch, then a first thin coat of compound over it, pressing it into the mesh.",
+    "Let it dry fully, then apply a second and third coat, each wider than the last, feathering the edges out well beyond the hole.",
+    "Sand lightly between coats and finally with fine paper, working with a light held at a low angle to reveal high spots.",
+    "Prime the repair before painting, or it will flash a different sheen through the topcoat."
+  ],
+  "tips": [
+    "Thin coats, wide edges. One thick blob is what makes repairs visible forever.",
+    "Skipping primer is the most common reason a good repair still shows through paint.",
+    "Check for pipes and cables before cutting into any wall."
+  ],
+  "proof": "The repaired area is invisible under a raking light after painting."
+}

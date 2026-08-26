@@ -1,0 +1,26 @@
+{
+  "id": "iron-shirt",
+  "name": "Iron a dress shirt",
+  "time": "2–3 sessions",
+  "level": "Easy",
+  "blurb": "An order of operations that takes about five minutes and gives a genuinely crisp result — collar, cuffs, sleeves, yoke, then the body.",
+  "gear": [
+    "An iron with a steam function",
+    "An ironing board",
+    "A spray bottle of water"
+  ],
+  "steps": [
+    "Check the care label and set the correct temperature. Start cooler than you think; you can always go hotter.",
+    "Iron slightly damp, or use steam — dry ironing sets creases rather than removing them.",
+    "Do the collar first: underside then top, working from the points inwards to avoid pushing creases into the tips.",
+    "Do the cuffs next, unbuttoned and flat, inside then out.",
+    "Do the sleeves, aligning the seam and pressing from the shoulder down. Decide deliberately whether you want a crease in the sleeve.",
+    "Do the yoke across the shoulders, then the two front panels and the back, and hang it immediately on a hanger."
+  ],
+  "tips": [
+    "Ironing over buttons breaks them. Work around and between.",
+    "Hang it straight away. Folding a warm shirt reintroduces every crease you just removed.",
+    "Work small sections at a time rather than dragging the iron across the whole shirt."
+  ],
+  "proof": "A shirt with a crisp collar, flat cuffs and no double creases, done in about five minutes."
+}

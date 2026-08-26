@@ -1,0 +1,26 @@
+{
+  "id": "slingshot",
+  "name": "Shoot a slingshot accurately",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "A serious precision instrument, not a toy. Consistent anchor and release give genuinely tight groups at 10 metres, and the equipment costs very little.",
+  "gear": [
+    "A proper slingshot with flat bands",
+    "Steel or clay ammunition suited to the bands",
+    "Safety glasses, always",
+    "A backstop that fully contains ricochets"
+  ],
+  "steps": [
+    "Set up a safe range first: a dense backstop such as a hanging carpet or a purpose-built catch box, a clear area behind it, and nobody downrange.",
+    "Wear eye protection every shot. Band failures and ricochets are the real risk.",
+    "Learn a consistent grip and a fixed anchor point at the corner of your mouth or cheek.",
+    "Learn to aim by reference — either instinctive or using the band and fork as a sight picture — and keep it identical.",
+    "Release cleanly by opening the fingers rather than plucking, which sends shots sideways.",
+    "Inspect the bands before every session and replace them at the first sign of nicks or thinning."
+  ],
+  "tips": [
+    "Fork hits happen when the pouch is released poorly and can injure your hand. Keep a firm, consistent release.",
+    "Check the law where you live: slingshots are restricted or illegal in some jurisdictions, and never shoot at animals."
+  ],
+  "proof": "Ten-shot groups inside a coffee-cup lid at 10 metres."
+}

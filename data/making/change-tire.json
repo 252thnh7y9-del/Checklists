@@ -1,0 +1,26 @@
+{
+  "id": "change-tire",
+  "name": "Change a car tire",
+  "time": "1–2 hours to practise",
+  "level": "Easy",
+  "blurb": "A twenty-minute roadside job that most drivers have never rehearsed. Doing it once in your own driveway is the difference between an inconvenience and a crisis.",
+  "gear": [
+    "Your car’s jack, wrench and spare (find them now)",
+    "A high-vis vest, warning triangle and gloves",
+    "A torch"
+  ],
+  "steps": [
+    "Stop somewhere safe and level, engine off, handbrake on, hazards on, and everyone out of the car and behind a barrier.",
+    "Find the jacking points in your handbook. Jacking on the wrong part of the sill will bend the car.",
+    "Loosen the wheel nuts a half-turn while the wheel is still on the ground — otherwise the wheel just spins.",
+    "Jack until the tyre is just clear of the ground, remove the nuts, and swap the wheel.",
+    "Hand-tighten the nuts in a star pattern, lower the car, then torque them properly in the same star pattern.",
+    "Check the spare’s pressure, note any speed limit for a space-saver, and get the puncture repaired promptly."
+  ],
+  "tips": [
+    "Never get under a car supported only by a jack.",
+    "Re-check the torque after 50 km. Nuts settle.",
+    "Do a full dry run at home. Discovering a seized nut or a missing locking key on the hard shoulder is the worst version of this."
+  ],
+  "proof": "You change a wheel unaided in your driveway in under twenty minutes, torqued correctly."
+}

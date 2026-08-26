@@ -1,0 +1,25 @@
+{
+  "id": "mains-shutoffs",
+  "name": "Shut off water, gas and electricity",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "The five minutes that prevent a flooded house. Almost nobody knows where their stopcock is until water is coming through the ceiling.",
+  "gear": [
+    "A torch",
+    "A stopcock key if yours needs one",
+    "Labels"
+  ],
+  "steps": [
+    "Find the internal water stopcock — commonly under the kitchen sink, in an airing cupboard or under the stairs — and turn it off and on to make sure it actually moves.",
+    "Find the external stop valve too, usually under a small cover at the boundary.",
+    "Find the consumer unit and learn which breaker does what, labelling anything unlabelled.",
+    "Find the gas meter and its emergency control valve, and learn which way turns it off.",
+    "Learn what to do if you smell gas: no switches or flames, open windows, turn off at the meter, get out and call the emergency gas number from outside.",
+    "Label all three, photograph them, and show everyone in the household."
+  ],
+  "tips": [
+    "Seized stopcocks are extremely common. Exercise yours twice a year so it works when you need it.",
+    "Never turn a gas supply back on yourself after an emergency shut-off — that is a job for a registered engineer."
+  ],
+  "proof": "Everyone in the household can find and operate all three in the dark."
+}

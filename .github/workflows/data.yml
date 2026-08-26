@@ -1,0 +1,19 @@
+# js/skills.js is generated from data/ and committed, because GitHub Pages serves
+# the repo as-is with no build step. This catches the one failure mode that
+# introduces: editing the JSON and forgetting to re-run the generator, which
+# would otherwise deploy silently unchanged.
+name: data
+on:
+  push:
+    paths: ['data/**', 'js/skills.js', 'build-data.js']
+  pull_request:
+    paths: ['data/**', 'js/skills.js', 'build-data.js']
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - name: Validate data/ and confirm js/skills.js is up to date
+        run: node build-data.js --check

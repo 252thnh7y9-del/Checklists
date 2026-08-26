@@ -1,0 +1,25 @@
+{
+  "id": "unclog-drain",
+  "name": "Unclog a drain",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Mechanical removal works and is free; caustic chemicals often do not work, damage pipes and make the eventual plumber’s job dangerous.",
+  "gear": [
+    "A plunger — the right type for sink or toilet",
+    "A drain snake or a plastic hair-removal strip",
+    "A bucket and gloves"
+  ],
+  "steps": [
+    "Identify the scope: one slow fixture is a local blockage, several at once suggests the main drain and may need a professional.",
+    "Remove and clean the trap or the pop-up waste first — most bathroom sink blockages are hair right at the top.",
+    "Plunge properly: block the overflow, ensure water covers the plunger cup, and use firm repeated strokes rather than one big push.",
+    "If plunging fails, remove the U-bend into a bucket and clean it out directly.",
+    "Use a drain snake for blockages further along, feeding and rotating rather than forcing.",
+    "Prevent recurrence with strainers, and never pour fat or oil down a sink."
+  ],
+  "tips": [
+    "Caustic drain cleaner sitting in a pipe you then open is a serious burn risk. Try mechanical methods first.",
+    "Never use a plunger after a chemical cleaner — splashback of caustic liquid is genuinely dangerous."
+  ],
+  "proof": "A free-running drain you cleared yourself, with the trap cleaned rather than chemically dosed."
+}

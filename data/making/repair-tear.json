@@ -1,0 +1,25 @@
+{
+  "id": "repair-tear",
+  "name": "Repair a small tear in clothing",
+  "time": "2–3 hours",
+  "level": "Easy",
+  "blurb": "Two techniques — the ladder stitch for seams and a darn or patch for holes — will rescue most damaged clothes, and can be done invisibly with a little care.",
+  "gear": [
+    "Needle, matching thread",
+    "Iron-on interfacing or a scrap of similar fabric",
+    "Small sharp scissors"
+  ],
+  "steps": [
+    "Identify the damage: a split seam, a tear in the body of the fabric, or a worn-through hole. Each needs a different fix.",
+    "For a split seam, use a ladder stitch from the right side: small stitches alternating along each folded edge, then pulled tight so the thread disappears.",
+    "For a tear, back it with iron-on interfacing or a fabric scrap and stitch across the tear in small, close rows.",
+    "For a hole in a knit, darn it: run parallel threads across the hole, then weave perpendicular threads over and under.",
+    "Match thread colour carefully and work in good light — this is where invisible repairs are won.",
+    "Press the finished repair, which flattens and hides the stitches."
+  ],
+  "tips": [
+    "Stabilise first. Sewing a tear closed without backing puckers the fabric and tears again next to the repair.",
+    "Work from the wrong side wherever you can."
+  ],
+  "proof": "You repair a real garment and someone has to be told where the damage was."
+}

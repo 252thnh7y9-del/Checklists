@@ -1,0 +1,24 @@
+{
+  "id": "use-aed",
+  "name": "Use a defibrillator",
+  "time": "Part of a first aid course",
+  "level": "Easy",
+  "blurb": "An AED talks you through it out loud and will not shock someone who does not need it. The barrier is purely psychological — knowing that beforehand is most of the skill.",
+  "gear": [
+    "A first aid course covering AED use",
+    "Awareness of where the AEDs are near your home and work"
+  ],
+  "steps": [
+    "Learn where your nearest public AEDs are, and that emergency services can tell you on the phone.",
+    "Learn the principle: it analyses the heart rhythm and only delivers a shock if one is needed. You cannot hurt someone with it by mistake.",
+    "Turn it on first and then follow the spoken instructions exactly — that is the whole operating procedure.",
+    "Learn pad placement, and the practical points: dry the chest, shave heavy hair if a razor is included, remove medication patches.",
+    "Learn to make sure nobody is touching the person when it says to stand clear.",
+    "Resume compressions immediately after the shock, without waiting to see what happens."
+  ],
+  "tips": [
+    "Never delay compressions to go looking for an AED alone. Send someone else.",
+    "Do not use it in standing water, and dry the chest first."
+  ],
+  "proof": "You can locate your three nearest public AEDs and talk someone through using one."
+}

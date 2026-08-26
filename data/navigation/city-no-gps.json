@@ -1,0 +1,24 @@
+{
+  "id": "city-no-gps",
+  "name": "Navigate a city without GPS",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Building a mental map of a place: landmarks, the grid or the river, cardinal directions, and the confidence to walk somewhere new without a blue dot.",
+  "gear": [
+    "A paper city map",
+    "Curiosity and comfortable shoes"
+  ],
+  "steps": [
+    "Learn the skeleton first: the main axes, the river, the ring road, the rail lines. Every city has a few organising features.",
+    "Learn to keep a cardinal orientation, using the sun, prominent landmarks or the street numbering system.",
+    "Learn the local addressing logic: many cities number buildings or name streets in a systematic way that tells you where you are.",
+    "Study the map before you leave, memorise the route as a sequence of turns and landmarks, then walk it without checking.",
+    "Practise deliberately getting slightly lost and finding your way back without the phone.",
+    "Learn to ask for directions well: ask two people, and ask for landmarks rather than street names."
+  ],
+  "tips": [
+    "Look behind you as you walk. The return journey looks completely different.",
+    "Landmarks beat street names for navigation, and they survive being lost."
+  ],
+  "proof": "You walk to three unfamiliar destinations in a new city with no phone, arriving without backtracking."
+}

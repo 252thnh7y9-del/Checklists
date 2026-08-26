@@ -1,0 +1,24 @@
+{
+  "id": "mahjong",
+  "name": "Learn mahjong basics",
+  "time": "3–5 weeks",
+  "level": "Moderate",
+  "blurb": "Four players, 144 tiles and a genuinely deep game underneath the tile-matching apps that share its name. The barrier is the vocabulary, not the difficulty.",
+  "gear": [
+    "A mahjong set, or an app with the full rules",
+    "Three other players"
+  ],
+  "steps": [
+    "Pick a ruleset and stick to it — Riichi, Hong Kong and American mahjong differ substantially.",
+    "Learn the tiles: three suits, winds, dragons, and how a standard winning hand is built from four sets and a pair.",
+    "Learn the flow of a hand: drawing, discarding, and calling tiles from other players.",
+    "Learn the common scoring patterns, which is where the strategy lives.",
+    "Learn defensive discarding — reading what other players are collecting from their discards.",
+    "Play with experienced players, who will teach you far faster than any book."
+  ],
+  "tips": [
+    "The tile-matching solitaire game shares only the tiles. This is a completely different thing.",
+    "Riichi mahjong has the best learning resources in English if you have no local group."
+  ],
+  "proof": "You play a full four-player game, score your own hands correctly and discard defensively."
+}

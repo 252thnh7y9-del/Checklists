@@ -1,0 +1,24 @@
+{
+  "id": "tune-by-ear",
+  "name": "Tune a guitar by ear",
+  "time": "1 week",
+  "level": "Moderate",
+  "blurb": "A small ear-training win with an obvious payoff: you can tune anywhere, and along the way you learn to hear beats between two close pitches.",
+  "gear": [
+    "A guitar",
+    "A reference pitch: a tuning fork, another instrument, or one app note"
+  ],
+  "steps": [
+    "Tune the low E to a reference pitch, matching it by ear, then verify once with a tuner.",
+    "Use the fifth-fret method: fifth fret of E matches open A, fifth of A matches open D, fifth of D matches open G, fourth fret of G matches open B, fifth of B matches open E.",
+    "Learn to hear the beating — the wobble between two nearly-identical pitches — and tune until it slows to nothing.",
+    "Check with harmonics at the fifth and seventh frets for a second opinion.",
+    "Cross-check with chords: a G and an E chord will expose errors the string method hid.",
+    "Always tune upward to the pitch, so the string settles rather than slips."
+  ],
+  "tips": [
+    "Small errors compound down the strings. Check with chords at the end, every time.",
+    "The beating is the real signal. Once you hear it you cannot un-hear it."
+  ],
+  "proof": "You tune from a single reference pitch and a tuner then confirms every string within a few cents."
+}

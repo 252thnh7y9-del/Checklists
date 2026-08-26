@@ -1,0 +1,24 @@
+{
+  "id": "diabolo",
+  "name": "Learn diabolo",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A spinning spool on a string between two sticks. The first hour is frustrating and then it becomes one of the most satisfying object-manipulation skills there is.",
+  "gear": [
+    "A diabolo with a decent bearing and two handsticks",
+    "A high ceiling, or outdoors"
+  ],
+  "steps": [
+    "Learn to start it rolling on the floor from right to left, then lift it onto the string.",
+    "Learn to accelerate with small, quick tugs of the right stick rather than big sweeps.",
+    "Fix the tilt: a diabolo leaning away from you is corrected by moving the right stick forward, and vice versa. Getting this reflex is the whole beginner battle.",
+    "Learn to keep it spinning fast — almost every trick fails because of insufficient speed.",
+    "Learn the first tricks: a simple throw and catch, then the trapeze.",
+    "Learn to wrap the string for a grind or a suicide once the basics are stable."
+  ],
+  "tips": [
+    "Slow spin is the cause of most failures. Accelerate more than feels necessary before attempting anything.",
+    "Practise outdoors or somewhere with a high ceiling and nothing breakable."
+  ],
+  "proof": "You accelerate from a cold start, hold it stable for a minute, and land three distinct tricks."
+}

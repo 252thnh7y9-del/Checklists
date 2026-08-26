@@ -1,0 +1,24 @@
+{
+  "id": "memorise-poem",
+  "name": "Memorise a poem",
+  "time": "1–3 weeks",
+  "level": "Easy",
+  "blurb": "A portable pleasure and excellent memory training. A poem learned properly stays for decades and is there on a walk, in a waiting room, or at a funeral.",
+  "gear": [
+    "A poem you actually love, 20–40 lines",
+    "A printed copy"
+  ],
+  "steps": [
+    "Choose something you genuinely like. You will read it several hundred times.",
+    "Read it aloud several times to get the sense and the music before trying to memorise anything.",
+    "Learn it in chunks, adding one line at a time and always reciting from the beginning.",
+    "Use the structure: rhyme, metre and imagery are memory aids the poet built in for you.",
+    "Practise at spaced intervals — the next day, three days later, a week later — rather than cramming.",
+    "Recite it to another person, which is a completely different and much harder skill than reciting alone."
+  ],
+  "tips": [
+    "The middle is where you will stumble. Give it dedicated passes rather than always starting from line one.",
+    "Understanding the poem properly makes it dramatically easier to hold."
+  ],
+  "proof": "You recite it start to finish, from memory, to another person, without prompting."
+}

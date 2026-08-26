@@ -1,0 +1,24 @@
+{
+  "id": "dominoes",
+  "name": "Learn dominoes properly",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Not just matching numbers. Real dominoes — fives-and-threes, or a block game — involves counting, blocking and reading what your opponent cannot play.",
+  "gear": [
+    "A double-six or double-nine set",
+    "Opponents"
+  ],
+  "steps": [
+    "Learn one proper scoring game rather than the children’s matching version — fives-and-threes is the classic.",
+    "Learn to track which numbers have been played and how many of each remain.",
+    "Learn to watch what your opponent passes on: it tells you exactly which suits they lack.",
+    "Learn blocking play — closing the game when you hold fewer pips than your opponent.",
+    "Learn to manage your hand so you keep options rather than being forced to knock.",
+    "Play regularly with the same opponents and learn their habits."
+  ],
+  "tips": [
+    "Counting what has gone is the whole skill. Players who do it beat players who do not, consistently.",
+    "Holding a double too long is a common way to get stuck with it."
+  ],
+  "proof": "You win consistently against casual players and can say what your opponent is holding late in a hand."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "beekeeping-basics",
+  "name": "Learn beekeeping basics",
+  "time": "A course, then a season",
+  "level": "Hard",
+  "blurb": "Keeping bees is a genuine commitment with real responsibilities — disease reporting, swarm control and neighbours. Start with a local association, not a mail-order hive.",
+  "gear": [
+    "A local beekeeping association course",
+    "Full suit, smoker and hive tool",
+    "A hive, and a legal, sensible location"
+  ],
+  "steps": [
+    "Join a local association and get a mentor before buying anything. Beekeeping is learned at the side of an experienced keeper.",
+    "Learn the colony: queen, workers, drones, the brood cycle and what a healthy frame looks like.",
+    "Learn to open a hive calmly: smoke lightly, move slowly, and keep inspections short.",
+    "Learn to spot the queen, or at least eggs, and to read the frames for stores and brood pattern.",
+    "Learn swarm control, which is your responsibility to your neighbours as much as to the colony.",
+    "Learn the notifiable diseases and pests in your region and your legal obligations to report them."
+  ],
+  "tips": [
+    "Bees need year-round management and winter feeding. They are livestock, not an ornament.",
+    "Check for allergy in your household before starting, and never site a hive where the flight path crosses a neighbour’s garden."
+  ],
+  "proof": "You take a colony through a full season under mentorship, including a successful overwintering."
+}

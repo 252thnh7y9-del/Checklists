@@ -1,0 +1,26 @@
+{
+  "id": "git-basics",
+  "name": "Learn basic Git and version control",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Commit, branch, merge, push. Git is confusing mainly because people learn the commands without the model — learn the model first and it becomes straightforward.",
+  "gear": [
+    "Git installed",
+    "A GitHub or GitLab account",
+    "A real project, even a folder of notes"
+  ],
+  "steps": [
+    "Learn the model: working directory, staging area, local repository and remote. Almost every confusing Git moment is a question of which of these four you are in.",
+    "Learn the daily loop: status, add, commit, push, pull — and write commit messages that explain why, not what.",
+    "Learn branching and merging by working on a feature branch and merging it back.",
+    "Learn to read history: log, diff and blame, which is where Git actually pays you back.",
+    "Learn to resolve a merge conflict deliberately by creating one on purpose in a scratch repository.",
+    "Learn the recovery commands — restore, revert, reflog — so mistakes stop being frightening."
+  ],
+  "tips": [
+    "Commit early and often. Small commits are easier to understand and to undo.",
+    "Never force-push to a shared branch. It rewrites history other people depend on.",
+    "Almost nothing committed is ever truly lost. The reflog has rescued everyone at least once."
+  ],
+  "proof": "You manage a real project with branches, resolve a conflict calmly, and recover from a mistake using the reflog."
+}

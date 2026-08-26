@@ -1,0 +1,25 @@
+{
+  "id": "knots",
+  "name": "Learn 10–15 useful knots",
+  "time": "1–3 weeks",
+  "level": "Easy",
+  "blurb": "A well-chosen dozen covers a lifetime: a loop, a hitch, a bend, a friction knot and a couple of specialists. The skill is in choosing the right one and tying it under pressure.",
+  "gear": [
+    "Two lengths of 6–8 mm rope, different colours, about two metres each",
+    "A rail or post to tie to"
+  ],
+  "steps": [
+    "Loops: bowline, figure-eight on a bight, alpine butterfly.",
+    "Hitches: clove hitch, two half hitches, taut-line hitch, timber hitch, trucker’s hitch for tensioning.",
+    "Bends for joining ropes: sheet bend (works with unequal thicknesses), double fisherman’s.",
+    "Stoppers and specials: figure-eight stopper, prusik, constrictor, and a quick-release highwayman’s hitch.",
+    "Learn each one in three passes: watch, tie slowly ten times, then tie it while talking about something else.",
+    "Use them for real — guy lines, roof racks, washing lines — because context is what makes them stick."
+  ],
+  "tips": [
+    "Learn what each knot is for and how it fails, not just the shape. A bowline is not a climbing anchor by itself.",
+    "Dress and set every knot: neat, no crossed strands, tightened evenly.",
+    "A knot you can only tie in one orientation is not learned yet."
+  ],
+  "proof": "You tie all fifteen from memory in under five minutes, and pick the right knot for three real tasks."
+}

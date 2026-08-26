@@ -1,0 +1,26 @@
+{
+  "id": "hand-stitching",
+  "name": "Learn basic hand stitching",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Five stitches cover nearly all hand sewing: running, backstitch, whip, slip and blanket. Once you have them, most clothing repairs become a ten-minute job.",
+  "gear": [
+    "Assorted needles",
+    "Thread in a few basic colours",
+    "Scrap fabric",
+    "A thimble"
+  ],
+  "steps": [
+    "Learn to thread a needle, knot the end and manage thread length — too long and it tangles constantly.",
+    "Learn the running stitch for gathering and basting, keeping the stitch length even.",
+    "Learn the backstitch, the strong one, which is what you use where a seam must hold.",
+    "Learn the whip stitch for joining two edges, and the slip or ladder stitch for closing a seam invisibly.",
+    "Learn the blanket stitch for finishing raw edges decoratively.",
+    "Practise each on scrap fabric until the stitches are the same size, then do a real repair."
+  ],
+  "tips": [
+    "Even stitch length is what makes hand sewing look professional. Slow down.",
+    "Use a thimble properly; it doubles the force you can apply through heavy fabric."
+  ],
+  "proof": "You complete a real garment repair using at least three different stitches, chosen appropriately."
+}

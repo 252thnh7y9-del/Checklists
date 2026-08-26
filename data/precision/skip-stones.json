@@ -1,0 +1,24 @@
+{
+  "id": "skip-stones",
+  "name": "Skip a stone five or more times",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "A physics problem you can solve on any beach: the right stone, roughly a 20-degree angle, plenty of spin, and a low fast throw.",
+  "gear": [
+    "Flat stones, 5–8 cm, roughly triangular",
+    "Calm water"
+  ],
+  "steps": [
+    "Select properly: flat, smooth, palm-sized and reasonably heavy. Stone selection is half the skill.",
+    "Grip with the index finger hooked around the edge and the thumb on top, which is what lets you impart spin.",
+    "Crouch low so the release is close to the water, and throw sidearm rather than overhand.",
+    "Release at about 20 degrees to the water — the angle matters more than the speed.",
+    "Snap the wrist hard on release. Spin is what stabilises the stone across bounces.",
+    "Adjust one variable at a time until you find the combination that works on that water."
+  ],
+  "tips": [
+    "Too steep an angle and it dives on the first bounce; too flat and it just skids and stops.",
+    "Choppy water makes it nearly impossible. Wait for calm."
+  ],
+  "proof": "Five or more skips, repeatably, on calm water."
+}

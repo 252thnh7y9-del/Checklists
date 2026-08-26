@@ -1,0 +1,25 @@
+{
+  "id": "grow-tomatoes",
+  "name": "Grow tomatoes",
+  "time": "A season",
+  "level": "Moderate",
+  "blurb": "The classic first crop, and genuinely worth it — a home-grown tomato tastes nothing like a supermarket one. It needs sun, consistent water and a bit of discipline about side shoots.",
+  "gear": [
+    "Seeds or young plants",
+    "Large pots or a grow bag, plus canes",
+    "Tomato feed high in potassium"
+  ],
+  "steps": [
+    "Know which type you have: cordon (indeterminate) plants need side-shooting and support; bush (determinate) types do not.",
+    "Plant deeply — tomatoes root from their buried stems, which makes for a sturdier plant.",
+    "Give them the sunniest spot you have, and a big enough container; small pots dry out and stress the plant.",
+    "Water consistently. Erratic watering causes blossom end rot and split fruit far more often than any disease.",
+    "For cordons, pinch out the side shoots that appear between the main stem and each leaf, weekly.",
+    "Start feeding with a high-potassium feed once the first truss sets, and stop the plant after four or five trusses outdoors."
+  ],
+  "tips": [
+    "Blossom end rot is a calcium-uptake problem caused by irregular watering, not a disease.",
+    "Blight strikes outdoor tomatoes in warm wet weather. Grow blight-resistant varieties or keep them under cover."
+  ],
+  "proof": "A crop you actually eat, from plants you raised, without losing them to blight or split fruit."
+}

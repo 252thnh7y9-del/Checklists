@@ -1,0 +1,27 @@
+{
+  "id": "carve-spoon",
+  "name": "Carve a simple wooden spoon",
+  "time": "2–3 weekends",
+  "level": "Moderate",
+  "blurb": "The classic green-woodworking project: an axe, a knife and a hook knife turn a branch into something you eat with every day.",
+  "gear": [
+    "A small carving axe",
+    "A sloyd knife and a hook knife",
+    "Green wood: birch, cherry, sycamore",
+    "A strop"
+  ],
+  "steps": [
+    "Choose green wood, which cuts far more easily than seasoned timber, and split a blank along the grain rather than sawing across it.",
+    "Draw the spoon on the blank, aligning the bowl with the grain, and axe out the rough profile.",
+    "Refine the outside with the sloyd knife, working with the grain and using the four basic carving grips.",
+    "Hollow the bowl with the hook knife, cutting in from both sides towards the middle rather than gouging in one direction.",
+    "Refine the crank — the bend between handle and bowl — which is what makes a spoon comfortable to use.",
+    "Let it dry slowly in a paper bag, then finish with a final knife pass or fine sanding and food-safe oil."
+  ],
+  "tips": [
+    "Drying too fast splits the bowl. A paper bag for a week slows it down.",
+    "Sharp tools do the work. Strop constantly; a blunt hook knife is dangerous and exhausting.",
+    "Cut with the grain, always. Tear-out in the bowl is very hard to fix."
+  ],
+  "proof": "A spoon you actually use daily, comfortable in the hand and free of splits."
+}

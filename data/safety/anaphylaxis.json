@@ -1,0 +1,24 @@
+{
+  "id": "anaphylaxis",
+  "name": "Recognise and respond to anaphylaxis",
+  "time": "1–2 hours",
+  "level": "Moderate",
+  "blurb": "A severe allergic reaction kills within minutes and adrenaline reverses it. If anyone in your life carries an auto-injector, you should know how to use it.",
+  "gear": [
+    "A trainer auto-injector, usually available free from the manufacturer",
+    "A first aid course"
+  ],
+  "steps": [
+    "Learn the signs: swelling of face, lips or throat, difficulty breathing, wheeze, sudden widespread rash, collapse, sense of impending doom.",
+    "Learn that skin symptoms may be absent — breathing or circulation problems after an exposure are enough.",
+    "Use the auto-injector immediately into the outer thigh, through clothing if needed. Delay is the main cause of death.",
+    "Call emergency services immediately after, every time, even if they improve.",
+    "Lie them flat with legs raised, or sit them up if breathing is the main problem. Never stand them up suddenly.",
+    "Be ready to give a second dose after five minutes if there is no improvement, and practise with a trainer device."
+  ],
+  "tips": [
+    "Adrenaline given unnecessarily to a healthy person is very unlikely to cause harm. Withholding it is far riskier.",
+    "Standing or walking someone in anaphylaxis can cause fatal collapse. Keep them down."
+  ],
+  "proof": "You can demonstrate the trainer device correctly and state the signs without prompting."
+}

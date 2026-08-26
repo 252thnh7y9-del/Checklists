@@ -1,0 +1,25 @@
+{
+  "id": "verify-information",
+  "name": "Verify an image or a claim",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The observation skill for a world of convincing fakes. A handful of free techniques will settle most questions in under five minutes.",
+  "gear": [
+    "A browser",
+    "A reverse image search tool",
+    "A map with satellite view"
+  ],
+  "steps": [
+    "Reverse image search first. Most misleading images are real photographs from another time or place.",
+    "Check the source: who published it first, when, and do they exist beyond this one post?",
+    "Read laterally — instead of scrutinising the page itself, open new tabs and see what other sources say about it.",
+    "Geolocate when it matters: match buildings, signage, road markings and shadows against satellite imagery.",
+    "Check the date independently, using weather records, foliage or events visible in the background.",
+    "Learn the tells of generated images and video — inconsistent text, hands, reflections, physically impossible lighting — while knowing these tells are getting weaker."
+  ],
+  "tips": [
+    "Emotional reaction is the strongest signal that you should check before sharing. Outrage is the delivery mechanism.",
+    "An absence of corroborating sources for a dramatic claim is itself strong evidence."
+  ],
+  "proof": "You trace a viral image back to its original context and correctly identify what it actually shows."
+}

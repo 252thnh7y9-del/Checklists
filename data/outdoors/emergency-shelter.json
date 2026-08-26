@@ -1,0 +1,25 @@
+{
+  "id": "emergency-shelter",
+  "name": "Build a simple emergency shelter",
+  "time": "1–2 sessions",
+  "level": "Moderate",
+  "blurb": "A debris hut is a survival shelter you build with no kit at all: a frame of sticks and a thick pile of leaves that traps your own body heat. Building one badly teaches you why the details matter.",
+  "gear": [
+    "A knife is helpful but not essential",
+    "A wooded site with plenty of dead leaf litter"
+  ],
+  "steps": [
+    "Pick the site: dry, flat, above the valley floor, away from dead branches overhead and not in a water channel.",
+    "Build the frame: one sturdy ridgepole from a low fork or stump, long enough to lie under with a little room.",
+    "Add ribs at 45 degrees along both sides, closely spaced, then a lattice of small branches to hold debris.",
+    "Pile leaf litter over the whole thing to at least an arm’s depth — this is insulation, and thin is useless.",
+    "Stuff the inside with a thick bed of dry debris, at least 20 cm compressed, because most heat is lost to the ground.",
+    "Make the entrance small and plug it with a debris bundle once inside."
+  ],
+  "tips": [
+    "Build it small. A shelter you can barely fit into is a shelter your body can actually heat.",
+    "Insulation underneath matters more than the roof. Cold ground steals heat faster than cold air.",
+    "A real debris hut takes hours. Start well before dark."
+  ],
+  "proof": "You build one and spend a comfortable hour inside it without a sleeping bag on a cold day."
+}

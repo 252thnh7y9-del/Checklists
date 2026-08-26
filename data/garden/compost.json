@@ -1,0 +1,25 @@
+{
+  "id": "compost",
+  "name": "Make compost",
+  "time": "6 months to a year",
+  "level": "Easy",
+  "blurb": "Kitchen and garden waste into free soil improver. The whole skill is the balance of greens to browns, plus enough air — get those right and it never smells.",
+  "gear": [
+    "A compost bin or a heap in a corner",
+    "A garden fork for turning",
+    "A store of browns: cardboard, dry leaves, straw"
+  ],
+  "steps": [
+    "Learn the ratio: roughly equal volumes of greens (kitchen scraps, grass, coffee grounds) and browns (cardboard, dry leaves, straw). Most failed heaps are all greens.",
+    "Chop material small — it decomposes far faster.",
+    "Layer greens and browns rather than dumping one thing in bulk, and keep a bag of browns beside the bin for every kitchen caddy you add.",
+    "Keep it as damp as a wrung-out sponge, and covered so rain does not waterlog it.",
+    "Turn it every few weeks to add air. Air is what makes it hot and fast rather than slimy and slow.",
+    "Harvest from the bottom once it is dark, crumbly and smells of woodland floor."
+  ],
+  "tips": [
+    "Smelly and slimy means too many greens and not enough air. Add cardboard and turn it.",
+    "No cooked food, meat or dairy in an open heap unless you want rats."
+  ],
+  "proof": "A barrow of dark crumbly compost you made, spread on your own beds."
+}

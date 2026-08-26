@@ -1,0 +1,25 @@
+{
+  "id": "leave-no-trace",
+  "name": "Learn Leave No Trace",
+  "time": "A few hours of study",
+  "level": "Easy",
+  "blurb": "Seven principles that let heavily used wild places survive being loved. It is the difference between being a visitor and being damage.",
+  "gear": [
+    "A trowel",
+    "Rubbish bags",
+    "Knowledge of local rules"
+  ],
+  "steps": [
+    "Plan ahead: know the regulations, the group size limits, and pack to avoid creating waste in the first place.",
+    "Travel and camp on durable surfaces — rock, gravel, established trails and pitches — rather than widening paths or making new ones.",
+    "Dispose of waste properly: pack out all rubbish, and bury human waste 15–20 cm deep, at least 60 m from water, or pack it out where required.",
+    "Leave what you find: no picking, no cairn building, no carving.",
+    "Minimise fire impact: use a stove, and where fires are permitted use existing rings and burn only dead and downed wood.",
+    "Respect wildlife and other visitors: observe from a distance, never feed animals, keep noise down."
+  ],
+  "tips": [
+    "Building extra cairns confuses navigation for others and can be genuinely dangerous.",
+    "Fruit peel and eggshells are still litter. They take years to break down and teach animals to associate paths with food."
+  ],
+  "proof": "You complete a multi-day trip leaving no visible sign that you were there."
+}
