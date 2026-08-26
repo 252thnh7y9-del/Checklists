@@ -25,7 +25,7 @@ If the default branch ever changes, repoint Settings → Pages at the new one.
 
 ## The project
 
-A dependency-free static site: 244 skills in 14 categories, each with its own
+A dependency-free static site: 423 skills in 21 categories, each with its own
 page. No build step for the site itself — `index.html` loads the CSS and the
 scripts directly, in order.
 
@@ -34,7 +34,7 @@ index.html        shell, nav, footer
 css/styles.css    all styling; light/dark defined at token level
 css/fonts.css     generated — Google Fonts inlined as data URIs
 js/categories.js  the 14 categories
-js/data/*.js      the skills, one file per category
+js/data/*.js      the skills, one file per category (21 files)
 js/store.js       localStorage persistence, fails soft when storage is blocked
 js/app.js         hash router and views
 ```
@@ -63,9 +63,15 @@ Two generators, run only when their inputs change:
 - **Every colour is defined on bare `:root` first.** Dark is a token override in
   two guarded blocks. A colour defined only inside a media or `[data-theme]`
   block renders one theme's text on the other theme's ground.
+- **Every category needs a `<script>` tag in index.html.** Adding a data file
+  without one silently drops the whole category; the bundler reads its script
+  list from that markup too.
 - **Skill copy is specific and honest** — real steps, real failure modes, a
   concrete milestone. Several skills carry genuine safety notes (edible plants,
-  charcoal fumes, whip and card throwing, mains wiring). Keep them.
+  charcoal fumes, whip and card throwing, mains wiring, lye, welding, river
+  crossings, deep water). Keep them. First aid entries say explicitly that they
+  describe what a certified course teaches and do not replace one — that framing
+  is deliberate and should not be softened.
 
 ## Verifying changes
 

@@ -362,5 +362,131 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Fix audio before you touch colour. Viewers forgive bad picture long before bad sound.'
   ],
   proof:'A finished two-minute video with clean cuts, balanced audio and a consistent look.'
+},
+{
+  id:'gesture-drawing', cat:'creative', name:'Learn gesture drawing', time:'2–4 weeks', level:'Moderate',
+  blurb:'Thirty-second drawings that capture movement rather than outline. It is the fastest way to improve figure drawing, and the speed is the point — it stops you fussing over detail.',
+  gear:['Cheap paper, lots of it','A soft pencil, charcoal or a brush pen','A timed figure-drawing site, or a life-drawing class'],
+  steps:[
+    'Set a timer for 30 seconds per pose and do not exceed it. The constraint is the training.',
+    'Look for the line of action first: one sweeping curve through the whole pose before any anatomy.',
+    'Draw the rhythm and the weight — where the body pushes into the ground, where it stretches and where it compresses.',
+    'Work large and from the shoulder, not with small wrist movements.',
+    'Do fifty a session. Volume matters far more than any individual drawing.',
+    'Progress to two-minute and five-minute poses, but keep starting each with the line of action.'
+  ],
+  tips:[
+    'Outlining the silhouette is the trap. Gesture is about what the body is doing, not its edge.',
+    'Nearly all of these drawings will be bad, and that is fine. They are exercise, not artwork.'
+  ],
+  proof:'Your 30-second drawings read as a person in motion rather than a stiff outline.'
+},
+{
+  id:'colour-theory', cat:'creative', name:'Learn colour theory in practice', time:'2–4 weeks', level:'Moderate',
+  blurb:'Not the colour wheel you were shown at school, but the three properties that actually govern mixing: hue, value and saturation — and the fact that value does most of the work.',
+  gear:['A limited palette of paints — a warm and cool of each primary, plus white','A greyscale value strip','A sketchbook'],
+  steps:[
+    'Learn the three properties and practise describing any colour in those terms.',
+    'Make a value scale in grey, then match colours to it. Squinting to see value is the single most useful habit in painting.',
+    'Learn to mix from a limited palette rather than buying more tubes — it forces you to understand mixing.',
+    'Learn that greying a colour with its complement is usually better than adding black.',
+    'Learn colour temperature and how a warm light implies cool shadows.',
+    'Do studies from photographs, matching value first and hue second, and check by photographing your study in greyscale.'
+  ],
+  tips:[
+    'Beginners fix hue and ignore value. If a painting looks wrong in greyscale, the values are wrong.',
+    'Black straight from the tube deadens most mixes. Mix your darks from complements.'
+  ],
+  proof:'You mix any colour you see from a limited palette, and your studies hold up in greyscale.'
+},
+{
+  id:'lino-printing', cat:'creative', name:'Learn lino printing', time:'2–4 weeks', level:'Moderate',
+  blurb:'Carving a block and pulling prints by hand. Bold, graphic, satisfyingly physical, and one carved block gives you fifty identical prints.',
+  gear:['Lino or softcut blocks and a set of cutters','Block printing ink, a brayer and a smooth rolling surface','A bench hook and printing paper','A wooden spoon or a baren'],
+  steps:[
+    'Design in bold shapes and think in reverse — the block prints as a mirror image, which matters enormously for text.',
+    'Learn to carve safely: always away from your body, with the work against a bench hook, and never with your free hand in front of the tool.',
+    'Carve away what you want to stay white; whatever remains raised takes the ink.',
+    'Roll out ink to a thin, even, slightly tacky layer — you should hear it hiss on the plate.',
+    'Ink the block, lay paper on top, and burnish evenly with a spoon or baren, checking a corner before lifting.',
+    'Pull a test print, refine the carving, and print an edition once you are happy.'
+  ],
+  tips:[
+    'Lino cutters slip and cause deep cuts to the non-carving hand. A bench hook and cutting away from yourself are not optional.',
+    'Warming lino slightly makes it much easier to carve.'
+  ],
+  proof:'An edition of ten clean, consistent prints from a block you designed and carved.'
+},
+{
+  id:'acrylic-painting', cat:'creative', name:'Learn acrylic painting', time:'4–8 weeks', level:'Moderate',
+  blurb:'Fast-drying, forgiving and cheap. Acrylics let you paint over mistakes within minutes, which makes them the most practical paint to learn on.',
+  gear:['Artist-grade acrylics in a limited palette','Synthetic brushes in a few shapes','Canvas board or primed paper','A stay-wet palette'],
+  steps:[
+    'Learn the working properties: acrylic dries in minutes and dries darker than it looks wet.',
+    'Use a stay-wet palette or a spray bottle, or you will waste most of your paint.',
+    'Learn to block in the whole canvas early with mid-tones — never start with detail in one corner.',
+    'Work from dark to light and thin to thick, building up in layers.',
+    'Learn glazing with medium for depth, and dry brushing for texture.',
+    'Do many small studies rather than one large painting; the reps are where the learning is.'
+  ],
+  tips:[
+    'Never let paint dry in a brush. Acrylic is essentially plastic and will destroy the bristles permanently.',
+    'Colours dry noticeably darker, so mix slightly lighter than the target.'
+  ],
+  proof:'A finished painting with confident brushwork and a full value range you would put on a wall.'
+},
+{
+  id:'stop-motion', cat:'creative', name:'Make a stop-motion animation', time:'2–4 weeks', level:'Moderate',
+  blurb:'Patience made visible. A ten-second animation is about 120 photographs, and the craft is entirely in consistency between them.',
+  gear:['A phone with a stop-motion app, or a camera on a tripod','Constant artificial light — daylight changes and ruins the sequence','Plasticine, paper cut-outs or LEGO'],
+  steps:[
+    'Lock everything down: camera on a tripod, manual focus and exposure, and lighting that will not shift.',
+    'Use artificial light and block out windows, because a passing cloud will flicker through your whole shot.',
+    'Plan the movement with a rough storyboard and work out how many frames each action needs.',
+    'Shoot on twos — two frames per position — for a good balance of smoothness and workload.',
+    'Use onion skinning in the app to line up each frame with the last.',
+    'Add sound afterwards; sound design does more for the feel than any extra animation smoothness.'
+  ],
+  tips:[
+    'Knocking the camera or the set is the classic disaster. Tape everything down, including the tripod legs.',
+    'Move things less than feels right. Big jumps read as jerky.'
+  ],
+  proof:'A finished animation of at least fifteen seconds with smooth motion and no light flicker.'
+},
+{
+  id:'write-short-story', cat:'creative', name:'Write a short story', time:'4–8 weeks', level:'Moderate',
+  blurb:'One finished, revised story of a couple of thousand words. Finishing is the skill — most people who want to write have several unfinished openings and no endings.',
+  gear:['Any writing tool','A deadline','One honest reader'],
+  steps:[
+    'Start with a character who wants something and something in the way. That is enough structure to begin.',
+    'Write a complete terrible first draft without editing. Editing while drafting is the main reason stories stall.',
+    'Get in late and out early: start the scene as close to the action as possible and leave before the explaining.',
+    'Cut the first paragraph, or often the first page — it is usually throat-clearing.',
+    'Revise for one thing at a time: structure first, then scene by scene, then line by line.',
+    'Read it aloud. Every clumsy sentence announces itself, and give it to one honest reader before you call it done.'
+  ],
+  tips:[
+    'Show through action and dialogue rather than explaining feelings. If you find yourself writing "she was sad", write what she does.',
+    'Adverbs and dialogue tags beyond "said" are usually propping up weak dialogue.'
+  ],
+  proof:'A finished, revised story you are willing to let someone else read.'
+},
+{
+  id:'make-a-zine', cat:'creative', name:'Make a zine', time:'1–2 weeks', level:'Easy',
+  blurb:'A self-published booklet made with paper, a photocopier and no permission from anyone. The eight-page single-sheet fold is the classic format and takes ten minutes to learn.',
+  gear:['A4 or letter paper','Pens, scissors, glue and anything to collage with','Access to a photocopier or printer'],
+  steps:[
+    'Learn the one-page eight-panel fold: fold in eighths, one cut in the middle, and it becomes a booklet.',
+    'Make a dummy first, numbering the panels, so you understand which way up each page must be drawn.',
+    'Decide on one narrow subject. Zines work best when they are specific and personal rather than broad.',
+    'Work in high-contrast black and white, which photocopies far better than grey pencil.',
+    'Lay out the master sheet, photocopy it, and fold the copies.',
+    'Distribute it: give them away, leave them somewhere, or trade with other zine makers.'
+  ],
+  tips:[
+    'Pale pencil and fine grey tones disappear on a photocopier. Ink it boldly.',
+    'Making the dummy first is what stops half the pages coming out upside down.'
+  ],
+  proof:'A finished folded zine you have copied and given to at least ten people.'
 }
 ]);

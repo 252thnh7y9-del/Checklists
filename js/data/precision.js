@@ -289,5 +289,113 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Practise over a table or a bed. You will drop it hundreds of times.'
   ],
   proof:'A full solve one-handed, under two minutes, without dropping the cube.'
+},
+{
+  id:'archery', cat:'precision', name:'Learn archery', time:'6–12 weeks', level:'Moderate',
+  blurb:'Consistency is everything: the same draw, the same anchor, the same release, every time. It is a deeply repeatable skill and progress is unusually visible.',
+  gear:['A club with beginner courses and loan equipment','A bow of appropriate draw weight — too heavy ruins form','An arm guard and finger tab'],
+  steps:[
+    'Start at a club. Range safety, correct draw weight and form all need supervision at the beginning.',
+    'Learn the safety rules absolutely: never draw without a target, never point a drawn bow anywhere but downrange, obey whistle commands.',
+    'Build the shot sequence: stance, nock, set hands, raise, draw, anchor, aim, release, follow through — the same every time.',
+    'Find a consistent anchor point on your face and use it identically for every shot.',
+    'Learn the surprise release — a smooth back-tension expansion rather than a conscious letting go, which prevents flinching.',
+    'Shoot at short distance until groups are tight, then move back. Distance before consistency just teaches bad habits.'
+  ],
+  tips:[
+    'A bow that is too heavy is the number one cause of bad form and shoulder injury. Start much lighter than your ego suggests.',
+    'Never dry fire a bow — releasing without an arrow can destroy it and injure you.'
+  ],
+  proof:'You group all six arrows in the gold at 18 metres, repeatably.'
+},
+{
+  id:'axe-throwing', cat:'precision', name:'Learn axe throwing', time:'2–4 sessions', level:'Moderate',
+  blurb:'Rotation and distance, not strength. The axe turns a fixed amount per throw, so hitting the target is about standing in the right place — which is why beginners improve so fast.',
+  gear:['A supervised venue, at least at first','A throwing axe suited to the target','Closed shoes and no loose clothing'],
+  steps:[
+    'Learn the venue’s safety rules and stick to them: one thrower at a time, never retrieve while anyone is throwing, no one behind the throwing line.',
+    'Learn the grip: like a handshake, firm but not tight, thumb along the handle.',
+    'Throw with a straight overhead motion, releasing at eye level, with no wrist flick at all — the flick is what causes over-rotation.',
+    'Let the axe rotate once naturally, and adjust your distance rather than your throw to fix rotation.',
+    'Step forward if it hits handle-first with too much rotation; step back if it hits top-first with too little.',
+    'Once one-rotation throws are consistent, learn the two-handed throw and longer distances.'
+  ],
+  tips:[
+    'Throwing harder does not help and usually causes bounce-backs, which are the main injury risk.',
+    'Never throw at a target on soft or unsuitable backing, and never improvise a home range casually.'
+  ],
+  proof:'Eight out of ten sticks on the board, most in the scoring rings.'
+},
+{
+  id:'free-throw', cat:'precision', name:'Shoot a consistent basketball free throw', time:'4–8 weeks', level:'Moderate',
+  blurb:'The only shot in basketball with no defender and no time pressure, which makes it a pure repeatability exercise. A fixed routine is what makes it consistent.',
+  gear:['A basketball and a hoop','A routine you invent and never vary'],
+  steps:[
+    'Build a pre-shot routine — the same number of dribbles, the same breath, the same spin of the ball — and use it every single time.',
+    'Set your feet identically each time, aligning your shooting foot with the centre of the rim.',
+    'Learn the shooting pocket and a straight vertical elbow under the ball.',
+    'Shoot with the legs providing the power and the arm providing the direction, in one smooth motion.',
+    'Follow through with a held wrist snap and fingers pointing into the hoop — hold it until the ball lands.',
+    'Practise in sets of ten and track your percentage, aiming to raise it rather than to shoot more.'
+  ],
+  tips:[
+    'Changing something after every miss is what stops improvement. Keep the routine and let the average tell you.',
+    'Shooting short is nearly always tired legs, not bad aim.'
+  ],
+  proof:'You shoot 70% or better across 100 attempts in one session.'
+},
+{
+  id:'keepie-uppies', cat:'precision', name:'Do keepie-uppies', time:'2–6 weeks', level:'Moderate',
+  blurb:'Juggling a football with feet, thighs and head. It is the classic touch-training exercise and it transfers directly to first-touch control in a game.',
+  gear:['A football, slightly under-inflated to start','Flat ground'],
+  steps:[
+    'Start with a bounce between each touch: drop, let it bounce, touch it up, catch. Then two touches, then three.',
+    'Use the laces area of the foot, ankle locked, foot roughly horizontal, and strike underneath the ball.',
+    'Keep the ball low — waist height at most — since high touches are far harder to control.',
+    'Learn the thigh touch, which gives you a bigger, more forgiving surface for recoveries.',
+    'Alternate feet from early on rather than building a one-footed habit.',
+    'Remove the bounce, then build a count, then add the head.'
+  ],
+  tips:[
+    'Toe-poking sends the ball spinning away. Use the flat of the laces.',
+    'A softer ball is much easier at first and builds the pattern faster.'
+  ],
+  proof:'Fifty consecutive touches, alternating feet, including thigh and head.'
+},
+{
+  id:'golf-putting', cat:'precision', name:'Learn to putt', time:'4–8 weeks', level:'Moderate',
+  blurb:'Around 40% of golf shots are putts, and it is the part of the game an amateur can most easily make good. Distance control matters more than line.',
+  gear:['A putter that fits your height','A practice mat, or a green','Alignment aids or two clubs on the ground'],
+  steps:[
+    'Set up consistently: eyes over the ball, shoulders square to the target line, ball slightly forward of centre.',
+    'Learn the stroke as a pendulum from the shoulders, with quiet hands and wrists.',
+    'Work on distance control first with a ladder drill — putts to 3, 6 and 9 metres — since three-putts come from distance, not line.',
+    'Practise short putts to build the habit of holing out, using a gate of two tees just wider than the putter head.',
+    'Learn to read green slope by looking from behind the ball and from the low side.',
+    'Learn to commit: pick a line, trust it, and never decelerate through the ball.'
+  ],
+  tips:[
+    'Decelerating into the ball is the commonest fault and causes pushes and pulls alike.',
+    'Most amateurs leave putts short. Aim to finish a foot past the hole.'
+  ],
+  proof:'You two-putt from 10 metres nine times out of ten, and hole out consistently from 1.5 metres.'
+},
+{
+  id:'slingshot', cat:'precision', name:'Shoot a slingshot accurately', time:'3–6 weeks', level:'Moderate',
+  blurb:'A serious precision instrument, not a toy. Consistent anchor and release give genuinely tight groups at 10 metres, and the equipment costs very little.',
+  gear:['A proper slingshot with flat bands','Steel or clay ammunition suited to the bands','Safety glasses, always','A backstop that fully contains ricochets'],
+  steps:[
+    'Set up a safe range first: a dense backstop such as a hanging carpet or a purpose-built catch box, a clear area behind it, and nobody downrange.',
+    'Wear eye protection every shot. Band failures and ricochets are the real risk.',
+    'Learn a consistent grip and a fixed anchor point at the corner of your mouth or cheek.',
+    'Learn to aim by reference — either instinctive or using the band and fork as a sight picture — and keep it identical.',
+    'Release cleanly by opening the fingers rather than plucking, which sends shots sideways.',
+    'Inspect the bands before every session and replace them at the first sign of nicks or thinning.'
+  ],
+  tips:[
+    'Fork hits happen when the pouch is released poorly and can injure your hand. Keep a firm, consistent release.',
+    'Check the law where you live: slingshots are restricted or illegal in some jurisdictions, and never shoot at animals.'
+  ],
+  proof:'Ten-shot groups inside a coffee-cup lid at 10 metres.'
 }
 ]);

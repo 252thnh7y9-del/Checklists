@@ -329,5 +329,116 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Use PVA rather than a hot glue gun, which goes brittle and fails within a year.'
   ],
   proof:'A hand-bound notebook that opens flat, has a square spine, and survives being carried around.'
+},
+{
+  id:'write-a-letter', cat:'oldschool', name:'Write a proper letter', time:'1 week', level:'Easy',
+  blurb:'A handwritten letter is now so rare that it lands with real weight. Thank-you notes, condolences and congratulations are three occasions where nothing else works as well.',
+  gear:['Decent paper and envelopes','A pen you enjoy writing with','Stamps, and the actual address'],
+  steps:[
+    'Learn the basic layout: your address, the date, a greeting, body, a closing and a signature.',
+    'Learn the closings and when each fits — formal, friendly and intimate are genuinely different registers.',
+    'Draft it first. A handwritten letter cannot be edited, so think it through before the good paper.',
+    'Write a thank-you note properly: name the specific thing, say what it meant or how you used it, and look forward.',
+    'Learn the condolence letter, which is the hardest and most valuable: name the person, share one specific memory, do not offer silver linings, and offer something concrete.',
+    'Post it within a few days. A late note is still far better than none.'
+  ],
+  tips:[
+    '"Thank you for the gift" is barely worth sending. Specificity is the entire point.',
+    'Do not tell a grieving person what to feel or that it was for the best. Just be present on the page.'
+  ],
+  proof:'You send three real letters, including one condolence or thank-you, and get a reply.'
+},
+{
+  id:'safety-razor-shave', cat:'oldschool', name:'Shave with a safety razor', time:'2–4 weeks', level:'Moderate',
+  blurb:'A better shave for a fraction of the cost, with a fraction of the plastic. The technique is the opposite of a cartridge razor: no pressure, and the angle does the work.',
+  gear:['A double-edge safety razor and a variety pack of blades','A shaving brush and a soap or cream','A styptic pencil or alum block'],
+  steps:[
+    'Prepare properly: shave after a shower, or use a hot towel, so the hair is soft.',
+    'Build a proper lather with a brush — it lifts the hair and lubricates far better than canned foam.',
+    'Learn the angle: roughly 30 degrees between blade and skin, achieved by finding the shallow point and dropping slightly.',
+    'Use no pressure at all. The weight of the razor is the correct pressure, and pressing is what causes cuts and irritation.',
+    'Shave with the grain first, mapping which way your hair actually grows on each part of your face.',
+    'Reduce in passes rather than chasing smoothness in one — with the grain, then across, and only then against if you need to.'
+  ],
+  tips:[
+    'Blades are personal. A variety pack tells you more than any review.',
+    'Razor burn is almost always pressure or too many passes against the grain.',
+    'Dispose of blades in a proper blade bank, never loose in a bin.'
+  ],
+  proof:'A comfortable close shave with no weepers or razor burn, three times in a row.'
+},
+{
+  id:'make-jam', cat:'oldschool', name:'Make jam', time:'2–3 sessions', level:'Moderate',
+  blurb:'Fruit, sugar, acid and pectin. Understanding the set is what separates jam from fruit syrup, and it is a matter of chemistry rather than luck.',
+  gear:['A wide heavy pan','A sugar thermometer','Jars with new lids, and a way to sterilise them','A saucer in the freezer'],
+  steps:[
+    'Learn the four elements of a set: pectin, acid, sugar and heat. Low-pectin fruit needs help from lemon juice or a high-pectin fruit.',
+    'Sterilise jars properly in a hot oven or by boiling, and have them hot when you fill them.',
+    'Cook the fruit to soften it before adding sugar — sugar added early stops fruit softening.',
+    'Bring to a full rolling boil and test for set at 105 °C, or with the wrinkle test on a frozen saucer.',
+    'Skim, rest briefly so the fruit distributes, and fill hot jars to the brim before sealing.',
+    'Label with the date, and check the seal has pulled down before storing.'
+  ],
+  tips:[
+    'Boiling sugar causes severe burns and it splutters. Long sleeves and a deep pan.',
+    'Overcooking gives a stiff dark jam. Start testing early rather than boiling for a set time.',
+    'Follow tested recipes for anything low-acid or pressure canned — botulism risk is real and invisible.'
+  ],
+  proof:'Jars that seal properly, set correctly, and are still good a year later.'
+},
+{
+  id:'make-soap', cat:'oldschool', name:'Make soap', time:'A day plus 6 weeks curing', level:'Hard',
+  blurb:'Real cold-process soap from oils and lye. It is straightforward chemistry with genuinely dangerous ingredients, so the safety procedure is the skill.',
+  gear:['Sodium hydroxide (lye) and oils','Digital scales accurate to a gram','Goggles, chemical-resistant gloves, long sleeves','A stick blender and dedicated equipment'],
+  steps:[
+    'Run your recipe through a lye calculator every time. Guessing quantities produces caustic soap that burns skin.',
+    'Set up safely: ventilated space, no children or pets, full eye protection and gloves, and vinegar and running water to hand.',
+    'Always add lye to water, never water to lye, and do it outdoors or under extraction — it heats violently and gives off fumes.',
+    'Cool both lye solution and melted oils to a similar temperature before combining.',
+    'Blend to trace — the point where the mixture thickens enough to leave a trail — then add fragrance and pour into the mould.',
+    'Insulate for 24 hours, unmould, cut, then cure for four to six weeks so the water evaporates and the bar mildens.'
+  ],
+  tips:[
+    'Lye causes severe chemical burns and blindness. This is not a project to do casually or with children present.',
+    'Uncured soap is harsh and dissolves fast. The six-week wait is not optional.',
+    'Never use aluminium equipment with lye — it reacts and produces hydrogen gas.'
+  ],
+  proof:'A cured batch that lathers well and tests neutral, made from a recipe you calculated.'
+},
+{
+  id:'make-candles', cat:'oldschool', name:'Make candles', time:'2–3 sessions', level:'Easy',
+  blurb:'Melting wax is easy; making a candle that burns properly is a matter of matching wick size to wax and diameter. That one variable is the whole craft.',
+  gear:['Wax — soy, beeswax or paraffin','Wicks in several sizes','A thermometer and a double boiler','Containers or moulds'],
+  steps:[
+    'Choose wax and container, then select a wick size from the manufacturer’s chart for that combination.',
+    'Melt the wax gently in a double boiler, never directly on a burner, and watch the temperature.',
+    'Secure the wick centrally and hold it upright with a peg or wick bar.',
+    'Pour at the temperature the wax specifies — too hot causes sink holes and cracking, too cool causes poor adhesion.',
+    'Cool slowly at room temperature, and do a second top-up pour if a well forms around the wick.',
+    'Cure for a few days, then trim the wick to 5 mm and do a test burn to check the melt pool.'
+  ],
+  tips:[
+    'A wick that is too small tunnels; too large and it smokes and mushrooms. Test burn before making a batch.',
+    'Wax is flammable and burns fiercely. Never leave melting wax unattended, and never use water on a wax fire.'
+  ],
+  proof:'A candle that burns with a full even melt pool to the container edge, without smoking or tunnelling.'
+},
+{
+  id:'develop-film', cat:'oldschool', name:'Develop black and white film', time:'2–4 weeks', level:'Moderate',
+  blurb:'Home development needs no darkroom — just a changing bag and a tank. It costs little, takes half an hour, and the moment you unroll your own negatives is genuinely thrilling.',
+  gear:['A developing tank and reels','A changing bag','Developer, stop bath or water, and fixer','A thermometer and a timer'],
+  steps:[
+    'Practise loading the reel with a sacrificial roll in daylight, then with your eyes closed, before doing it for real.',
+    'Load the film into the tank inside a changing bag. Everything after this is done in daylight.',
+    'Mix chemicals to the right dilution and get them to temperature — 20 °C is standard and a couple of degrees matters.',
+    'Develop for the time specified for that film and developer combination, agitating on a fixed schedule.',
+    'Stop, then fix for the full time, then wash thoroughly — inadequate washing means the negatives fade within years.',
+    'Add a wetting agent, hang to dry somewhere dust-free, then scan or print.'
+  ],
+  tips:[
+    'A film touching itself on the reel gives clear undeveloped patches. Loading practice is what prevents it.',
+    'Wear gloves and ventilate. Photographic chemicals are irritants, and fixer must not go down the drain in some areas — check local disposal rules.'
+  ],
+  proof:'A properly exposed, evenly developed roll of your own negatives with no loading marks.'
 }
 ]);

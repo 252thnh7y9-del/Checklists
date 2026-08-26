@@ -310,5 +310,113 @@ window.SKILLS = (window.SKILLS || []).concat([
     'If a move fails, carry on. Most audiences do not know what was supposed to happen.'
   ],
   proof:'You perform a three-trick set for strangers, with a script, and nobody works out how any of it was done.'
+},
+{
+  id:'give-feedback', cat:'social', name:'Give feedback well', time:'2–4 weeks', level:'Moderate',
+  blurb:'Most feedback is either so softened it is missed or so blunt it is rejected. The skill is being specific and kind at the same time — and they are not in tension.',
+  gear:['Real situations','A structure to lean on until it becomes natural'],
+  steps:[
+    'Ask permission and pick the moment: privately, soon after the event, and not when either of you is angry.',
+    'Describe the specific observable behaviour, not the person or their character. "The report arrived after the deadline" rather than "you are unreliable".',
+    'State the concrete impact, which is what makes it land: what happened as a result, for you or for others.',
+    'Stop talking and listen. Their explanation may change what the right outcome is.',
+    'Agree a specific change together rather than issuing an instruction.',
+    'Abandon the compliment sandwich — people hear the praise, miss the middle, and stop trusting your compliments.'
+  ],
+  tips:[
+    '"You always" and "you never" invite an argument about counterexamples instead of the actual issue.',
+    'Feedback nobody can act on is just criticism. If there is no specific behaviour, wait until there is.'
+  ],
+  proof:'You give difficult feedback and the relationship is intact, with the behaviour actually changed.'
+},
+{
+  id:'apologise-well', cat:'social', name:'Apologise properly', time:'1–2 weeks', level:'Easy',
+  blurb:'A real apology repairs things; a bad one makes them worse. The difference is almost entirely whether it contains excuses and whether it centres your feelings or theirs.',
+  gear:['The willingness to be uncomfortable for two minutes'],
+  steps:[
+    'Say what you did, specifically and without minimising. Naming it accurately is most of the work.',
+    'Cut the word "but" entirely. Everything before it is erased by everything after it.',
+    'Acknowledge the actual impact on them rather than your intent. "I did not mean to" is an explanation, not an apology.',
+    'Do not ask for forgiveness or reassurance in the same breath — that turns their injury into your comfort.',
+    'Say what you will do differently, concretely.',
+    'Then change the behaviour. A repeated apology for the same thing is worth nothing.'
+  ],
+  tips:[
+    '"I am sorry you feel that way" is not an apology and is heard as an insult.',
+    'Over-apologising for small things devalues the apologies that matter.'
+  ],
+  proof:'You apologise for something real and the other person feels genuinely heard rather than managed.'
+},
+{
+  id:'say-no', cat:'social', name:'Say no gracefully', time:'2–4 weeks', level:'Moderate',
+  blurb:'A clear no protects your time and, oddly, your relationships — a reluctant yes you resent costs more than a clean refusal.',
+  gear:['Requests you would rather decline'],
+  steps:[
+    'Buy time first: "let me check and come back to you" is almost always available and stops the reflex yes.',
+    'Be clear and brief. A long explanation invites negotiation on each point.',
+    'Decline the request, not the person: warmth in tone, firmness in content.',
+    'Offer an alternative only if you genuinely mean it, not as a softener.',
+    'Repeat calmly if pushed, without escalating or justifying further — the broken-record approach works.',
+    'Notice the guilt afterwards and let it pass rather than reversing the decision.'
+  ],
+  tips:[
+    'Elaborate excuses give people something to solve. A simple "I cannot take that on" is harder to argue with.',
+    'Saying yes to everything is not kindness; it just makes you unreliable more slowly.'
+  ],
+  proof:'You decline something you would previously have accepted resentfully, and the relationship is fine.'
+},
+{
+  id:'de-escalate', cat:'social', name:'De-escalate a conflict', time:'4–8 weeks', level:'Hard',
+  blurb:'Bringing the temperature down before anything can be resolved. It works on angry customers, family arguments and strangers, and it is almost entirely counter-intuitive.',
+  gear:['Practice, and the self-control to go first'],
+  steps:[
+    'Regulate yourself first. You cannot calm someone else while your own heart rate is climbing — slow your breathing deliberately.',
+    'Lower your voice and slow down. People match the tone of the person they are talking to, so give them something calmer to match.',
+    'Give space, physically: step back, drop your hands, angle your body rather than squaring up.',
+    'Acknowledge the feeling before addressing the facts. "You are right that this has taken far too long" defuses more than any correction.',
+    'Do not defend, argue detail, or say "calm down". All three escalate reliably.',
+    'Move to a question that gives them agency: "what would help right now?"'
+  ],
+  tips:[
+    'Being right is not the goal during escalation. Resolution comes after the temperature drops, never before.',
+    'If someone is a physical threat, leave. De-escalation is a communication skill, not a safety guarantee.'
+  ],
+  proof:'You take a genuinely heated situation down to a workable conversation.'
+},
+{
+  id:'host-dinner', cat:'social', name:'Host a dinner party', time:'2–3 attempts', level:'Moderate',
+  blurb:'Hosting is logistics and warmth, not cooking. The best hosts are relaxed because they planned a menu that let them be.',
+  gear:['A menu chosen for the cook, not to impress','Enough plates, glasses and chairs','A written timeline'],
+  steps:[
+    'Choose a menu with at most one dish that needs attention at the last minute. Everything else should be done in advance or unattended.',
+    'Write a reverse timeline from serving time, including when the oven is needed for what — oven clashes are the classic failure.',
+    'Ask about allergies and diets when you invite, not on the night.',
+    'Prep everything possible in advance and lay the table hours early.',
+    'Greet people with a drink in hand within a minute of arrival, and introduce them to each other with a hook, not just a name.',
+    'Eat with your guests. A host who spends the evening in the kitchen has made everyone uncomfortable.'
+  ],
+  tips:[
+    'Attempting a new complicated recipe for guests is the reliable route to a stressful evening.',
+    'People remember the atmosphere far longer than the food.'
+  ],
+  proof:'You host an evening where everything arrives hot, together, and you were at the table for all of it.'
+},
+{
+  id:'wedding-toast', cat:'social', name:'Give a wedding toast', time:'2–4 weeks', level:'Moderate',
+  blurb:'Short, warm, specific, and finished before people want it to be. The best toasts are three minutes long and contain one real story.',
+  gear:['A note card you probably will not need','Someone honest to rehearse in front of'],
+  steps:[
+    'Establish who you are and your connection in one sentence.',
+    'Tell one specific story that shows something true about them, rather than listing adjectives.',
+    'Say something genuine about the couple together, not just about the person you know.',
+    'Keep it to three minutes. Every wedding toast that is remembered fondly was short.',
+    'Cut anything that only makes sense to a few people, anything at anyone’s expense, and every reference to exes or drinking.',
+    'Rehearse aloud at least ten times, end with the actual toast, and raise your glass clearly so the room knows to join.'
+  ],
+  tips:[
+    'Do not drink first for courage. It is obvious and it always costs more than it helps.',
+    'Write the last line word for word so you land cleanly rather than trailing off.'
+  ],
+  proof:'You deliver it in under four minutes, get a genuine laugh and a genuine pause, and land the toast.'
 }
 ]);

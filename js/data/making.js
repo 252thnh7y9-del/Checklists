@@ -423,5 +423,131 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Sand up through the grits without skipping, and always with the grain on the final passes.'
   ],
   proof:'A box that sits flat, closes properly, has tight corners and a finish you are happy to give away.'
+},
+{
+  id:'paint-a-room', cat:'making', name:'Paint a room properly', time:'A weekend', level:'Easy',
+  blurb:'Ninety percent preparation, ten percent painting. The difference between a decorator’s finish and an amateur one is almost entirely in the work done before the lid comes off.',
+  gear:['Dust sheets, filler, sandpaper, sugar soap','Good brushes and a decent roller with the right nap','Frog tape, and a paint suited to the surface'],
+  steps:[
+    'Clear and cover everything, then fill holes, sand smooth and wash the walls. Paint over dust and it will not stick.',
+    'Prime bare plaster, filler patches and any stains, or they will flash through the topcoat.',
+    'Cut in the edges first with a brush, in a band wide enough for the roller to reach comfortably.',
+    'Roll in overlapping W or M patterns and lay off in one direction, keeping a wet edge so it does not band.',
+    'Do two thin coats rather than one thick one, respecting the recoat time on the tin.',
+    'Remove masking tape while the last coat is still slightly tacky for the sharpest line.'
+  ],
+  tips:[
+    'Overloading the roller causes runs and spatter. Load properly on the tray ramp.',
+    'Working in patches that dry before you join them causes visible lap marks. Keep moving and keep a wet edge.'
+  ],
+  proof:'An evenly covered room with sharp edges, no roller marks and no flashing under a raking light.'
+},
+{
+  id:'fix-dripping-tap', cat:'making', name:'Fix a dripping tap', time:'1–2 hours', level:'Easy',
+  blurb:'A washer or a ceramic cartridge, ten minutes of work, and the end of a noise that also wastes thousands of litres a year.',
+  gear:['Replacement washers or a matching ceramic cartridge','Adjustable spanner and screwdrivers','A cloth to protect the finish'],
+  steps:[
+    'Turn off the water at the isolation valve under the basin, or at the stopcock, and open the tap to drain it.',
+    'Plug the plughole. Dropping the tiny screw down it is the classic way to turn ten minutes into an afternoon.',
+    'Identify the type: a traditional tap you turn several times has a rubber washer; a quarter-turn tap has a ceramic disc cartridge.',
+    'Remove the head — usually a screw under the decorative cap — and lift out the headgear with a spanner.',
+    'Replace the washer or the whole cartridge with an exact match, and inspect the seat for scoring.',
+    'Reassemble, turn the water on slowly, and check for leaks under load.'
+  ],
+  tips:[
+    'Take the old part to the shop. There are dozens of sizes and they are not interchangeable.',
+    'A tap that still drips after a new washer usually has a damaged seat, which needs a reseating tool.'
+  ],
+  proof:'A tap that is silent and dry for a month afterwards.'
+},
+{
+  id:'unclog-drain', cat:'making', name:'Unclog a drain', time:'1–2 hours', level:'Easy',
+  blurb:'Mechanical removal works and is free; caustic chemicals often do not work, damage pipes and make the eventual plumber’s job dangerous.',
+  gear:['A plunger — the right type for sink or toilet','A drain snake or a plastic hair-removal strip','A bucket and gloves'],
+  steps:[
+    'Identify the scope: one slow fixture is a local blockage, several at once suggests the main drain and may need a professional.',
+    'Remove and clean the trap or the pop-up waste first — most bathroom sink blockages are hair right at the top.',
+    'Plunge properly: block the overflow, ensure water covers the plunger cup, and use firm repeated strokes rather than one big push.',
+    'If plunging fails, remove the U-bend into a bucket and clean it out directly.',
+    'Use a drain snake for blockages further along, feeding and rotating rather than forcing.',
+    'Prevent recurrence with strainers, and never pour fat or oil down a sink.'
+  ],
+  tips:[
+    'Caustic drain cleaner sitting in a pipe you then open is a serious burn risk. Try mechanical methods first.',
+    'Never use a plunger after a chemical cleaner — splashback of caustic liquid is genuinely dangerous.'
+  ],
+  proof:'A free-running drain you cleared yourself, with the trap cleaned rather than chemically dosed.'
+},
+{
+  id:'bleed-radiator', cat:'making', name:'Bleed a radiator and balance heating', time:'1–2 hours', level:'Easy',
+  blurb:'Cold at the top and hot at the bottom means trapped air. Five minutes with a small key fixes it, and balancing the system afterwards fixes the room that is always cold.',
+  gear:['A radiator bleed key','A cloth and a small container','A pressure gauge reading on your boiler'],
+  steps:[
+    'Turn the heating off and let the system cool before starting.',
+    'Find the bleed valve at the top corner and hold a cloth and container beneath it.',
+    'Turn the key a quarter to half turn until air hisses out, and close it the instant water appears.',
+    'Work around the house, doing downstairs radiators before upstairs ones.',
+    'Check the boiler pressure afterwards and repressurise if it has dropped below the normal band.',
+    'If one radiator is still cold at the bottom, that is sludge rather than air, and balancing or a power flush is the next step.'
+  ],
+  tips:[
+    'Cold at the top is air; cold at the bottom is sludge. They need completely different fixes.',
+    'Bleeding repeatedly over weeks means air is getting in, which is worth a heating engineer’s look.'
+  ],
+  proof:'Every radiator hot across its whole surface, and correct system pressure.'
+},
+{
+  id:'hand-plane', cat:'making', name:'Use a hand plane', time:'3–5 weeks', level:'Hard',
+  blurb:'A sharp, properly set plane produces gossamer shavings and a surface no sandpaper can match. Most people who dislike hand planes have only ever used a blunt, badly set one.',
+  gear:['A bench plane — a secondhand number 4 is ideal','Sharpening stones and a honing guide','A workbench with a way to hold the wood'],
+  steps:[
+    'Sharpen first. A plane is a sharpening tool with a jig attached, and no technique compensates for a dull iron.',
+    'Learn to set the blade: retract it fully, advance until it just takes a shaving, and adjust lateral alignment so it cuts evenly across.',
+    'Set the chip breaker close to the edge — under a millimetre — which is what prevents tear-out.',
+    'Learn to read grain direction and always plane downhill with it.',
+    'Use your whole body: press down at the start of the stroke, evenly through the middle, and at the back at the end, to avoid rounding the ends.',
+    'Practise producing full-width, translucent shavings on a flat board.'
+  ],
+  tips:[
+    'Tear-out means you are planing against the grain. Turn the board around.',
+    'A plane that skips and chatters is dull, or the blade is set too deep.'
+  ],
+  proof:'You flatten a board by hand to a smooth, even surface, producing continuous full-width shavings.'
+},
+{
+  id:'mig-welding', cat:'making', name:'Learn basic MIG welding', time:'4–8 weeks', level:'Hard',
+  blurb:'Joining steel with a wire feed. It is the most beginner-accessible welding process, and a weekend course gets you laying sound beads far faster than teaching yourself.',
+  gear:['A MIG welder and shielding gas','An auto-darkening helmet, leather gloves, a jacket and boots','Steel offcuts and a wire brush','A fire extinguisher and clear ventilation'],
+  steps:[
+    'Do a course or find someone experienced. Welding involves eye damage, fumes and fire risks that are easy to underestimate.',
+    'Set up safely: no flammables anywhere near, good ventilation, all skin covered, and no synthetic clothing.',
+    'Clean the metal to bright steel — welding through paint, rust or galvanising gives poor welds and toxic fumes.',
+    'Set voltage and wire speed for the material thickness, and test on scrap until the arc sounds like frying bacon.',
+    'Learn the travel angle and a steady speed, and practise beads on flat plate before attempting joints.',
+    'Progress through the joint types — lap, tee, butt — and cut your welds open to see the penetration.'
+  ],
+  tips:[
+    'Arc eye is a painful corneal burn that appears hours later. Never strike an arc without a helmet down, and screen bystanders.',
+    'Galvanised steel gives off zinc fumes that cause metal fume fever. Grind the coating off or do not weld it.'
+  ],
+  proof:'A butt weld that passes a bend test, with consistent bead and full penetration.'
+},
+{
+  id:'3d-printing', cat:'making', name:'Learn 3D printing', time:'2–4 weeks', level:'Moderate',
+  blurb:'Getting from a file to a good print is mostly about bed adhesion, temperature and slicing settings. The printer is the easy part; the workflow is the skill.',
+  gear:['An FDM printer','PLA filament to start — it is the most forgiving','Calipers, a scraper and a good slicer'],
+  steps:[
+    'Level the bed properly and set the first-layer height. Almost every failed print fails in the first layer.',
+    'Print a known-good benchmark model to establish that the machine works before blaming your own files.',
+    'Learn the key slicer settings: layer height, infill, walls, supports and brims, and what each trades off.',
+    'Learn to orient a model for strength and for minimal supports — the biggest lever on print quality.',
+    'Learn to diagnose the common failures: stringing, warping, layer shifting, elephant foot.',
+    'Learn basic CAD so you can design your own parts rather than only printing other people’s.'
+  ],
+  tips:[
+    'Store filament dry. Damp PLA prints badly and pops audibly as it extrudes.',
+    'Never leave a printer running unattended overnight without a smoke alarm nearby.'
+  ],
+  proof:'You design and print a functional part that fits a real object to within half a millimetre.'
 }
 ]);

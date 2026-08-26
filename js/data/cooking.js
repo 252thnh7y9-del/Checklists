@@ -430,5 +430,150 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Garnish must be edible and relevant. Decorative herbs nobody eats look dated.'
   ],
   proof:'You plate a normal weeknight meal so it would not look out of place in a restaurant photo.'
+},
+{
+  id:'roast-chicken', cat:'cooking', name:'Roast a whole chicken', time:'2–3 attempts', level:'Easy',
+  blurb:'The benchmark home-cooking dish: crisp skin, breast that is not dry, and a carcass that becomes stock. Salt and a thermometer do most of the work.',
+  gear:['A roasting tin with a rack','An instant-read thermometer','Kitchen string'],
+  steps:[
+    'Dry-brine: salt it generously all over and leave it uncovered in the fridge for at least a few hours, ideally overnight. This seasons the meat and dries the skin for crisping.',
+    'Bring it towards room temperature before roasting and pat it dry again.',
+    'Truss the legs loosely and set it on a rack so heat circulates underneath.',
+    'Roast hot to start for colour, then moderate. Basting is largely a myth — it cools the oven and softens the skin.',
+    'Take it out at 74 °C in the thickest part of the thigh, not touching bone.',
+    'Rest for 15–20 minutes before carving, and make stock from the carcass the same evening.'
+  ],
+  tips:[
+    'Cooking by time rather than temperature is why home-roast chicken is so often dry. Use a thermometer.',
+    'Wet skin will never crisp. Dry it, and give it time uncovered in the fridge.'
+  ],
+  proof:'Crisp skin, juicy breast, and a carcass that becomes stock, three times running.'
+},
+{
+  id:'make-stock', cat:'cooking', name:'Make stock from scratch', time:'2–3 sessions', level:'Easy',
+  blurb:'The single biggest upgrade available to home cooking. Stock costs almost nothing, uses what you would throw away, and transforms soups, risottos and sauces.',
+  gear:['A large pot','A fine sieve','Freezer containers or bags'],
+  steps:[
+    'Save bones and vegetable trimmings in a freezer bag until you have enough.',
+    'For a light stock use raw bones; for a deeper brown stock, roast them first until well coloured.',
+    'Cover with cold water, bring slowly to a bare simmer, and skim the scum that rises in the first twenty minutes.',
+    'Never let it boil. A rolling boil emulsifies the fat and makes stock cloudy and greasy.',
+    'Add aromatics — onion, carrot, celery, bay, peppercorns — but salt nothing, so you can reduce it later.',
+    'Strain, cool quickly, chill, and lift the set fat off the top before freezing in usable portions.'
+  ],
+  tips:[
+    'Cool stock fast and refrigerate promptly. A big pot cooling slowly on the counter is a genuine food-safety risk.',
+    'Vegetable trimmings work, but avoid brassicas and anything bitter.'
+  ],
+  proof:'A freezer with your own labelled stock, and a dish that is noticeably better for it.'
+},
+{
+  id:'cook-rice', cat:'cooking', name:'Cook rice perfectly', time:'1 week', level:'Easy',
+  blurb:'Separate, fluffy grains every time, without a rice cooker. Different rices want different treatment, and knowing which is which solves it.',
+  gear:['A pan with a tight-fitting lid','A measuring cup','A fork'],
+  steps:[
+    'Rinse long-grain rice until the water runs nearly clear, to remove surface starch that makes it gluey.',
+    'Learn the absorption method: a fixed ratio of water to rice, brought to a boil, then covered and cooked on the lowest heat.',
+    'Do not lift the lid or stir during cooking. Both release the steam that is doing the work.',
+    'Rest it off the heat, still covered, for ten minutes before touching it. This is the step almost everyone skips.',
+    'Fluff with a fork, never a spoon, which crushes the grains.',
+    'Learn the variations: basmati benefits from soaking, risotto rice must not be rinsed, sushi rice is seasoned after cooking.'
+  ],
+  tips:[
+    'Stirring long-grain rice during cooking releases starch and makes it claggy.',
+    'Cooked rice left at room temperature can grow Bacillus cereus. Cool it fast and refrigerate within an hour.'
+  ],
+  proof:'Fluffy separate grains from three different rice varieties, without a rice cooker.'
+},
+{
+  id:'risotto', cat:'cooking', name:'Make risotto', time:'2–3 attempts', level:'Moderate',
+  blurb:'Creamy without cream — the texture comes entirely from starch coaxed out of the rice. It rewards attention for twenty minutes and punishes walking away.',
+  gear:['Carnaroli or arborio rice','Warm stock kept simmering alongside','A wide heavy pan and a wooden spoon'],
+  steps:[
+    'Soften onion gently in butter without colouring it, then add the rice and toast it until the edges turn translucent.',
+    'Deglaze with wine and let it absorb fully before adding stock.',
+    'Add warm stock a ladle at a time, stirring, waiting until each addition is almost absorbed before the next. Cold stock stops the cooking and ruins the texture.',
+    'Keep it at a steady lively simmer, not a boil, and keep stirring to release the starch.',
+    'Test for doneness at about 16 minutes: tender with the faintest bite. It should spread slowly on the plate, not stand in a mound.',
+    'Finish off the heat with cold butter and grated parmesan, beaten in vigorously — the mantecatura, which is what makes it glossy.'
+  ],
+  tips:[
+    'Never rinse risotto rice. The surface starch is the entire point.',
+    'It continues to thicken off the heat, so take it off slightly looser than you want to serve it.'
+  ],
+  proof:'A risotto that ripples across the plate when you tap it, with rice that still has bite.'
+},
+{
+  id:'temper-chocolate', cat:'cooking', name:'Temper chocolate', time:'2–4 attempts', level:'Hard',
+  blurb:'Tempering aligns the cocoa butter crystals so chocolate sets glossy and snaps. Untempered chocolate is dull, streaky and soft — it is a temperature discipline, not a recipe.',
+  gear:['Good couverture chocolate with a stated cocoa butter content','A reliable digital thermometer','A marble slab or a bowl and spatula'],
+  steps:[
+    'Learn why it works: cocoa butter forms six crystal types and only form V gives gloss and snap.',
+    'Melt the chocolate gently to about 45–50 °C for dark, taking care not to let any water in.',
+    'Cool it to around 27 °C — either by tabling on marble, or by seeding with unmelted tempered chocolate.',
+    'Warm it back to the working temperature, roughly 31–32 °C for dark, lower for milk and white.',
+    'Test on a knife or paper: correctly tempered chocolate sets within a few minutes, glossy and firm.',
+    'Keep it in that working range while you use it, and work in a cool room.'
+  ],
+  tips:[
+    'A single drop of water seizes chocolate instantly. Everything must be bone dry.',
+    'Chocolate chips contain stabilisers and often will not temper. Use proper couverture.',
+    'Bloom — white streaks — means the temper failed or it was stored badly. It is harmless but ugly.'
+  ],
+  proof:'Chocolate that sets with a mirror shine, snaps cleanly, and releases from a mould by itself.'
+},
+{
+  id:'bake-cake', cat:'cooking', name:'Bake a cake that rises evenly', time:'3–4 attempts', level:'Moderate',
+  blurb:'Baking is chemistry with tight tolerances. A level, tender sponge comes from correct creaming, correct temperature and not opening the oven.',
+  gear:['Digital scales','Cake tins and baking parchment','An oven thermometer, because ovens lie'],
+  steps:[
+    'Weigh everything, and have eggs and butter at room temperature — cold ingredients curdle the batter and lose air.',
+    'Cream the butter and sugar for far longer than feels necessary, until pale and fluffy. This is where the lift comes from.',
+    'Add eggs gradually to avoid curdling, then fold in the flour gently. Overmixing at this stage builds gluten and toughens the crumb.',
+    'Check your real oven temperature with a thermometer and adjust; a 20-degree error ruins cakes.',
+    'Bake in the middle of the oven and do not open the door in the first two-thirds of the time.',
+    'Test with a skewer, cool in the tin for ten minutes, then turn out onto a rack.'
+  ],
+  tips:[
+    'A sunken middle usually means underbaking, too much raising agent, or the door opened early.',
+    'A domed cracked top means the oven was too hot. Lower it and bake longer.'
+  ],
+  proof:'A level, evenly coloured sponge with a fine crumb, twice running.'
+},
+{
+  id:'curry-whole-spices', cat:'cooking', name:'Cook curry from whole spices', time:'2–4 weeks', level:'Moderate',
+  blurb:'The leap from jarred paste to your own spice work is the biggest single improvement available in home cooking. It is a technique — blooming, layering, order of addition — not a recipe collection.',
+  gear:['Whole spices: cumin, coriander, cardamom, cinnamon, mustard seed, fenugreek','A spice grinder or pestle and mortar','A heavy pan'],
+  steps:[
+    'Buy whole spices and grind small batches. Pre-ground spice loses most of its aroma within months.',
+    'Learn tempering: whole spices bloomed in hot fat at the start, which releases fat-soluble aroma compounds.',
+    'Learn the order: whole spices first, then onions cooked properly brown, then ginger and garlic, then ground spices briefly, then tomatoes, then liquid.',
+    'Cook the onions far longer than a recipe suggests — this is the most common shortcut and the most damaging.',
+    'Learn to bloom ground spices for only 30 seconds before adding liquid, since they burn fast.',
+    'Learn to finish: a tarka of fresh spice poured over at the end, plus acid and fresh herbs.'
+  ],
+  tips:[
+    'Burnt spices are bitter and unfixable. If they catch, start that step again.',
+    'Toast whole spices before grinding, but only until fragrant — seconds, not minutes.'
+  ],
+  proof:'You cook a curry without a recipe, adjusting the spicing by taste as you go.'
+},
+{
+  id:'cast-iron', cat:'cooking', name:'Season and maintain cast iron', time:'2–3 sessions', level:'Easy',
+  blurb:'A well-kept cast iron pan is genuinely non-stick, lasts generations and costs little. Nearly all the folklore around them is wrong.',
+  gear:['A cast iron skillet','A high-smoke-point oil','Coarse salt and a stiff brush','Kitchen paper'],
+  steps:[
+    'Understand seasoning: it is polymerised oil bonded to the metal, not a coating of grease.',
+    'To season, apply a very thin layer of oil, wipe it off until the pan looks dry, and bake upside down above the oil’s smoke point for an hour.',
+    'Build several thin layers rather than one thick one, which goes sticky and flakes.',
+    'Cook in it regularly, especially fatty foods, which maintains the seasoning better than deliberate re-seasoning.',
+    'Clean while warm with water and a brush, dry immediately on the hob, and wipe with a trace of oil.',
+    'Learn to strip and re-season if it rusts or goes patchy, and never soak it or leave it wet.'
+  ],
+  tips:[
+    'A little washing-up liquid is fine on modern seasoning. The myth that soap destroys it dates from lye-based soaps.',
+    'Sticky patches mean too much oil at seasoning. Wipe far more off than feels right.'
+  ],
+  proof:'An egg slides freely around your pan with only a little fat.'
 }
 ]);

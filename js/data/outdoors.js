@@ -386,5 +386,132 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Line the pack with a dry bag rather than trusting a rain cover.'
   ],
   proof:'You pack for a two-night trip, reach everything you need without unpacking, and finish the walk without shoulder pain.'
+},
+{
+  id:'fly-a-kite', cat:'outdoors', name:'Fly a kite', time:'1–2 sessions', level:'Easy',
+  blurb:'Almost everyone has failed at this on a beach, and almost always for the same reasons: the wrong kite, the wrong wind, and running. Get those right and it is effortless.',
+  gear:['A single-line delta or diamond kite for learning','An open space well away from power lines, roads and trees','Gloves if you go up to a bigger kite'],
+  steps:[
+    'Check the wind: most kites want a steady 8–25 km/h. Too little and nothing works; too much and it will be destroyed.',
+    'Choose your site with care — well clear of overhead lines, airports, roads and people. This matters more than any technique.',
+    'Assemble it properly and check the bridle attachment point, which controls the angle it flies at.',
+    'Launch with your back to the wind: hold it up, let out a few metres of line and let the wind lift it. Do not run.',
+    'Let line out steadily as it climbs, and pull in gently when it starts to drop to give it more lift.',
+    'Learn to land it by walking towards it while winding in, and to fly a two-line stunt kite once the single-line one is boring.'
+  ],
+  tips:[
+    'Running with a kite is the classic mistake. If it needs running, there is not enough wind.',
+    'Never fly near power lines, in a thunderstorm, or with wire or wet line. Kite lines conduct.'
+  ],
+  proof:'You launch unaided, hold a stable high flight for twenty minutes, and land it under control.'
+},
+{
+  id:'bear-hang', cat:'outdoors', name:'Store food safely in the backcountry', time:'1–2 sessions', level:'Moderate',
+  blurb:'Keeping food away from wildlife protects both you and the animals — a bear that learns to raid camps usually ends up destroyed. In many places, proper storage is also a legal requirement.',
+  gear:['A bear canister where required, or a dry bag and 15 m of cord','A carabiner and a small weight bag'],
+  steps:[
+    'Check the local regulations first: many parks mandate approved canisters and ban hanging entirely.',
+    'Store everything scented, not just food — toothpaste, sunscreen, rubbish, cooking clothes.',
+    'Learn the triangle principle: sleep, cook and store food in three well-separated locations, at least a hundred metres apart.',
+    'If hanging, use the PCT method: throw a line over a branch well out from the trunk, aiming for the bag 4 m up and 2 m out from the trunk and branch.',
+    'Practise the throw at home. Doing it for the first time in the dark, tired, is miserable.',
+    'Keep a clean camp: no food in the tent, ever, and pack out all waste.'
+  ],
+  tips:[
+    'A bag hung too close to the trunk or branch is simply a piñata for a bear.',
+    'Rodents cause far more actual food loss than bears. A canister stops both.'
+  ],
+  proof:'You hang a bag correctly on the first attempt, or pack and use a canister to regulation.'
+},
+{
+  id:'river-crossing', cat:'outdoors', name:'Cross a river safely', time:'1–2 sessions with instruction', level:'Hard',
+  blurb:'River crossings kill experienced walkers regularly, almost always because they chose the wrong place or the wrong moment. The decision is more important than the technique.',
+  gear:['Trekking poles','Shoes you can wear in the water','A pack with a chest strap you can release instantly'],
+  steps:[
+    'Assess first: knee-deep fast water can knock you over. If in doubt, do not cross — turn back or walk to a bridge.',
+    'Choose the site carefully: a wide, straight, shallow braided section beats a narrow deep one, and never cross above a hazard such as rapids or a strainer.',
+    'Time it: mountain rivers rise through the day with snowmelt and after rain. Early morning is often dramatically safer.',
+    'Undo your hip belt and sternum strap so you can shed the pack instantly if you go in.',
+    'Face upstream, use poles as a tripod, and shuffle sideways keeping two points of contact at all times.',
+    'For groups, learn the linked or huddle method, and send the strongest person upstream.'
+  ],
+  tips:[
+    'Never cross barefoot, and never with your pack strapped on. A pack full of water will hold you under.',
+    'If you are swept away, get on your back, feet downstream, and swim aggressively for the bank.',
+    'Turning back is a legitimate outcome and often the correct one.'
+  ],
+  proof:'You assess and safely cross a moderate river, or correctly decide not to and find another route.'
+},
+{
+  id:'leave-no-trace', cat:'outdoors', name:'Learn Leave No Trace', time:'A few hours of study', level:'Easy',
+  blurb:'Seven principles that let heavily used wild places survive being loved. It is the difference between being a visitor and being damage.',
+  gear:['A trowel','Rubbish bags','Knowledge of local rules'],
+  steps:[
+    'Plan ahead: know the regulations, the group size limits, and pack to avoid creating waste in the first place.',
+    'Travel and camp on durable surfaces — rock, gravel, established trails and pitches — rather than widening paths or making new ones.',
+    'Dispose of waste properly: pack out all rubbish, and bury human waste 15–20 cm deep, at least 60 m from water, or pack it out where required.',
+    'Leave what you find: no picking, no cairn building, no carving.',
+    'Minimise fire impact: use a stove, and where fires are permitted use existing rings and burn only dead and downed wood.',
+    'Respect wildlife and other visitors: observe from a distance, never feed animals, keep noise down.'
+  ],
+  tips:[
+    'Building extra cairns confuses navigation for others and can be genuinely dangerous.',
+    'Fruit peel and eggshells are still litter. They take years to break down and teach animals to associate paths with food.'
+  ],
+  proof:'You complete a multi-day trip leaving no visible sign that you were there.'
+},
+{
+  id:'camp-cooking', cat:'outdoors', name:'Cook properly on a camp stove', time:'2–3 trips', level:'Easy',
+  blurb:'The difference between a miserable trip and a good one is often dinner. Camp cooking is about heat control, planning and washing up without wrecking the site.',
+  gear:['A stove suited to conditions — canister for convenience, liquid fuel for cold','A windshield, pot and lid','Biodegradable soap and a scrubber'],
+  steps:[
+    'Learn your stove properly at home, including lighting it in wind and changing a canister.',
+    'Always use a windshield and a lid. Wind can double your fuel use, and a lid halves boil times.',
+    'Learn to simmer rather than only boil — most stoves can, but it takes practice with the valve.',
+    'Plan meals that rehydrate or cook in one pot, and prepare and repackage ingredients at home.',
+    'Cook well away from your tent, and never inside it or in a closed porch — carbon monoxide poisoning kills campers every year.',
+    'Wash up 60 m from water, strain the food particles out and pack them, and scatter the grey water widely.'
+  ],
+  tips:[
+    'Canister stoves lose power badly in cold. Keep the canister warm or use liquid fuel in winter.',
+    'Never cook or run a stove in an enclosed space. It is the most common serious camping accident.'
+  ],
+  proof:'You cook a proper two-course meal in poor weather, with fuel to spare and a clean site.'
+},
+{
+  id:'hammock-camping', cat:'outdoors', name:'Sleep in a hammock properly', time:'2–3 nights', level:'Moderate',
+  blurb:'Comfortable, light and kind to the ground — but the one thing everybody gets wrong is insulation. You lose heat underneath in a hammock in a way you never do on the ground.',
+  gear:['A camping hammock with a tarp and bug net','Tree-friendly wide webbing straps','An underquilt or a sleeping pad'],
+  steps:[
+    'Hang at roughly a 30-degree strap angle, with the hammock sagging rather than pulled tight. A taut hammock is deeply uncomfortable.',
+    'Set the height so you can sit in it with feet on the ground, and check the ground below for a safe fall.',
+    'Lie diagonally, not along the centre line — this is what makes it flat and comfortable.',
+    'Insulate underneath with an underquilt or pad. Even in mild weather your compressed insulation gives no protection.',
+    'Pitch the tarp with a good ridgeline and adjustable guys, low in wind and high in still weather.',
+    'Use wide straps to protect the bark, and never hang from dead or damaged trees.'
+  ],
+  tips:[
+    'Cold-butt syndrome is real. A summer-warm night can be miserable without an underquilt.',
+    'Check overhead for dead branches before hanging — the classic hazard.'
+  ],
+  proof:'A comfortable warm night out in a hammock in cool weather, with a dry tarp pitch.'
+},
+{
+  id:'tide-tables', cat:'outdoors', name:'Read a tide table', time:'1–2 hours', level:'Easy',
+  blurb:'Anyone walking on a coast should be able to do this. Tides cut people off on beaches and causeways every year, and the information is free and public.',
+  gear:['A local tide table or app','A chart datum reference for your area'],
+  steps:[
+    'Learn to read the table: high and low water times and heights, usually for a named port with corrections for nearby places.',
+    'Learn that tides are roughly every 12 hours 25 minutes, so times shift later each day by about 50 minutes.',
+    'Learn spring and neap tides and how they change the range — spring tides go both higher and lower.',
+    'Learn the rule of twelfths to estimate the water level between high and low.',
+    'Apply it to real plans: when a causeway is passable, when a beach walk is safe, when a cave is cut off.',
+    'Always build in a wide margin, and know your escape route before you set out.'
+  ],
+  tips:[
+    'A rising tide fills bays behind you before it reaches you. Being cut off is far more common than being overtaken.',
+    'Wind and atmospheric pressure can raise water well above predicted heights.'
+  ],
+  proof:'You plan a coastal walk around the tide and return with a comfortable margin.'
 }
 ]);

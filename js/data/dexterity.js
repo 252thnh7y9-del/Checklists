@@ -269,5 +269,95 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Never progress to fire poi without an experienced spotter, a fire blanket and natural-fibre clothing.'
   ],
   proof:'You move between butterfly and a three-beat weave, both directions, without tangling.'
+},
+{
+  id:'diabolo', cat:'dexterity', name:'Learn diabolo', time:'2–4 weeks', level:'Moderate',
+  blurb:'A spinning spool on a string between two sticks. The first hour is frustrating and then it becomes one of the most satisfying object-manipulation skills there is.',
+  gear:['A diabolo with a decent bearing and two handsticks','A high ceiling, or outdoors'],
+  steps:[
+    'Learn to start it rolling on the floor from right to left, then lift it onto the string.',
+    'Learn to accelerate with small, quick tugs of the right stick rather than big sweeps.',
+    'Fix the tilt: a diabolo leaning away from you is corrected by moving the right stick forward, and vice versa. Getting this reflex is the whole beginner battle.',
+    'Learn to keep it spinning fast — almost every trick fails because of insufficient speed.',
+    'Learn the first tricks: a simple throw and catch, then the trapeze.',
+    'Learn to wrap the string for a grind or a suicide once the basics are stable.'
+  ],
+  tips:[
+    'Slow spin is the cause of most failures. Accelerate more than feels necessary before attempting anything.',
+    'Practise outdoors or somewhere with a high ceiling and nothing breakable.'
+  ],
+  proof:'You accelerate from a cold start, hold it stable for a minute, and land three distinct tricks.'
+},
+{
+  id:'devil-sticks', cat:'dexterity', name:'Learn devil sticks', time:'2–4 weeks', level:'Moderate',
+  blurb:'A centre stick kept in the air by two handsticks. It looks like magic and is actually a rhythm — the sticks do the work and your hands just keep time.',
+  gear:['A devil stick set, ideally a flower stick for learning','Open space'],
+  steps:[
+    'Learn the basic idle: tapping the centre stick from side to side, letting it tilt back and forth without spinning.',
+    'Keep the taps light and low on the stick; hitting near the ends is what sends it flying.',
+    'Build a rhythm and count out loud — devil sticking is more musical than athletic.',
+    'Learn the half-flip: propelling the stick through 180 degrees and catching the idle again.',
+    'Learn the full propeller spin, and then to change direction.',
+    'Add a stick pass around the back or under a leg once the idle is automatic.'
+  ],
+  tips:[
+    'Chasing the stick around the room means you are tapping too hard. Lighter and more often.',
+    'Flower sticks with rubber tassels are far slower and easier than bare devil sticks.'
+  ],
+  proof:'A continuous idle for a minute, plus two propeller variations without dropping.'
+},
+{
+  id:'cardistry', cat:'dexterity', name:'Learn cardistry flourishes', time:'3–6 weeks', level:'Moderate',
+  blurb:'Card manipulation for its own sake rather than for magic: fans, springs, cuts and displays. Pure finger training with an immediate visual payoff.',
+  gear:['Two identical decks of good-quality cards','A soft surface to drop onto'],
+  steps:[
+    'Learn the thumb fan and the pressure fan, both of which depend on evenly conditioned cards.',
+    'Learn the spring, from hand to hand, starting from a short distance and increasing.',
+    'Learn a two-packet display cut, then a three-packet one such as the Charlier variant or a Sybil.',
+    'Learn the ribbon spread and turnover on a table.',
+    'Practise slowly and evenly; cardistry rewards clean execution far more than speed.',
+    'Film yourself, because hand positions that feel neat often look messy from the front.'
+  ],
+  tips:[
+    'Worn, slightly used cards fan far better than a brand-new deck straight from the box.',
+    'Practise over a bed. You will drop the deck hundreds of times.'
+  ],
+  proof:'You run a 20-second sequence of four flourishes without a drop or a fumble.'
+},
+{
+  id:'hula-hoop', cat:'dexterity', name:'Hula hoop', time:'1–3 weeks', level:'Easy',
+  blurb:'An adult-sized weighted hoop is dramatically easier than the children’s toy most people failed with. It is a rhythm and posture skill, and a genuinely good workout.',
+  gear:['An adult hoop — bigger and heavier is easier, not harder','Space to swing your arms'],
+  steps:[
+    'Get the right hoop: standing on its edge it should reach somewhere between your waist and chest.',
+    'Stand with one foot forward, not feet together, and push the hoop around your waist with a firm start.',
+    'Move front-to-back rather than in circles — the hip rotation everyone imitates is actually wrong.',
+    'Match the hoop’s rhythm rather than moving faster; speeding up drops it.',
+    'Learn to recover a dropping hoop by pushing harder in the same rhythm.',
+    'Learn both directions, then hand hooping and a waist-to-hand transition.'
+  ],
+  tips:[
+    'A small light hoop is much harder. If you failed as a child, that is probably why.',
+    'Bruising on the hips is normal at first with a weighted hoop. Start with shorter sessions.'
+  ],
+  proof:'Five minutes continuous at the waist, in both directions, plus one transition.'
+},
+{
+  id:'finger-tutting', cat:'dexterity', name:'Learn finger tutting', time:'2–4 weeks', level:'Moderate',
+  blurb:'Geometric hand dancing built from right angles and boxes. It needs no equipment, no space, and looks astonishing when it is clean.',
+  gear:['Your hands','A mirror or a phone camera'],
+  steps:[
+    'Learn the basic shapes: right angles at every joint, and boxes formed between thumbs and fingers.',
+    'Learn to hit positions crisply and hold them for an instant — tutting is about clean stops, not flowing movement.',
+    'Learn to make and break boxes with both hands, keeping the shapes flat and parallel to your body.',
+    'Learn to travel a shape: passing a box from one hand to the other.',
+    'Add isolation so one hand stays locked while the other moves.',
+    'Set a short sequence to a beat and hit each position exactly on time.'
+  ],
+  tips:[
+    'Rounded, soft shapes read as fumbling. Everything must be at a hard right angle.',
+    'Practise in front of a mirror at chest height, which is where the audience sees it.'
+  ],
+  proof:'A 20-second sequence on the beat with crisp shapes, watchable on video.'
 }
 ]);

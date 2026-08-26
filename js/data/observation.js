@@ -287,5 +287,96 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Revival styles deliberately imitate older ones. Materials and construction usually give away the real date.'
   ],
   proof:'You walk a historic street and correctly identify the style and rough period of most buildings.'
+},
+{
+  id:'identify-fungi', cat:'observation', name:'Identify common fungi', time:'A season', level:'Hard',
+  blurb:'Learning to name fungi is a rich, year-round observation skill. Treat identification and eating as entirely separate projects — this entry is about the first, and there is no shortcut to the second.',
+  gear:['A regional field guide with keys','A hand lens and a knife','Paper bags and a camera'],
+  steps:[
+    'Learn the anatomy: cap, gills or pores, stem, ring, volva, and how the gills attach — the features that keys actually use.',
+    'Learn to take a spore print, which is often decisive and takes only a few hours.',
+    'Learn to record habitat, substrate and season, since many species are inseparable without them.',
+    'Start with a few distinctive, unmistakable species and learn them thoroughly across their whole life cycle.',
+    'Learn the seriously dangerous local species by sight first — deathcap and destroying angel among them — so you can rule them out confidently.',
+    'Join a local fungus group and go on forays. Expert eyes on real specimens teach faster than any book.'
+  ],
+  tips:[
+    'Never eat anything on the strength of a photo, an app, or a book alone. Several deadly species closely resemble edible ones.',
+    'Old folk tests — silver spoons, peeling caps, animals eating it — are all worthless and have killed people.',
+    'Identifying fungi is a fine hobby with no eating involved at all.'
+  ],
+  proof:'You confidently key out twenty local species and can identify the deadly ones in your area on sight.'
+},
+{
+  id:'identify-rocks', cat:'observation', name:'Identify rocks and minerals', time:'2–3 months', level:'Moderate',
+  blurb:'Every landscape becomes legible once you can tell what the ground is made of and how it got there. A hand lens and a few tests do most of the work.',
+  gear:['A hand lens, 10x','A geological hammer and eye protection','A streak plate and a steel nail for hardness tests','A regional geology guide'],
+  steps:[
+    'Learn the three great classes first: igneous, sedimentary and metamorphic, and the field clues for each.',
+    'Learn the diagnostic tests: hardness against known materials, streak colour, reaction to dilute acid, cleavage and lustre.',
+    'Learn to recognise the common rock-forming minerals — quartz, feldspar, mica, calcite — since most rocks are combinations of a few.',
+    'Learn your local geology from a geological map, which tells you what you should be finding.',
+    'Look at fresh broken surfaces, not weathered ones, which hide everything.',
+    'Visit exposures — quarries with permission, coastal cliffs, road cuttings — where you can see the relationships between beds.'
+  ],
+  tips:[
+    'Always wear eye protection when hammering rock, and never hammer at the base of an unstable cliff.',
+    'Collecting is restricted or banned in many protected areas. Check before taking anything.'
+  ],
+  proof:'You identify the rocks in your local area and can explain how the landscape formed.'
+},
+{
+  id:'identify-wildflowers', cat:'observation', name:'Identify wildflowers', time:'A season', level:'Easy',
+  blurb:'Learning thirty local wildflowers changes every walk you take for the rest of your life, and it is the gateway into understanding habitats.',
+  gear:['A regional flora or a good app','A hand lens','A notebook'],
+  steps:[
+    'Learn to see the structures a key asks about: petal number, symmetry, leaf arrangement, whether leaves are opposite or alternate.',
+    'Learn the big families first — daisy, pea, carrot, mint, cabbage — because family recognition narrows things enormously.',
+    'Learn what grows where: chalk grassland, acid heath, woodland floor and roadside verge each have their own cast.',
+    'Record what you find with date and place. Flowering time is itself an identification clue.',
+    'Use an app to check yourself, but key it out first — the app teaches you nothing if you lead with it.',
+    'Revisit the same patch monthly through a year to see succession.'
+  ],
+  tips:[
+    'Picking wildflowers is restricted or illegal in many places, and pointless for rare species. Photograph instead.',
+    'The carrot family contains both harmless and deadly plants that look similar. Look, do not taste.'
+  ],
+  proof:'You name thirty local species on sight and can predict what you will find in a given habitat.'
+},
+{
+  id:'verify-information', cat:'observation', name:'Verify an image or a claim', time:'1–2 weeks', level:'Moderate',
+  blurb:'The observation skill for a world of convincing fakes. A handful of free techniques will settle most questions in under five minutes.',
+  gear:['A browser','A reverse image search tool','A map with satellite view'],
+  steps:[
+    'Reverse image search first. Most misleading images are real photographs from another time or place.',
+    'Check the source: who published it first, when, and do they exist beyond this one post?',
+    'Read laterally — instead of scrutinising the page itself, open new tabs and see what other sources say about it.',
+    'Geolocate when it matters: match buildings, signage, road markings and shadows against satellite imagery.',
+    'Check the date independently, using weather records, foliage or events visible in the background.',
+    'Learn the tells of generated images and video — inconsistent text, hands, reflections, physically impossible lighting — while knowing these tells are getting weaker.'
+  ],
+  tips:[
+    'Emotional reaction is the strongest signal that you should check before sharing. Outrage is the delivery mechanism.',
+    'An absence of corroborating sources for a dramatic claim is itself strong evidence.'
+  ],
+  proof:'You trace a viral image back to its original context and correctly identify what it actually shows.'
+},
+{
+  id:'find-planets-satellites', cat:'observation', name:'Find planets and satellites', time:'2–4 weeks', level:'Easy',
+  blurb:'The Space Station is bright enough to see from a city centre, and four planets are visible with the naked eye. Both are predictable to the minute.',
+  gear:['A pass-prediction site or app for the ISS','A planetarium app','Binoculars, optionally'],
+  steps:[
+    'Learn to tell a planet from a star: planets shine steadily while stars twinkle, and planets stay near the ecliptic.',
+    'Learn the four easy ones: Venus as the brilliant evening or morning star, Jupiter steady and bright, Mars distinctly orange, Saturn a fainter yellow.',
+    'Learn the ecliptic — the line the Sun and Moon travel — because the planets are always on it.',
+    'Look up ISS passes for your location and go out five minutes early. It moves steadily, does not blink, and takes several minutes to cross.',
+    'Learn to spot geostationary and polar satellites, and to distinguish them from aircraft, which have blinking coloured lights.',
+    'With binoculars, find Jupiter’s four Galilean moons — they are visible in almost anything and move visibly night to night.'
+  ],
+  tips:[
+    'The ISS is only visible when it is in sunlight and you are in darkness, which is why passes cluster after dusk and before dawn.',
+    'Satellite trains from recent launches are startlingly bright and often mistaken for something stranger.'
+  ],
+  proof:'You predict and watch an ISS pass, and identify three planets unaided on the same night.'
 }
 ]);

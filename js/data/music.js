@@ -272,5 +272,95 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Read music you can already play by ear first — you get instant feedback on whether you read it right.'
   ],
   proof:'You sight-read a simple unfamiliar melody at tempo, correct notes and correct rhythm.'
+},
+{
+  id:'sing-in-tune', cat:'music', name:'Learn to sing in tune', time:'4–12 weeks', level:'Moderate',
+  blurb:'Genuine tone deafness is rare — a few percent of people. Almost everyone who says they cannot sing has simply never trained the loop between hearing a pitch and producing it.',
+  gear:['A tuner app with a pitch display','A keyboard or piano app','Somewhere you feel comfortable being heard'],
+  steps:[
+    'Test yourself honestly: play a note and try to match it. If you can hear that you are off, you are not tone deaf.',
+    'Practise matching single pitches against a keyboard, watching a tuner for immediate feedback.',
+    'Find your comfortable range before anything else — most people fail by trying to sing songs pitched for someone else.',
+    'Learn to support with breath from the diaphragm rather than pushing from the throat.',
+    'Practise sliding between two notes and stopping accurately on the target.',
+    'Record yourself regularly. Your voice sounds different in your head, and the recording is the honest version.'
+  ],
+  tips:[
+    'Straining for high notes is almost always a sign to change key rather than to push harder.',
+    'A few lessons with a teacher fixes in an hour what months of solo practice may not.'
+  ],
+  proof:'You sing a full song in tune, verified by a recording or a tuner, comfortably in your own range.'
+},
+{
+  id:'sing-harmony', cat:'music', name:'Sing a harmony line', time:'4–8 weeks', level:'Hard',
+  blurb:'Holding a third above a melody while someone else sings the tune. It is a distinct skill from singing in tune and it makes you welcome in any group that sings.',
+  gear:['A recording with a clear melody','A keyboard for reference','Someone to sing with'],
+  steps:[
+    'Get solid at singing in tune on your own first — harmony on an unstable pitch is impossible.',
+    'Learn to hear intervals, especially thirds and fifths, and to sing them from a given note.',
+    'Practise with a drone: hold one note while a reference note sounds, then move to a third above and back.',
+    'Learn a simple harmony line by ear from a recording that has one, singing along with just the harmony part.',
+    'Practise holding your line while someone sings the melody — the hard part is not being dragged onto their note.',
+    'Learn to find a harmony on the fly by singing a third above and adjusting to what fits the chord.'
+  ],
+  tips:[
+    'Being pulled onto the melody is the universal beginner problem. Sing louder to yourself and cover one ear.',
+    'A third above is not always a fixed distance — it moves between major and minor depending on the chord.'
+  ],
+  proof:'You hold a harmony line through a whole song while someone else sings the melody.'
+},
+{
+  id:'kalimba', cat:'music', name:'Play the kalimba', time:'1–2 weeks', level:'Easy',
+  blurb:'A thumb piano with tines laid out so that neighbouring notes are never adjacent — which makes it almost impossible to play a genuinely wrong note. Perhaps the fastest instrument to sound good on.',
+  gear:['A 17-key kalimba in C','A tuning hammer','Tab sheets, which use numbers rather than notation'],
+  steps:[
+    'Learn the layout: the lowest note in the centre, alternating up the scale outwards to left and right.',
+    'Learn the thumbnail technique — strike with the nail edge, not the pad, for a clear tone.',
+    'Learn to read kalimba tab, which is just the numbers stamped on the tines.',
+    'Play a simple melody, then add a bass note underneath with the other thumb.',
+    'Learn a rolling arpeggio across several tines, which is the sound the instrument is known for.',
+    'Learn to tune it with the hammer, since tines drift over time.'
+  ],
+  tips:[
+    'A buzzing tine usually needs a tiny nudge sideways, or the sticker beneath it reseating.',
+    'Keep your thumbnails slightly long; playing with the flesh gives a dull thud.'
+  ],
+  proof:'You play three pieces from memory with a melody and a bass line.'
+},
+{
+  id:'record-a-demo', cat:'music', name:'Record a simple song', time:'2–4 weeks', level:'Moderate',
+  blurb:'Multitracking a song on a laptop or phone. The gear matters far less than the source: a good performance recorded simply beats a bad one recorded expensively.',
+  gear:['Free DAW software, or a phone multitrack app','A USB microphone or an audio interface','Headphones — speakers cause feedback and bleed'],
+  steps:[
+    'Set up a click track first and record to it, so parts line up.',
+    'Record the foundation part — usually rhythm guitar or piano — all the way through before adding anything.',
+    'Set levels so the loudest part peaks around -12 dB, leaving headroom. Recording too hot cannot be undone.',
+    'Layer parts one at a time, listening back after each, and re-record rather than fixing bad takes endlessly.',
+    'Learn basic mixing: balance first, then panning, then EQ, then a little compression and reverb.',
+    'Leave it overnight and listen again before deciding it is finished. Fresh ears hear everything.'
+  ],
+  tips:[
+    'Room sound is what makes home recordings sound amateur. Record in a soft, furnished space, or make a blanket fort.',
+    'Fix performance problems by performing again, not with plugins.'
+  ],
+  proof:'A finished multitrack song you would happily send to a friend.'
+},
+{
+  id:'play-spoons', cat:'music', name:'Play the spoons', time:'1–2 weeks', level:'Easy',
+  blurb:'Percussion from the cutlery drawer. Ten minutes to make a noise, a fortnight to keep a rhythm, and permanently available at any table you sit at.',
+  gear:['Two matching dessert spoons — older, heavier ones sound better'],
+  steps:[
+    'Hold them back to back with your index finger between the handles, and your thumb on top for pressure.',
+    'Get a clean click by striking your other hand, then your thigh, alternating.',
+    'Build the basic rhythm: knee, hand, knee, hand, in a steady beat.',
+    'Learn the roll by running the spoons down your fingers, spread like a fan.',
+    'Combine strikes and rolls into a pattern, and practise against a recording.',
+    'Learn to lock in with a real tune rather than playing over the top of it.'
+  ],
+  tips:[
+    'A dull thud instead of a click means you are gripping too tightly. There should be a small gap between the bowls.',
+    'Old heavy spoons ring; light modern ones sound flat.'
+  ],
+  proof:'You keep a clean rhythm through a whole song, with rolls, in time.'
 }
 ]);

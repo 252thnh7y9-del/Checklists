@@ -268,5 +268,95 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Let people struggle for a bit, then hand them the answer generously. Smugness kills the room.'
   ],
   proof:'You run three puzzles at a table and the group asks you for another.'
+},
+{
+  id:'blackjack-strategy', cat:'puzzles', name:'Learn blackjack basic strategy', time:'1–2 weeks', level:'Moderate',
+  blurb:'A solved game: for every hand against every dealer card there is one mathematically correct play. Memorising the chart is a genuine feat of applied memory, and it turns the worst odds in the casino into nearly the best.',
+  gear:['A printed basic strategy chart for the exact rules you will face','A deck of cards','A drill app'],
+  steps:[
+    'Get the correct chart — strategy differs by rule set, such as whether the dealer hits soft 17.',
+    'Learn the hard totals first, which is the largest block and the most common situation.',
+    'Learn the soft totals, where holding an ace changes everything.',
+    'Learn the pair splitting rules, then the surrender rules if your game offers them.',
+    'Drill with an app or flashcards until you answer instantly, without reasoning it out.',
+    'Understand what it does and does not do: it minimises the house edge to well under one percent, but it does not make the game profitable.'
+  ],
+  tips:[
+    'Insurance is a bad bet in almost every situation. Never take it.',
+    'Basic strategy reduces losses; it does not create an edge. Treat any gambling budget as entertainment spending you expect to lose, and set a limit before you start.'
+  ],
+  proof:'You answer any hand correctly in under two seconds, across a full shuffled drill.'
+},
+{
+  id:'doomsday-algorithm', cat:'puzzles', name:'Calculate the day of the week for any date', time:'2–4 weeks', level:'Hard',
+  blurb:'Someone gives you a date and you name the weekday in a couple of seconds. The Doomsday method makes it a small piece of arithmetic rather than a memory trick.',
+  gear:['A written description of the Doomsday rule','A drill app or a calendar to check against'],
+  steps:[
+    'Learn the anchor idea: certain dates in every year all fall on the same weekday, called that year’s doomsday.',
+    'Memorise the easy anchor dates: 4/4, 6/6, 8/8, 10/10, 12/12, plus the last day of February and the 9-to-5 pairs (5/9, 9/5, 7/11, 11/7).',
+    'Learn the century anchors, which repeat on a 400-year cycle.',
+    'Learn to compute the year’s doomsday from the last two digits with the divide-by-twelve method.',
+    'Combine: find the doomsday, count from the nearest anchor date to your target, and take the remainder mod seven.',
+    'Drill daily with random dates, timing yourself and checking against a calendar.'
+  ],
+  tips:[
+    'Leap years shift January and February anchors. Getting that exception wrong is the usual error.',
+    'Practise with birthdays of people you know, since you can verify instantly and they find it impressive.'
+  ],
+  proof:'You name the weekday for any date in the 20th or 21st century in under five seconds, correctly.'
+},
+{
+  id:'cryptic-crosswords', cat:'puzzles', name:'Solve cryptic crossword clues', time:'4–8 weeks', level:'Hard',
+  blurb:'Cryptic clues look like nonsense until you learn that each one contains a definition and a wordplay instruction. After that they become fair, and then addictive.',
+  gear:['A beginner-friendly cryptic crossword','A guide to clue types','A pencil'],
+  steps:[
+    'Learn the fundamental structure: every clue has a definition at one end and wordplay covering the same answer.',
+    'Learn the clue types one at a time: anagram, hidden word, container, reversal, homophone, charade, double definition and &lit.',
+    'Learn the indicator vocabulary — words like "confused" or "broken" that signal an anagram, "about" that signals a container.',
+    'Learn the standard abbreviations setters use: N for north, R for king, L for left, and so on.',
+    'Start with hidden-word and anagram clues, which are the most findable, and use crossing letters aggressively.',
+    'Do the same setter repeatedly at first; each has habits you will learn.'
+  ],
+  tips:[
+    'Count the letters. The enumeration in brackets constrains the answer far more than beginners use.',
+    'When stuck, look for the definition at the start or end of the clue and ignore the surface reading entirely.'
+  ],
+  proof:'You finish a beginner-level cryptic unaided, and can explain the wordplay of every answer.'
+},
+{
+  id:'memorise-poem', cat:'puzzles', name:'Memorise a poem', time:'1–3 weeks', level:'Easy',
+  blurb:'A portable pleasure and excellent memory training. A poem learned properly stays for decades and is there on a walk, in a waiting room, or at a funeral.',
+  gear:['A poem you actually love, 20–40 lines','A printed copy'],
+  steps:[
+    'Choose something you genuinely like. You will read it several hundred times.',
+    'Read it aloud several times to get the sense and the music before trying to memorise anything.',
+    'Learn it in chunks, adding one line at a time and always reciting from the beginning.',
+    'Use the structure: rhyme, metre and imagery are memory aids the poet built in for you.',
+    'Practise at spaced intervals — the next day, three days later, a week later — rather than cramming.',
+    'Recite it to another person, which is a completely different and much harder skill than reciting alone.'
+  ],
+  tips:[
+    'The middle is where you will stumble. Give it dedicated passes rather than always starting from line one.',
+    'Understanding the poem properly makes it dramatically easier to hold.'
+  ],
+  proof:'You recite it start to finish, from memory, to another person, without prompting.'
+},
+{
+  id:'major-system', cat:'puzzles', name:'Learn the major system for numbers', time:'2–4 weeks', level:'Moderate',
+  blurb:'A code that turns digits into consonants, consonants into words, and words into pictures. It is what makes long numbers — phone numbers, card decks, pi — memorable at all.',
+  gear:['The standard digit-to-sound table','A notebook to build your own word list'],
+  steps:[
+    'Learn the ten digit-to-sound mappings: 1 is t or d, 2 is n, 3 is m, and so on. They are phonetic, so spelling does not matter.',
+    'Build your own word for every two-digit number from 00 to 99 — your own images stick far better than a borrowed list.',
+    'Drill both directions: number to word, and word to number, until both are instant.',
+    'Practise on real numbers: phone numbers, PINs you are allowed to remember, historical dates.',
+    'Combine it with a memory palace to store long sequences in order.',
+    'Extend to a person-action-object system if you want to go further into competitive memory work.'
+  ],
+  tips:[
+    'Vowels are free and carry no value, which is what gives you flexibility in choosing words.',
+    'Concrete, visualisable nouns work; abstract words do not. Pick things you can see.'
+  ],
+  proof:'You memorise a 30-digit number in under two minutes and recall it accurately an hour later.'
 }
 ]);

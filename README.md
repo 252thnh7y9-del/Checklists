@@ -1,7 +1,7 @@
 # Skill Quest
 
-A static website listing **244 skills you can genuinely learn** in anywhere from a few
-focused sessions to a few weeks of practice, organised into 14 categories.
+A static website listing **423 skills you can genuinely learn** in anywhere from a few
+focused sessions to a few weeks of practice, organised into 21 categories.
 
 Every skill has its own page with a plain description, the kit you need, a numbered set
 of steps to work through, the mistakes that trip people up, and a concrete milestone that
@@ -9,7 +9,7 @@ tells you when you can call it learned.
 
 ## What it does
 
-- **Browse by category** — 14 categories, each with a progress bar.
+- **Browse by category** — 21 categories, each with a progress bar.
 - **Tick skills off** — from the list view or from the skill page.
 - **Wishlist** — star anything to come back to later.
 - **Per-step progress** — tick individual steps on a skill page as you work through them.

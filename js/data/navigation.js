@@ -180,5 +180,95 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Never look at the sun through any instrument without proper filters.'
   ],
   proof:'You establish your latitude from a Polaris or noon sight to within about half a degree.'
+},
+{
+  id:'geocaching', cat:'navigation', name:'Go geocaching', time:'2–4 outings', level:'Easy',
+  blurb:'Millions of small containers hidden worldwide, findable by coordinates. It is a real navigation exercise disguised as a treasure hunt, and it works brilliantly with children.',
+  gear:['A geocaching app or a handheld GPS','A pen for the logbook','Small items to trade, if you want to'],
+  steps:[
+    'Start with caches rated easy for both difficulty and terrain, and read the description and recent logs before setting out.',
+    'Learn that GPS accuracy is only a few metres at best — the last stretch is done by reading the ground, not the screen.',
+    'Learn to think like a hider: look at the obvious unnatural things, the base of posts, under lips, in walls.',
+    'Sign the physical log, return the cache exactly as you found it, and log it online.',
+    'Learn the etiquette: be discreet in public, take nothing without leaving something of equal value, do not damage anything to search.',
+    'Progress to multi-caches and puzzle caches, which involve real navigation and problem solving.'
+  ],
+  tips:[
+    'Tree cover and urban canyons wreck GPS accuracy. Trust the terrain over the arrow when it starts spinning.',
+    'Do not search in a way that alarms people. Some caches are near sensitive infrastructure — use judgement.'
+  ],
+  proof:'You find ten caches including one multi-stage, and hide one of your own that others find.'
+},
+{
+  id:'nautical-chart', cat:'navigation', name:'Read a nautical chart', time:'2–4 weeks', level:'Hard',
+  blurb:'A completely different language from a land map: depths, hazards, buoyage and tidal streams. Essential for anyone going out on the water in anything.',
+  gear:['A local chart, paper or digital','A chart symbols reference','Dividers and a plotter'],
+  steps:[
+    'Learn chart datum: charted depths are the minimum expected, and heights are measured from a different datum entirely.',
+    'Learn the symbols for hazards — rocks, wrecks, drying heights — and which ones are covered at different states of tide.',
+    'Learn the buoyage system for your region, including the crucial difference between IALA A and B, where red and green are reversed.',
+    'Learn to read tidal stream diamonds and the tables that go with them.',
+    'Learn to plot a position, take a bearing and lay off a course, allowing for tidal set and leeway.',
+    'Practise by planning a real passage, including what happens if the tide turns or the wind shifts.'
+  ],
+  tips:[
+    'Depths shown are the least you should expect, not what is there now. A falling tide can put you aground on charted water.',
+    'Digital charts fail. Carry paper and know how to use it.'
+  ],
+  proof:'You plan a coastal passage with tidal calculations and can justify every waypoint.'
+},
+{
+  id:'plan-long-route', cat:'navigation', name:'Plan a multi-day route', time:'1–2 weeks', level:'Moderate',
+  blurb:'Turning a vague idea into a plan with daily distances, water, resupply, escape routes and a realistic pace. The planning is what makes the trip enjoyable rather than an ordeal.',
+  gear:['Maps covering the whole route','A route planning tool that gives distance and ascent','Accommodation or camping information'],
+  steps:[
+    'Set a realistic daily distance based on your actual fitness, then reduce it — everyone overestimates on paper.',
+    'Use Naismith’s rule and add time for ascent, then add more for the terrain, rest and photographs.',
+    'Plan water and resupply points explicitly, and note where there are none.',
+    'Identify escape routes and bail-out points for each day, plus the nearest road and transport.',
+    'Check what is seasonal: closed passes, ferries, huts, water sources that dry up, hunting seasons.',
+    'Leave a written plan with someone, including your expected route and when to raise the alarm.'
+  ],
+  tips:[
+    'The first day is always slower than planned. Make it the shortest.',
+    'A plan with no flexibility becomes a reason to push on in bad conditions. Build in spare days.'
+  ],
+  proof:'You complete a multi-day route roughly on plan, without a resupply or water crisis.'
+},
+{
+  id:'jet-lag', cat:'navigation', name:'Manage jet lag', time:'2–3 trips', level:'Easy',
+  blurb:'Light timing, not sleeping pills. The body clock shifts about an hour a day on its own, but deliberate light exposure can roughly double that.',
+  gear:['A jet lag app that calculates light timing','An eye mask and earplugs','Sunglasses for blocking light at the wrong times'],
+  steps:[
+    'Learn the direction rule: eastward travel is harder because you must advance your clock, which the body resists.',
+    'Shift your schedule by an hour a day for a few days before departure where you can.',
+    'Set your watch to the destination time when you board and eat and sleep by it.',
+    'Use light deliberately: seek bright morning light when travelling east, and evening light when travelling west — and block light at the wrong times with sunglasses.',
+    'Get outside on arrival, since daylight is far stronger than any indoor lighting.',
+    'Avoid long naps on arrival day, keep alcohol low, and stay hydrated.'
+  ],
+  tips:[
+    'Light at the wrong time actively pushes your clock the wrong way. The timing matters more than the amount.',
+    'For trips under three days, staying on home time is often better than adapting twice.'
+  ],
+  proof:'You cross five or more time zones and are functioning on local time within two days.'
+},
+{
+  id:'drive-abroad', cat:'navigation', name:'Drive on the other side of the road', time:'2–3 days', level:'Moderate',
+  blurb:'The straight roads are easy. It is junctions, roundabouts, and the first few seconds after any stop that catch people out — and the errors happen when you are tired or distracted.',
+  gear:['The correct documents, insurance and any required permit','A local rules-of-the-road summary','A phone mount, so you are not holding anything'],
+  steps:[
+    'Learn the local rules before you drive: priority conventions, speed limits, alcohol limits, and any mandatory equipment.',
+    'Start in a quiet area at a quiet time, not from a busy airport at night after a flight.',
+    'Put a physical reminder on the dashboard for the first few days. It works.',
+    'Use the rule that the driver sits nearest the centre line — it corrects your position instantly.',
+    'Take particular care pulling out of car parks, petrol stations and after any stop, which is when people revert to habit.',
+    'Learn roundabouts and turns deliberately, and let a passenger call out direction at junctions for the first day.'
+  ],
+  tips:[
+    'Fatigue undoes the adaptation. Do not drive far on arrival day.',
+    'Wipers instead of indicators is universal and harmless; drifting to the wrong side after a junction is not.'
+  ],
+  proof:'A week of driving including cities and motorways with no wrong-side moments.'
 }
 ]);

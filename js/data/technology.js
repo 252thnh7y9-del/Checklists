@@ -295,5 +295,115 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Almost nothing committed is ever truly lost. The reflog has rescued everyone at least once.'
   ],
   proof:'You manage a real project with branches, resolve a conflict calmly, and recover from a mistake using the reflog.'
+},
+{
+  id:'markdown', cat:'technology', name:'Learn Markdown', time:'2–3 days', level:'Easy',
+  blurb:'A plain-text formatting syntax you can learn in an hour and will use for the rest of your working life — notes, documentation, issues, chat and static sites all speak it.',
+  gear:['Any text editor with a preview pane'],
+  steps:[
+    'Learn the core syntax: headings, bold, italic, links, images, ordered and unordered lists.',
+    'Learn code formatting — inline backticks and fenced blocks with a language for syntax highlighting.',
+    'Learn tables, blockquotes and horizontal rules.',
+    'Learn that a line break needs a blank line, which is the single most common source of confusion.',
+    'Learn the flavour differences: GitHub Flavored Markdown adds task lists, tables and strikethrough that basic Markdown lacks.',
+    'Convert your existing notes to it and use it for everything for a fortnight.'
+  ],
+  tips:[
+    'Markdown renders differently in different tools. Check where it will actually be displayed.',
+    'Task lists with checkboxes are supported almost everywhere and are quietly very useful.'
+  ],
+  proof:'You write a full document with headings, tables, code blocks and links without looking anything up.'
+},
+{
+  id:'regex', cat:'technology', name:'Learn regular expressions', time:'2–4 weeks', level:'Hard',
+  blurb:'A tiny language for describing text patterns. It looks like line noise and pays for itself the first time you clean up a thousand-line file in ten seconds.',
+  gear:['An interactive regex tester with an explanation pane','Real messy text to practise on'],
+  steps:[
+    'Learn the building blocks: literal characters, character classes, and the dot.',
+    'Learn quantifiers — star, plus, question mark and braces — and the crucial difference between greedy and lazy matching.',
+    'Learn anchors and word boundaries, which prevent most accidental over-matching.',
+    'Learn capture groups and backreferences, which is what makes find-and-replace powerful.',
+    'Build every pattern incrementally in a tester, checking the matches after each addition rather than writing it all at once.',
+    'Apply it for real: in your editor, in grep, and in a script that cleans a genuinely messy file.'
+  ],
+  tips:[
+    'Greedy matching is behind most "why does it match too much" problems. Reach for the lazy quantifier.',
+    'Do not parse HTML with regex. Use a real parser; this is a famous and genuine trap.',
+    'A regex you cannot read in a month is a liability. Comment it or break it up.'
+  ],
+  proof:'You extract and reformat data from a messy file with a regex you built and understand.'
+},
+{
+  id:'sql-basics', cat:'technology', name:'Learn basic SQL', time:'3–6 weeks', level:'Moderate',
+  blurb:'The language for asking questions of data, essentially unchanged for decades. A handful of clauses answers most real questions people ask of a database.',
+  gear:['SQLite, which needs no server, or an online SQL playground','A real dataset you care about'],
+  steps:[
+    'Learn SELECT, FROM and WHERE, and get comfortable filtering before anything else.',
+    'Learn ORDER BY and LIMIT, then aggregate functions with GROUP BY and HAVING.',
+    'Learn JOINs properly — inner, left, and why the difference matters — with small tables you can check by eye.',
+    'Learn to think in sets rather than loops. This is the conceptual leap for anyone coming from programming.',
+    'Learn subqueries and common table expressions to break complex questions into readable steps.',
+    'Practise on a dataset that interests you and answer real questions with it.'
+  ],
+  tips:[
+    'Always run a SELECT with your WHERE clause before running the matching DELETE or UPDATE.',
+    'NULL is not equal to anything, including itself. This surprises everyone at least once.'
+  ],
+  proof:'You answer a multi-part question about a real dataset with a single well-structured query.'
+},
+{
+  id:'dev-tools', cat:'technology', name:'Learn browser developer tools', time:'1–2 weeks', level:'Moderate',
+  blurb:'Every browser ships with a full inspection suite. It is how you find out why a page is broken, slow, or ugly — and how you learn CSS faster than any tutorial.',
+  gear:['Any modern browser'],
+  steps:[
+    'Learn the Elements panel: inspect any element, edit its HTML and CSS live, and see the computed styles.',
+    'Learn to read specificity conflicts — struck-through rules show you exactly which style won and why.',
+    'Learn the Console for errors and for running JavaScript against the live page.',
+    'Learn the Network panel: what loaded, how big it was, how long it took, and what returned an error.',
+    'Learn device emulation to test responsive layouts and throttled connections.',
+    'Learn the Lighthouse or performance audit to find the actual bottleneck rather than guessing.'
+  ],
+  tips:[
+    'Live-editing CSS in the Elements panel is temporary. Copy changes back to your source before reloading.',
+    'The Network panel’s "disable cache" checkbox resolves a large share of confusing behaviour.'
+  ],
+  proof:'You diagnose why a real page is slow or mis-rendering, using the tools rather than guessing.'
+},
+{
+  id:'raspberry-pi', cat:'technology', name:'Set up a Raspberry Pi', time:'1–2 weeks', level:'Moderate',
+  blurb:'A cheap computer that turns abstract Linux and networking knowledge into something physical doing a real job in your house.',
+  gear:['A Raspberry Pi, power supply and microSD card','A card imaging tool','A network connection'],
+  steps:[
+    'Flash an OS image to the card, configuring wifi, hostname and SSH before first boot.',
+    'Boot headless and connect over SSH rather than plugging in a monitor.',
+    'Secure it immediately: change the default password, set up key-based SSH, and update everything.',
+    'Give it a job worth doing — network ad blocking, a file server, a media server, a print server or a home automation hub.',
+    'Learn to keep it running: automatic updates, and a backup of the SD card image once it is configured.',
+    'Learn the GPIO pins if you want to attach sensors and physical hardware.'
+  ],
+  tips:[
+    'SD cards fail with constant writes. Back up the image once it works, and consider booting from SSD for anything important.',
+    'Never expose SSH to the internet with password authentication. Use keys, and preferably a VPN.'
+  ],
+  proof:'A Pi doing a genuinely useful job in your home, running unattended for a month.'
+},
+{
+  id:'prompt-ai', cat:'technology', name:'Use an AI assistant well', time:'2–4 weeks', level:'Moderate',
+  blurb:'Getting good output is a skill: context, specificity, examples and verification. The difference between a vague request and a well-framed one is enormous.',
+  gear:['Access to an AI assistant','Real tasks worth doing'],
+  steps:[
+    'Give context up front: who it is for, what format you want, what constraints apply, and what you have already tried.',
+    'Be specific about the output: length, tone, structure, and audience.',
+    'Provide an example of what good looks like when you have one — a sample is worth several paragraphs of description.',
+    'Iterate rather than restarting: tell it what was wrong with the last answer specifically.',
+    'Ask it to show its reasoning or list its assumptions when the answer matters.',
+    'Verify everything factual independently. Confident-sounding wrong answers are the main failure mode.'
+  ],
+  tips:[
+    'Never paste secrets, credentials or other people’s personal data into a tool you do not control.',
+    'For anything consequential — legal, medical, financial — treat the output as a starting point for a professional, not a substitute.',
+    'Asking it to critique its own answer often surfaces real problems.'
+  ],
+  proof:'You complete a genuinely useful piece of work with it and can point to what you verified independently.'
 }
 ]);

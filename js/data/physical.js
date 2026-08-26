@@ -347,5 +347,113 @@ window.SKILLS = (window.SKILLS || []).concat([
     'Never throw hard without a full warm-up, and stop at the first sign of elbow pain.'
   ],
   proof:'Accurate, comfortable throws at 40 metres with a full-body sequence and no arm soreness afterwards.'
+},
+{
+  id:'run-5k', cat:'physical', name:'Run 5k without stopping', time:'8–10 weeks', level:'Moderate',
+  blurb:'The classic beginner running goal, and it works because the walk-run progression is gradual enough that almost anyone can follow it. The main risk is doing too much too soon.',
+  gear:['Running shoes that fit — get them from a shop that watches you run','A structured 8–9 week plan','A watch or phone for intervals'],
+  steps:[
+    'Start with walk-run intervals: 60 seconds running, 90 walking, repeated. Do not skip ahead because week one feels easy.',
+    'Run slowly. Almost every beginner runs too fast, which is why they stop. You should be able to talk in full sentences.',
+    'Run three times a week with rest days between, never on consecutive days at first.',
+    'Increase either duration or intensity, never both in the same week, and follow the roughly 10% weekly increase guideline.',
+    'Learn the difference between muscle soreness, which is fine, and joint or shin pain, which means back off.',
+    'Do the final progression to continuous running gradually, and finish with a timed 5k.'
+  ],
+  tips:[
+    'Shin splints and knee pain almost always mean too much too soon, not bad technique.',
+    'Rest days are when adaptation happens. Skipping them is how beginners get injured.'
+  ],
+  proof:'You run 5k continuously, at a conversational pace, and feel fine the next day.'
+},
+{
+  id:'squat-form', cat:'physical', name:'Squat with good form', time:'4–8 weeks', level:'Moderate',
+  blurb:'The most useful lower-body movement there is, and the one most commonly done badly. Bodyweight first, load later — the pattern matters far more than the weight.',
+  gear:['Space, and a box or chair to squat to','A broomstick, then a barbell if you go that way','A mirror or a camera'],
+  steps:[
+    'Learn the setup: feet roughly shoulder-width, toes turned slightly out, weight through the whole foot.',
+    'Learn to brace: big breath into the belly, ribs down, core tight before you descend.',
+    'Sit down and back between your legs rather than folding forward, keeping the knees tracking over the toes.',
+    'Go as deep as you can while keeping a neutral spine — depth comes from ankle and hip mobility, so work on those separately.',
+    'Practise box squats to learn the depth and the sit-back pattern.',
+    'Add load only once the bodyweight pattern is clean, and film yourself from the side each time you add weight.'
+  ],
+  tips:[
+    'Knees collapsing inward is the fault to watch for. Cue "spread the floor" with your feet.',
+    'Rounding at the bottom — the butt wink — usually means you are going deeper than your current mobility allows.'
+  ],
+  proof:'Ten clean bodyweight squats to depth with a neutral spine, verified on video from the side.'
+},
+{
+  id:'hip-hinge-deadlift', cat:'physical', name:'Learn the hip hinge and deadlift', time:'4–8 weeks', level:'Moderate',
+  blurb:'The pattern behind picking anything up safely for the rest of your life. Most back injuries at home come from hinging badly, not from lifting heavy.',
+  gear:['A broomstick for learning the pattern','A kettlebell or barbell once the pattern holds','A camera'],
+  steps:[
+    'Learn the hinge with a stick along your spine, touching head, upper back and tailbone: push your hips back and keep all three points in contact.',
+    'Feel the difference between hinging at the hips and squatting or rounding the back — that distinction is the whole skill.',
+    'Learn to brace before the bar leaves the floor, and to engage the lats by pulling the bar into your legs.',
+    'Push the floor away rather than yanking upwards, and finish standing tall with glutes squeezed rather than leaning back.',
+    'Lower under control by reversing the hinge, not by dropping.',
+    'Add weight slowly and film every session; form breaks down before you notice it.'
+  ],
+  tips:[
+    'A rounded lower back under load is the injury pattern. Stop the set the moment it appears.',
+    'If your hamstrings are tight, start with elevated or kettlebell deadlifts and improve the range separately.'
+  ],
+  proof:'You hinge with a neutral spine under moderate load, confirmed on video, and use it instinctively at home.'
+},
+{
+  id:'touch-your-toes', cat:'physical', name:'Touch your toes', time:'6–12 weeks', level:'Easy',
+  blurb:'For most adults this is a nervous-system limit rather than short hamstrings, which is why gentle regular work beats aggressive stretching.',
+  gear:['Floor space','A strap or towel','A yoga block'],
+  steps:[
+    'Test where you actually are and record it, so progress is visible.',
+    'Work with active techniques rather than forcing: contract-relax stretching, where you contract the hamstring against resistance for a few seconds and then ease further in.',
+    'Add strength through range — Jefferson curls with tiny weight, or good mornings — since strength at end range is what makes it stick.',
+    'Include the calves and the hips; often the limit is not the hamstrings at all.',
+    'Do it daily but briefly. Ten minutes a day beats an hour once a week.',
+    'Retest monthly rather than daily, since day-to-day variation is large.'
+  ],
+  tips:[
+    'Bouncing into a stretch triggers the stretch reflex and is counterproductive.',
+    'Sharp pain or nerve tingling means stop. Stretching should feel like tension, not pain.'
+  ],
+  proof:'Palms flat on the floor with straight legs, on a normal day rather than after a long warm-up.'
+},
+{
+  id:'hollow-body', cat:'physical', name:'Hold a hollow body position', time:'4–8 weeks', level:'Moderate',
+  blurb:'The core position underneath handstands, gymnastics and most calisthenics. Far harder than it looks, and worth more than any number of sit-ups.',
+  gear:['A mat','A wall to test against'],
+  steps:[
+    'Learn the shape lying down: lower back pressed flat into the floor, ribs down, pelvis tucked slightly.',
+    'Start with knees bent and arms by your sides, holding while keeping the lower back glued down.',
+    'Extend the legs a little at a time, and only as far as you can go while keeping the back flat.',
+    'Add the arms overhead last, which is much harder.',
+    'Build in sets of 20–30 seconds rather than one long failing hold.',
+    'Progress to hollow rocks, keeping the shape rigid while you rock.'
+  ],
+  tips:[
+    'Any gap under your lower back means the position has failed. Regress until it disappears.',
+    'Neck straining means you are lifting with your head. Keep the chin lightly tucked and look at your knees.'
+  ],
+  proof:'A 60-second hollow hold with legs straight and arms overhead, lower back flat throughout.'
+},
+{
+  id:'breathing-technique', cat:'physical', name:'Learn breathing techniques', time:'2–4 weeks', level:'Easy',
+  blurb:'Slow controlled breathing is one of the few genuinely reliable ways to shift your own physiology on demand. It costs nothing and works within minutes.',
+  gear:['A timer','Somewhere to sit'],
+  steps:[
+    'Learn diaphragmatic breathing: hand on belly, hand on chest, and breathe so only the lower hand moves.',
+    'Learn box breathing — in for four, hold four, out four, hold four — as an all-purpose steadying tool.',
+    'Learn the physiological sigh: two inhales through the nose followed by a long slow exhale, which reduces arousal fast.',
+    'Learn that a longer exhale than inhale is the general rule for calming down.',
+    'Practise daily for five minutes when calm, so the skill is available when you are not.',
+    'Apply it deliberately: before a speech, in traffic, at the start of a difficult conversation.'
+  ],
+  tips:[
+    'Never practise breath holds in or near water. Hypoxic training in water causes drownings.',
+    'Light-headedness means you are over-breathing. Slow down and reduce the depth.'
+  ],
+  proof:'You use a technique deliberately in a genuinely stressful moment and feel it work.'
 }
 ]);
