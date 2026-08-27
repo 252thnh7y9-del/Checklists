@@ -86,6 +86,11 @@ Two other generators, run only when their inputs change:
   or two match. Passed skills are visible everywhere — they sink, they do not
   hide — but `inPlay()` still keeps them out of the progress denominators,
   because passing means you do not intend to do it.
+- **Hover styling lives inside `@media (hover: hover)`.** A touch browser reports
+  `hover:none` and leaves `:hover` stuck on whatever was tapped last. Persistent
+  states — `[aria-pressed]`, `:focus-visible`, `:active` — stay outside the guard,
+  and a rule that mixes hover with one of them must be split rather than wrapped
+  whole, or the state disappears on touch.
 - **Every colour is defined on bare `:root` first.** Dark is a token override in
   two guarded blocks. A colour defined only inside a media or `[data-theme]`
   block renders one theme's text on the other theme's ground.
