@@ -1,0 +1,25 @@
+{
+  "id": "desk-posture",
+  "name": "Fix your desk setup and posture",
+  "time": "1 week to set up, ongoing",
+  "level": "Easy",
+  "blurb": "Sitting badly for eight hours a day is the most common repetitive strain most people have. The fix is a twenty-minute setup plus the habit of moving.",
+  "gear": [
+    "An adjustable chair, or cushions and books",
+    "A monitor stand, or a stack of books",
+    "An external keyboard if you use a laptop"
+  ],
+  "steps": [
+    "Set the chair first: feet flat, knees roughly level with hips, back supported, elbows at about 90 degrees when typing.",
+    "Set the screen so the top of it is at or just below eye level, about an arm’s length away.",
+    "Raise a laptop and use an external keyboard. A laptop puts the screen and keyboard at the same height, so one of them is always wrong.",
+    "Put the mouse and keyboard close enough that your elbows stay at your sides rather than reaching.",
+    "Fix the room: light from the side rather than behind or in front of the screen.",
+    "Move every half hour. The best posture is the next one — no static position is good for eight hours."
+  ],
+  "tips": [
+    "A standing desk used statically all day causes its own problems. Alternate.",
+    "Ongoing numbness, tingling or pain is a clinician’s job, not an ergonomics blog’s."
+  ],
+  "proof": "A full working day with no neck, wrist or lower-back ache, and you get up regularly without prompting."
+}

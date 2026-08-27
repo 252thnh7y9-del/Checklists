@@ -1,0 +1,25 @@
+{
+  "id": "kana",
+  "name": "Learn hiragana and katakana",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Japanese has two 46-character phonetic scripts before you reach kanji at all. Both are learnable in a fortnight and they unlock pronunciation of anything written.",
+  "gear": [
+    "A kana chart laid out as a grid",
+    "A spaced-repetition deck",
+    "Squared paper for handwriting"
+  ],
+  "steps": [
+    "Learn hiragana first, in the grid order — the five vowels, then each consonant row — because the grid encodes the sound system.",
+    "Write each character by hand while saying it. The motor memory is what makes them stick.",
+    "Learn the modifiers: dakuten and handakuten marks, small tsu for doubled consonants, and the small ya/yu/yo combinations.",
+    "Move to katakana once hiragana is solid; it maps to the same sounds and is used mostly for loanwords.",
+    "Watch the lookalike pairs that catch everyone: シ and ツ, ソ and ン, ね and れ and わ.",
+    "Read children’s material or song lyrics where everything is written in kana."
+  ],
+  "tips": [
+    "Learning katakana at the same time as hiragana causes interference. Finish one first.",
+    "Romaji crutches slow you down. Drop them as soon as you can read the grid."
+  ],
+  "proof": "You read a kana-only passage aloud at conversational speed with no chart."
+}

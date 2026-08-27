@@ -1,0 +1,24 @@
+{
+  "id": "cyrillic-alphabet",
+  "name": "Learn the Cyrillic alphabet",
+  "time": "3–7 days",
+  "level": "Easy",
+  "blurb": "A weekend of work turns a wall of unreadable signage into words you can pronounce — and a surprising number turn out to be borrowed words you already know.",
+  "gear": [
+    "A Cyrillic chart with sounds",
+    "Flashcards or an app"
+  ],
+  "steps": [
+    "Sort the letters into three piles: the ones that look and sound like Latin, the ones that look familiar but sound different, and the genuinely new ones.",
+    "Learn the false friends first, because they cause every mistake: В is v, Н is n, Р is r, С is s, У is u, Х is kh.",
+    "Learn the new shapes next: Ж, Ц, Ч, Ш, Щ, Ы, Ь, Ъ, Э, Ю, Я.",
+    "Practise on loanwords — ресторан, такси, банк — which are readable the moment the letters click.",
+    "Read street signs, metro maps and product labels aloud.",
+    "Learn the cursive forms only if you need them; handwritten Cyrillic is a separate battle."
+  ],
+  "tips": [
+    "The false friends are the whole difficulty. Drill those separately and the rest follows.",
+    "Reading aloud slowly beats reading silently fast while learning."
+  ],
+  "proof": "You read a metro map and street signs aloud and recognise the loanwords as you go."
+}

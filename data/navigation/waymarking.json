@@ -1,0 +1,24 @@
+{
+  "id": "waymarking",
+  "name": "Read trail waymarking",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Every country marks its paths differently, and a route that seems unmarked is usually well marked in a system you have not learned.",
+  "gear": [
+    "A guidebook for the region",
+    "The local path authority’s waymarking key"
+  ],
+  "steps": [
+    "Learn the local system before you go: colours, shapes and what each signifies about the type or difficulty of the route.",
+    "Learn the international conventions where they exist — painted flashes, cairns, blazes — and how a turn is indicated.",
+    "Learn the wrong-way marker used locally, which is the one that saves you the most time.",
+    "Learn what a missing marker means: at a junction with no confirmation within a few minutes, go back to the last certain one.",
+    "Cross-check waymarks against a map rather than following them blindly, since markers get vandalised, overgrown or repainted.",
+    "Learn the mountain grading system for the country you are in, since the same colour means different things in different places."
+  ],
+  "tips": [
+    "Following waymarks without a map works right up until a marker is missing at the one junction that matters.",
+    "Cairns are built by walkers as often as by authorities and sometimes lead nowhere. Treat them as suggestions."
+  ],
+  "proof": "You walk an unfamiliar waymarked route in another country without a wrong turn."
+}

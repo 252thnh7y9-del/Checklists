@@ -1,0 +1,24 @@
+{
+  "id": "comic-strip",
+  "name": "Draw a comic strip",
+  "time": "3–5 weeks",
+  "level": "Moderate",
+  "blurb": "Comics are a storytelling craft more than a drawing one: what you put in each panel and what you leave in the gaps carries the story. Stick figures work fine.",
+  "gear": [
+    "Paper and a pen, or a tablet",
+    "A ruler for panel borders"
+  ],
+  "steps": [
+    "Write the joke or beat first, in words. A comic with nothing to say is not rescued by good drawing.",
+    "Break it into panels, one beat each, and remember the reader fills in the time between panels — that gap is a tool.",
+    "Thumbnail the whole strip small before drawing anything properly.",
+    "Leave room for the lettering before you draw. Lettering squeezed in afterwards is the classic beginner tell.",
+    "Keep the characters simple and consistent, so they are recognisable from panel to panel.",
+    "Ink it, letter it, and publish it somewhere — finishing is the skill."
+  ],
+  "tips": [
+    "Drawing first and lettering after leaves speech bubbles covering the faces.",
+    "Four panels with a clear beat each beat one panel crammed with everything."
+  ],
+  "proof": "A finished strip that someone else reads and understands without you explaining it."
+}

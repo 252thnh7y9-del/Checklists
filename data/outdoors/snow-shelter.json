@@ -1,0 +1,25 @@
+{
+  "id": "snow-shelter",
+  "name": "Build a snow shelter",
+  "time": "2–3 sessions",
+  "level": "Hard",
+  "blurb": "Snow is an excellent insulator, and a quinzhee or snow trench can be the difference between a survivable night and a dangerous one. It is also serious work with real hazards.",
+  "gear": [
+    "A snow shovel",
+    "Waterproof outer layers and spare dry clothing",
+    "A sleeping mat, and a companion"
+  ],
+  "steps": [
+    "Learn the hazards first: collapse, carbon monoxide from any stove, and getting soaked while digging, which is what causes hypothermia.",
+    "For a quinzhee, pile snow into a large mound and leave it to sinter for at least 90 minutes — this settling is what gives it strength.",
+    "Push guide sticks about 30 cm into the mound all over, so when you hit them from inside you know the wall thickness.",
+    "Hollow it from a low entrance, dig upward, and keep the sleeping platform above the entrance so cold air drains out.",
+    "Make a ventilation hole, always, and check it stays clear. Suffocation and CO poisoning are the real killers.",
+    "Insulate yourself from the floor thoroughly, and never leave your shovel outside where it can be buried."
+  ],
+  "tips": [
+    "Work slowly and vent your clothing. Sweating while digging soaks your insulation and turns dangerous when you stop.",
+    "Never use a stove inside a closed snow shelter. Never dig into an unstable slope or anywhere with avalanche risk without proper training."
+  ],
+  "proof": "A shelter you built, with adequate ventilation and wall thickness, that holds a comfortable temperature."
+}

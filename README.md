@@ -1,7 +1,7 @@
 # Skill Quest
 
-A static website listing **423 skills you can genuinely learn** in anywhere from a few
-focused sessions to a few weeks of practice, organised into 21 categories.
+A static website listing **502 skills you can genuinely learn** in anywhere from a few
+focused sessions to a few weeks of practice, organised into 25 categories.
 
 Every skill has its own page with a plain description, the kit you need, a numbered set
 of steps to work through, the mistakes that trip people up, and a concrete milestone that
@@ -9,7 +9,7 @@ tells you when you can call it learned.
 
 ## What it does
 
-- **Browse by category** — 21 categories, each with a four-part progress bar
+- **Browse by category** — 25 categories, each with a four-part progress bar
   showing learned, wishlisted, passed and unmarked at a glance.
 - **Tick skills off** — from the list view or from the skill page.
 - **Wishlist** — star anything to come back to later.
@@ -58,7 +58,7 @@ on one do not appear on the other — use Export and Import to move progress bet
 index.html            page shell, nav, footer
 css/styles.css        all styling, light + dark tokens
 css/fonts.css         generated — Google Fonts inlined as data URIs
-data/categories.json  the 21 categories, in home-page order
+data/categories.json  the 25 categories, in home-page order
 data/<cat>/index.json that category's skill ids, in display order
 data/<cat>/<id>.json  one skill — this is what you edit
 js/skills.js          generated from data/ by build-data.js — do not edit
@@ -72,7 +72,7 @@ build-artifact.js     bundles everything into one self-contained HTML file
 ### Why the data is compiled
 
 The site is static files with no build step at request time. A `<script src>` cannot
-load JSON, and fetching 423 files at runtime would cost hundreds of round trips, break
+load JSON, and fetching 500-odd files at runtime would cost hundreds of round trips, break
 opening `index.html` over `file://`, and break the offline bundle. So `data/` is the
 source you edit and `js/skills.js` is the compiled artefact, committed alongside it.
 

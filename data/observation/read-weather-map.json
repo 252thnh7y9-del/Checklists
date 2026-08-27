@@ -1,0 +1,24 @@
+{
+  "id": "read-weather-map",
+  "name": "Read a weather map",
+  "time": "3–5 weeks",
+  "level": "Moderate",
+  "blurb": "A synoptic chart tells you what is coming and when, several days ahead. It is the step beyond reading clouds, and it explains why the forecast says what it does.",
+  "gear": [
+    "A synoptic chart source for your region",
+    "A record of what actually happened"
+  ],
+  "steps": [
+    "Learn isobars: closely spaced lines mean strong wind, widely spaced means calm.",
+    "Learn highs and lows, and which way the air circulates around each in your hemisphere.",
+    "Learn the front symbols — warm, cold, occluded — and the weather sequence each brings as it passes.",
+    "Learn to read the timing: chart sequences show how fast systems move, which is what turns a chart into a forecast.",
+    "Compare the chart against what actually happens, daily, for a few weeks.",
+    "Learn the local effects your region has — sea breezes, rain shadows, valley fog — which no synoptic chart shows."
+  ],
+  "tips": [
+    "A tightly packed low is the wind warning; people read the fronts and miss the isobar spacing.",
+    "Charts give the large-scale picture. Mountains and coasts routinely override it."
+  ],
+  "proof": "You read tomorrow’s chart, predict the wind and rain timing, and are right more often than not."
+}

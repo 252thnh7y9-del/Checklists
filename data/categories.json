@@ -40,6 +40,11 @@
     "blurb": "CPR, choking, bleeding, burns and the shutoff valves in your own home. The highest-stakes category on the list."
   },
   {
+    "id": "health",
+    "name": "Health & Body Care",
+    "blurb": "Sleep, posture, teeth, skin and the small maintenance habits that decide how the rest of it feels."
+  },
+  {
     "id": "music",
     "name": "Music & Rhythm",
     "blurb": "You will not become a musician in three weeks, but you can become genuinely good at one narrow musical thing."
@@ -65,6 +70,16 @@
     "blurb": "Stories, speeches, names, listening and dancing — trainable skills that most people leave to chance."
   },
   {
+    "id": "language",
+    "name": "Language & Script",
+    "blurb": "Alphabets, pronunciation and the first hundred words — enough of another language to stop being illiterate in it."
+  },
+  {
+    "id": "writing",
+    "name": "Writing & Study",
+    "blurb": "Emails, notes, summaries and how to learn things that stay learned. The skills that make every other skill cheaper."
+  },
+  {
     "id": "games",
     "name": "Games & Strategy",
     "blurb": "Poker, backgammon, Go and cribbage — games deep enough to keep repaying attention for decades."
@@ -88,6 +103,11 @@
     "id": "technology",
     "name": "Technology Skills",
     "blurb": "Typing, the command line, a first website, spreadsheets, Git and sane security hygiene."
+  },
+  {
+    "id": "money",
+    "name": "Money & Everyday Admin",
+    "blurb": "Budgets, payslips, contracts and scams. Unglamorous, rarely taught, and quietly worth more than most of this list."
   },
   {
     "id": "navigation",

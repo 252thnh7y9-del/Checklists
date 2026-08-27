@@ -1,0 +1,24 @@
+{
+  "id": "check-sources",
+  "name": "Cite and check sources",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Tracing a claim to its origin is the core research skill, and it survives contact with a world where confident text is cheap to generate.",
+  "gear": [
+    "A citation manager, or a disciplined document",
+    "Access to a library or open-access archives"
+  ],
+  "steps": [
+    "Follow claims upstream to the primary source. News about a study is not the study; a blog citing a blog is not evidence.",
+    "Check that the source actually says what it is cited for, which surprisingly often it does not.",
+    "Note the study’s size, design and limitations, not just its headline finding.",
+    "Look for who funded it and who benefits, without treating that alone as a refutation.",
+    "Keep the reference at the moment you use it. Reconstructing citations later is where hours disappear.",
+    "Learn one citation style well enough to be consistent, and use a manager to enforce it."
+  ],
+  "tips": [
+    "A confident summary from any tool, human or otherwise, is not a source. Follow the link and read it.",
+    "If a striking statistic has no traceable origin, that is itself the finding."
+  ],
+  "proof": "You trace a widely repeated claim back to its origin and can say whether it holds up."
+}

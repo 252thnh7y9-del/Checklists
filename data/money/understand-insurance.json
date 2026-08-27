@@ -1,0 +1,24 @@
+{
+  "id": "understand-insurance",
+  "name": "Understand an insurance policy",
+  "time": "2–3 hours",
+  "level": "Moderate",
+  "blurb": "People discover what their policy does not cover at the worst possible moment. The exclusions matter more than the price.",
+  "gear": [
+    "Your existing policy documents",
+    "The full terms, not just the summary"
+  ],
+  "steps": [
+    "Read the exclusions first. That is where the policy actually lives, and it is the section nobody reads.",
+    "Check the excess or deductible, including any separate higher excess for specific claim types.",
+    "Check the limits: total cover, per-item limits, and whether valuables need naming individually.",
+    "Check the conditions you must meet for cover to be valid — locks, alarms, maintenance, notification periods.",
+    "Understand the duty to disclose accurately, since an inaccurate answer can void a claim entirely.",
+    "Compare like with like when shopping: a cheaper policy with a higher excess and thinner cover is not cheaper."
+  ],
+  "tips": [
+    "Under-insuring the total value can reduce every payout proportionally, not just the amount over the limit.",
+    "Tell your insurer about changes — address, occupation, modifications — or you may not be covered when it matters."
+  ],
+  "proof": "You can state your excess, your key exclusions and your per-item limits without looking them up."
+}

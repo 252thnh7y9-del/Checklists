@@ -1,0 +1,24 @@
+{
+  "id": "run-a-meeting",
+  "name": "Run a good meeting",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "Most meetings are badly run rather than unnecessary — though many are both. Running one well is a learnable, visible, and unusually appreciated skill.",
+  "gear": [
+    "A meeting you are responsible for",
+    "A written agenda"
+  ],
+  "steps": [
+    "Decide first whether it needs to be a meeting. If there is no decision or discussion required, write it down instead.",
+    "Send an agenda in advance stating the purpose and what each item needs: decision, discussion or information.",
+    "Invite only the people who need to be there, and say why each is invited.",
+    "Start on time and state the goal in the first minute.",
+    "Manage the room actively: draw in the quiet ones, cut off circular discussion, and park tangents visibly to return to.",
+    "End with decisions, owners and deadlines, and send them in writing the same day."
+  ],
+  "tips": [
+    "A meeting with no owner and no agenda will expand to fill its slot and decide nothing.",
+    "Ending early is a gift and nobody has ever resented it."
+  ],
+  "proof": "Your meetings end early with written decisions, and people stop asking whether they need to attend."
+}

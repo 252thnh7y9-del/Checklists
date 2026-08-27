@@ -1,0 +1,24 @@
+{
+  "id": "write-instructions",
+  "name": "Write instructions someone can follow",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Documentation, recipes, handovers and how-tos all fail the same way: the writer knows too much and skips the step that is obvious only to them.",
+  "gear": [
+    "A process you know well",
+    "Someone who does not know it"
+  ],
+  "steps": [
+    "State the goal and the prerequisites first: what this achieves, what they need before starting, and how long it takes.",
+    "Number the steps and put exactly one action in each.",
+    "Write in the imperative and be specific about the actual thing to click, turn or type.",
+    "Include what success looks like at key points, so they can tell whether it worked.",
+    "Name the common failure and what to do about it, which is what people are actually reading for by the time they arrive.",
+    "Test it by watching someone else follow it without helping them. Every place they hesitate is a missing step."
+  ],
+  "tips": [
+    "The curse of knowledge is the whole problem. The step you think is too obvious to write is the one they get stuck on.",
+    "Watching a real person follow your instructions in silence is uncomfortable and worth more than ten rereads."
+  ],
+  "proof": "Someone unfamiliar completes the task from your instructions alone, without asking you anything."
+}

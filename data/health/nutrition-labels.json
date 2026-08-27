@@ -1,0 +1,23 @@
+{
+  "id": "nutrition-labels",
+  "name": "Read a nutrition label",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Front-of-pack marketing is designed to mislead; the back-of-pack panel is regulated and honest. Learning to read it takes an hour and changes what ends up in the trolley.",
+  "gear": [
+    "Packaged food from your own cupboard"
+  ],
+  "steps": [
+    "Check the serving size first. Everything else on the panel is scaled to it, and it is often smaller than anyone would eat.",
+    "Compare products per 100g rather than per serving, which is the only way to compare fairly.",
+    "Read the ingredients list, which is ordered by weight — the first three tell you most of what you need to know.",
+    "Learn the aliases for sugar, since splitting it across several names moves each one down the list.",
+    "Learn your region’s traffic-light or reference-intake thresholds for fat, sugar and salt.",
+    "Treat front-of-pack claims as marketing: low fat often means added sugar, and natural means very little."
+  ],
+  "tips": [
+    "Per-serving figures on a multi-serve pack are the most common way labels mislead.",
+    "This is about reading a label, not about dieting. For medical or dietary conditions, work with a dietitian."
+  ],
+  "proof": "You compare two similar products in a shop and can say which is actually better and why."
+}

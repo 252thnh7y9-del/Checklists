@@ -1,0 +1,25 @@
+{
+  "id": "mole-check",
+  "name": "Check your own skin for changes",
+  "time": "1 hour, then monthly",
+  "level": "Easy",
+  "blurb": "Skin cancers are among the most treatable when caught early and among the worst when caught late. A monthly check takes ten minutes and needs no equipment.",
+  "gear": [
+    "A full-length mirror and a hand mirror",
+    "Good light",
+    "A phone camera for records"
+  ],
+  "steps": [
+    "Learn the ABCDE signs: Asymmetry, irregular Border, uneven Colour, Diameter growing, and Evolving — any change over time.",
+    "Check systematically in the same order every time so nothing is skipped: face, scalp, neck, torso, arms, hands and nails, legs, feet and between the toes.",
+    "Use two mirrors for your back, or ask someone, since the back is the commonest site people miss.",
+    "Photograph anything you are unsure about with a ruler or coin for scale, and re-photograph monthly.",
+    "Learn the ugly duckling sign: the spot that looks different from all your others deserves attention even if it passes ABCDE.",
+    "Get anything new, changing, bleeding or non-healing looked at promptly — weeks, not months."
+  ],
+  "tips": [
+    "Do not wait to see whether it goes away. Early is the whole point.",
+    "This is a self-check, not a diagnosis. A clinician decides what a lesion is; you decide when to show them one."
+  ],
+  "proof": "A systematic monthly check you actually do, with photographs of anything you are tracking."
+}

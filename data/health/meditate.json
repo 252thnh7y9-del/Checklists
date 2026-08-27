@@ -1,0 +1,25 @@
+{
+  "id": "meditate",
+  "name": "Learn to meditate",
+  "time": "6–8 weeks",
+  "level": "Moderate",
+  "blurb": "Ten minutes of attention training a day. The universal beginner mistake is thinking a wandering mind means failure, when noticing the wandering is the entire exercise.",
+  "gear": [
+    "Somewhere to sit",
+    "A timer",
+    "Optionally a guided app for the first weeks"
+  ],
+  "steps": [
+    "Sit upright but not rigid, somewhere you will not be interrupted, and set a timer for ten minutes.",
+    "Put attention on the breath, at one spot — the nostrils or the belly — and leave it there.",
+    "When you notice you are thinking, that is the rep. Note it and return to the breath, without commentary.",
+    "Expect to do that dozens of times per sitting. That is the practice working, not failing.",
+    "Sit daily, at the same time, rather than for longer occasionally.",
+    "Try one or two styles — breath focus, body scan, open awareness — and stick with whichever you will actually do."
+  ],
+  "tips": [
+    "Aiming to empty your mind guarantees frustration. The goal is noticing, not blankness.",
+    "For people with trauma or certain mental health conditions, intensive silent practice can be destabilising. Start short and get guidance."
+  ],
+  "proof": "Thirty consecutive days of ten-minute sittings, and you can notice a thought and return without irritation."
+}

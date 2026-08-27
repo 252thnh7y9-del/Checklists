@@ -1,0 +1,24 @@
+{
+  "id": "spaced-repetition-study",
+  "name": "Study with active recall",
+  "time": "4–8 weeks",
+  "level": "Moderate",
+  "blurb": "Rereading and highlighting feel productive and barely work. Testing yourself feels harder and works far better — the difficulty is the mechanism, not a side effect.",
+  "gear": [
+    "Material you actually need to learn",
+    "Blank paper, or a spaced-repetition app"
+  ],
+  "steps": [
+    "Replace rereading with retrieval: close the book and write down everything you remember, then check.",
+    "Turn material into questions as you study, so the study product is a set of prompts rather than underlined text.",
+    "Space the reviews out over days and weeks rather than massing them into one session.",
+    "Interleave topics rather than blocking them, which feels worse and produces better retention and transfer.",
+    "Practise in the form you will be tested in: if you must explain it aloud, practise explaining it aloud.",
+    "Use the Feynman check — explain it simply to someone who does not know it — and let the points where you stumble direct your next session."
+  ],
+  "tips": [
+    "Fluency while reading is an illusion of competence. If you have not retrieved it, you do not know it.",
+    "Cramming works for tomorrow and fails for the month after. Spacing is the difference between passing and knowing."
+  ],
+  "proof": "You can explain the material from a blank page, weeks later, without notes."
+}

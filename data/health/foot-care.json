@@ -1,0 +1,25 @@
+{
+  "id": "foot-care",
+  "name": "Look after your feet",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Feet get ignored until they hurt, at which point everything else stops. Nail technique, blister prevention and shoe fit cover almost all of it.",
+  "gear": [
+    "Proper nail clippers",
+    "Well-fitted shoes",
+    "Blister plasters or tape"
+  ],
+  "steps": [
+    "Cut toenails straight across rather than curved down at the corners, which is what causes ingrown nails.",
+    "Get shoes fitted at the end of the day when feet are largest, with a thumb-width of room at the toe.",
+    "Prevent blisters rather than treating them: tape hotspots before a long walk, and deal with any rubbing the moment you notice it, not at the next stop.",
+    "Keep feet dry and change socks on long days; damp skin blisters far more easily.",
+    "Dry thoroughly between the toes to avoid fungal infection, and treat athlete’s foot promptly.",
+    "Learn to lace properly — heel lock lacing stops the heel lifting on descents."
+  ],
+  "tips": [
+    "A hotspot is a blister that has not happened yet. Stop and tape it; five minutes saves the day.",
+    "People with diabetes or reduced sensation need professional foot care rather than self-treatment."
+  ],
+  "proof": "A long walking day with no blisters, and no ingrown nails over a season."
+}

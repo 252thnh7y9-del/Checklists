@@ -1,0 +1,26 @@
+{
+  "id": "sleep-better",
+  "name": "Improve your sleep",
+  "time": "3–6 weeks",
+  "level": "Moderate",
+  "blurb": "Sleep responds to a handful of levers — timing, light, temperature and what you do in bed — far more than to any product. Fixing the schedule is worth more than everything else combined.",
+  "gear": [
+    "Curtains or an eye mask",
+    "A room you can make cool and dark",
+    "A watch or clock you keep out of reach"
+  ],
+  "steps": [
+    "Fix your wake time first, seven days a week, including weekends. A consistent wake time anchors everything else.",
+    "Get bright light — ideally daylight — within an hour of waking, and dim the lights in the evening.",
+    "Keep the room cool, dark and quiet. Core temperature has to drop for sleep to start.",
+    "Stop caffeine at least eight hours before bed; its half-life is longer than most people assume.",
+    "Use the bed for sleep only. If you are awake and frustrated for twenty minutes, get up and do something dull in low light until sleepy.",
+    "Build a wind-down: the same low-stimulation half hour before bed, every night."
+  ],
+  "tips": [
+    "Alcohol makes you fall asleep faster and wrecks the second half of the night. It is a sedative, not a sleep aid.",
+    "Chasing a sleep-tracker score reliably makes sleep worse. Judge by how you feel at 4pm.",
+    "Persistent insomnia, snoring with daytime exhaustion, or long-term poor sleep deserve a doctor rather than a life hack."
+  ],
+  "proof": "Four weeks of a consistent wake time, falling asleep within twenty minutes most nights, and daytime alertness without a mid-afternoon collapse."
+}

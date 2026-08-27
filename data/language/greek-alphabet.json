@@ -1,0 +1,24 @@
+{
+  "id": "greek-alphabet",
+  "name": "Learn the Greek alphabet",
+  "time": "3–5 days",
+  "level": "Easy",
+  "blurb": "Twenty-four letters, about half of which you already half-know from maths and science. It makes equations, fraternity letters and a whole country’s signage suddenly readable.",
+  "gear": [
+    "A letter chart with names and sounds",
+    "A spaced-repetition app"
+  ],
+  "steps": [
+    "Learn the letters you already recognise from maths and physics first — pi, sigma, delta, theta, lambda — which is a third of the alphabet for free.",
+    "Learn the rest in small groups, always with the letter name and its sound, not just its shape.",
+    "Learn the lowercase forms properly; they are the ones you will actually meet, and several look nothing like their capitals.",
+    "Watch for the traps: rho looks like a p, eta looks like an n, nu looks like a v, chi looks like an x.",
+    "Practise by sounding out real Greek words on signs, menus and packaging.",
+    "Learn the final sigma, which changes shape at the end of a word."
+  ],
+  "tips": [
+    "Learning shapes without sounds gets you halfway and then stalls. Say every letter aloud.",
+    "Modern and Ancient Greek pronounce several letters differently. Pick the one you care about and be consistent."
+  ],
+  "proof": "You sound out unfamiliar Greek words from a sign, letter by letter, without a chart."
+}

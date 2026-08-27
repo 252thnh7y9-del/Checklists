@@ -1,0 +1,24 @@
+{
+  "id": "write-cover-letter",
+  "name": "Write a cover letter",
+  "time": "1 week",
+  "level": "Moderate",
+  "blurb": "Not a restatement of the CV. Its job is to connect what they need to what you have done, in three short paragraphs.",
+  "gear": [
+    "The job advert",
+    "Something you know about the organisation"
+  ],
+  "steps": [
+    "Open with why this role and this organisation specifically. Generic openings read as mass-produced because they are.",
+    "In the middle, pick the two or three requirements that matter most and give a concrete example of each from your own experience.",
+    "Address the obvious question in their mind — a career change, a gap, a move — briefly and without apology.",
+    "Close by saying what you would like to happen next.",
+    "Keep it under a page. Nobody reads a long one.",
+    "Rewrite it for every application; a template with the company name swapped is transparent."
+  ],
+  "tips": [
+    "Telling them you are passionate and hard-working is invisible. Showing a specific thing you did is not.",
+    "Check the name and the organisation before sending. The wrong company name ends it instantly."
+  ],
+  "proof": "Letters that get interviews, and at least one interviewer who quotes something you wrote in it."
+}

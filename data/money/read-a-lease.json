@@ -1,0 +1,25 @@
+{
+  "id": "read-a-lease",
+  "name": "Read a lease before signing",
+  "time": "2–3 hours",
+  "level": "Moderate",
+  "blurb": "A tenancy agreement is the largest contract most people sign, and it is routinely signed unread. An hour of attention prevents years of avoidable arguments.",
+  "gear": [
+    "The full agreement, including any annexes",
+    "A pen",
+    "Your local tenancy rights guidance"
+  ],
+  "steps": [
+    "Read the whole thing, including schedules and house rules. Ask for anything referenced but not attached.",
+    "Check the basics: exact rent, due date, deposit amount, term length, notice periods on both sides, and how renewal works.",
+    "Check the deposit is protected in whatever scheme your jurisdiction requires, and get the paperwork.",
+    "Find the repairs clause: who is responsible for what, and how you report problems.",
+    "Look for the clauses that cause disputes: fees, break clauses, guests, subletting, pets, decoration, and end-of-tenancy cleaning standards.",
+    "Photograph and document the property’s condition on day one, in detail, and share the record with the landlord."
+  ],
+  "tips": [
+    "A clause in a contract is not automatically enforceable; local tenancy law overrides unfair terms in many places. Look up your rights.",
+    "Get any promise made verbally added to the agreement in writing before you sign."
+  ],
+  "proof": "You read an agreement, ask about the clauses that matter, and get at least one changed or clarified in writing."
+}

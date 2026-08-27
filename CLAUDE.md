@@ -25,7 +25,7 @@ If the default branch ever changes, repoint Settings → Pages at the new one.
 
 ## The project
 
-A dependency-free static site: 423 skills in 21 categories, each with its own
+A dependency-free static site: 502 skills in 25 categories, each with its own
 page. No build step for the site itself — `index.html` loads the CSS and the
 scripts directly, in order.
 
@@ -33,7 +33,7 @@ scripts directly, in order.
 index.html            shell, nav, footer
 css/styles.css        all styling; light/dark defined at token level
 css/fonts.css         generated — Google Fonts inlined as data URIs
-data/categories.json  the 21 categories, in home-page order
+data/categories.json  the 25 categories, in home-page order
 data/<cat>/index.json that category's skill ids, in display order
 data/<cat>/<id>.json  one skill — the source you edit
 js/skills.js          GENERATED from data/ — never edit by hand
@@ -43,7 +43,7 @@ js/app.js             hash router and views
 
 **`data/` is the source; `js/skills.js` is compiled from it and committed.**
 Pages serves the repo as-is with no build step, a `<script src>` cannot load JSON,
-and fetching 423 files at runtime would break `file://` and the offline bundle —
+and fetching 500-odd files at runtime would break `file://` and the offline bundle —
 hence the compile. After any edit under `data/`, run `node build-data.js`, or the
 site deploys unchanged. CI runs `node build-data.js --check` to catch exactly that.
 

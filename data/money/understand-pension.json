@@ -1,0 +1,24 @@
+{
+  "id": "understand-pension",
+  "name": "Understand your pension",
+  "time": "3–5 hours",
+  "level": "Moderate",
+  "blurb": "Retirement saving is where small decisions compound the most, and it is the account people understand least. Two hours now is worth more than any other financial afternoon.",
+  "gear": [
+    "Your pension statements",
+    "Your employer’s scheme documents"
+  ],
+  "steps": [
+    "Find out what type you have — a defined contribution pot or a defined benefit promise — because they work completely differently.",
+    "Find out what your employer contributes and what you must contribute to get the full match. Not claiming the full match is turning down pay.",
+    "Find where the money is invested, which for most people is a default fund they never chose.",
+    "Find the charges, expressed as an annual percentage, and understand that they compound over decades.",
+    "Track down old pensions from previous jobs; small forgotten pots are extremely common.",
+    "Check what happens on death and make sure the nomination form is completed and current."
+  ],
+  "tips": [
+    "Rules, tax treatment and terminology vary enormously by country. Use your own jurisdiction’s official guidance.",
+    "This is orientation, not advice. Anything consequential — transferring a defined benefit pension especially — needs a regulated adviser."
+  ],
+  "proof": "You can state your contribution rate, your employer’s, your fund, your charges, and where every old pot is."
+}

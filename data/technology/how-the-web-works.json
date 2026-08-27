@@ -1,0 +1,24 @@
+{
+  "id": "how-the-web-works",
+  "name": "Understand how the web works",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "What actually happens between typing an address and seeing a page. It makes troubleshooting, privacy and security decisions concrete rather than superstitious.",
+  "gear": [
+    "A browser with developer tools",
+    "A terminal for dig, ping and traceroute"
+  ],
+  "steps": [
+    "Follow one request end to end: DNS lookup, TCP connection, TLS handshake, HTTP request, response, rendering.",
+    "Learn what DNS does and try it yourself with dig or nslookup, including why a change takes time to propagate.",
+    "Learn what HTTPS actually protects — the content and the integrity, not the fact that you visited — and what a certificate proves.",
+    "Learn the common status codes and what they tell you when something breaks.",
+    "Learn what cookies are, the difference between first and third party, and how that connects to tracking.",
+    "Watch it all happen in the Network panel on a real page load."
+  ],
+  "tips": [
+    "The padlock means the connection is encrypted, not that the site is trustworthy. Phishing sites have padlocks too.",
+    "Most home connectivity problems are DNS. Learning to test that first saves hours."
+  ],
+  "proof": "You diagnose a real connectivity or site problem by reasoning about which layer failed."
+}

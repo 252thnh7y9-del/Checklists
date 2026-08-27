@@ -1,0 +1,24 @@
+{
+  "id": "pulse-and-bp",
+  "name": "Take your own pulse and blood pressure",
+  "time": "1 week",
+  "level": "Easy",
+  "blurb": "Two numbers you can measure yourself, and knowing your normal is what makes an abnormal reading meaningful.",
+  "gear": [
+    "A watch with a second hand",
+    "A validated upper-arm blood pressure monitor"
+  ],
+  "steps": [
+    "Take your pulse at the wrist with two fingers — never the thumb, which has its own pulse — counting for 30 seconds and doubling.",
+    "Learn your resting rate by measuring before getting up, on several mornings.",
+    "Note the rhythm as well as the rate: a persistently irregular pulse is worth reporting to a doctor.",
+    "For blood pressure, use a validated upper-arm cuff rather than a wrist device, sized correctly for your arm.",
+    "Measure properly: seated, feet flat, back supported, arm at heart height, after five minutes of quiet, with no caffeine or exercise in the previous half hour.",
+    "Take two or three readings a minute apart and record the average, at the same time of day."
+  ],
+  "tips": [
+    "One high reading means very little. Trends across days are what matter.",
+    "Do not adjust any prescribed medication based on home readings. Take the numbers to your doctor."
+  ],
+  "proof": "You know your resting pulse and typical blood pressure, measured with correct technique over several days."
+}

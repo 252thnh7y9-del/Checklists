@@ -1,0 +1,24 @@
+{
+  "id": "proofread",
+  "name": "Proofread your own writing",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Your brain reads what you meant, not what you wrote. Beating that requires deliberately breaking the familiarity.",
+  "gear": [
+    "A printer or a text-to-speech tool",
+    "Time between writing and checking"
+  ],
+  "steps": [
+    "Leave time between writing and proofreading. An hour helps; a night is better.",
+    "Read it aloud, or have the computer read it to you. Ears catch what eyes skip.",
+    "Change the appearance — different font, print it, read on a different device — so it looks unfamiliar.",
+    "Read backwards sentence by sentence for spelling, which removes the meaning that lets you skim.",
+    "Check the high-cost items separately and deliberately: names, numbers, dates, links and the subject line.",
+    "Do one pass per problem type rather than looking for everything at once."
+  ],
+  "tips": [
+    "Spellcheck misses every correctly spelled wrong word, which is most real errors.",
+    "The title, the first line and the caption are where typos survive longest, because nobody proofreads those."
+  ],
+  "proof": "Something you proofread goes out with no errors found by anyone else."
+}

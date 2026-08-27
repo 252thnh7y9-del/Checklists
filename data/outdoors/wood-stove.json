@@ -1,0 +1,26 @@
+{
+  "id": "wood-stove",
+  "name": "Run a wood stove properly",
+  "time": "2–3 weeks",
+  "level": "Moderate",
+  "blurb": "A badly run stove smoulders, tars the flue and fills a room with particulates. Run correctly it burns clean and hot on a fraction of the wood.",
+  "gear": [
+    "Seasoned wood under 20% moisture",
+    "A moisture meter",
+    "A stove thermometer",
+    "A swept chimney and a CO alarm"
+  ],
+  "steps": [
+    "Burn only seasoned wood — under about 20% moisture, checked with a meter. Wet wood is the cause of most smoke, tar and poor heat.",
+    "Light top-down: large logs at the bottom, kindling above, firelighter on top. It lights cleaner and smokes far less than the traditional way.",
+    "Run the air fully open until the fire is properly established and the flue is warm.",
+    "Then reduce the air only to the point where flames still dance. Shutting it down to smoulder overnight is what creates creosote and pollution.",
+    "Watch the flue thermometer and keep it in the operating band — too cool tars the chimney, too hot risks a chimney fire.",
+    "Have the chimney swept at the recommended interval and fit a carbon monoxide alarm in the room."
+  ],
+  "tips": [
+    "Never burn treated wood, painted timber, pallets or rubbish. The fumes are toxic and they wreck the flue.",
+    "A glass door going black means poor combustion: usually wet wood or too little air."
+  ],
+  "proof": "A clean-burning fire with clear glass, and a flue that shows little deposit when swept."
+}

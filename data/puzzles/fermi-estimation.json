@@ -1,0 +1,23 @@
+{
+  "id": "fermi-estimation",
+  "name": "Make Fermi estimates",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Working out roughly how many piano tuners are in a city, from nothing. It is the thinking skill that lets you sanity-check numbers other people give you.",
+  "gear": [
+    "A pen and the back of an envelope"
+  ],
+  "steps": [
+    "Learn the method: break an unknowable quantity into factors you can each guess within a factor of ten, then multiply.",
+    "Estimate in orders of magnitude rather than precise figures, since errors in opposite directions largely cancel.",
+    "Build a stock of anchor numbers: your country’s population, a city’s population, seconds in a year, typical salaries.",
+    "State your assumptions explicitly as you go, so the estimate can be argued with and corrected.",
+    "Check the answer for plausibility against something you do know.",
+    "Practise on real questions and look up the true figure afterwards to calibrate."
+  ],
+  "tips": [
+    "The aim is the right order of magnitude, not the right number. Being within a factor of three is usually a win.",
+    "This is the fastest way to notice that a statistic in an article cannot possibly be true."
+  ],
+  "proof": "You estimate a quantity you have never looked up and land within a factor of three."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "build-a-budget",
+  "name": "Build a budget you will actually keep",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Most budgets fail because they are a spreadsheet of good intentions with no slack in them. A budget that survives contact with real life is coarse, forgiving and automatic.",
+  "gear": [
+    "Three months of bank statements",
+    "A spreadsheet or a budgeting app"
+  ],
+  "steps": [
+    "Start by measuring, not planning: categorise three months of actual spending before deciding anything.",
+    "Separate fixed costs from variable ones. Fixed costs are where the large, permanent savings live; variable ones are where willpower gets spent.",
+    "Use a coarse framework rather than thirty categories — something like needs, wants and savings — because detailed budgets collapse under their own admin.",
+    "Budget for the irregular things everyone forgets: car repairs, birthdays, insurance renewals. Divide the annual cost by twelve and set it aside monthly.",
+    "Automate the transfers on payday so saving happens before spending rather than from what is left.",
+    "Review monthly and adjust the plan to reality rather than the reverse."
+  ],
+  "tips": [
+    "A budget with no fun money is abandoned within two months. Build the slack in deliberately.",
+    "Cutting small pleasures rarely moves the needle; the big four — housing, transport, food, debt cost — usually do."
+  ],
+  "proof": "Three consecutive months where you know where the money went and the plan needed only small corrections."
+}

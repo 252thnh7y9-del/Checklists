@@ -1,0 +1,24 @@
+{
+  "id": "spaced-vocab",
+  "name": "Build vocabulary with spaced repetition",
+  "time": "2–4 weeks to establish",
+  "level": "Moderate",
+  "blurb": "The single most efficient way to hold thousands of words. It works, and almost everyone who bounces off it does so by making the same three card-design mistakes.",
+  "gear": [
+    "Anki or a similar spaced-repetition app",
+    "Audio and example sentences"
+  ],
+  "steps": [
+    "Understand the principle: you review each item just before you would forget it, so the interval grows and the workload stays flat.",
+    "Make one fact per card. A card asking for four things fails four different ways and you will never learn which.",
+    "Put words in a sentence with context rather than as bare translation pairs, and include audio.",
+    "Do reviews every day. The algorithm assumes it, and skipping a week creates a pile that makes people quit.",
+    "Delete cards you keep failing and rewrite them: a leech is a badly made card, not a personal failing.",
+    "Keep new cards to a modest daily limit, because every new card is a review debt for months."
+  ],
+  "tips": [
+    "Downloading a 10,000-card shared deck is the classic way to abandon the method in a fortnight.",
+    "Cards you made yourself are learned dramatically faster than cards someone else made."
+  ],
+  "proof": "Ninety consecutive days of reviews with a mature retention rate above 85%."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "take-notes",
+  "name": "Take notes worth rereading",
+  "time": "3–4 weeks",
+  "level": "Moderate",
+  "blurb": "Transcribing is not note-taking. Useful notes are written in your own words, structured while you write, and revisited soon afterwards.",
+  "gear": [
+    "Notebook or an app you will actually open",
+    "A method: Cornell, outline, or a plain question-and-answer format"
+  ],
+  "steps": [
+    "Write in your own words. The reformulation is what creates the memory; verbatim copying does almost nothing.",
+    "Structure as you go — headings, indentation, numbering — so the shape of the argument is visible later.",
+    "Leave space for later additions rather than filling every line.",
+    "Mark questions, disagreements and actions distinctly from content, so you can find them.",
+    "Review within a day and write a three-line summary at the top. This is the step that turns notes into knowledge and the one everyone skips.",
+    "Link new notes to older ones on the same topic instead of accumulating isolated pages."
+  ],
+  "tips": [
+    "Notes you never reread were a waste of the time spent writing them. Build the review in or stop taking them.",
+    "Trying to capture everything means understanding nothing. Aim for the argument, not the transcript."
+  ],
+  "proof": "You reread notes from a month ago and they are genuinely useful without your memory filling the gaps."
+}

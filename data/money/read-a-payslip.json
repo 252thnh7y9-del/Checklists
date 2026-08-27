@@ -1,0 +1,24 @@
+{
+  "id": "read-a-payslip",
+  "name": "Read a payslip",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "Most people have never checked one, and payroll errors are far from rare. Ten minutes of understanding protects you against quietly losing money for years.",
+  "gear": [
+    "Your last few payslips",
+    "Your contract or offer letter"
+  ],
+  "steps": [
+    "Learn the structure: gross pay, deductions, net pay, and the year-to-date columns that show cumulative totals.",
+    "Check gross pay against your contract, including any overtime, bonus or shift premium.",
+    "Identify each deduction: income tax, social insurance contributions, pension, student loan, anything else.",
+    "Check your tax code or equivalent identifier. A wrong code is one of the commonest and most expensive payroll errors.",
+    "Check the pension line — both your contribution and any employer match — because an unclaimed match is free money forgone.",
+    "Keep payslips, and compare against the year-end summary when it arrives."
+  ],
+  "tips": [
+    "Payroll mistakes tend to persist until someone notices. Check the first payslip after any change of job, pay or hours.",
+    "Rules differ by country and situation. For anything unclear or expensive, ask payroll or a qualified adviser rather than guessing."
+  ],
+  "proof": "You can account for every line on your payslip and have verified the figures against your contract."
+}

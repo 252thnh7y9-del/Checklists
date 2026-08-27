@@ -1,0 +1,25 @@
+{
+  "id": "charcoal-grilling",
+  "name": "Cook over charcoal",
+  "time": "3–5 sessions",
+  "level": "Moderate",
+  "blurb": "Charcoal is a heat-management skill, not a flame-and-hope one. Two-zone fires and a thermometer turn burnt-outside-raw-inside into consistently good food.",
+  "gear": [
+    "A charcoal grill with a lid",
+    "A chimney starter — no lighter fluid",
+    "Long tongs and an instant-read thermometer"
+  ],
+  "steps": [
+    "Light with a chimney starter and paper. Lighter fluid taints the food and is unnecessary.",
+    "Wait until the coals are ashed over and grey before cooking; flaming coals are too hot and deposit soot.",
+    "Build a two-zone fire: coals banked on one side, nothing on the other. This single habit fixes most grilling problems.",
+    "Sear over direct heat, then move to the indirect side and cover to finish through — hot and fast for thin cuts, indirect for thick ones.",
+    "Control temperature with the vents, not by moving coals around: bottom vent for airflow, top vent for exhaust.",
+    "Cook to temperature with a thermometer, and rest the meat before cutting."
+  ],
+  "tips": [
+    "Flare-ups are dripping fat igniting. Move the food to the indirect zone rather than spraying water, which raises ash.",
+    "Never use a charcoal grill indoors, in a tent, or in a closed garage — carbon monoxide from cooling coals kills people every year."
+  ],
+  "proof": "A thick cut cooked evenly to temperature with a proper crust and no burnt exterior."
+}

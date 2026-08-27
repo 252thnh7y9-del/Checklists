@@ -1,0 +1,23 @@
+{
+  "id": "track-spending",
+  "name": "Track your spending for a month",
+  "time": "1 month",
+  "level": "Easy",
+  "blurb": "The measurement that makes every other financial decision possible. Almost everyone is surprised by at least one category.",
+  "gear": [
+    "A banking app with categorisation, or a simple spreadsheet"
+  ],
+  "steps": [
+    "Pick a method you will keep up for a month: automatic categorisation is fine, and better than a perfect system you abandon in week two.",
+    "Capture everything, including cash and the small recurring things that hide.",
+    "Categorise coarsely — a dozen categories at most.",
+    "Separate one-offs from recurring costs, so an unusual month does not distort the picture.",
+    "At the end of the month, compare what you spent against what you would have guessed. The gap is the point of the exercise.",
+    "Pick one or two changes based on what you found, rather than trying to fix everything."
+  ],
+  "tips": [
+    "The first month is measurement, not judgement. Changing behaviour while measuring gives you a picture of a month you do not normally have.",
+    "Subscriptions and delivery apps are where the surprises usually are."
+  ],
+  "proof": "A month of complete records and at least one genuine surprise you have acted on."
+}

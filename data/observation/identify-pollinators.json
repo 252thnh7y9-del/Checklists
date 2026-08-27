@@ -1,0 +1,25 @@
+{
+  "id": "identify-pollinators",
+  "name": "Identify bees, butterflies and pollinators",
+  "time": "A season",
+  "level": "Moderate",
+  "blurb": "Most people see one kind of bee. There are hundreds, and learning the common ones makes a garden or a verge suddenly full of distinct characters.",
+  "gear": [
+    "A regional guide",
+    "Close-focus binoculars or a phone macro lens",
+    "A notebook"
+  ],
+  "steps": [
+    "Learn the big groups first: honeybees, bumblebees, solitary bees, hoverflies, wasps, butterflies and moths.",
+    "Learn to separate hoverflies from bees, which is the commonest confusion — two wings not four, and hovering flight.",
+    "Learn the handful of common bumblebees by tail colour and banding, which covers most sightings.",
+    "Learn the local butterflies, which are few enough to know completely in most regions.",
+    "Record what you see on which flowers; the plant is often a strong identification clue.",
+    "Submit records to a national recording scheme, where amateur data genuinely matters."
+  ],
+  "tips": [
+    "Photograph rather than catch. Most can be identified from a decent photograph of the right angle.",
+    "Bees are not aggressive when foraging. Solitary bees mostly cannot sting through skin at all."
+  ],
+  "proof": "You identify twenty pollinator species in your area and submit records to a recording scheme."
+}

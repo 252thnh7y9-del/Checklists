@@ -1,0 +1,24 @@
+{
+  "id": "word-roots",
+  "name": "Learn Latin and Greek word roots",
+  "time": "3–5 weeks",
+  "level": "Moderate",
+  "blurb": "A few dozen roots, prefixes and suffixes let you decode thousands of unfamiliar English words on sight — especially in science, law and medicine.",
+  "gear": [
+    "A list of common roots and affixes",
+    "A notebook"
+  ],
+  "steps": [
+    "Learn the highest-yield prefixes first: un-, re-, in-, dis-, pre-, sub-, inter-, trans-, super-.",
+    "Learn the common roots: spect, dict, port, struct, scrib, ject, tract, vert, log, phon, graph, chron.",
+    "Learn the suffixes that mark part of speech, so you can tell a noun from an adjective in a word you have never seen.",
+    "Practise by breaking apart long words you meet and predicting the meaning before checking.",
+    "Learn the number and size prefixes, which cover an enormous amount of scientific vocabulary.",
+    "Be alert to false analyses — not every word that looks Latin is."
+  ],
+  "tips": [
+    "Roots give you a strong guess, not a definition. Check when it matters.",
+    "This pays off most in fields with dense terminology; it is the fastest way into medical vocabulary."
+  ],
+  "proof": "You correctly guess the meaning of unfamiliar technical words by decomposing them."
+}

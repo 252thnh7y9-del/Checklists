@@ -1,0 +1,23 @@
+{
+  "id": "summarise",
+  "name": "Summarise anything in three sentences",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "A test of understanding disguised as a writing exercise. If you cannot compress it, you have not understood it.",
+  "gear": [
+    "Articles, meetings or documents to practise on"
+  ],
+  "steps": [
+    "Identify the single main claim first, and write it in one sentence in your own words.",
+    "Add the strongest supporting reason or evidence in a second sentence.",
+    "Add the implication, limitation or so-what in a third.",
+    "Cut every adjective, hedge and connector that is not carrying weight.",
+    "Test it on someone who has not read the original and see whether they get the point.",
+    "Practise daily on something you read anyway."
+  ],
+  "tips": [
+    "Starting with the details and hoping the point emerges produces a shorter version, not a summary.",
+    "If your summary needs a fourth sentence, you probably have two main claims. Say so explicitly."
+  ],
+  "proof": "Someone who has not read the original can accurately explain it back from your three sentences."
+}

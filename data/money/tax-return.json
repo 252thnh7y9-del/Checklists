@@ -1,0 +1,25 @@
+{
+  "id": "tax-return",
+  "name": "File a simple tax return",
+  "time": "A weekend",
+  "level": "Moderate",
+  "blurb": "For straightforward circumstances this is a form, a deadline and some record keeping — not the ordeal its reputation suggests. Doing it yourself once teaches you what actually matters.",
+  "gear": [
+    "Your income records for the year",
+    "Records of deductible expenses",
+    "Your tax authority’s official guidance"
+  ],
+  "steps": [
+    "Find your deadlines, including any payment dates that differ from the filing date, and diarise them.",
+    "Register in advance if you need to; identity verification can take weeks and is a common cause of late filing.",
+    "Gather income from every source: employment, self-employment, interest, dividends, rent, benefits.",
+    "Learn which expenses are deductible in your situation, from official guidance rather than from social media.",
+    "Fill it in early, well before the deadline, so there is time to find missing paperwork.",
+    "Keep records for however long your jurisdiction requires, and set money aside through the year rather than facing one bill."
+  ],
+  "tips": [
+    "Rules are jurisdiction-specific and change annually. Use the official guidance for your country and year.",
+    "Anything complicated — property, shares, crypto, working across borders, a business — is worth an accountant. They usually cost less than the mistakes."
+  ],
+  "proof": "A return filed accurately and on time, with records organised for next year."
+}

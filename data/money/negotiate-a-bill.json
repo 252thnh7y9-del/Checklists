@@ -1,0 +1,25 @@
+{
+  "id": "negotiate-a-bill",
+  "name": "Negotiate a bill or subscription",
+  "time": "An afternoon",
+  "level": "Easy",
+  "blurb": "Loyalty is priced as inertia: broadband, insurance and mobile contracts are routinely cheaper for new customers. One afternoon a year is unusually well-paid work.",
+  "gear": [
+    "Your current contract and renewal price",
+    "Competitor quotes",
+    "An hour and some patience"
+  ],
+  "steps": [
+    "Audit your recurring payments first — most people find at least one subscription they had forgotten.",
+    "Get real competitor quotes before calling, because a specific alternative is the only leverage that works.",
+    "Call the retentions or cancellations team rather than general support; they have the discounts.",
+    "Be polite, specific and calm: state the competing offer, ask what they can do, then stop talking.",
+    "Be genuinely willing to leave, and follow through if the offer is poor.",
+    "Set a calendar reminder for a month before every renewal date, since auto-renewal is where the money leaks."
+  ],
+  "tips": [
+    "Insurance auto-renewal quotes are frequently well above the new-customer price for the identical policy.",
+    "Check that a cheaper deal has comparable cover or speed. A worse product at a lower price is not a saving."
+  ],
+  "proof": "You cut at least one recurring bill without reducing what you actually get."
+}

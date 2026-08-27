@@ -1,0 +1,24 @@
+{
+  "id": "credit-report",
+  "name": "Check your credit report",
+  "time": "2–3 hours",
+  "level": "Easy",
+  "blurb": "Your credit file decides the price of borrowing, and errors on it are common. Checking is free in most countries and takes an evening.",
+  "gear": [
+    "Access to your country’s credit reference agencies",
+    "Proof of identity"
+  ],
+  "steps": [
+    "Find out which agencies operate where you live and get your report from each, since they hold different data.",
+    "Check the basics are right: name, addresses, and that every account listed is genuinely yours.",
+    "Look for accounts you do not recognise, which can be the first sign of identity theft.",
+    "Check for errors: settled debts still showing as open, wrong dates, duplicate entries.",
+    "Dispute anything wrong with the agency and the lender, in writing, and keep records.",
+    "Learn what actually affects the score where you live — payment history and utilisation usually dominate — and ignore the mythology."
+  ],
+  "tips": [
+    "Checking your own report does not harm your score anywhere that matters.",
+    "Free statutory access exists in many countries. You rarely need a paid subscription."
+  ],
+  "proof": "You have read your full report from each agency and disputed anything incorrect."
+}

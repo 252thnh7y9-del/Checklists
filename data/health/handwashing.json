@@ -1,0 +1,24 @@
+{
+  "id": "handwashing",
+  "name": "Wash your hands properly",
+  "time": "1 hour",
+  "level": "Easy",
+  "blurb": "One of the highest-impact public health measures there is, and almost everyone does it for a fraction of the necessary time and misses the same spots.",
+  "gear": [
+    "Soap and running water",
+    "Alcohol hand rub for when there is no sink"
+  ],
+  "steps": [
+    "Wet hands first, then soap — the lather is what lifts and carries away microbes.",
+    "Scrub for at least twenty seconds. Time it once; it is far longer than the usual four-second rinse.",
+    "Cover the spots everyone misses: between the fingers, the thumbs, the fingertips and nails, and the backs of the hands.",
+    "Rinse thoroughly and dry completely — wet hands transfer microbes far more readily than dry ones.",
+    "Learn the moments that matter most: before food, after the toilet, after transport, after handling raw meat, after coughing.",
+    "Use alcohol gel when there is no sink, but wash when hands are visibly dirty, since gel does not work through soil."
+  ],
+  "tips": [
+    "Water temperature makes little difference to hygiene; time and coverage do.",
+    "Long nails and rings harbour microbes and are the hardest areas to clean."
+  ],
+  "proof": "You cover every surface for a full twenty seconds without having to think about the sequence."
+}

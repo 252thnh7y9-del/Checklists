@@ -1,0 +1,24 @@
+{
+  "id": "eye-care",
+  "name": "Look after your eyes at a screen",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Screen use does not damage eyes, but it does cause real strain and dryness — mostly because people stop blinking. The fixes are small and effective.",
+  "gear": [
+    "A screen you can reposition",
+    "A timer or reminder"
+  ],
+  "steps": [
+    "Follow the 20-20-20 rule: every twenty minutes, look at something about twenty feet away for twenty seconds, which relaxes the focusing muscles.",
+    "Blink deliberately. Blink rate drops sharply at a screen, which is the main cause of dryness.",
+    "Position the screen slightly below eye level so your eyelids cover more of the eye.",
+    "Match screen brightness to the room and avoid working with a bright window directly behind or in front of the screen.",
+    "Increase text size rather than leaning in.",
+    "Get an eye test at the recommended interval — uncorrected vision is a common hidden cause of headaches."
+  ],
+  "tips": [
+    "Blue-light glasses have weak evidence for eye strain. Breaks, blinking and brightness matter more.",
+    "Sudden vision changes, flashes or floaters are urgent — same-day medical attention."
+  ],
+  "proof": "A full day of screen work without headaches, dry eyes or the need to squint."
+}

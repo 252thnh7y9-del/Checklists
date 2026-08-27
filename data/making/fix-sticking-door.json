@@ -1,0 +1,26 @@
+{
+  "id": "fix-sticking-door",
+  "name": "Fix a sticking or squeaking door",
+  "time": "1–2 hours",
+  "level": "Easy",
+  "blurb": "A door that catches or squeaks is usually loose hinge screws rather than a warped door. Ten minutes with a screwdriver fixes most of them.",
+  "gear": [
+    "Screwdriver",
+    "Longer screws",
+    "Candle wax or dry lubricant",
+    "A plane or sandpaper for the stubborn case"
+  ],
+  "steps": [
+    "Diagnose first: close the door slowly and watch where it touches, and check for a gap that has become uneven.",
+    "Tighten the hinge screws, especially the top hinge. A sagging door is nearly always loose screws pulling out of soft frame timber.",
+    "If the screws spin, replace them with longer ones that reach the stud behind the frame, or plug the holes with glued dowel and redrill.",
+    "For squeaks, lift the hinge pin, clean it, and apply a dry lubricant or a little grease — not cooking oil, which goes sticky.",
+    "If it still catches after the hinges are sound, mark the rubbing point and remove a little material with a plane or sandpaper.",
+    "Seal any bare wood you expose, so it does not absorb moisture and swell again."
+  ],
+  "tips": [
+    "Planing first is the classic mistake. Once wood is removed it cannot go back, and the cause is usually hinges.",
+    "Doors that stick only in damp weather are swelling, not sagging. Address the moisture."
+  ],
+  "proof": "A door that closes cleanly and silently through a full change of seasons."
+}

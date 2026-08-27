@@ -1,0 +1,24 @@
+{
+  "id": "portion-by-eye",
+  "name": "Judge portion sizes by eye",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "Using your own hand as the measure travels everywhere and needs no scales. It is a calibration skill, not a diet.",
+  "gear": [
+    "Kitchen scales, for calibration only",
+    "Your hands"
+  ],
+  "steps": [
+    "Learn the hand guides: a palm of protein, a fist of vegetables, a cupped hand of carbohydrate, a thumb of fat.",
+    "Calibrate once with scales: weigh what you actually serve yourself for a week and compare to the guide.",
+    "Learn what a real restaurant portion looks like against that measure — usually two or three times a home portion.",
+    "Practise plating deliberately rather than eating from the pan or the packet.",
+    "Learn the volume tricks: a deck of cards for meat, a tennis ball for rice, a matchbox for cheese.",
+    "Recalibrate occasionally, since estimates drift upward over months."
+  ],
+  "tips": [
+    "Hand size scales roughly with body size, which is what makes it a reasonable personal measure.",
+    "This is about awareness, not restriction. If food is a fraught area for you, do this with professional support or not at all."
+  ],
+  "proof": "Your eyeballed portions land within about 20% of the weighed amount across a week."
+}

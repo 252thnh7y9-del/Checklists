@@ -1,0 +1,23 @@
+{
+  "id": "spot-a-scam",
+  "name": "Spot a financial scam",
+  "time": "2–3 hours",
+  "level": "Easy",
+  "blurb": "Modern scams are professional, personalised and rely on manufactured urgency. Knowing the shape of them is far more protective than knowing any particular one.",
+  "gear": [
+    "Your bank’s official contact number, saved from the card itself"
+  ],
+  "steps": [
+    "Learn the universal tell: manufactured urgency. Every scam needs you to act before you think.",
+    "Learn the impersonation pattern — bank, tax office, police, delivery firm, your own boss — and the rule that none of them will ask you to move money to a safe account.",
+    "Never use contact details supplied in the message. Hang up, wait a few minutes, and call the number on your card or the official website.",
+    "Learn that caller ID, sender names and email addresses are trivially spoofed, and that a message arriving in a genuine thread proves nothing.",
+    "Learn the romance and investment patterns, which unfold over weeks and rely on relationship rather than urgency.",
+    "Agree a rule with older relatives: any request to move money gets a call to you first, no exceptions."
+  ],
+  "tips": [
+    "Embarrassment is the scammer’s ally. Report it immediately to your bank and the relevant authority; speed matters for recovery.",
+    "Anyone can be caught. It is a professional industry, not a test of intelligence."
+  ],
+  "proof": "You can describe the standard patterns and have a verification habit you use without exception."
+}

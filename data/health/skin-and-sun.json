@@ -1,0 +1,25 @@
+{
+  "id": "skin-and-sun",
+  "name": "Look after your skin and use sunscreen properly",
+  "time": "2–3 weeks",
+  "level": "Easy",
+  "blurb": "A short, boring routine outperforms an elaborate one, and sun protection does more for long-term skin than every other product combined.",
+  "gear": [
+    "A gentle cleanser",
+    "A moisturiser",
+    "A broad-spectrum SPF 30 or higher"
+  ],
+  "steps": [
+    "Keep the routine minimal: cleanse, moisturise, and sunscreen in the morning. Most elaborate routines add irritation, not benefit.",
+    "Apply far more sunscreen than feels right — roughly a teaspoon for the face and neck. Under-application is why real-world protection falls short of the label.",
+    "Reapply every couple of hours in strong sun, and after swimming or sweating.",
+    "Wear it on cloudy days and in winter for UVA, which passes through cloud and glass.",
+    "Add active ingredients one at a time, weeks apart, so you can tell what causes a reaction.",
+    "Cover up as the first line — shade, sleeves, a hat — with sunscreen for what is left."
+  ],
+  "tips": [
+    "Layering several actives at once is the usual cause of a damaged skin barrier.",
+    "A change in a mole — asymmetry, irregular border, uneven colour, growth — is a doctor’s appointment, not something to watch for a year."
+  ],
+  "proof": "Three months of daily sunscreen and a routine simple enough that you never skip it."
+}

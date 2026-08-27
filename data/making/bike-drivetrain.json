@@ -1,0 +1,26 @@
+{
+  "id": "bike-drivetrain",
+  "name": "Clean and service a bike drivetrain",
+  "time": "2–3 hours",
+  "level": "Moderate",
+  "blurb": "A clean, correctly lubricated chain shifts better, lasts several times longer and saves replacing cassettes. Half an hour a month.",
+  "gear": [
+    "Degreaser and brushes",
+    "Chain lubricant suited to your conditions",
+    "A chain wear gauge",
+    "Rags"
+  ],
+  "steps": [
+    "Check chain wear first with a gauge. A worn chain destroys the cassette and chainrings, so replacing it on time is the cheapest maintenance there is.",
+    "Degrease the chain, cassette and chainrings, working the brush between sprockets, then rinse and dry completely.",
+    "Apply lubricant to the inside of each roller, one link at a time, rather than spraying the whole chain.",
+    "Wipe off all the surface lubricant. Oil on the outside only collects grit and grinds the drivetrain.",
+    "Choose the right lube: wet for rain, dry for dust. Using wet lube in dry conditions makes a grinding paste.",
+    "Check the jockey wheels and clean between them, since they collect the worst of it."
+  ],
+  "tips": [
+    "A chain replaced at 0.5% wear saves the cassette. Left to 1%, you are buying both.",
+    "More lubricant is not better. A wet-looking chain is a dirty chain waiting to happen."
+  ],
+  "proof": "A silent drivetrain that shifts cleanly, and a chain you replace on measurement rather than on failure."
+}

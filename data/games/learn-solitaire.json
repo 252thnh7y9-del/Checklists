@@ -1,0 +1,23 @@
+{
+  "id": "learn-solitaire",
+  "name": "Learn a solitaire card game properly",
+  "time": "1–2 weeks",
+  "level": "Easy",
+  "blurb": "Beyond clicking through Klondike: games like FreeCell are almost always solvable with correct play, which turns solitaire from luck into a puzzle.",
+  "gear": [
+    "A deck of cards, or a good implementation"
+  ],
+  "steps": [
+    "Learn FreeCell first, where nearly every deal is solvable and the outcome is skill rather than luck.",
+    "Learn to plan several moves ahead and to count your free cells before committing to a sequence.",
+    "Learn the core principle: empty columns are worth more than free cells, so prioritise creating them.",
+    "Learn to identify a deal that has become unwinnable, and why, rather than shuffling on.",
+    "Learn a second game with different mechanics — Spider or Yukon — to see the shared ideas.",
+    "Play without undo, which is the only way the decisions matter."
+  ],
+  "tips": [
+    "Sending cards to the foundations too early removes cards you needed for sequencing. Hold them back.",
+    "If you rely on undo, you are exploring rather than playing. Both are fine, but only one is practice."
+  ],
+  "proof": "You win the large majority of FreeCell deals without using undo."
+}

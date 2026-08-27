@@ -1,0 +1,24 @@
+{
+  "id": "compound-interest",
+  "name": "Understand compound interest",
+  "time": "2–3 hours",
+  "level": "Easy",
+  "blurb": "The one piece of financial mathematics that explains both why debt is dangerous and why saving early matters so much. It is genuinely counter-intuitive until you calculate it once.",
+  "gear": [
+    "A spreadsheet",
+    "A compound interest calculator"
+  ],
+  "steps": [
+    "Build the model yourself in a spreadsheet: a starting balance, a rate, and a column per year. Watching the curve bend is what makes it click.",
+    "Learn the rule of 72: divide 72 by the annual percentage rate to get the rough doubling time.",
+    "Run it in both directions — on savings and on a credit card balance at 25% — and notice that the same mechanism works against you.",
+    "Learn the effect of time: the first decade of contributions usually outweighs the last two combined.",
+    "Learn what fees do, since a 1% annual charge compounds too and can consume a large share of a lifetime return.",
+    "Learn the difference between nominal and real returns, so inflation is in the picture."
+  ],
+  "tips": [
+    "The intuition failure is assuming growth is linear. Draw the curve.",
+    "This is arithmetic, not investment advice. What to do about it depends on your circumstances."
+  ],
+  "proof": "You can estimate a doubling time in your head and explain to someone why paying off a high-interest debt beats saving."
+}

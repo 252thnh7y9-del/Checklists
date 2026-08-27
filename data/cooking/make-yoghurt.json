@@ -1,0 +1,27 @@
+{
+  "id": "make-yoghurt",
+  "name": "Make yoghurt",
+  "time": "2–3 attempts",
+  "level": "Easy",
+  "blurb": "Milk plus a spoonful of live yoghurt plus warmth. It costs almost nothing, tastes better than most shop yoghurt, and teaches the basics of fermentation temperature control.",
+  "gear": [
+    "Milk",
+    "A few spoons of live yoghurt as a starter",
+    "A thermometer",
+    "A way to hold about 43 °C: oven light, flask or yoghurt maker"
+  ],
+  "steps": [
+    "Heat the milk to about 82 °C and hold it for a few minutes, which denatures the proteins and gives a thicker set.",
+    "Cool to about 43 °C. Too hot kills the culture, which is the commonest failure.",
+    "Whisk in a few spoonfuls of live yoghurt with active cultures as your starter.",
+    "Hold at roughly 40–45 °C for four to eight hours — longer gives a tangier, firmer result.",
+    "Do not disturb it while it sets; moving it breaks the curd.",
+    "Chill for several hours before eating, and save a few spoonfuls as the starter for the next batch."
+  ],
+  "tips": [
+    "Runny yoghurt usually means the incubation was too cool or too short, or the starter was not live.",
+    "Strain through cloth for a few hours to make thick Greek-style yoghurt, and keep the whey for baking.",
+    "Keep everything clean and refrigerate promptly; this is a controlled ferment, not a free-for-all."
+  ],
+  "proof": "A thick, tangy set batch, made using a starter saved from your previous one."
+}

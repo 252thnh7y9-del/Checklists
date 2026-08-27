@@ -1,0 +1,24 @@
+{
+  "id": "write-a-cv",
+  "name": "Write a CV that gets read",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "A CV is skimmed in seconds and often filtered by software first. Specific achievements with numbers beat lists of responsibilities every time.",
+  "gear": [
+    "Your work history and any figures you can find",
+    "A plain, single-column template"
+  ],
+  "steps": [
+    "Lead each bullet with what you achieved and its effect, not the duty. “Cut processing time 40%” rather than “responsible for processing”.",
+    "Put numbers on everything you honestly can: scale, money, time, percentage, headcount.",
+    "Tailor to the job by mirroring the language of the advert, since both the filter and the human are looking for it.",
+    "Keep the layout plain and single-column. Multi-column designs, tables, headers and graphics are frequently mangled by parsing software.",
+    "Keep it to one or two pages, most recent first, with older roles compressed to a line.",
+    "Proofread cold, then have someone else read it. A typo on a CV is disproportionately costly."
+  ],
+  "tips": [
+    "Never overstate. Anything on a CV can be asked about in detail in an interview.",
+    "Conventions differ by country — photographs, dates of birth and personal details are expected in some places and unacceptable in others."
+  ],
+  "proof": "A stranger reads it for twenty seconds and can say what you do and what you are good at."
+}

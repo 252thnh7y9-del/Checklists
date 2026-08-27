@@ -1,0 +1,24 @@
+{
+  "id": "cut-words",
+  "name": "Cut your word count by a fifth",
+  "time": "2–4 weeks",
+  "level": "Moderate",
+  "blurb": "Almost every first draft is a fifth too long, and cutting it makes it clearer rather than thinner. This is the single most reliable way to improve any piece of writing.",
+  "gear": [
+    "Something you wrote",
+    "A ruthless mood"
+  ],
+  "steps": [
+    "Cut the throat-clearing at the start. The real opening is often the second or third paragraph.",
+    "Delete intensifiers and hedges — very, really, quite, somewhat, I think, it seems — and see what is lost. Usually nothing.",
+    "Replace long constructions with short ones: “in order to” becomes “to”, “at this point in time” becomes “now”.",
+    "Convert passive constructions to active where the actor matters, which usually shortens and clarifies at once.",
+    "Look for the sentence that says what the previous sentence already said, and cut one of them.",
+    "Set a hard target — 20% — and hit it. A target forces decisions that good intentions do not."
+  ],
+  "tips": [
+    "If a cut loses nothing, it was not carrying anything. Trust the test.",
+    "Cutting is not the same as removing detail. Specifics usually survive; padding does not."
+  ],
+  "proof": "A piece cut by 20% that readers find clearer, not thinner."
+}

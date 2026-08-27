@@ -1,0 +1,24 @@
+{
+  "id": "emergency-fund",
+  "name": "Build an emergency fund",
+  "time": "3–12 months",
+  "level": "Moderate",
+  "blurb": "A cash buffer is what stops an unexpected bill becoming expensive debt. It is the least glamorous and most protective thing in personal finance.",
+  "gear": [
+    "A separate, instantly accessible savings account",
+    "A standing order"
+  ],
+  "steps": [
+    "Work out your actual monthly essentials — housing, food, transport, utilities, minimum debt payments — rather than your total spending.",
+    "Set a first target that is small enough to reach: a single month, or even a few hundred, changes your options immediately.",
+    "Keep it somewhere separate from your current account but reachable within a day. Not invested, not locked away.",
+    "Automate a transfer on payday, however small, and increase it when income rises.",
+    "Decide in advance what counts as an emergency and write it down, so the fund survives contact with a sale.",
+    "Rebuild it after any use, at the same automatic rate."
+  ],
+  "tips": [
+    "Three to six months of essentials is a common guideline; less irregular income needs less buffer, freelancing needs more.",
+    "Clearing very high-interest debt usually beats building a large buffer beyond a small starter amount."
+  ],
+  "proof": "A separate account holding at least one month of essential costs that you have not needed to raid."
+}

@@ -1,0 +1,24 @@
+{
+  "id": "read-hard-text",
+  "name": "Read a difficult text",
+  "time": "3–6 weeks",
+  "level": "Hard",
+  "blurb": "Dense books and technical papers are not read front to back at a constant speed. There is a method, and it makes hard material tractable.",
+  "gear": [
+    "A genuinely difficult text you want to understand",
+    "A pencil"
+  ],
+  "steps": [
+    "Survey first: title, abstract, headings, conclusion, figures. Know the destination before starting the journey.",
+    "For a paper, read the abstract, then the introduction, then the figures, then the conclusion — and only then the method if you still need it.",
+    "Read with a question in mind. Aimless reading of hard material is where attention dies.",
+    "Mark the structure as you go: the claim, the evidence, the caveats, and the parts you do not understand.",
+    "Accept partial understanding on the first pass and go round again. Multiple passes beat one grinding read.",
+    "Write a summary in your own words afterwards; if you cannot, you have not finished reading."
+  ],
+  "tips": [
+    "Stopping at every unfamiliar term stalls the whole read. Mark it and continue; context often resolves it.",
+    "Read the methods and limitations of a paper before believing its abstract."
+  ],
+  "proof": "You summarise a difficult paper accurately, including what it does not show."
+}

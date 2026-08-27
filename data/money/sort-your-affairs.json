@@ -1,0 +1,25 @@
+{
+  "id": "sort-your-affairs",
+  "name": "Sort out a will and your paperwork",
+  "time": "A weekend, plus professional time",
+  "level": "Moderate",
+  "blurb": "An afternoon of admin that spares the people you leave behind months of difficulty at the worst time of their lives. Most adults never do it.",
+  "gear": [
+    "A list of your accounts, policies and assets",
+    "A solicitor or a regulated will service",
+    "A secure place for documents"
+  ],
+  "steps": [
+    "Make the inventory first: accounts, pensions, insurance, property, debts, subscriptions, and digital accounts.",
+    "Write a will. Rules for validity — witnesses, signatures, wording — are strict and vary by jurisdiction, and an invalid will is worse than none.",
+    "Name guardians for children if that applies to you, which is often the single most important clause.",
+    "Check the beneficiary nominations on pensions and life insurance, since these usually pass outside the will entirely.",
+    "Consider a power of attorney for the case where you are alive but unable to make decisions — often more immediately useful than a will.",
+    "Tell someone you trust where the documents are, and review after any major life change."
+  ],
+  "tips": [
+    "DIY wills fail on technicalities remarkably often. For anything beyond the simplest estate, use a professional.",
+    "This is jurisdiction-specific. Get advice for where you actually live."
+  ],
+  "proof": "A valid will, current beneficiary nominations, and one trusted person who knows where everything is."
+}

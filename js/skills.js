@@ -42,6 +42,11 @@ window.CATEGORIES = [
     "blurb": "CPR, choking, bleeding, burns and the shutoff valves in your own home. The highest-stakes category on the list."
   },
   {
+    "id": "health",
+    "name": "Health & Body Care",
+    "blurb": "Sleep, posture, teeth, skin and the small maintenance habits that decide how the rest of it feels."
+  },
+  {
     "id": "music",
     "name": "Music & Rhythm",
     "blurb": "You will not become a musician in three weeks, but you can become genuinely good at one narrow musical thing."
@@ -67,6 +72,16 @@ window.CATEGORIES = [
     "blurb": "Stories, speeches, names, listening and dancing — trainable skills that most people leave to chance."
   },
   {
+    "id": "language",
+    "name": "Language & Script",
+    "blurb": "Alphabets, pronunciation and the first hundred words — enough of another language to stop being illiterate in it."
+  },
+  {
+    "id": "writing",
+    "name": "Writing & Study",
+    "blurb": "Emails, notes, summaries and how to learn things that stay learned. The skills that make every other skill cheaper."
+  },
+  {
     "id": "games",
     "name": "Games & Strategy",
     "blurb": "Poker, backgammon, Go and cribbage — games deep enough to keep repaying attention for decades."
@@ -90,6 +105,11 @@ window.CATEGORIES = [
     "id": "technology",
     "name": "Technology Skills",
     "blurb": "Typing, the command line, a first website, spreadsheets, Git and sane security hygiene."
+  },
+  {
+    "id": "money",
+    "name": "Money & Everyday Admin",
+    "blurb": "Budgets, payslips, contracts and scams. Unglamorous, rarely taught, and quietly worth more than most of this list."
   },
   {
     "id": "navigation",
@@ -604,6 +624,30 @@ window.SKILLS = [
       "Concrete, visualisable nouns work; abstract words do not. Pick things you can see."
     ],
     "proof": "You memorise a 30-digit number in under two minutes and recall it accurately an hour later."
+  },
+  {
+    "id": "fermi-estimation",
+    "cat": "puzzles",
+    "name": "Make Fermi estimates",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Working out roughly how many piano tuners are in a city, from nothing. It is the thinking skill that lets you sanity-check numbers other people give you.",
+    "gear": [
+      "A pen and the back of an envelope"
+    ],
+    "steps": [
+      "Learn the method: break an unknowable quantity into factors you can each guess within a factor of ten, then multiply.",
+      "Estimate in orders of magnitude rather than precise figures, since errors in opposite directions largely cancel.",
+      "Build a stock of anchor numbers: your country’s population, a city’s population, seconds in a year, typical salaries.",
+      "State your assumptions explicitly as you go, so the estimate can be argued with and corrected.",
+      "Check the answer for plausibility against something you do know.",
+      "Practise on real questions and look up the true figure afterwards to calibrate."
+    ],
+    "tips": [
+      "The aim is the right order of magnitude, not the right number. Being within a factor of three is usually a win.",
+      "This is the fastest way to notice that a statistic in an article cannot possibly be true."
+    ],
+    "proof": "You estimate a quantity you have never looked up and land within a factor of three."
   },
   {
     "id": "juggle-3-balls",
@@ -1740,6 +1784,81 @@ window.SKILLS = [
       "Light-headedness means you are over-breathing. Slow down and reduce the depth."
     ],
     "proof": "You use a technique deliberately in a genuinely stressful moment and feel it work."
+  },
+  {
+    "id": "sprint-form",
+    "cat": "physical",
+    "name": "Sprint with good form",
+    "time": "4–8 weeks",
+    "level": "Moderate",
+    "blurb": "Adults rarely sprint, then pull a hamstring at a sports day. Technique and a genuine build-up make it both faster and far safer.",
+    "gear": [
+      "Flat grass or a track",
+      "Shoes with some cushioning",
+      "A long warm-up"
+    ],
+    "steps": [
+      "Warm up properly: at least ten minutes of easy jogging and drills before anything near full effort. Cold sprinting is how hamstrings tear.",
+      "Learn the posture: tall through the spine, relaxed jaw and hands, eyes forward rather than down.",
+      "Drive the knee forward and up rather than reaching the foot out in front, which brakes you and strains the hamstring.",
+      "Land under your hips on the ball of the foot, with a quick ground contact.",
+      "Pump the arms from the shoulder, front to back rather than across the body, elbows around 90 degrees.",
+      "Build volume gradually with strides at 70–80% before doing anything flat out, and stop the session when form degrades."
+    ],
+    "tips": [
+      "Overstriding is the commonest fault and the main cause of hamstring injuries in returning adults.",
+      "Sprinting is a skill and a maximal effort at once. Full-effort work belongs at the start of a session, not the end."
+    ],
+    "proof": "You run repeated 60 m strides at near-full effort with consistent form and no soreness beyond normal."
+  },
+  {
+    "id": "plank-properly",
+    "cat": "physical",
+    "name": "Hold a proper plank",
+    "time": "3–6 weeks",
+    "level": "Easy",
+    "blurb": "Nearly everyone holds a plank with a sagging back or a raised hips, which trains nothing. A correct 60-second plank is harder than a sloppy three minutes.",
+    "gear": [
+      "A mat",
+      "A mirror or a phone camera"
+    ],
+    "steps": [
+      "Set up with elbows under shoulders, forearms parallel, feet hip-width.",
+      "Tuck the pelvis slightly so the lower back flattens; this is the part that makes it work.",
+      "Squeeze glutes and brace the abdominals as if about to be poked, and press the floor away so the upper back is not sagging between the shoulder blades.",
+      "Keep the neck neutral, looking at the floor just ahead of your hands.",
+      "Hold for time only while the shape holds. End the set when the hips drop, not when the timer says so.",
+      "Progress by adding load or instability — a reach, a leg lift — rather than by adding minutes."
+    ],
+    "tips": [
+      "Sagging hips put the load on the lower back instead of the core. Film yourself from the side once; it is always worse than it feels.",
+      "Beyond about two minutes, a plank stops training much. Make it harder, not longer."
+    ],
+    "proof": "Sixty seconds with a flat back and level hips, confirmed on video from the side."
+  },
+  {
+    "id": "lift-and-carry",
+    "cat": "physical",
+    "name": "Lift and carry heavy things safely",
+    "time": "2–4 weeks",
+    "level": "Easy",
+    "blurb": "Moving house, carrying shopping, picking up a child. Everyday lifting injures more people than any gym, and the technique is simple and rarely taught.",
+    "gear": [
+      "Household objects of increasing awkwardness"
+    ],
+    "steps": [
+      "Plan the lift before touching it: where it is going, what the route is, and whether it is genuinely a one-person job.",
+      "Get close. The further the load is from your body, the more it multiplies through your lower back.",
+      "Hinge at the hips and bend the knees, keeping a neutral spine, then drive up with the legs.",
+      "Avoid twisting under load. Turn with your feet instead.",
+      "For carrying, hold the load high and close, brace the core, and take smaller steps than usual.",
+      "Learn the farmer’s carry as training for it, and practise setting things down as carefully as you pick them up."
+    ],
+    "tips": [
+      "Most back injuries happen putting something down or twisting with it, not lifting it up.",
+      "Asking for help is a technique, not a failure. Two people and a plan beat one person and a strain."
+    ],
+    "proof": "You move furniture for a day without back pain the following morning."
   },
   {
     "id": "front-crawl",
@@ -3193,6 +3312,59 @@ window.SKILLS = [
     "proof": "You plan a coastal walk around the tide and return with a comfortable margin."
   },
   {
+    "id": "snow-shelter",
+    "cat": "outdoors",
+    "name": "Build a snow shelter",
+    "time": "2–3 sessions",
+    "level": "Hard",
+    "blurb": "Snow is an excellent insulator, and a quinzhee or snow trench can be the difference between a survivable night and a dangerous one. It is also serious work with real hazards.",
+    "gear": [
+      "A snow shovel",
+      "Waterproof outer layers and spare dry clothing",
+      "A sleeping mat, and a companion"
+    ],
+    "steps": [
+      "Learn the hazards first: collapse, carbon monoxide from any stove, and getting soaked while digging, which is what causes hypothermia.",
+      "For a quinzhee, pile snow into a large mound and leave it to sinter for at least 90 minutes — this settling is what gives it strength.",
+      "Push guide sticks about 30 cm into the mound all over, so when you hit them from inside you know the wall thickness.",
+      "Hollow it from a low entrance, dig upward, and keep the sleeping platform above the entrance so cold air drains out.",
+      "Make a ventilation hole, always, and check it stays clear. Suffocation and CO poisoning are the real killers.",
+      "Insulate yourself from the floor thoroughly, and never leave your shovel outside where it can be buried."
+    ],
+    "tips": [
+      "Work slowly and vent your clothing. Sweating while digging soaks your insulation and turns dangerous when you stop.",
+      "Never use a stove inside a closed snow shelter. Never dig into an unstable slope or anywhere with avalanche risk without proper training."
+    ],
+    "proof": "A shelter you built, with adequate ventilation and wall thickness, that holds a comfortable temperature."
+  },
+  {
+    "id": "wood-stove",
+    "cat": "outdoors",
+    "name": "Run a wood stove properly",
+    "time": "2–3 weeks",
+    "level": "Moderate",
+    "blurb": "A badly run stove smoulders, tars the flue and fills a room with particulates. Run correctly it burns clean and hot on a fraction of the wood.",
+    "gear": [
+      "Seasoned wood under 20% moisture",
+      "A moisture meter",
+      "A stove thermometer",
+      "A swept chimney and a CO alarm"
+    ],
+    "steps": [
+      "Burn only seasoned wood — under about 20% moisture, checked with a meter. Wet wood is the cause of most smoke, tar and poor heat.",
+      "Light top-down: large logs at the bottom, kindling above, firelighter on top. It lights cleaner and smokes far less than the traditional way.",
+      "Run the air fully open until the fire is properly established and the flue is warm.",
+      "Then reduce the air only to the point where flames still dance. Shutting it down to smoulder overnight is what creates creosote and pollution.",
+      "Watch the flue thermometer and keep it in the operating band — too cool tars the chimney, too hot risks a chimney fire.",
+      "Have the chimney swept at the recommended interval and fit a carbon monoxide alarm in the room."
+    ],
+    "tips": [
+      "Never burn treated wood, painted timber, pallets or rubbish. The fumes are toxic and they wreck the flue.",
+      "A glass door going black means poor combustion: usually wet wood or too little air."
+    ],
+    "proof": "A clean-burning fire with clear glass, and a flue that shows little deposit when swept."
+  },
+  {
     "id": "houseplants",
     "cat": "garden",
     "name": "Keep houseplants alive",
@@ -3936,6 +4108,364 @@ window.SKILLS = [
       "Carbon monoxide is odourless. Only an alarm detects it, and headaches and drowsiness that improve when you leave the house are a warning sign."
     ],
     "proof": "Working, in-date alarms on every level, tested this month, and a household escape plan everyone knows."
+  },
+  {
+    "id": "brush-and-floss",
+    "cat": "health",
+    "name": "Brush and floss properly",
+    "time": "2–3 weeks to fix the habit",
+    "level": "Easy",
+    "blurb": "Most adults brush too hard, too fast, and skip between the teeth entirely — which is exactly where decay and gum disease start. The technique takes ten minutes to learn.",
+    "gear": [
+      "A soft-bristled or electric brush",
+      "Floss or interdental brushes",
+      "Fluoride toothpaste"
+    ],
+    "steps": [
+      "Brush for a full two minutes, twice a day. Almost everyone stops around forty seconds and believes it was two minutes — time it once and see.",
+      "Use a soft brush at a 45-degree angle to the gumline, with small gentle circles. Hard scrubbing wears enamel and recedes gums.",
+      "Cover every surface deliberately — outer, inner and biting — in a fixed order so nothing is missed.",
+      "Clean between the teeth daily with floss or interdental brushes; a brush cannot reach roughly a third of each tooth’s surface.",
+      "Spit, do not rinse, after brushing, so the fluoride stays on the teeth.",
+      "Wait an hour after acidic food or drink before brushing, since enamel is softened and brushing then abrades it."
+    ],
+    "tips": [
+      "Bleeding gums when you start flossing usually means inflammation, not damage — it typically settles within a fortnight of daily cleaning. Persistent bleeding is worth a dentist’s look.",
+      "An electric brush helps mainly because it enforces the timing and stops you pressing too hard."
+    ],
+    "proof": "A dental hygiene appointment where you are told your technique has improved and there is less to scrape."
+  },
+  {
+    "id": "sleep-better",
+    "cat": "health",
+    "name": "Improve your sleep",
+    "time": "3–6 weeks",
+    "level": "Moderate",
+    "blurb": "Sleep responds to a handful of levers — timing, light, temperature and what you do in bed — far more than to any product. Fixing the schedule is worth more than everything else combined.",
+    "gear": [
+      "Curtains or an eye mask",
+      "A room you can make cool and dark",
+      "A watch or clock you keep out of reach"
+    ],
+    "steps": [
+      "Fix your wake time first, seven days a week, including weekends. A consistent wake time anchors everything else.",
+      "Get bright light — ideally daylight — within an hour of waking, and dim the lights in the evening.",
+      "Keep the room cool, dark and quiet. Core temperature has to drop for sleep to start.",
+      "Stop caffeine at least eight hours before bed; its half-life is longer than most people assume.",
+      "Use the bed for sleep only. If you are awake and frustrated for twenty minutes, get up and do something dull in low light until sleepy.",
+      "Build a wind-down: the same low-stimulation half hour before bed, every night."
+    ],
+    "tips": [
+      "Alcohol makes you fall asleep faster and wrecks the second half of the night. It is a sedative, not a sleep aid.",
+      "Chasing a sleep-tracker score reliably makes sleep worse. Judge by how you feel at 4pm.",
+      "Persistent insomnia, snoring with daytime exhaustion, or long-term poor sleep deserve a doctor rather than a life hack."
+    ],
+    "proof": "Four weeks of a consistent wake time, falling asleep within twenty minutes most nights, and daytime alertness without a mid-afternoon collapse."
+  },
+  {
+    "id": "desk-posture",
+    "cat": "health",
+    "name": "Fix your desk setup and posture",
+    "time": "1 week to set up, ongoing",
+    "level": "Easy",
+    "blurb": "Sitting badly for eight hours a day is the most common repetitive strain most people have. The fix is a twenty-minute setup plus the habit of moving.",
+    "gear": [
+      "An adjustable chair, or cushions and books",
+      "A monitor stand, or a stack of books",
+      "An external keyboard if you use a laptop"
+    ],
+    "steps": [
+      "Set the chair first: feet flat, knees roughly level with hips, back supported, elbows at about 90 degrees when typing.",
+      "Set the screen so the top of it is at or just below eye level, about an arm’s length away.",
+      "Raise a laptop and use an external keyboard. A laptop puts the screen and keyboard at the same height, so one of them is always wrong.",
+      "Put the mouse and keyboard close enough that your elbows stay at your sides rather than reaching.",
+      "Fix the room: light from the side rather than behind or in front of the screen.",
+      "Move every half hour. The best posture is the next one — no static position is good for eight hours."
+    ],
+    "tips": [
+      "A standing desk used statically all day causes its own problems. Alternate.",
+      "Ongoing numbness, tingling or pain is a clinician’s job, not an ergonomics blog’s."
+    ],
+    "proof": "A full working day with no neck, wrist or lower-back ache, and you get up regularly without prompting."
+  },
+  {
+    "id": "meditate",
+    "cat": "health",
+    "name": "Learn to meditate",
+    "time": "6–8 weeks",
+    "level": "Moderate",
+    "blurb": "Ten minutes of attention training a day. The universal beginner mistake is thinking a wandering mind means failure, when noticing the wandering is the entire exercise.",
+    "gear": [
+      "Somewhere to sit",
+      "A timer",
+      "Optionally a guided app for the first weeks"
+    ],
+    "steps": [
+      "Sit upright but not rigid, somewhere you will not be interrupted, and set a timer for ten minutes.",
+      "Put attention on the breath, at one spot — the nostrils or the belly — and leave it there.",
+      "When you notice you are thinking, that is the rep. Note it and return to the breath, without commentary.",
+      "Expect to do that dozens of times per sitting. That is the practice working, not failing.",
+      "Sit daily, at the same time, rather than for longer occasionally.",
+      "Try one or two styles — breath focus, body scan, open awareness — and stick with whichever you will actually do."
+    ],
+    "tips": [
+      "Aiming to empty your mind guarantees frustration. The goal is noticing, not blankness.",
+      "For people with trauma or certain mental health conditions, intensive silent practice can be destabilising. Start short and get guidance."
+    ],
+    "proof": "Thirty consecutive days of ten-minute sittings, and you can notice a thought and return without irritation."
+  },
+  {
+    "id": "skin-and-sun",
+    "cat": "health",
+    "name": "Look after your skin and use sunscreen properly",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "A short, boring routine outperforms an elaborate one, and sun protection does more for long-term skin than every other product combined.",
+    "gear": [
+      "A gentle cleanser",
+      "A moisturiser",
+      "A broad-spectrum SPF 30 or higher"
+    ],
+    "steps": [
+      "Keep the routine minimal: cleanse, moisturise, and sunscreen in the morning. Most elaborate routines add irritation, not benefit.",
+      "Apply far more sunscreen than feels right — roughly a teaspoon for the face and neck. Under-application is why real-world protection falls short of the label.",
+      "Reapply every couple of hours in strong sun, and after swimming or sweating.",
+      "Wear it on cloudy days and in winter for UVA, which passes through cloud and glass.",
+      "Add active ingredients one at a time, weeks apart, so you can tell what causes a reaction.",
+      "Cover up as the first line — shade, sleeves, a hat — with sunscreen for what is left."
+    ],
+    "tips": [
+      "Layering several actives at once is the usual cause of a damaged skin barrier.",
+      "A change in a mole — asymmetry, irregular border, uneven colour, growth — is a doctor’s appointment, not something to watch for a year."
+    ],
+    "proof": "Three months of daily sunscreen and a routine simple enough that you never skip it."
+  },
+  {
+    "id": "self-massage",
+    "cat": "health",
+    "name": "Learn self-massage for a tight muscle",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "A ball against a wall handles most everyday knots — shoulders, glutes, calves and feet. It is the cheapest relief available for desk-shaped bodies.",
+    "gear": [
+      "A tennis or lacrosse ball",
+      "A foam roller",
+      "A wall and a floor"
+    ],
+    "steps": [
+      "Find the tight spot by rolling slowly rather than hunting — it announces itself.",
+      "Apply steady pressure and hold for 30 to 90 seconds, breathing normally, rather than grinding back and forth.",
+      "Work the usual suspects: upper trapezius against a wall, glutes seated on a ball, calves on a roller, plantar fascia underfoot.",
+      "Keep it at a discomfort you can breathe through. Pain that makes you hold your breath is too much.",
+      "Follow with gentle movement through the range you just worked, which is what makes the change stick.",
+      "Do it little and often rather than one heroic session."
+    ],
+    "tips": [
+      "Never roll directly on a joint, bone, or the front of the neck.",
+      "Numbness, tingling or pain that radiates down a limb is nerve territory — stop and see a clinician."
+    ],
+    "proof": "You relieve your own recurring tight spot in a few minutes without needing anyone else."
+  },
+  {
+    "id": "nutrition-labels",
+    "cat": "health",
+    "name": "Read a nutrition label",
+    "time": "1 week",
+    "level": "Easy",
+    "blurb": "Front-of-pack marketing is designed to mislead; the back-of-pack panel is regulated and honest. Learning to read it takes an hour and changes what ends up in the trolley.",
+    "gear": [
+      "Packaged food from your own cupboard"
+    ],
+    "steps": [
+      "Check the serving size first. Everything else on the panel is scaled to it, and it is often smaller than anyone would eat.",
+      "Compare products per 100g rather than per serving, which is the only way to compare fairly.",
+      "Read the ingredients list, which is ordered by weight — the first three tell you most of what you need to know.",
+      "Learn the aliases for sugar, since splitting it across several names moves each one down the list.",
+      "Learn your region’s traffic-light or reference-intake thresholds for fat, sugar and salt.",
+      "Treat front-of-pack claims as marketing: low fat often means added sugar, and natural means very little."
+    ],
+    "tips": [
+      "Per-serving figures on a multi-serve pack are the most common way labels mislead.",
+      "This is about reading a label, not about dieting. For medical or dietary conditions, work with a dietitian."
+    ],
+    "proof": "You compare two similar products in a shop and can say which is actually better and why."
+  },
+  {
+    "id": "portion-by-eye",
+    "cat": "health",
+    "name": "Judge portion sizes by eye",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "Using your own hand as the measure travels everywhere and needs no scales. It is a calibration skill, not a diet.",
+    "gear": [
+      "Kitchen scales, for calibration only",
+      "Your hands"
+    ],
+    "steps": [
+      "Learn the hand guides: a palm of protein, a fist of vegetables, a cupped hand of carbohydrate, a thumb of fat.",
+      "Calibrate once with scales: weigh what you actually serve yourself for a week and compare to the guide.",
+      "Learn what a real restaurant portion looks like against that measure — usually two or three times a home portion.",
+      "Practise plating deliberately rather than eating from the pan or the packet.",
+      "Learn the volume tricks: a deck of cards for meat, a tennis ball for rice, a matchbox for cheese.",
+      "Recalibrate occasionally, since estimates drift upward over months."
+    ],
+    "tips": [
+      "Hand size scales roughly with body size, which is what makes it a reasonable personal measure.",
+      "This is about awareness, not restriction. If food is a fraught area for you, do this with professional support or not at all."
+    ],
+    "proof": "Your eyeballed portions land within about 20% of the weighed amount across a week."
+  },
+  {
+    "id": "pulse-and-bp",
+    "cat": "health",
+    "name": "Take your own pulse and blood pressure",
+    "time": "1 week",
+    "level": "Easy",
+    "blurb": "Two numbers you can measure yourself, and knowing your normal is what makes an abnormal reading meaningful.",
+    "gear": [
+      "A watch with a second hand",
+      "A validated upper-arm blood pressure monitor"
+    ],
+    "steps": [
+      "Take your pulse at the wrist with two fingers — never the thumb, which has its own pulse — counting for 30 seconds and doubling.",
+      "Learn your resting rate by measuring before getting up, on several mornings.",
+      "Note the rhythm as well as the rate: a persistently irregular pulse is worth reporting to a doctor.",
+      "For blood pressure, use a validated upper-arm cuff rather than a wrist device, sized correctly for your arm.",
+      "Measure properly: seated, feet flat, back supported, arm at heart height, after five minutes of quiet, with no caffeine or exercise in the previous half hour.",
+      "Take two or three readings a minute apart and record the average, at the same time of day."
+    ],
+    "tips": [
+      "One high reading means very little. Trends across days are what matter.",
+      "Do not adjust any prescribed medication based on home readings. Take the numbers to your doctor."
+    ],
+    "proof": "You know your resting pulse and typical blood pressure, measured with correct technique over several days."
+  },
+  {
+    "id": "foot-care",
+    "cat": "health",
+    "name": "Look after your feet",
+    "time": "1–2 weeks",
+    "level": "Easy",
+    "blurb": "Feet get ignored until they hurt, at which point everything else stops. Nail technique, blister prevention and shoe fit cover almost all of it.",
+    "gear": [
+      "Proper nail clippers",
+      "Well-fitted shoes",
+      "Blister plasters or tape"
+    ],
+    "steps": [
+      "Cut toenails straight across rather than curved down at the corners, which is what causes ingrown nails.",
+      "Get shoes fitted at the end of the day when feet are largest, with a thumb-width of room at the toe.",
+      "Prevent blisters rather than treating them: tape hotspots before a long walk, and deal with any rubbing the moment you notice it, not at the next stop.",
+      "Keep feet dry and change socks on long days; damp skin blisters far more easily.",
+      "Dry thoroughly between the toes to avoid fungal infection, and treat athlete’s foot promptly.",
+      "Learn to lace properly — heel lock lacing stops the heel lifting on descents."
+    ],
+    "tips": [
+      "A hotspot is a blister that has not happened yet. Stop and tape it; five minutes saves the day.",
+      "People with diabetes or reduced sensation need professional foot care rather than self-treatment."
+    ],
+    "proof": "A long walking day with no blisters, and no ingrown nails over a season."
+  },
+  {
+    "id": "look-after-voice",
+    "cat": "health",
+    "name": "Look after your voice",
+    "time": "2–4 weeks",
+    "level": "Easy",
+    "blurb": "If you teach, present or sing, your voice is equipment. Losing it is usually the result of a few avoidable habits.",
+    "gear": [
+      "Water",
+      "A quiet warm-up space"
+    ],
+    "steps": [
+      "Hydrate properly — vocal folds need systemic hydration, not a sip mid-sentence.",
+      "Warm up before heavy use: humming, lip trills and gentle sirens for a few minutes.",
+      "Support from the breath rather than pushing from the throat, which is what causes strain.",
+      "Avoid throat clearing and whispering, both of which are harder on the folds than normal speech.",
+      "Use amplification in noisy rooms rather than shouting over them.",
+      "Rest the voice after heavy use, and completely when you have laryngitis — talking through it is how nodules start."
+    ],
+    "tips": [
+      "Whispering is not resting your voice. Speak quietly instead, or not at all.",
+      "Hoarseness lasting more than three weeks needs a doctor, not more honey."
+    ],
+    "proof": "You get through a full day of heavy speaking without hoarseness the next morning."
+  },
+  {
+    "id": "eye-care",
+    "cat": "health",
+    "name": "Look after your eyes at a screen",
+    "time": "1–2 weeks",
+    "level": "Easy",
+    "blurb": "Screen use does not damage eyes, but it does cause real strain and dryness — mostly because people stop blinking. The fixes are small and effective.",
+    "gear": [
+      "A screen you can reposition",
+      "A timer or reminder"
+    ],
+    "steps": [
+      "Follow the 20-20-20 rule: every twenty minutes, look at something about twenty feet away for twenty seconds, which relaxes the focusing muscles.",
+      "Blink deliberately. Blink rate drops sharply at a screen, which is the main cause of dryness.",
+      "Position the screen slightly below eye level so your eyelids cover more of the eye.",
+      "Match screen brightness to the room and avoid working with a bright window directly behind or in front of the screen.",
+      "Increase text size rather than leaning in.",
+      "Get an eye test at the recommended interval — uncorrected vision is a common hidden cause of headaches."
+    ],
+    "tips": [
+      "Blue-light glasses have weak evidence for eye strain. Breaks, blinking and brightness matter more.",
+      "Sudden vision changes, flashes or floaters are urgent — same-day medical attention."
+    ],
+    "proof": "A full day of screen work without headaches, dry eyes or the need to squint."
+  },
+  {
+    "id": "handwashing",
+    "cat": "health",
+    "name": "Wash your hands properly",
+    "time": "1 hour",
+    "level": "Easy",
+    "blurb": "One of the highest-impact public health measures there is, and almost everyone does it for a fraction of the necessary time and misses the same spots.",
+    "gear": [
+      "Soap and running water",
+      "Alcohol hand rub for when there is no sink"
+    ],
+    "steps": [
+      "Wet hands first, then soap — the lather is what lifts and carries away microbes.",
+      "Scrub for at least twenty seconds. Time it once; it is far longer than the usual four-second rinse.",
+      "Cover the spots everyone misses: between the fingers, the thumbs, the fingertips and nails, and the backs of the hands.",
+      "Rinse thoroughly and dry completely — wet hands transfer microbes far more readily than dry ones.",
+      "Learn the moments that matter most: before food, after the toilet, after transport, after handling raw meat, after coughing.",
+      "Use alcohol gel when there is no sink, but wash when hands are visibly dirty, since gel does not work through soil."
+    ],
+    "tips": [
+      "Water temperature makes little difference to hygiene; time and coverage do.",
+      "Long nails and rings harbour microbes and are the hardest areas to clean."
+    ],
+    "proof": "You cover every surface for a full twenty seconds without having to think about the sequence."
+  },
+  {
+    "id": "mole-check",
+    "cat": "health",
+    "name": "Check your own skin for changes",
+    "time": "1 hour, then monthly",
+    "level": "Easy",
+    "blurb": "Skin cancers are among the most treatable when caught early and among the worst when caught late. A monthly check takes ten minutes and needs no equipment.",
+    "gear": [
+      "A full-length mirror and a hand mirror",
+      "Good light",
+      "A phone camera for records"
+    ],
+    "steps": [
+      "Learn the ABCDE signs: Asymmetry, irregular Border, uneven Colour, Diameter growing, and Evolving — any change over time.",
+      "Check systematically in the same order every time so nothing is skipped: face, scalp, neck, torso, arms, hands and nails, legs, feet and between the toes.",
+      "Use two mirrors for your back, or ask someone, since the back is the commonest site people miss.",
+      "Photograph anything you are unsure about with a ruler or coin for scale, and re-photograph monthly.",
+      "Learn the ugly duckling sign: the spot that looks different from all your others deserves attention even if it passes ABCDE.",
+      "Get anything new, changing, bleeding or non-healing looked at promptly — weeks, not months."
+    ],
+    "tips": [
+      "Do not wait to see whether it goes away. Early is the whole point.",
+      "This is a self-check, not a diagnosis. A clinician decides what a lesion is; you decide when to show them one."
+    ],
+    "proof": "A systematic monthly check you actually do, with photographs of anything you are tracking."
   },
   {
     "id": "ukulele",
@@ -5239,6 +5769,60 @@ window.SKILLS = [
     "proof": "You design and print a functional part that fits a real object to within half a millimetre."
   },
   {
+    "id": "fix-sticking-door",
+    "cat": "making",
+    "name": "Fix a sticking or squeaking door",
+    "time": "1–2 hours",
+    "level": "Easy",
+    "blurb": "A door that catches or squeaks is usually loose hinge screws rather than a warped door. Ten minutes with a screwdriver fixes most of them.",
+    "gear": [
+      "Screwdriver",
+      "Longer screws",
+      "Candle wax or dry lubricant",
+      "A plane or sandpaper for the stubborn case"
+    ],
+    "steps": [
+      "Diagnose first: close the door slowly and watch where it touches, and check for a gap that has become uneven.",
+      "Tighten the hinge screws, especially the top hinge. A sagging door is nearly always loose screws pulling out of soft frame timber.",
+      "If the screws spin, replace them with longer ones that reach the stud behind the frame, or plug the holes with glued dowel and redrill.",
+      "For squeaks, lift the hinge pin, clean it, and apply a dry lubricant or a little grease — not cooking oil, which goes sticky.",
+      "If it still catches after the hinges are sound, mark the rubbing point and remove a little material with a plane or sandpaper.",
+      "Seal any bare wood you expose, so it does not absorb moisture and swell again."
+    ],
+    "tips": [
+      "Planing first is the classic mistake. Once wood is removed it cannot go back, and the cause is usually hinges.",
+      "Doors that stick only in damp weather are swelling, not sagging. Address the moisture."
+    ],
+    "proof": "A door that closes cleanly and silently through a full change of seasons."
+  },
+  {
+    "id": "bike-drivetrain",
+    "cat": "making",
+    "name": "Clean and service a bike drivetrain",
+    "time": "2–3 hours",
+    "level": "Moderate",
+    "blurb": "A clean, correctly lubricated chain shifts better, lasts several times longer and saves replacing cassettes. Half an hour a month.",
+    "gear": [
+      "Degreaser and brushes",
+      "Chain lubricant suited to your conditions",
+      "A chain wear gauge",
+      "Rags"
+    ],
+    "steps": [
+      "Check chain wear first with a gauge. A worn chain destroys the cassette and chainrings, so replacing it on time is the cheapest maintenance there is.",
+      "Degrease the chain, cassette and chainrings, working the brush between sprockets, then rinse and dry completely.",
+      "Apply lubricant to the inside of each roller, one link at a time, rather than spraying the whole chain.",
+      "Wipe off all the surface lubricant. Oil on the outside only collects grit and grinds the drivetrain.",
+      "Choose the right lube: wet for rain, dry for dust. Using wet lube in dry conditions makes a grinding paste.",
+      "Check the jockey wheels and clean between them, since they collect the worst of it."
+    ],
+    "tips": [
+      "A chain replaced at 0.5% wear saves the cassette. Left to 1%, you are buying both.",
+      "More lubricant is not better. A wet-looking chain is a dirty chain waiting to happen."
+    ],
+    "proof": "A silent drivetrain that shifts cleanly, and a chain you replace on measurement rather than on failure."
+  },
+  {
     "id": "knit-scarf",
     "cat": "textile",
     "name": "Learn to knit",
@@ -6435,6 +7019,86 @@ window.SKILLS = [
     "proof": "An egg slides freely around your pan with only a little fat."
   },
   {
+    "id": "charcoal-grilling",
+    "cat": "cooking",
+    "name": "Cook over charcoal",
+    "time": "3–5 sessions",
+    "level": "Moderate",
+    "blurb": "Charcoal is a heat-management skill, not a flame-and-hope one. Two-zone fires and a thermometer turn burnt-outside-raw-inside into consistently good food.",
+    "gear": [
+      "A charcoal grill with a lid",
+      "A chimney starter — no lighter fluid",
+      "Long tongs and an instant-read thermometer"
+    ],
+    "steps": [
+      "Light with a chimney starter and paper. Lighter fluid taints the food and is unnecessary.",
+      "Wait until the coals are ashed over and grey before cooking; flaming coals are too hot and deposit soot.",
+      "Build a two-zone fire: coals banked on one side, nothing on the other. This single habit fixes most grilling problems.",
+      "Sear over direct heat, then move to the indirect side and cover to finish through — hot and fast for thin cuts, indirect for thick ones.",
+      "Control temperature with the vents, not by moving coals around: bottom vent for airflow, top vent for exhaust.",
+      "Cook to temperature with a thermometer, and rest the meat before cutting."
+    ],
+    "tips": [
+      "Flare-ups are dripping fat igniting. Move the food to the indirect zone rather than spraying water, which raises ash.",
+      "Never use a charcoal grill indoors, in a tent, or in a closed garage — carbon monoxide from cooling coals kills people every year."
+    ],
+    "proof": "A thick cut cooked evenly to temperature with a proper crust and no burnt exterior."
+  },
+  {
+    "id": "stir-fry",
+    "cat": "cooking",
+    "name": "Cook a proper stir-fry",
+    "time": "3–4 attempts",
+    "level": "Moderate",
+    "blurb": "Home stir-fries steam because the pan is too cool and too full. Heat, dryness and preparation are the whole difference.",
+    "gear": [
+      "A carbon steel wok or the widest heavy pan you own",
+      "A high-smoke-point oil",
+      "Everything prepped before you start"
+    ],
+    "steps": [
+      "Prepare everything first and line it up in cooking order. Once it starts there is no time to chop.",
+      "Dry the ingredients thoroughly. Wet food drops the pan temperature and steams instead of searing.",
+      "Get the pan genuinely hot — smoking — before any oil goes in, then add oil and swirl.",
+      "Cook in small batches. Overloading the pan is the single commonest cause of grey, watery stir-fry.",
+      "Cook in order of density: aromatics briefly, then protein, remove it, then vegetables hardest first, then combine.",
+      "Add the sauce at the very end, let it reduce and coat for seconds only, and serve immediately."
+    ],
+    "tips": [
+      "A domestic hob cannot match a restaurant burner. Compensate with smaller batches, not longer cooking.",
+      "Velveting the meat — a cornflour and egg-white coating — is what gives takeaway chicken its texture."
+    ],
+    "proof": "Vegetables that are crisp and glossy rather than limp, with meat that is seared rather than boiled."
+  },
+  {
+    "id": "make-yoghurt",
+    "cat": "cooking",
+    "name": "Make yoghurt",
+    "time": "2–3 attempts",
+    "level": "Easy",
+    "blurb": "Milk plus a spoonful of live yoghurt plus warmth. It costs almost nothing, tastes better than most shop yoghurt, and teaches the basics of fermentation temperature control.",
+    "gear": [
+      "Milk",
+      "A few spoons of live yoghurt as a starter",
+      "A thermometer",
+      "A way to hold about 43 °C: oven light, flask or yoghurt maker"
+    ],
+    "steps": [
+      "Heat the milk to about 82 °C and hold it for a few minutes, which denatures the proteins and gives a thicker set.",
+      "Cool to about 43 °C. Too hot kills the culture, which is the commonest failure.",
+      "Whisk in a few spoonfuls of live yoghurt with active cultures as your starter.",
+      "Hold at roughly 40–45 °C for four to eight hours — longer gives a tangier, firmer result.",
+      "Do not disturb it while it sets; moving it breaks the curd.",
+      "Chill for several hours before eating, and save a few spoonfuls as the starter for the next batch."
+    ],
+    "tips": [
+      "Runny yoghurt usually means the incubation was too cool or too short, or the starter was not live.",
+      "Strain through cloth for a few hours to make thick Greek-style yoghurt, and keep the whey for baking.",
+      "Keep everything clean and refrigerate promptly; this is a controlled ferment, not a free-for-all."
+    ],
+    "proof": "A thick, tangy set batch, made using a starter saved from your previous one."
+  },
+  {
     "id": "thirty-second-intro",
     "cat": "social",
     "name": "Give a convincing 30-second introduction",
@@ -7010,6 +7674,754 @@ window.SKILLS = [
     "proof": "You deliver it in under four minutes, get a genuine laugh and a genuine pause, and land the toast."
   },
   {
+    "id": "run-a-meeting",
+    "cat": "social",
+    "name": "Run a good meeting",
+    "time": "3–6 weeks",
+    "level": "Moderate",
+    "blurb": "Most meetings are badly run rather than unnecessary — though many are both. Running one well is a learnable, visible, and unusually appreciated skill.",
+    "gear": [
+      "A meeting you are responsible for",
+      "A written agenda"
+    ],
+    "steps": [
+      "Decide first whether it needs to be a meeting. If there is no decision or discussion required, write it down instead.",
+      "Send an agenda in advance stating the purpose and what each item needs: decision, discussion or information.",
+      "Invite only the people who need to be there, and say why each is invited.",
+      "Start on time and state the goal in the first minute.",
+      "Manage the room actively: draw in the quiet ones, cut off circular discussion, and park tangents visibly to return to.",
+      "End with decisions, owners and deadlines, and send them in writing the same day."
+    ],
+    "tips": [
+      "A meeting with no owner and no agenda will expand to fill its slot and decide nothing.",
+      "Ending early is a gift and nobody has ever resented it."
+    ],
+    "proof": "Your meetings end early with written decisions, and people stop asking whether they need to attend."
+  },
+  {
+    "id": "make-introductions",
+    "cat": "social",
+    "name": "Introduce two people well",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "A ten-second skill with a long tail: a good introduction gives two people a reason to talk and a way to start. A bad one leaves them stranded.",
+    "gear": [
+      "Any gathering with people who do not know each other"
+    ],
+    "steps": [
+      "Say both names clearly, and repeat them if the room is loud.",
+      "Give each person a hook — what they do, or something they care about — rather than a bare name exchange.",
+      "Find the connection and name it explicitly: the shared interest, city, or problem. This is the whole job.",
+      "Ask an opening question that either of them can answer, then step back.",
+      "For email introductions, always ask both sides first, then keep it short and let them take it from there.",
+      "Follow up later to see whether it was useful, which teaches you to make better ones."
+    ],
+    "tips": [
+      "Introducing without context leaves two strangers to do the work. The hook is the point.",
+      "A double-opt-in email introduction — asking both first — respects everyone’s time and is the professional norm."
+    ],
+    "proof": "An introduction you made turns into a real conversation or working relationship."
+  },
+  {
+    "id": "greek-alphabet",
+    "cat": "language",
+    "name": "Learn the Greek alphabet",
+    "time": "3–5 days",
+    "level": "Easy",
+    "blurb": "Twenty-four letters, about half of which you already half-know from maths and science. It makes equations, fraternity letters and a whole country’s signage suddenly readable.",
+    "gear": [
+      "A letter chart with names and sounds",
+      "A spaced-repetition app"
+    ],
+    "steps": [
+      "Learn the letters you already recognise from maths and physics first — pi, sigma, delta, theta, lambda — which is a third of the alphabet for free.",
+      "Learn the rest in small groups, always with the letter name and its sound, not just its shape.",
+      "Learn the lowercase forms properly; they are the ones you will actually meet, and several look nothing like their capitals.",
+      "Watch for the traps: rho looks like a p, eta looks like an n, nu looks like a v, chi looks like an x.",
+      "Practise by sounding out real Greek words on signs, menus and packaging.",
+      "Learn the final sigma, which changes shape at the end of a word."
+    ],
+    "tips": [
+      "Learning shapes without sounds gets you halfway and then stalls. Say every letter aloud.",
+      "Modern and Ancient Greek pronounce several letters differently. Pick the one you care about and be consistent."
+    ],
+    "proof": "You sound out unfamiliar Greek words from a sign, letter by letter, without a chart."
+  },
+  {
+    "id": "cyrillic-alphabet",
+    "cat": "language",
+    "name": "Learn the Cyrillic alphabet",
+    "time": "3–7 days",
+    "level": "Easy",
+    "blurb": "A weekend of work turns a wall of unreadable signage into words you can pronounce — and a surprising number turn out to be borrowed words you already know.",
+    "gear": [
+      "A Cyrillic chart with sounds",
+      "Flashcards or an app"
+    ],
+    "steps": [
+      "Sort the letters into three piles: the ones that look and sound like Latin, the ones that look familiar but sound different, and the genuinely new ones.",
+      "Learn the false friends first, because they cause every mistake: В is v, Н is n, Р is r, С is s, У is u, Х is kh.",
+      "Learn the new shapes next: Ж, Ц, Ч, Ш, Щ, Ы, Ь, Ъ, Э, Ю, Я.",
+      "Practise on loanwords — ресторан, такси, банк — which are readable the moment the letters click.",
+      "Read street signs, metro maps and product labels aloud.",
+      "Learn the cursive forms only if you need them; handwritten Cyrillic is a separate battle."
+    ],
+    "tips": [
+      "The false friends are the whole difficulty. Drill those separately and the rest follows.",
+      "Reading aloud slowly beats reading silently fast while learning."
+    ],
+    "proof": "You read a metro map and street signs aloud and recognise the loanwords as you go."
+  },
+  {
+    "id": "kana",
+    "cat": "language",
+    "name": "Learn hiragana and katakana",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Japanese has two 46-character phonetic scripts before you reach kanji at all. Both are learnable in a fortnight and they unlock pronunciation of anything written.",
+    "gear": [
+      "A kana chart laid out as a grid",
+      "A spaced-repetition deck",
+      "Squared paper for handwriting"
+    ],
+    "steps": [
+      "Learn hiragana first, in the grid order — the five vowels, then each consonant row — because the grid encodes the sound system.",
+      "Write each character by hand while saying it. The motor memory is what makes them stick.",
+      "Learn the modifiers: dakuten and handakuten marks, small tsu for doubled consonants, and the small ya/yu/yo combinations.",
+      "Move to katakana once hiragana is solid; it maps to the same sounds and is used mostly for loanwords.",
+      "Watch the lookalike pairs that catch everyone: シ and ツ, ソ and ン, ね and れ and わ.",
+      "Read children’s material or song lyrics where everything is written in kana."
+    ],
+    "tips": [
+      "Learning katakana at the same time as hiragana causes interference. Finish one first.",
+      "Romaji crutches slow you down. Drop them as soon as you can read the grid."
+    ],
+    "proof": "You read a kana-only passage aloud at conversational speed with no chart."
+  },
+  {
+    "id": "fingerspelling",
+    "cat": "language",
+    "name": "Learn the manual alphabet",
+    "time": "1–2 weeks",
+    "level": "Easy",
+    "blurb": "Fingerspelling lets you spell any name or word to a Deaf signer, and it is the entry point to a signed language. Note that the alphabets differ by country — BSL uses two hands, ASL one.",
+    "gear": [
+      "A chart for the alphabet used where you live",
+      "A mirror",
+      "Ideally a Deaf-led class or resource"
+    ],
+    "steps": [
+      "Find out which manual alphabet is used locally: ASL and BSL are unrelated languages with different alphabets.",
+      "Learn the letters in small groups, checking your handshape in a mirror.",
+      "Learn to fingerspell at a steady rhythm rather than fast — clarity beats speed by a wide margin.",
+      "Practise spelling your own name, then names of people you know, then random words.",
+      "Learn to read fingerspelling, which is much harder than producing it: practise with video at slow speed.",
+      "Learn a handful of everyday signs alongside, and learn them from Deaf teachers rather than hearing-made apps."
+    ],
+    "tips": [
+      "Signed languages are full languages with their own grammar, not signed English. The alphabet is a doorway, not the language.",
+      "Reading back is the hard half. Most learners can spell long before they can follow."
+    ],
+    "proof": "You fingerspell your name and address clearly, and read back a spelled word at normal speed."
+  },
+  {
+    "id": "hundred-words",
+    "cat": "language",
+    "name": "Learn 100 useful words in a new language",
+    "time": "2–4 weeks",
+    "level": "Easy",
+    "blurb": "A hundred well-chosen words covers a startling share of everyday speech. It is not fluency, but it is the difference between being a blank tourist and being able to function.",
+    "gear": [
+      "A frequency list for the language",
+      "A spaced-repetition app",
+      "Audio for every word"
+    ],
+    "steps": [
+      "Start from a frequency list rather than a themed vocabulary book — the top 100 words of any language do enormous work.",
+      "Add the personal set: the twenty words specific to your life that no list will include.",
+      "Learn every word with audio from the start, so you never learn a wrong pronunciation you have to unlearn.",
+      "Learn words in short phrases rather than in isolation, since that is how you will use them.",
+      "Review daily with spaced repetition, ten minutes, rather than in long sessions.",
+      "Use them badly and early with a real person; the correction is worth more than another week of study."
+    ],
+    "tips": [
+      "Nouns feel productive but verbs and connectors carry conversation. Weight your list accordingly.",
+      "A word you can recognise is not a word you can produce. Test yourself in the direction you need."
+    ],
+    "proof": "You hold a simple transactional exchange using only what you have learned."
+  },
+  {
+    "id": "spaced-vocab",
+    "cat": "language",
+    "name": "Build vocabulary with spaced repetition",
+    "time": "2–4 weeks to establish",
+    "level": "Moderate",
+    "blurb": "The single most efficient way to hold thousands of words. It works, and almost everyone who bounces off it does so by making the same three card-design mistakes.",
+    "gear": [
+      "Anki or a similar spaced-repetition app",
+      "Audio and example sentences"
+    ],
+    "steps": [
+      "Understand the principle: you review each item just before you would forget it, so the interval grows and the workload stays flat.",
+      "Make one fact per card. A card asking for four things fails four different ways and you will never learn which.",
+      "Put words in a sentence with context rather than as bare translation pairs, and include audio.",
+      "Do reviews every day. The algorithm assumes it, and skipping a week creates a pile that makes people quit.",
+      "Delete cards you keep failing and rewrite them: a leech is a badly made card, not a personal failing.",
+      "Keep new cards to a modest daily limit, because every new card is a review debt for months."
+    ],
+    "tips": [
+      "Downloading a 10,000-card shared deck is the classic way to abandon the method in a fortnight.",
+      "Cards you made yourself are learned dramatically faster than cards someone else made."
+    ],
+    "proof": "Ninety consecutive days of reviews with a mature retention rate above 85%."
+  },
+  {
+    "id": "roll-your-rs",
+    "cat": "language",
+    "name": "Roll your Rs",
+    "time": "1–4 weeks",
+    "level": "Moderate",
+    "blurb": "The alveolar trill is not a talent you either have or lack — it is a tongue position plus airflow, and most adults can learn it with a few weeks of daily attempts.",
+    "gear": [
+      "Privacy",
+      "A mirror"
+    ],
+    "steps": [
+      "Understand what it is: the tongue tip held loosely near the ridge behind your teeth, vibrating passively in the airflow. You do not move it deliberately.",
+      "Find the position with the butter trick: say the word butter quickly in an American accent — that flap is a single tap in the right place.",
+      "Practise the tap first, then try to sustain the airflow so it repeats.",
+      "Use the tdr trick: say a hard t or d, then push air behind it while keeping the tongue relaxed.",
+      "Relax the tongue. Tension is the single most common reason it will not trill.",
+      "Practise a few minutes daily and expect it to arrive suddenly rather than gradually."
+    ],
+    "tips": [
+      "Forcing more air makes it worse if the tongue is tense. Less effort, not more.",
+      "A small number of people find this genuinely very hard, and plenty of native speakers of trilling languages cannot do it either."
+    ],
+    "proof": "You sustain a trill for two seconds and use it inside a real word."
+  },
+  {
+    "id": "ipa-basics",
+    "cat": "language",
+    "name": "Read IPA pronunciation",
+    "time": "1–2 weeks",
+    "level": "Moderate",
+    "blurb": "The International Phonetic Alphabet is what dictionaries use to say exactly how a word sounds. Learning the subset for your language makes every dictionary entry useful.",
+    "gear": [
+      "An IPA chart with audio",
+      "A dictionary that uses IPA"
+    ],
+    "steps": [
+      "Learn the consonants for your own language first, most of which map to the letters you expect.",
+      "Learn the vowel quadrilateral and what it represents — tongue height and frontness — rather than memorising symbols blind.",
+      "Learn the symbols your language actually uses; you do not need clicks and pharyngeals to read an English dictionary.",
+      "Learn the stress mark and the length mark, which change meaning more than most learners expect.",
+      "Practise transcribing your own speech, which reveals the sounds you did not know you were making.",
+      "Use it for real: look up words you have been mispronouncing and fix them."
+    ],
+    "tips": [
+      "Dictionaries differ in which transcription scheme they use. Check the key at the front.",
+      "IPA describes sound, not spelling. Transcribing letters rather than sounds is the beginner error."
+    ],
+    "proof": "You read an unfamiliar word’s IPA entry aloud and a speaker of the language understands you."
+  },
+  {
+    "id": "pronounce-names",
+    "cat": "language",
+    "name": "Pronounce unfamiliar names correctly",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "Getting someone’s name right is a small, repeated act of respect. The skill is a short routine for asking, hearing accurately, and remembering.",
+    "gear": [
+      "Attention, and the willingness to ask"
+    ],
+    "steps": [
+      "Ask directly and early: “I want to get your name right — could you say it for me?” People overwhelmingly appreciate being asked.",
+      "Repeat it back and check. Do not guess and hope.",
+      "Listen for the sounds rather than mapping to the nearest name you already know, which is what causes most errors.",
+      "Write it down phonetically in your own notation immediately afterwards.",
+      "Learn the sounds your own language lacks and practise them rather than substituting.",
+      "If you get it wrong, correct it briefly and move on rather than making a performance of the apology."
+    ],
+    "tips": [
+      "Anglicising or shortening someone’s name without being invited to is not a neutral act.",
+      "Asking a second time is far better than a year of quietly avoiding their name."
+    ],
+    "proof": "You learn and correctly use several names your language does not make easy."
+  },
+  {
+    "id": "sign-greetings",
+    "cat": "language",
+    "name": "Learn basic sign language greetings",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Twenty signs for greetings and everyday courtesies. Learn from Deaf teachers — signed languages are living languages of a community, not a hearing-person hobby.",
+    "gear": [
+      "Deaf-led classes or resources for your country’s language",
+      "A webcam or mirror"
+    ],
+    "steps": [
+      "Identify your local language: BSL, ASL, Auslan and others are distinct languages, not dialects.",
+      "Find Deaf-led instruction. Signs learned from hearing-made apps are frequently wrong or dated.",
+      "Learn the greetings: hello, please, thank you, sorry, nice to meet you, goodbye.",
+      "Learn that facial expression and body movement are grammar, not decoration — signing without them is like speaking in a monotone with no punctuation.",
+      "Learn the etiquette: how to get attention appropriately, keep eye contact, and not talk while signing.",
+      "Practise with a real person as early as you can, and keep learning if you enjoy it."
+    ],
+    "tips": [
+      "Signed languages have their own grammar and are not signed versions of spoken languages.",
+      "Twenty signs is a courtesy, not fluency. Be honest with people about your level."
+    ],
+    "proof": "You greet a signer, introduce yourself and thank them, and they understand you without repetition."
+  },
+  {
+    "id": "word-roots",
+    "cat": "language",
+    "name": "Learn Latin and Greek word roots",
+    "time": "3–5 weeks",
+    "level": "Moderate",
+    "blurb": "A few dozen roots, prefixes and suffixes let you decode thousands of unfamiliar English words on sight — especially in science, law and medicine.",
+    "gear": [
+      "A list of common roots and affixes",
+      "A notebook"
+    ],
+    "steps": [
+      "Learn the highest-yield prefixes first: un-, re-, in-, dis-, pre-, sub-, inter-, trans-, super-.",
+      "Learn the common roots: spect, dict, port, struct, scrib, ject, tract, vert, log, phon, graph, chron.",
+      "Learn the suffixes that mark part of speech, so you can tell a noun from an adjective in a word you have never seen.",
+      "Practise by breaking apart long words you meet and predicting the meaning before checking.",
+      "Learn the number and size prefixes, which cover an enormous amount of scientific vocabulary.",
+      "Be alert to false analyses — not every word that looks Latin is."
+    ],
+    "tips": [
+      "Roots give you a strong guess, not a definition. Check when it matters.",
+      "This pays off most in fields with dense terminology; it is the fastest way into medical vocabulary."
+    ],
+    "proof": "You correctly guess the meaning of unfamiliar technical words by decomposing them."
+  },
+  {
+    "id": "read-foreign-menu",
+    "cat": "language",
+    "name": "Read a menu in another language",
+    "time": "1–2 weeks per language",
+    "level": "Easy",
+    "blurb": "A narrow, high-value vocabulary: cooking methods, common ingredients and the words that flag things you cannot eat. Perhaps forty words per language.",
+    "gear": [
+      "A food glossary for the language",
+      "Photographs of real menus"
+    ],
+    "steps": [
+      "Learn the cooking methods first — grilled, fried, roasted, raw, stewed — since they appear on almost every line.",
+      "Learn the main proteins and the common vegetables.",
+      "Learn the words for anything you cannot or will not eat, and how to ask about them clearly.",
+      "Learn the structure of a menu in that culture: what counts as a starter, what arrives when, what is a shared plate.",
+      "Practise on real menus online before you travel.",
+      "Learn the phrase for asking what the waiter recommends, which is the highest-return sentence you can carry."
+    ],
+    "tips": [
+      "Write allergies on a card in the local language. Speaking them is far less reliable than showing them.",
+      "Menu translation apps mangle regional dishes. Learn the words for what you must avoid."
+    ],
+    "proof": "You order a full meal from an untranslated menu and get what you expected."
+  },
+  {
+    "id": "diction",
+    "cat": "language",
+    "name": "Improve your diction",
+    "time": "3–4 weeks",
+    "level": "Easy",
+    "blurb": "Being asked to repeat yourself is usually a mechanical problem — pace, jaw tension and dropped word endings — and all three respond quickly to practice.",
+    "gear": [
+      "A voice recorder",
+      "Tongue twisters"
+    ],
+    "steps": [
+      "Record yourself reading a paragraph and listen back. The problems are almost always audible immediately.",
+      "Slow down. Rushing is the largest single cause of being misunderstood.",
+      "Open your mouth more than feels natural; a tight jaw muffles everything.",
+      "Finish your word endings, especially consonants at the ends of words, which are the first thing to disappear.",
+      "Use tongue twisters as targeted drills for the sounds you personally blur.",
+      "Practise projecting from the diaphragm rather than pushing from the throat."
+    ],
+    "tips": [
+      "Over-enunciating in practice is fine; it lands as normal clarity in conversation.",
+      "This is about being understood, not about changing your accent. There is nothing wrong with your accent."
+    ],
+    "proof": "A recording of you reading is clearly intelligible at speed, and people stop asking you to repeat things."
+  },
+  {
+    "id": "shadowing",
+    "cat": "language",
+    "name": "Learn to shadow native audio",
+    "time": "4–8 weeks",
+    "level": "Hard",
+    "blurb": "Repeating speech aloud a beat behind a recording. It trains pronunciation, rhythm and listening at once, and is the technique most likely to make you sound less foreign.",
+    "gear": [
+      "Short audio with a transcript",
+      "Headphones",
+      "A recorder"
+    ],
+    "steps": [
+      "Choose short audio — 30 to 60 seconds — of a speaker you would like to sound like, with a transcript.",
+      "Listen several times until you can follow it without reading.",
+      "Shadow with the transcript: speak along a fraction behind, copying rhythm and intonation, not just words.",
+      "Drop the transcript and shadow by ear alone, which is where the real work happens.",
+      "Record yourself and compare directly against the original — the differences are usually rhythm and stress, not individual sounds.",
+      "Work the same clip for days before moving on. Depth beats variety here."
+    ],
+    "tips": [
+      "Copy the melody and timing, not just the sounds. Intonation is what makes speech sound native.",
+      "Material far above your level makes this frustrating and useless. Start easier than you think."
+    ],
+    "proof": "You shadow a minute of natural speech in real time and a native speaker says your rhythm sounds right."
+  },
+  {
+    "id": "write-clear-email",
+    "cat": "writing",
+    "name": "Write a clear email",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "The most-written document in working life and the one nobody is taught. The whole skill is putting the ask first and making the reply easy.",
+    "gear": [
+      "Your own sent folder, read critically"
+    ],
+    "steps": [
+      "Write the subject line as the actual content: “Approval needed: Q3 budget by Friday” rather than “Quick question”.",
+      "Put the ask in the first sentence. Background goes underneath, where people can choose to read it.",
+      "State exactly what you want and by when. An email with no clear request produces no clear action.",
+      "Keep it to one screen. If it needs more, it is a document with a link to it, not an email.",
+      "Use formatting for scanning: short paragraphs, and a bulleted list when there is more than one item.",
+      "Reread once before sending, from the recipient’s point of view, and cut everything that is not needed."
+    ],
+    "tips": [
+      "Burying the request in paragraph four is why you get no reply and have to chase.",
+      "Anything angry deserves a night before sending. Nothing written in the moment improves by being sent immediately."
+    ],
+    "proof": "Your emails get answered first time, without a follow-up asking what you meant."
+  },
+  {
+    "id": "write-a-cv",
+    "cat": "writing",
+    "name": "Write a CV that gets read",
+    "time": "1–2 weeks",
+    "level": "Moderate",
+    "blurb": "A CV is skimmed in seconds and often filtered by software first. Specific achievements with numbers beat lists of responsibilities every time.",
+    "gear": [
+      "Your work history and any figures you can find",
+      "A plain, single-column template"
+    ],
+    "steps": [
+      "Lead each bullet with what you achieved and its effect, not the duty. “Cut processing time 40%” rather than “responsible for processing”.",
+      "Put numbers on everything you honestly can: scale, money, time, percentage, headcount.",
+      "Tailor to the job by mirroring the language of the advert, since both the filter and the human are looking for it.",
+      "Keep the layout plain and single-column. Multi-column designs, tables, headers and graphics are frequently mangled by parsing software.",
+      "Keep it to one or two pages, most recent first, with older roles compressed to a line.",
+      "Proofread cold, then have someone else read it. A typo on a CV is disproportionately costly."
+    ],
+    "tips": [
+      "Never overstate. Anything on a CV can be asked about in detail in an interview.",
+      "Conventions differ by country — photographs, dates of birth and personal details are expected in some places and unacceptable in others."
+    ],
+    "proof": "A stranger reads it for twenty seconds and can say what you do and what you are good at."
+  },
+  {
+    "id": "write-cover-letter",
+    "cat": "writing",
+    "name": "Write a cover letter",
+    "time": "1 week",
+    "level": "Moderate",
+    "blurb": "Not a restatement of the CV. Its job is to connect what they need to what you have done, in three short paragraphs.",
+    "gear": [
+      "The job advert",
+      "Something you know about the organisation"
+    ],
+    "steps": [
+      "Open with why this role and this organisation specifically. Generic openings read as mass-produced because they are.",
+      "In the middle, pick the two or three requirements that matter most and give a concrete example of each from your own experience.",
+      "Address the obvious question in their mind — a career change, a gap, a move — briefly and without apology.",
+      "Close by saying what you would like to happen next.",
+      "Keep it under a page. Nobody reads a long one.",
+      "Rewrite it for every application; a template with the company name swapped is transparent."
+    ],
+    "tips": [
+      "Telling them you are passionate and hard-working is invisible. Showing a specific thing you did is not.",
+      "Check the name and the organisation before sending. The wrong company name ends it instantly."
+    ],
+    "proof": "Letters that get interviews, and at least one interviewer who quotes something you wrote in it."
+  },
+  {
+    "id": "take-notes",
+    "cat": "writing",
+    "name": "Take notes worth rereading",
+    "time": "3–4 weeks",
+    "level": "Moderate",
+    "blurb": "Transcribing is not note-taking. Useful notes are written in your own words, structured while you write, and revisited soon afterwards.",
+    "gear": [
+      "Notebook or an app you will actually open",
+      "A method: Cornell, outline, or a plain question-and-answer format"
+    ],
+    "steps": [
+      "Write in your own words. The reformulation is what creates the memory; verbatim copying does almost nothing.",
+      "Structure as you go — headings, indentation, numbering — so the shape of the argument is visible later.",
+      "Leave space for later additions rather than filling every line.",
+      "Mark questions, disagreements and actions distinctly from content, so you can find them.",
+      "Review within a day and write a three-line summary at the top. This is the step that turns notes into knowledge and the one everyone skips.",
+      "Link new notes to older ones on the same topic instead of accumulating isolated pages."
+    ],
+    "tips": [
+      "Notes you never reread were a waste of the time spent writing them. Build the review in or stop taking them.",
+      "Trying to capture everything means understanding nothing. Aim for the argument, not the transcript."
+    ],
+    "proof": "You reread notes from a month ago and they are genuinely useful without your memory filling the gaps."
+  },
+  {
+    "id": "spaced-repetition-study",
+    "cat": "writing",
+    "name": "Study with active recall",
+    "time": "4–8 weeks",
+    "level": "Moderate",
+    "blurb": "Rereading and highlighting feel productive and barely work. Testing yourself feels harder and works far better — the difficulty is the mechanism, not a side effect.",
+    "gear": [
+      "Material you actually need to learn",
+      "Blank paper, or a spaced-repetition app"
+    ],
+    "steps": [
+      "Replace rereading with retrieval: close the book and write down everything you remember, then check.",
+      "Turn material into questions as you study, so the study product is a set of prompts rather than underlined text.",
+      "Space the reviews out over days and weeks rather than massing them into one session.",
+      "Interleave topics rather than blocking them, which feels worse and produces better retention and transfer.",
+      "Practise in the form you will be tested in: if you must explain it aloud, practise explaining it aloud.",
+      "Use the Feynman check — explain it simply to someone who does not know it — and let the points where you stumble direct your next session."
+    ],
+    "tips": [
+      "Fluency while reading is an illusion of competence. If you have not retrieved it, you do not know it.",
+      "Cramming works for tomorrow and fails for the month after. Spacing is the difference between passing and knowing."
+    ],
+    "proof": "You can explain the material from a blank page, weeks later, without notes."
+  },
+  {
+    "id": "read-hard-text",
+    "cat": "writing",
+    "name": "Read a difficult text",
+    "time": "3–6 weeks",
+    "level": "Hard",
+    "blurb": "Dense books and technical papers are not read front to back at a constant speed. There is a method, and it makes hard material tractable.",
+    "gear": [
+      "A genuinely difficult text you want to understand",
+      "A pencil"
+    ],
+    "steps": [
+      "Survey first: title, abstract, headings, conclusion, figures. Know the destination before starting the journey.",
+      "For a paper, read the abstract, then the introduction, then the figures, then the conclusion — and only then the method if you still need it.",
+      "Read with a question in mind. Aimless reading of hard material is where attention dies.",
+      "Mark the structure as you go: the claim, the evidence, the caveats, and the parts you do not understand.",
+      "Accept partial understanding on the first pass and go round again. Multiple passes beat one grinding read.",
+      "Write a summary in your own words afterwards; if you cannot, you have not finished reading."
+    ],
+    "tips": [
+      "Stopping at every unfamiliar term stalls the whole read. Mark it and continue; context often resolves it.",
+      "Read the methods and limitations of a paper before believing its abstract."
+    ],
+    "proof": "You summarise a difficult paper accurately, including what it does not show."
+  },
+  {
+    "id": "summarise",
+    "cat": "writing",
+    "name": "Summarise anything in three sentences",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "A test of understanding disguised as a writing exercise. If you cannot compress it, you have not understood it.",
+    "gear": [
+      "Articles, meetings or documents to practise on"
+    ],
+    "steps": [
+      "Identify the single main claim first, and write it in one sentence in your own words.",
+      "Add the strongest supporting reason or evidence in a second sentence.",
+      "Add the implication, limitation or so-what in a third.",
+      "Cut every adjective, hedge and connector that is not carrying weight.",
+      "Test it on someone who has not read the original and see whether they get the point.",
+      "Practise daily on something you read anyway."
+    ],
+    "tips": [
+      "Starting with the details and hoping the point emerges produces a shorter version, not a summary.",
+      "If your summary needs a fourth sentence, you probably have two main claims. Say so explicitly."
+    ],
+    "proof": "Someone who has not read the original can accurately explain it back from your three sentences."
+  },
+  {
+    "id": "proofread",
+    "cat": "writing",
+    "name": "Proofread your own writing",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "Your brain reads what you meant, not what you wrote. Beating that requires deliberately breaking the familiarity.",
+    "gear": [
+      "A printer or a text-to-speech tool",
+      "Time between writing and checking"
+    ],
+    "steps": [
+      "Leave time between writing and proofreading. An hour helps; a night is better.",
+      "Read it aloud, or have the computer read it to you. Ears catch what eyes skip.",
+      "Change the appearance — different font, print it, read on a different device — so it looks unfamiliar.",
+      "Read backwards sentence by sentence for spelling, which removes the meaning that lets you skim.",
+      "Check the high-cost items separately and deliberately: names, numbers, dates, links and the subject line.",
+      "Do one pass per problem type rather than looking for everything at once."
+    ],
+    "tips": [
+      "Spellcheck misses every correctly spelled wrong word, which is most real errors.",
+      "The title, the first line and the caption are where typos survive longest, because nobody proofreads those."
+    ],
+    "proof": "Something you proofread goes out with no errors found by anyone else."
+  },
+  {
+    "id": "write-instructions",
+    "cat": "writing",
+    "name": "Write instructions someone can follow",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Documentation, recipes, handovers and how-tos all fail the same way: the writer knows too much and skips the step that is obvious only to them.",
+    "gear": [
+      "A process you know well",
+      "Someone who does not know it"
+    ],
+    "steps": [
+      "State the goal and the prerequisites first: what this achieves, what they need before starting, and how long it takes.",
+      "Number the steps and put exactly one action in each.",
+      "Write in the imperative and be specific about the actual thing to click, turn or type.",
+      "Include what success looks like at key points, so they can tell whether it worked.",
+      "Name the common failure and what to do about it, which is what people are actually reading for by the time they arrive.",
+      "Test it by watching someone else follow it without helping them. Every place they hesitate is a missing step."
+    ],
+    "tips": [
+      "The curse of knowledge is the whole problem. The step you think is too obvious to write is the one they get stuck on.",
+      "Watching a real person follow your instructions in silence is uncomfortable and worth more than ten rereads."
+    ],
+    "proof": "Someone unfamiliar completes the task from your instructions alone, without asking you anything."
+  },
+  {
+    "id": "keep-a-journal",
+    "cat": "writing",
+    "name": "Keep a journal",
+    "time": "4–8 weeks to establish",
+    "level": "Easy",
+    "blurb": "A few lines a day gives you a record you will value years later and a place to think without an audience. The habit fails on ambition, not on discipline.",
+    "gear": [
+      "A notebook or a plain text file",
+      "Two minutes"
+    ],
+    "steps": [
+      "Set the bar absurdly low: three lines. A habit that survives a bad day is worth more than a beautiful one you abandon.",
+      "Attach it to an existing routine — after brushing your teeth, with the first coffee — rather than relying on remembering.",
+      "Write what happened and one thing you noticed, rather than trying to be profound.",
+      "Do not reread while establishing the habit; self-editing is what kills early journals.",
+      "Allow gaps without guilt and simply resume. A missed week is not a failed journal.",
+      "Reread after six months, which is when it starts paying you back."
+    ],
+    "tips": [
+      "Buying an expensive notebook raises the stakes and makes people write less. Use something disposable.",
+      "If writing about difficult events consistently leaves you worse rather than clearer, that is a sign to talk to someone rather than to write more."
+    ],
+    "proof": "Sixty days of entries, however short, and a rereading that tells you something you had forgotten."
+  },
+  {
+    "id": "outline-first",
+    "cat": "writing",
+    "name": "Outline before you write",
+    "time": "2–3 weeks",
+    "level": "Easy",
+    "blurb": "Most painful writing is a structure problem being fought at sentence level. Ten minutes of outlining saves hours of rewriting.",
+    "gear": [
+      "Paper or a plain document"
+    ],
+    "steps": [
+      "Write the point of the whole piece in one sentence before anything else. If you cannot, you are not ready to write.",
+      "List the three to five things the reader must know, in any order.",
+      "Order them so each one makes the next make sense, and check for anything assumed but not yet established.",
+      "Note the evidence or example for each point beside it.",
+      "Write the outline as headings in the document, then fill them in — drafting becomes filling gaps rather than facing a blank page.",
+      "Be willing to rearrange the outline mid-draft; discovering the real structure while writing is normal."
+    ],
+    "tips": [
+      "Writing without a plan and hoping to find the argument is why the middle of a piece sags.",
+      "An outline is disposable. Do not polish it."
+    ],
+    "proof": "You draft a substantial piece from an outline in one sitting, without stalling in the middle."
+  },
+  {
+    "id": "cut-words",
+    "cat": "writing",
+    "name": "Cut your word count by a fifth",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Almost every first draft is a fifth too long, and cutting it makes it clearer rather than thinner. This is the single most reliable way to improve any piece of writing.",
+    "gear": [
+      "Something you wrote",
+      "A ruthless mood"
+    ],
+    "steps": [
+      "Cut the throat-clearing at the start. The real opening is often the second or third paragraph.",
+      "Delete intensifiers and hedges — very, really, quite, somewhat, I think, it seems — and see what is lost. Usually nothing.",
+      "Replace long constructions with short ones: “in order to” becomes “to”, “at this point in time” becomes “now”.",
+      "Convert passive constructions to active where the actor matters, which usually shortens and clarifies at once.",
+      "Look for the sentence that says what the previous sentence already said, and cut one of them.",
+      "Set a hard target — 20% — and hit it. A target forces decisions that good intentions do not."
+    ],
+    "tips": [
+      "If a cut loses nothing, it was not carrying anything. Trust the test.",
+      "Cutting is not the same as removing detail. Specifics usually survive; padding does not."
+    ],
+    "proof": "A piece cut by 20% that readers find clearer, not thinner."
+  },
+  {
+    "id": "write-a-good-ask",
+    "cat": "writing",
+    "name": "Write a request people say yes to",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Asking for an introduction, a favour, a job or advice. The difference between a request that gets answered and one that gets ignored is almost entirely in the effort you removed from the other person.",
+    "gear": [
+      "A real request you have been putting off"
+    ],
+    "steps": [
+      "Be specific. A vague ask puts the work of defining it onto them, which is why it goes unanswered.",
+      "Make it easy to say yes: keep the ask small, bounded and clearly time-limited.",
+      "Make it easy to say no, explicitly. People answer more readily when refusing is not awkward.",
+      "Explain briefly why you are asking this person in particular, which is not flattery but relevance.",
+      "Do the work you can do yourself first, and show it. A drafted introduction they can forward beats asking them to write one.",
+      "Follow up once, politely, after a reasonable interval — and then let it go."
+    ],
+    "tips": [
+      "“Can I pick your brain?” asks for unbounded time and gets declined. “Could I ask two specific questions by email?” does not.",
+      "Say what happened afterwards. People who see the outcome help again."
+    ],
+    "proof": "A cold request you sent gets a yes, and the person does not have to ask you what you meant."
+  },
+  {
+    "id": "check-sources",
+    "cat": "writing",
+    "name": "Cite and check sources",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Tracing a claim to its origin is the core research skill, and it survives contact with a world where confident text is cheap to generate.",
+    "gear": [
+      "A citation manager, or a disciplined document",
+      "Access to a library or open-access archives"
+    ],
+    "steps": [
+      "Follow claims upstream to the primary source. News about a study is not the study; a blog citing a blog is not evidence.",
+      "Check that the source actually says what it is cited for, which surprisingly often it does not.",
+      "Note the study’s size, design and limitations, not just its headline finding.",
+      "Look for who funded it and who benefits, without treating that alone as a refutation.",
+      "Keep the reference at the moment you use it. Reconstructing citations later is where hours disappear.",
+      "Learn one citation style well enough to be consistent, and use a manager to enforce it."
+    ],
+    "tips": [
+      "A confident summary from any tool, human or otherwise, is not a source. Follow the link and read it.",
+      "If a striking statistic has no traceable origin, that is itself the finding."
+    ],
+    "proof": "You trace a widely repeated claim back to its origin and can say whether it holds up."
+  },
+  {
     "id": "poker-fundamentals",
     "cat": "games",
     "name": "Learn poker fundamentals",
@@ -7308,6 +8720,56 @@ window.SKILLS = [
       "Do not explain the strategy while teaching the rules. It doubles the cognitive load."
     ],
     "proof": "You teach a medium-complexity game to four new players and they are playing confidently within fifteen minutes."
+  },
+  {
+    "id": "learn-bridge",
+    "cat": "games",
+    "name": "Learn bridge basics",
+    "time": "2–4 months",
+    "level": "Hard",
+    "blurb": "The deepest of the common card games, and the most social — it is played in clubs everywhere and rewards decades of study. The bidding is the barrier and the point.",
+    "gear": [
+      "A beginners’ course or club",
+      "Three other people",
+      "A basic bidding system reference"
+    ],
+    "steps": [
+      "Learn the mechanics first: 52 cards, four players in two partnerships, thirteen tricks, trumps decided by an auction.",
+      "Learn hand evaluation — high card points and distribution — which is the foundation of every bid.",
+      "Learn one simple bidding system and stick to it. Mixing systems with a partner is the fastest route to disaster.",
+      "Learn that bidding is a constrained conversation with your partner, not a bet: each bid carries agreed information.",
+      "Learn basic play: leading, following, ruffing, and counting the cards that have gone.",
+      "Join a beginners’ club night. Bridge is learned with people, and clubs are used to teaching newcomers."
+    ],
+    "tips": [
+      "Table talk and hesitation convey information unfairly and are taken seriously. Learn the etiquette early.",
+      "Your partner is not your opponent. Most beginner frustration is misdirected there."
+    ],
+    "proof": "You play a full rubber at a club night, bid a system consistently, and know why each bid was made."
+  },
+  {
+    "id": "learn-solitaire",
+    "cat": "games",
+    "name": "Learn a solitaire card game properly",
+    "time": "1–2 weeks",
+    "level": "Easy",
+    "blurb": "Beyond clicking through Klondike: games like FreeCell are almost always solvable with correct play, which turns solitaire from luck into a puzzle.",
+    "gear": [
+      "A deck of cards, or a good implementation"
+    ],
+    "steps": [
+      "Learn FreeCell first, where nearly every deal is solvable and the outcome is skill rather than luck.",
+      "Learn to plan several moves ahead and to count your free cells before committing to a sequence.",
+      "Learn the core principle: empty columns are worth more than free cells, so prioritise creating them.",
+      "Learn to identify a deal that has become unwinnable, and why, rather than shuffling on.",
+      "Learn a second game with different mechanics — Spider or Yukon — to see the shared ideas.",
+      "Play without undo, which is the only way the decisions matter."
+    ],
+    "tips": [
+      "Sending cards to the foundations too early removes cards you needed for sequencing. Hold them back.",
+      "If you rely on undo, you are exploring rather than playing. Both are fine, but only one is practice."
+    ],
+    "proof": "You win the large majority of FreeCell deals without using undo."
   },
   {
     "id": "dog-basic-cues",
@@ -7618,6 +9080,32 @@ window.SKILLS = [
       "Paracetamol is lethal to cats in small doses. Keep all human medication well away from pets."
     ],
     "proof": "A course certificate, an assembled kit, and emergency numbers everyone in the house can find."
+  },
+  {
+    "id": "crate-and-settle",
+    "cat": "animals",
+    "name": "Teach a dog to settle",
+    "time": "4–8 weeks",
+    "level": "Moderate",
+    "blurb": "The most useful thing a dog can learn: switching off on a mat or in a crate. It makes cafés, visitors and household chaos manageable for both of you.",
+    "gear": [
+      "A mat or a crate large enough to stand and turn in",
+      "High-value treats",
+      "A long-lasting chew"
+    ],
+    "steps": [
+      "Make the space genuinely good: feed there, leave chews there, and never use it as punishment.",
+      "Reward any voluntary calm on the mat — lying down, a sigh, a head-down — rather than asking for it at first.",
+      "Build duration gradually, dropping treats between the paws while the dog stays down rather than calling them out.",
+      "Add distance and then distractions, one variable at a time.",
+      "Never shut a crate door on a dog that is not already comfortable inside it, and never leave a distressed dog shut in.",
+      "Practise in real settings — visitors, a café, the vet waiting room — once it is solid at home."
+    ],
+    "tips": [
+      "A dog that barks or panics when confined is not being stubborn; the association has gone wrong and needs rebuilding slowly.",
+      "Crate use is restricted or frowned upon in some countries. Follow local norms and welfare guidance."
+    ],
+    "proof": "Your dog settles on the mat for half an hour with visitors in the house, unprompted."
   },
   {
     "id": "constellations",
@@ -8154,6 +9642,57 @@ window.SKILLS = [
       "Satellite trains from recent launches are startlingly bright and often mistaken for something stranger."
     ],
     "proof": "You predict and watch an ISS pass, and identify three planets unaided on the same night."
+  },
+  {
+    "id": "read-weather-map",
+    "cat": "observation",
+    "name": "Read a weather map",
+    "time": "3–5 weeks",
+    "level": "Moderate",
+    "blurb": "A synoptic chart tells you what is coming and when, several days ahead. It is the step beyond reading clouds, and it explains why the forecast says what it does.",
+    "gear": [
+      "A synoptic chart source for your region",
+      "A record of what actually happened"
+    ],
+    "steps": [
+      "Learn isobars: closely spaced lines mean strong wind, widely spaced means calm.",
+      "Learn highs and lows, and which way the air circulates around each in your hemisphere.",
+      "Learn the front symbols — warm, cold, occluded — and the weather sequence each brings as it passes.",
+      "Learn to read the timing: chart sequences show how fast systems move, which is what turns a chart into a forecast.",
+      "Compare the chart against what actually happens, daily, for a few weeks.",
+      "Learn the local effects your region has — sea breezes, rain shadows, valley fog — which no synoptic chart shows."
+    ],
+    "tips": [
+      "A tightly packed low is the wind warning; people read the fronts and miss the isobar spacing.",
+      "Charts give the large-scale picture. Mountains and coasts routinely override it."
+    ],
+    "proof": "You read tomorrow’s chart, predict the wind and rain timing, and are right more often than not."
+  },
+  {
+    "id": "identify-pollinators",
+    "cat": "observation",
+    "name": "Identify bees, butterflies and pollinators",
+    "time": "A season",
+    "level": "Moderate",
+    "blurb": "Most people see one kind of bee. There are hundreds, and learning the common ones makes a garden or a verge suddenly full of distinct characters.",
+    "gear": [
+      "A regional guide",
+      "Close-focus binoculars or a phone macro lens",
+      "A notebook"
+    ],
+    "steps": [
+      "Learn the big groups first: honeybees, bumblebees, solitary bees, hoverflies, wasps, butterflies and moths.",
+      "Learn to separate hoverflies from bees, which is the commonest confusion — two wings not four, and hovering flight.",
+      "Learn the handful of common bumblebees by tail colour and banding, which covers most sightings.",
+      "Learn the local butterflies, which are few enough to know completely in most regions.",
+      "Record what you see on which flowers; the plant is often a strong identification clue.",
+      "Submit records to a national recording scheme, where amateur data genuinely matters."
+    ],
+    "tips": [
+      "Photograph rather than catch. Most can be identified from a decent photograph of the right angle.",
+      "Bees are not aggressive when foraging. Solitary bees mostly cannot sting through skin at all."
+    ],
+    "proof": "You identify twenty pollinator species in your area and submit records to a recording scheme."
   },
   {
     "id": "sketch-faces",
@@ -8859,6 +10398,57 @@ window.SKILLS = [
     "proof": "A finished folded zine you have copied and given to at least ten people."
   },
   {
+    "id": "sketchbook-habit",
+    "cat": "creative",
+    "name": "Keep a sketchbook",
+    "time": "6–8 weeks to establish",
+    "level": "Easy",
+    "blurb": "Daily drawing beats occasional serious attempts by a wide margin. The habit fails when the book is too precious to fill with bad drawings.",
+    "gear": [
+      "A cheap, small sketchbook you will carry",
+      "One pen you like",
+      "No eraser"
+    ],
+    "steps": [
+      "Buy a cheap book. An expensive one raises the stakes and stops people drawing in it, which is the opposite of the point.",
+      "Draw daily, briefly. Five minutes is a real session; waiting for an hour of inspiration is how sketchbooks stay empty.",
+      "Draw what is in front of you rather than from imagination — the cup, the shoe, the person opposite on the train.",
+      "Use a pen. Working without an eraser stops you fussing and makes you commit to a line.",
+      "Do not tear pages out. The bad ones are the evidence that you turned up.",
+      "Fill the whole book, then look back at page one. That comparison is the reward."
+    ],
+    "tips": [
+      "Precious materials produce empty books. Cheap paper produces artists.",
+      "Nobody needs to see it. A sketchbook made for an audience stops being practice."
+    ],
+    "proof": "A completely full sketchbook, and visible improvement between the first and last page."
+  },
+  {
+    "id": "comic-strip",
+    "cat": "creative",
+    "name": "Draw a comic strip",
+    "time": "3–5 weeks",
+    "level": "Moderate",
+    "blurb": "Comics are a storytelling craft more than a drawing one: what you put in each panel and what you leave in the gaps carries the story. Stick figures work fine.",
+    "gear": [
+      "Paper and a pen, or a tablet",
+      "A ruler for panel borders"
+    ],
+    "steps": [
+      "Write the joke or beat first, in words. A comic with nothing to say is not rescued by good drawing.",
+      "Break it into panels, one beat each, and remember the reader fills in the time between panels — that gap is a tool.",
+      "Thumbnail the whole strip small before drawing anything properly.",
+      "Leave room for the lettering before you draw. Lettering squeezed in afterwards is the classic beginner tell.",
+      "Keep the characters simple and consistent, so they are recognisable from panel to panel.",
+      "Ink it, letter it, and publish it somewhere — finishing is the skill."
+    ],
+    "tips": [
+      "Drawing first and lettering after leaves speech bubbles covering the faces.",
+      "Four panels with a clear beat each beat one panel crammed with everything."
+    ],
+    "proof": "A finished strip that someone else reads and understands without you explaining it."
+  },
+  {
     "id": "touch-typing",
     "cat": "technology",
     "name": "Touch type at 50+ words per minute",
@@ -9425,6 +11015,408 @@ window.SKILLS = [
     "proof": "You complete a genuinely useful piece of work with it and can point to what you verified independently."
   },
   {
+    "id": "debug-systematically",
+    "cat": "technology",
+    "name": "Debug systematically",
+    "time": "4–8 weeks",
+    "level": "Moderate",
+    "blurb": "The difference between hours lost and minutes spent is method, not cleverness. Changing things at random is the default and it is the slow path.",
+    "gear": [
+      "Something broken",
+      "A way to observe what is happening: logs, a debugger, print statements"
+    ],
+    "steps": [
+      "Reproduce it reliably first. A bug you cannot reproduce cannot be verified as fixed.",
+      "Read the error message properly, all of it, including the stack trace. An enormous share of bugs are described precisely in text people skim past.",
+      "Form one hypothesis and design the smallest test that would disprove it, rather than changing several things at once.",
+      "Bisect: cut the search space in half repeatedly — by code, by commit, by input — instead of scanning linearly.",
+      "Check your assumptions explicitly, especially the ones so obvious you have not stated them. That is where the bug usually lives.",
+      "When stuck, explain the problem out loud to someone or something. Articulating it solves a surprising proportion of them."
+    ],
+    "tips": [
+      "Change one thing at a time. Two simultaneous changes mean you learn nothing from the result.",
+      "\"It cannot be that\" is a strong signal to check exactly that."
+    ],
+    "proof": "You find a non-obvious bug by narrowing rather than guessing, and can explain the actual cause."
+  },
+  {
+    "id": "how-the-web-works",
+    "cat": "technology",
+    "name": "Understand how the web works",
+    "time": "2–3 weeks",
+    "level": "Moderate",
+    "blurb": "What actually happens between typing an address and seeing a page. It makes troubleshooting, privacy and security decisions concrete rather than superstitious.",
+    "gear": [
+      "A browser with developer tools",
+      "A terminal for dig, ping and traceroute"
+    ],
+    "steps": [
+      "Follow one request end to end: DNS lookup, TCP connection, TLS handshake, HTTP request, response, rendering.",
+      "Learn what DNS does and try it yourself with dig or nslookup, including why a change takes time to propagate.",
+      "Learn what HTTPS actually protects — the content and the integrity, not the fact that you visited — and what a certificate proves.",
+      "Learn the common status codes and what they tell you when something breaks.",
+      "Learn what cookies are, the difference between first and third party, and how that connects to tracking.",
+      "Watch it all happen in the Network panel on a real page load."
+    ],
+    "tips": [
+      "The padlock means the connection is encrypted, not that the site is trustworthy. Phishing sites have padlocks too.",
+      "Most home connectivity problems are DNS. Learning to test that first saves hours."
+    ],
+    "proof": "You diagnose a real connectivity or site problem by reasoning about which layer failed."
+  },
+  {
+    "id": "build-a-budget",
+    "cat": "money",
+    "name": "Build a budget you will actually keep",
+    "time": "2–4 weeks",
+    "level": "Moderate",
+    "blurb": "Most budgets fail because they are a spreadsheet of good intentions with no slack in them. A budget that survives contact with real life is coarse, forgiving and automatic.",
+    "gear": [
+      "Three months of bank statements",
+      "A spreadsheet or a budgeting app"
+    ],
+    "steps": [
+      "Start by measuring, not planning: categorise three months of actual spending before deciding anything.",
+      "Separate fixed costs from variable ones. Fixed costs are where the large, permanent savings live; variable ones are where willpower gets spent.",
+      "Use a coarse framework rather than thirty categories — something like needs, wants and savings — because detailed budgets collapse under their own admin.",
+      "Budget for the irregular things everyone forgets: car repairs, birthdays, insurance renewals. Divide the annual cost by twelve and set it aside monthly.",
+      "Automate the transfers on payday so saving happens before spending rather than from what is left.",
+      "Review monthly and adjust the plan to reality rather than the reverse."
+    ],
+    "tips": [
+      "A budget with no fun money is abandoned within two months. Build the slack in deliberately.",
+      "Cutting small pleasures rarely moves the needle; the big four — housing, transport, food, debt cost — usually do."
+    ],
+    "proof": "Three consecutive months where you know where the money went and the plan needed only small corrections."
+  },
+  {
+    "id": "read-a-payslip",
+    "cat": "money",
+    "name": "Read a payslip",
+    "time": "1–2 hours",
+    "level": "Easy",
+    "blurb": "Most people have never checked one, and payroll errors are far from rare. Ten minutes of understanding protects you against quietly losing money for years.",
+    "gear": [
+      "Your last few payslips",
+      "Your contract or offer letter"
+    ],
+    "steps": [
+      "Learn the structure: gross pay, deductions, net pay, and the year-to-date columns that show cumulative totals.",
+      "Check gross pay against your contract, including any overtime, bonus or shift premium.",
+      "Identify each deduction: income tax, social insurance contributions, pension, student loan, anything else.",
+      "Check your tax code or equivalent identifier. A wrong code is one of the commonest and most expensive payroll errors.",
+      "Check the pension line — both your contribution and any employer match — because an unclaimed match is free money forgone.",
+      "Keep payslips, and compare against the year-end summary when it arrives."
+    ],
+    "tips": [
+      "Payroll mistakes tend to persist until someone notices. Check the first payslip after any change of job, pay or hours.",
+      "Rules differ by country and situation. For anything unclear or expensive, ask payroll or a qualified adviser rather than guessing."
+    ],
+    "proof": "You can account for every line on your payslip and have verified the figures against your contract."
+  },
+  {
+    "id": "compound-interest",
+    "cat": "money",
+    "name": "Understand compound interest",
+    "time": "2–3 hours",
+    "level": "Easy",
+    "blurb": "The one piece of financial mathematics that explains both why debt is dangerous and why saving early matters so much. It is genuinely counter-intuitive until you calculate it once.",
+    "gear": [
+      "A spreadsheet",
+      "A compound interest calculator"
+    ],
+    "steps": [
+      "Build the model yourself in a spreadsheet: a starting balance, a rate, and a column per year. Watching the curve bend is what makes it click.",
+      "Learn the rule of 72: divide 72 by the annual percentage rate to get the rough doubling time.",
+      "Run it in both directions — on savings and on a credit card balance at 25% — and notice that the same mechanism works against you.",
+      "Learn the effect of time: the first decade of contributions usually outweighs the last two combined.",
+      "Learn what fees do, since a 1% annual charge compounds too and can consume a large share of a lifetime return.",
+      "Learn the difference between nominal and real returns, so inflation is in the picture."
+    ],
+    "tips": [
+      "The intuition failure is assuming growth is linear. Draw the curve.",
+      "This is arithmetic, not investment advice. What to do about it depends on your circumstances."
+    ],
+    "proof": "You can estimate a doubling time in your head and explain to someone why paying off a high-interest debt beats saving."
+  },
+  {
+    "id": "emergency-fund",
+    "cat": "money",
+    "name": "Build an emergency fund",
+    "time": "3–12 months",
+    "level": "Moderate",
+    "blurb": "A cash buffer is what stops an unexpected bill becoming expensive debt. It is the least glamorous and most protective thing in personal finance.",
+    "gear": [
+      "A separate, instantly accessible savings account",
+      "A standing order"
+    ],
+    "steps": [
+      "Work out your actual monthly essentials — housing, food, transport, utilities, minimum debt payments — rather than your total spending.",
+      "Set a first target that is small enough to reach: a single month, or even a few hundred, changes your options immediately.",
+      "Keep it somewhere separate from your current account but reachable within a day. Not invested, not locked away.",
+      "Automate a transfer on payday, however small, and increase it when income rises.",
+      "Decide in advance what counts as an emergency and write it down, so the fund survives contact with a sale.",
+      "Rebuild it after any use, at the same automatic rate."
+    ],
+    "tips": [
+      "Three to six months of essentials is a common guideline; less irregular income needs less buffer, freelancing needs more.",
+      "Clearing very high-interest debt usually beats building a large buffer beyond a small starter amount."
+    ],
+    "proof": "A separate account holding at least one month of essential costs that you have not needed to raid."
+  },
+  {
+    "id": "read-a-lease",
+    "cat": "money",
+    "name": "Read a lease before signing",
+    "time": "2–3 hours",
+    "level": "Moderate",
+    "blurb": "A tenancy agreement is the largest contract most people sign, and it is routinely signed unread. An hour of attention prevents years of avoidable arguments.",
+    "gear": [
+      "The full agreement, including any annexes",
+      "A pen",
+      "Your local tenancy rights guidance"
+    ],
+    "steps": [
+      "Read the whole thing, including schedules and house rules. Ask for anything referenced but not attached.",
+      "Check the basics: exact rent, due date, deposit amount, term length, notice periods on both sides, and how renewal works.",
+      "Check the deposit is protected in whatever scheme your jurisdiction requires, and get the paperwork.",
+      "Find the repairs clause: who is responsible for what, and how you report problems.",
+      "Look for the clauses that cause disputes: fees, break clauses, guests, subletting, pets, decoration, and end-of-tenancy cleaning standards.",
+      "Photograph and document the property’s condition on day one, in detail, and share the record with the landlord."
+    ],
+    "tips": [
+      "A clause in a contract is not automatically enforceable; local tenancy law overrides unfair terms in many places. Look up your rights.",
+      "Get any promise made verbally added to the agreement in writing before you sign."
+    ],
+    "proof": "You read an agreement, ask about the clauses that matter, and get at least one changed or clarified in writing."
+  },
+  {
+    "id": "understand-pension",
+    "cat": "money",
+    "name": "Understand your pension",
+    "time": "3–5 hours",
+    "level": "Moderate",
+    "blurb": "Retirement saving is where small decisions compound the most, and it is the account people understand least. Two hours now is worth more than any other financial afternoon.",
+    "gear": [
+      "Your pension statements",
+      "Your employer’s scheme documents"
+    ],
+    "steps": [
+      "Find out what type you have — a defined contribution pot or a defined benefit promise — because they work completely differently.",
+      "Find out what your employer contributes and what you must contribute to get the full match. Not claiming the full match is turning down pay.",
+      "Find where the money is invested, which for most people is a default fund they never chose.",
+      "Find the charges, expressed as an annual percentage, and understand that they compound over decades.",
+      "Track down old pensions from previous jobs; small forgotten pots are extremely common.",
+      "Check what happens on death and make sure the nomination form is completed and current."
+    ],
+    "tips": [
+      "Rules, tax treatment and terminology vary enormously by country. Use your own jurisdiction’s official guidance.",
+      "This is orientation, not advice. Anything consequential — transferring a defined benefit pension especially — needs a regulated adviser."
+    ],
+    "proof": "You can state your contribution rate, your employer’s, your fund, your charges, and where every old pot is."
+  },
+  {
+    "id": "index-fund-basics",
+    "cat": "money",
+    "name": "Learn what an index fund is",
+    "time": "3–5 hours",
+    "level": "Moderate",
+    "blurb": "Understanding diversification, fees and time horizon is financial literacy rather than stock picking. It is what lets you evaluate what you are being sold.",
+    "gear": [
+      "A reputable, non-commercial introduction to investing",
+      "A fee comparison table"
+    ],
+    "steps": [
+      "Learn what an index is, and what it means for a fund to track one rather than try to beat it.",
+      "Learn why fees matter so much over decades, and how to find the total ongoing charge of any fund.",
+      "Learn diversification: why holding the whole market behaves very differently from holding a few companies.",
+      "Learn the relationship between risk, time horizon and volatility, and what it means to be able to leave money alone for years.",
+      "Learn your own tax wrappers and allowances, which differ by country and are often the largest single lever.",
+      "Learn to recognise the warning signs of a scam: guaranteed returns, time pressure, and anything unregulated."
+    ],
+    "tips": [
+      "Nothing here is a recommendation to invest. Investments can fall, and money you may need soon does not belong in them.",
+      "If a product cannot be explained to you in plain language, that is information about the product."
+    ],
+    "proof": "You can read a fund factsheet and explain what it holds, what it charges and what risk it carries."
+  },
+  {
+    "id": "spot-a-scam",
+    "cat": "money",
+    "name": "Spot a financial scam",
+    "time": "2–3 hours",
+    "level": "Easy",
+    "blurb": "Modern scams are professional, personalised and rely on manufactured urgency. Knowing the shape of them is far more protective than knowing any particular one.",
+    "gear": [
+      "Your bank’s official contact number, saved from the card itself"
+    ],
+    "steps": [
+      "Learn the universal tell: manufactured urgency. Every scam needs you to act before you think.",
+      "Learn the impersonation pattern — bank, tax office, police, delivery firm, your own boss — and the rule that none of them will ask you to move money to a safe account.",
+      "Never use contact details supplied in the message. Hang up, wait a few minutes, and call the number on your card or the official website.",
+      "Learn that caller ID, sender names and email addresses are trivially spoofed, and that a message arriving in a genuine thread proves nothing.",
+      "Learn the romance and investment patterns, which unfold over weeks and rely on relationship rather than urgency.",
+      "Agree a rule with older relatives: any request to move money gets a call to you first, no exceptions."
+    ],
+    "tips": [
+      "Embarrassment is the scammer’s ally. Report it immediately to your bank and the relevant authority; speed matters for recovery.",
+      "Anyone can be caught. It is a professional industry, not a test of intelligence."
+    ],
+    "proof": "You can describe the standard patterns and have a verification habit you use without exception."
+  },
+  {
+    "id": "negotiate-a-bill",
+    "cat": "money",
+    "name": "Negotiate a bill or subscription",
+    "time": "An afternoon",
+    "level": "Easy",
+    "blurb": "Loyalty is priced as inertia: broadband, insurance and mobile contracts are routinely cheaper for new customers. One afternoon a year is unusually well-paid work.",
+    "gear": [
+      "Your current contract and renewal price",
+      "Competitor quotes",
+      "An hour and some patience"
+    ],
+    "steps": [
+      "Audit your recurring payments first — most people find at least one subscription they had forgotten.",
+      "Get real competitor quotes before calling, because a specific alternative is the only leverage that works.",
+      "Call the retentions or cancellations team rather than general support; they have the discounts.",
+      "Be polite, specific and calm: state the competing offer, ask what they can do, then stop talking.",
+      "Be genuinely willing to leave, and follow through if the offer is poor.",
+      "Set a calendar reminder for a month before every renewal date, since auto-renewal is where the money leaks."
+    ],
+    "tips": [
+      "Insurance auto-renewal quotes are frequently well above the new-customer price for the identical policy.",
+      "Check that a cheaper deal has comparable cover or speed. A worse product at a lower price is not a saving."
+    ],
+    "proof": "You cut at least one recurring bill without reducing what you actually get."
+  },
+  {
+    "id": "credit-report",
+    "cat": "money",
+    "name": "Check your credit report",
+    "time": "2–3 hours",
+    "level": "Easy",
+    "blurb": "Your credit file decides the price of borrowing, and errors on it are common. Checking is free in most countries and takes an evening.",
+    "gear": [
+      "Access to your country’s credit reference agencies",
+      "Proof of identity"
+    ],
+    "steps": [
+      "Find out which agencies operate where you live and get your report from each, since they hold different data.",
+      "Check the basics are right: name, addresses, and that every account listed is genuinely yours.",
+      "Look for accounts you do not recognise, which can be the first sign of identity theft.",
+      "Check for errors: settled debts still showing as open, wrong dates, duplicate entries.",
+      "Dispute anything wrong with the agency and the lender, in writing, and keep records.",
+      "Learn what actually affects the score where you live — payment history and utilisation usually dominate — and ignore the mythology."
+    ],
+    "tips": [
+      "Checking your own report does not harm your score anywhere that matters.",
+      "Free statutory access exists in many countries. You rarely need a paid subscription."
+    ],
+    "proof": "You have read your full report from each agency and disputed anything incorrect."
+  },
+  {
+    "id": "tax-return",
+    "cat": "money",
+    "name": "File a simple tax return",
+    "time": "A weekend",
+    "level": "Moderate",
+    "blurb": "For straightforward circumstances this is a form, a deadline and some record keeping — not the ordeal its reputation suggests. Doing it yourself once teaches you what actually matters.",
+    "gear": [
+      "Your income records for the year",
+      "Records of deductible expenses",
+      "Your tax authority’s official guidance"
+    ],
+    "steps": [
+      "Find your deadlines, including any payment dates that differ from the filing date, and diarise them.",
+      "Register in advance if you need to; identity verification can take weeks and is a common cause of late filing.",
+      "Gather income from every source: employment, self-employment, interest, dividends, rent, benefits.",
+      "Learn which expenses are deductible in your situation, from official guidance rather than from social media.",
+      "Fill it in early, well before the deadline, so there is time to find missing paperwork.",
+      "Keep records for however long your jurisdiction requires, and set money aside through the year rather than facing one bill."
+    ],
+    "tips": [
+      "Rules are jurisdiction-specific and change annually. Use the official guidance for your country and year.",
+      "Anything complicated — property, shares, crypto, working across borders, a business — is worth an accountant. They usually cost less than the mistakes."
+    ],
+    "proof": "A return filed accurately and on time, with records organised for next year."
+  },
+  {
+    "id": "understand-insurance",
+    "cat": "money",
+    "name": "Understand an insurance policy",
+    "time": "2–3 hours",
+    "level": "Moderate",
+    "blurb": "People discover what their policy does not cover at the worst possible moment. The exclusions matter more than the price.",
+    "gear": [
+      "Your existing policy documents",
+      "The full terms, not just the summary"
+    ],
+    "steps": [
+      "Read the exclusions first. That is where the policy actually lives, and it is the section nobody reads.",
+      "Check the excess or deductible, including any separate higher excess for specific claim types.",
+      "Check the limits: total cover, per-item limits, and whether valuables need naming individually.",
+      "Check the conditions you must meet for cover to be valid — locks, alarms, maintenance, notification periods.",
+      "Understand the duty to disclose accurately, since an inaccurate answer can void a claim entirely.",
+      "Compare like with like when shopping: a cheaper policy with a higher excess and thinner cover is not cheaper."
+    ],
+    "tips": [
+      "Under-insuring the total value can reduce every payout proportionally, not just the amount over the limit.",
+      "Tell your insurer about changes — address, occupation, modifications — or you may not be covered when it matters."
+    ],
+    "proof": "You can state your excess, your key exclusions and your per-item limits without looking them up."
+  },
+  {
+    "id": "track-spending",
+    "cat": "money",
+    "name": "Track your spending for a month",
+    "time": "1 month",
+    "level": "Easy",
+    "blurb": "The measurement that makes every other financial decision possible. Almost everyone is surprised by at least one category.",
+    "gear": [
+      "A banking app with categorisation, or a simple spreadsheet"
+    ],
+    "steps": [
+      "Pick a method you will keep up for a month: automatic categorisation is fine, and better than a perfect system you abandon in week two.",
+      "Capture everything, including cash and the small recurring things that hide.",
+      "Categorise coarsely — a dozen categories at most.",
+      "Separate one-offs from recurring costs, so an unusual month does not distort the picture.",
+      "At the end of the month, compare what you spent against what you would have guessed. The gap is the point of the exercise.",
+      "Pick one or two changes based on what you found, rather than trying to fix everything."
+    ],
+    "tips": [
+      "The first month is measurement, not judgement. Changing behaviour while measuring gives you a picture of a month you do not normally have.",
+      "Subscriptions and delivery apps are where the surprises usually are."
+    ],
+    "proof": "A month of complete records and at least one genuine surprise you have acted on."
+  },
+  {
+    "id": "sort-your-affairs",
+    "cat": "money",
+    "name": "Sort out a will and your paperwork",
+    "time": "A weekend, plus professional time",
+    "level": "Moderate",
+    "blurb": "An afternoon of admin that spares the people you leave behind months of difficulty at the worst time of their lives. Most adults never do it.",
+    "gear": [
+      "A list of your accounts, policies and assets",
+      "A solicitor or a regulated will service",
+      "A secure place for documents"
+    ],
+    "steps": [
+      "Make the inventory first: accounts, pensions, insurance, property, debts, subscriptions, and digital accounts.",
+      "Write a will. Rules for validity — witnesses, signatures, wording — are strict and vary by jurisdiction, and an invalid will is worse than none.",
+      "Name guardians for children if that applies to you, which is often the single most important clause.",
+      "Check the beneficiary nominations on pensions and life insurance, since these usually pass outside the will entirely.",
+      "Consider a power of attorney for the case where you are alive but unable to make decisions — often more immediately useful than a will.",
+      "Tell someone you trust where the documents are, and review after any major life change."
+    ],
+    "tips": [
+      "DIY wills fail on technicalities remarkably often. For anything beyond the simplest estate, use a professional.",
+      "This is jurisdiction-specific. Get advice for where you actually live."
+    ],
+    "proof": "A valid will, current beneficiary nominations, and one trusted person who knows where everything is."
+  },
+  {
     "id": "read-road-map",
     "cat": "navigation",
     "name": "Read a paper road map",
@@ -9808,6 +11800,31 @@ window.SKILLS = [
       "Wipers instead of indicators is universal and harmless; drifting to the wrong side after a junction is not."
     ],
     "proof": "A week of driving including cities and motorways with no wrong-side moments."
+  },
+  {
+    "id": "waymarking",
+    "cat": "navigation",
+    "name": "Read trail waymarking",
+    "time": "1–2 weeks",
+    "level": "Easy",
+    "blurb": "Every country marks its paths differently, and a route that seems unmarked is usually well marked in a system you have not learned.",
+    "gear": [
+      "A guidebook for the region",
+      "The local path authority’s waymarking key"
+    ],
+    "steps": [
+      "Learn the local system before you go: colours, shapes and what each signifies about the type or difficulty of the route.",
+      "Learn the international conventions where they exist — painted flashes, cairns, blazes — and how a turn is indicated.",
+      "Learn the wrong-way marker used locally, which is the one that saves you the most time.",
+      "Learn what a missing marker means: at a junction with no confirmation within a few minutes, go back to the last certain one.",
+      "Cross-check waymarks against a map rather than following them blindly, since markers get vandalised, overgrown or repainted.",
+      "Learn the mountain grading system for the country you are in, since the same colour means different things in different places."
+    ],
+    "tips": [
+      "Following waymarks without a map works right up until a marker is missing at the one junction that matters.",
+      "Cairns are built by walkers as often as by authorities and sometimes lead nowhere. Treat them as suggestions."
+    ],
+    "proof": "You walk an unfamiliar waymarked route in another country without a wrong turn."
   },
   {
     "id": "throw-cards",

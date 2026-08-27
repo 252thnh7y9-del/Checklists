@@ -1,0 +1,25 @@
+{
+  "id": "stir-fry",
+  "name": "Cook a proper stir-fry",
+  "time": "3–4 attempts",
+  "level": "Moderate",
+  "blurb": "Home stir-fries steam because the pan is too cool and too full. Heat, dryness and preparation are the whole difference.",
+  "gear": [
+    "A carbon steel wok or the widest heavy pan you own",
+    "A high-smoke-point oil",
+    "Everything prepped before you start"
+  ],
+  "steps": [
+    "Prepare everything first and line it up in cooking order. Once it starts there is no time to chop.",
+    "Dry the ingredients thoroughly. Wet food drops the pan temperature and steams instead of searing.",
+    "Get the pan genuinely hot — smoking — before any oil goes in, then add oil and swirl.",
+    "Cook in small batches. Overloading the pan is the single commonest cause of grey, watery stir-fry.",
+    "Cook in order of density: aromatics briefly, then protein, remove it, then vegetables hardest first, then combine.",
+    "Add the sauce at the very end, let it reduce and coat for seconds only, and serve immediately."
+  ],
+  "tips": [
+    "A domestic hob cannot match a restaurant burner. Compensate with smaller batches, not longer cooking.",
+    "Velveting the meat — a cornflour and egg-white coating — is what gives takeaway chicken its texture."
+  ],
+  "proof": "Vegetables that are crisp and glossy rather than limp, with meat that is seared rather than boiled."
+}

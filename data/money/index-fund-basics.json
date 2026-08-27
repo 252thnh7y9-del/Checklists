@@ -1,0 +1,24 @@
+{
+  "id": "index-fund-basics",
+  "name": "Learn what an index fund is",
+  "time": "3–5 hours",
+  "level": "Moderate",
+  "blurb": "Understanding diversification, fees and time horizon is financial literacy rather than stock picking. It is what lets you evaluate what you are being sold.",
+  "gear": [
+    "A reputable, non-commercial introduction to investing",
+    "A fee comparison table"
+  ],
+  "steps": [
+    "Learn what an index is, and what it means for a fund to track one rather than try to beat it.",
+    "Learn why fees matter so much over decades, and how to find the total ongoing charge of any fund.",
+    "Learn diversification: why holding the whole market behaves very differently from holding a few companies.",
+    "Learn the relationship between risk, time horizon and volatility, and what it means to be able to leave money alone for years.",
+    "Learn your own tax wrappers and allowances, which differ by country and are often the largest single lever.",
+    "Learn to recognise the warning signs of a scam: guaranteed returns, time pressure, and anything unregulated."
+  ],
+  "tips": [
+    "Nothing here is a recommendation to invest. Investments can fall, and money you may need soon does not belong in them.",
+    "If a product cannot be explained to you in plain language, that is information about the product."
+  ],
+  "proof": "You can read a fund factsheet and explain what it holds, what it charges and what risk it carries."
+}

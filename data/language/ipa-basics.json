@@ -1,0 +1,24 @@
+{
+  "id": "ipa-basics",
+  "name": "Read IPA pronunciation",
+  "time": "1–2 weeks",
+  "level": "Moderate",
+  "blurb": "The International Phonetic Alphabet is what dictionaries use to say exactly how a word sounds. Learning the subset for your language makes every dictionary entry useful.",
+  "gear": [
+    "An IPA chart with audio",
+    "A dictionary that uses IPA"
+  ],
+  "steps": [
+    "Learn the consonants for your own language first, most of which map to the letters you expect.",
+    "Learn the vowel quadrilateral and what it represents — tongue height and frontness — rather than memorising symbols blind.",
+    "Learn the symbols your language actually uses; you do not need clicks and pharyngeals to read an English dictionary.",
+    "Learn the stress mark and the length mark, which change meaning more than most learners expect.",
+    "Practise transcribing your own speech, which reveals the sounds you did not know you were making.",
+    "Use it for real: look up words you have been mispronouncing and fix them."
+  ],
+  "tips": [
+    "Dictionaries differ in which transcription scheme they use. Check the key at the front.",
+    "IPA describes sound, not spelling. Transcribing letters rather than sounds is the beginner error."
+  ],
+  "proof": "You read an unfamiliar word’s IPA entry aloud and a speaker of the language understands you."
+}
